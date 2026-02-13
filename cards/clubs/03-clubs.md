@@ -1,0 +1,62 @@
+# 3 of Clubs - Pragmatic Programmer
+
+## Card Details
+
+- **Card**: 3 of Clubs
+- **Suit**: Clubs
+- **Domain**: Applied Practice & Programming
+- **Color Tier**: 🟢 Green
+- **Difficulty**: Foundational
+
+---
+
+## Status
+
+- **Current Status**: Not Started
+- **Start Date**:
+- **Target Completion**:
+- **Completion Date**:
+- **Time Invested**:
+
+---
+
+## Goal Description
+
+Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational book on software development philosophy, professional practices, and career mindset. Informs all subsequent development work across the deck - best read early so its principles can be applied throughout the learning journey.
+
+---
+
+## Resources
+
+- The Pragmatic Programmer by David Thomas & Andrew Hunt (book)
+
+---
+
+## Prerequisites
+
+- None
+
+---
+
+## Subtasks
+
+- [ ] Chapter 1-2: A Pragmatic Philosophy
+- [ ] Chapter 3-4: A Pragmatic Approach / The Basic Tools
+- [ ] Chapter 5-6: Pragmatic Paranoia / Bend or Break
+- [ ] Chapter 7-8: While You Are Coding / Before the Project
+- [ ] Chapter 9: Pragmatic Projects
+- [ ] Note and apply key concepts
+
+---
+
+## Progress Notes
+
+---
+
+## Completion Notes
+
+---
+
+## Unlocks
+
+- Informs all development work across Clubs suit
