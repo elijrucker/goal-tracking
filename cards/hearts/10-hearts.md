@@ -55,9 +55,10 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - Expected completion within ~1 year
 
 - [ ] sp26wk4
-  - [ ] C4D
+  - [x] C4D
   - [ ] Agile
   - [ ] DBprog
+  - [x] UIUX
 - [ ] sp26wk5
   - [ ] C4D
   - [ ] Agile
