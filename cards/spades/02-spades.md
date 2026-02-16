@@ -13,7 +13,7 @@
 ## Status
 
 - **Current Status**: In Progress
-- **Start Date**:
+- **Start Date**: 
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:

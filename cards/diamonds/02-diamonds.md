@@ -12,11 +12,11 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
-- **Target Completion**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-02-16
+- **Target Completion**: 2026-02-23
 - **Completion Date**:
-- **Time Invested**:
+- **Time Invested**: 1.5hrs
 
 ---
 
@@ -30,6 +30,7 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 
 - [Markdown Guide](https://www.markdownguide.org) - Comprehensive markdown reference
 - [VS Code Markdown Support](https://code.visualstudio.com/docs/languages/markdown) - VS Code markdown documentation
+- [Microsoft Learn GitHub Foundations](https://learn.microsoft.com/en-us/training/paths/github-foundations/) - GitHub flavored MD course
 
 ---
 
@@ -41,17 +42,22 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 
 ## Subtasks
 
-- [ ] Review basic syntax (headers, lists, bold, italic)
-- [ ] Learn tables
-- [ ] Learn checkboxes and task lists
-- [ ] Learn code blocks and inline code
-- [ ] Learn links and images
-- [ ] Review advanced features (footnotes, HTML in markdown, etc.)
-- [ ] Apply knowledge to card template and repo documentation
+- [x] Review basic syntax (headers, lists, bold, italic)
+- [x] Learn tables
+- [x] Learn checkboxes and task lists
+- [x] Learn code blocks and inline code
+- [x] Learn links and images
+- [x] Review advanced features (footnotes, HTML in markdown, etc.)
+- [x] Apply knowledge to card template and repo documentation
+- [ ] Microsoft Learn GitHub Foundations 1 of 2
+- [ ] Microsoft Learn GitHub Foundations 2 of 2
 
 ---
 
 ## Progress Notes
+
+- Completed: LinkedIn Learning course 'Learning Markdown: Formatting Text without the Complexity'
+- PENDING: Microsoft Learn GitHub Foundations
 
 ---
 
