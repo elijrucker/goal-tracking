@@ -7,7 +7,7 @@ Format: [YYYY-MM-DD] - Description of change
 
 ### [2026-02-13] - Initial Release
 
-### Added
+#### Added
 
 - Complete 52-card deck structure defined
 - Four suits established (Diamonds, Clubs, Spades, Hearts)
@@ -17,7 +17,7 @@ Format: [YYYY-MM-DD] - Description of change
 - README, DECK_OVERVIEW, GOALS_TLDR documentation created
 - Repo structure initialized
 
-### Suits at Launch
+#### Suits at Launch
 
 - Diamonds (13/13): Tools, Platforms & Certifications
 - Clubs (13/13): Applied Practice & Programming
@@ -56,6 +56,7 @@ Format: [YYYY-MM-DD] - Description of change
 #### Changed
 
 - Updated [02-diamonds]: 1/2 courses completed, added metadata
+- Updated [10-hearts]: Added Progress Notes, and Time Invested estimate
 
 ---
 

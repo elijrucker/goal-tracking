@@ -16,7 +16,7 @@
 - **Start Date**: 2023-09-01
 - **Target Completion**: End of 2026
 - **Completion Date**:
-- **Time Invested**:
+- **Time Invested**: ~1225 hrs
 
 ---
 
@@ -53,6 +53,16 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year
+
+- [ ] sp26wk4
+  - [ ] C4D
+  - [ ] Agile
+  - [ ] DBprog
+- [ ] sp26wk5
+  - [ ] C4D
+  - [ ] Agile
+  - [ ] DBprog
+  - [ ] UIUX
 
 ---
 
