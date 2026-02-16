@@ -12,9 +12,9 @@
 
 ## Status
 
-- **Current Status**: In Progress
-- **Start Date**:
-- **Target Completion**: ~2027
+- **Current Status**: In Progress (Units Completed 35/63)
+- **Start Date**: 2023-09-01
+- **Target Completion**: End of 2026
 - **Completion Date**:
 - **Time Invested**:
 
@@ -29,6 +29,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Resources
 
 - Current institution - track via academic portal
+- [MATC-myMadisonCollege] https://cs.madisoncollege.edu/psc/CSPRD92/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL
 
 ---
 

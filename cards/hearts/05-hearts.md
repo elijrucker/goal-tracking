@@ -12,9 +12,9 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
-- **Target Completion**:
+- **Current Status**: In Progress
+- **Start Date**: 2025-12-21
+- **Target Completion**: -
 - **Completion Date**:
 - **Time Invested**:
 
@@ -28,8 +28,9 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 
 ## Resources
 
+- Withings scale / app
+- Omega Journals (black and green)
 - TBD - Track via preferred health app or journal
-- Options: MyFitnessPal, Cronometer, or manual tracking
 
 ---
 
@@ -41,8 +42,8 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 
 ## Subtasks
 
-- [ ] Establish baseline weight (starting point)
-- [ ] Define dietary approach
+- [x] Establish baseline weight (starting point: 300lbs)
+- [ ] Define dietary approach (Limit meat consumption?)
 - [ ] Set up tracking system
 - [ ] Reach -10 lbs milestone
 - [ ] Reach -20 lbs milestone
@@ -52,6 +53,10 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 ---
 
 ## Progress Notes
+
+- TO-DO - Define dietary approach: commit to dietary changes
+- TO-DO - Resume fitness tracking, once back in the gym
+- TO-DO - Begin diet tracking, via green journal
 
 ---
 

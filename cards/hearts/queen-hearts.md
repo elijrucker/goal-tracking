@@ -12,9 +12,9 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
-- **Target Completion**:
+- **Current Status**: In Progress (Duolingo Score: 13)
+- **Start Date**: 2025-12-21
+- **Target Completion**: -
 - **Completion Date**:
 - **Time Invested**:
 
@@ -28,6 +28,8 @@ Achieve Polish C1 (Advanced/Proficient) certification on the CEFR scale. C1 repr
 
 ## Resources
 
+- [Duolingo](https://www.duolingo.com/learn) - Precursory study
+- [Krok po kroku](https://www.amazon.pl/Polski-Krok-Kroku-polonais-Level/dp/8393073103) - Primary learning resource
 - [FSI Polish Fast](https://fsi-languages.yojik.eu/languages/Polish.html) - Primary learning resource
 - [State Certificate in Polish as a Foreign Language](https://certyfikatpolski.pl/en/) - Official C1 certification body
 - Supplementary: Anki Polish vocabulary deck, Polish media consumption, language exchange partners
