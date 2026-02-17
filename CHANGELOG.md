@@ -61,6 +61,7 @@ Format: [YYYY-MM-DD] - Description of change
 - Updated [02-spades]: Added Status data, updated Subtasks data
 - Updated [02-hearts]: Added Schwab educational content
 - Updated [09-hearts]: Added Status and Progress Note data
+- Updated [king-hearts]: [Not Started] to [Preparing]; added Progress Notes
 
 ---
 
