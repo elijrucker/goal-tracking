@@ -12,9 +12,9 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
-- **Target Completion**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-02-15
+- **Target Completion**: 2026-03-01
 - **Completion Date**:
 - **Time Invested**:
 
@@ -40,8 +40,8 @@ Read Computer Science Distilled by Wladston Ferreira Filho. An accessible, conci
 
 ## Subtasks
 
-- [ ] Chapter 1: Basics
-- [ ] Chapter 2: Complexity
+- [x] Chapter 1: Basics
+- [ ] Chapter 2: Complexity (First read-through completed)
 - [ ] Chapter 3: Strategy
 - [ ] Chapter 4: Data
 - [ ] Chapter 5: Algorithms
@@ -52,6 +52,11 @@ Read Computer Science Distilled by Wladston Ferreira Filho. An accessible, conci
 ---
 
 ## Progress Notes
+
+- Chapter 1 had been read several times prior to tracking system implementation, considering subtask completed
+- Will proceed through remaining chapters with two read-throughs:
+  - First read-through for basic understanding
+  - Second read-through with note-taking/highlighting
 
 ---
 
