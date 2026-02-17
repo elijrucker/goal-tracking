@@ -61,8 +61,33 @@ Format: [YYYY-MM-DD] - Description of change
 - Updated [02-spades]: Added Status data, updated Subtasks data
 - Updated [02-hearts]: Added Schwab educational content
 - Updated [09-hearts]: Added Status and Progress Note data
-- Updated [king-hearts]: [Not Started] to [Preparing]; added Progress Notes
-- Updated [03-spades]: [Not Started] to [In Progress]; Chapter 1 read prior to tracking system, Chapter 2 (read 1) completed 2026-02-15
+- Reassigned [king-hearts]: [Not Started] to [Preparing]; added Progress Notes
+- Reassigned [03-spades]: [Not Started] to [In Progress]; Chapter 1 read prior to tracking system, Chapter 2 (read 1) completed 2026-02-15
+
+---
+
+---
+
+### [2026-02-17] - General Status Updates
+
+#### Changed
+
+- Reassigned [03-clubs]: [Not Started] to [In Progress]; adding Lean Six Sigma White Belt course to goal
+- Reassigned [06-hearts]: [Not Started] to [Preparing]; Duolingo Spanish course will support goal
+- Updated [03-spades]: Chapter 2 completed
+- Reassigned [joker-1]: [Not Started] to [Preparing]; Duolingo German course providing language maintenance / improvement, updated subtasks
+
+#### Completed
+
+- [Card] - [Goal] completed on [Date]
+
+#### Removed
+
+- Dropped [Card] - [Goal] (reason: [why])
+
+#### Notes
+
+- Any other relevant observations or reflections
 
 ---
 
