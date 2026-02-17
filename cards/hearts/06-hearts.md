@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Not Started
+- **Current Status**: Preparing (Duolingo Spanish course)
 - **Start Date**:
 - **Target Completion**:
 - **Completion Date**:

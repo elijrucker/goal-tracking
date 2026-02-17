@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Not Started
+- **Current Status**: In Progress (add Lean Six Sigma White Belt Course to card)
 - **Start Date**:
 - **Target Completion**:
 - **Completion Date**:
