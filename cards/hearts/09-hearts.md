@@ -13,8 +13,8 @@
 ## Status
 
 - **Current Status**: Not Started
-- **Start Date**:
-- **Target Completion**:
+- **Start Date**: 2026-03-01 (?)
+- **Target Completion**: 2026-10-01
 - **Completion Date**:
 - **Time Invested**:
 
@@ -51,6 +51,8 @@ Achieve the intermediate fitness standards defined in Mark de Lisle's Navy SEAL 
 ---
 
 ## Progress Notes
+
+- Baseline fitness levels will be established within first weeks of 2026-03-XX
 
 ---
 
