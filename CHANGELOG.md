@@ -59,6 +59,7 @@ Format: [YYYY-MM-DD] - Description of change
 - Updated [10-hearts]: Added Progress Notes, and Time Invested estimate
 - Updated [05-hearts]: Further refined Dietary Approach, Subtasks, and Progress Notes, created recipe matrix
 - Updated [02-spades]: Added Status data, updated Subtasks data
+- Updated [02-hearts]: Added Schwab educational content
 
 ---
 
