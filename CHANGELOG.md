@@ -76,14 +76,7 @@ Format: [YYYY-MM-DD] - Description of change
 - Reassigned [06-hearts]: [Not Started] to [Preparing]; Duolingo Spanish course will support goal
 - Updated [03-spades]: Chapter 2 completed
 - Reassigned [joker-1]: [Not Started] to [Preparing]; Duolingo German course providing language maintenance / improvement, updated subtasks
-
-#### Completed
-
-- [Card] - [Goal] completed on [Date]
-
-#### Removed
-
-- Dropped [Card] - [Goal] (reason: [why])
+- Updated [03-clubs]: Lean Six Sigma White Belt subtask 1 complete
 
 #### Notes
 

@@ -42,8 +42,8 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 ## Subtasks
 
 - Six Sigma Society - White Belt Course / Cert
-  - [ ] Introduction (_Currently in progress_)
-  - [ ] Define
+  - [x] Introduction
+  - [ ] Define (_Currently in progress_)
   - [ ] Measure
   - [ ] Analyze
   - [ ] Improve
