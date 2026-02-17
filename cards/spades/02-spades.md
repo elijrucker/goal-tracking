@@ -13,8 +13,8 @@
 ## Status
 
 - **Current Status**: In Progress
-- **Start Date**: 
-- **Target Completion**:
+- **Start Date**: 2025-12-21
+- **Target Completion**: 2026-06-30
 - **Completion Date**:
 - **Time Invested**:
 
@@ -40,8 +40,8 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 
 ## Subtasks
 
-- [ ] Week 0: Scratch
-- [ ] Week 1: C
+- [x] Week 0: Scratch
+- [ ] Week 1: C (Assignments 'Mario', and 'Credit' outstanding)
 - [ ] Week 2: Arrays
 - [ ] Week 3: Algorithms
 - [ ] Week 4: Memory
