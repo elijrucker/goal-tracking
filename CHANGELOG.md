@@ -77,6 +77,7 @@ Format: [YYYY-MM-DD] - Description of change
 - Updated [03-spades]: Chapter 2 completed
 - Reassigned [joker-1]: [Not Started] to [Preparing]; Duolingo German course providing language maintenance / improvement, updated subtasks
 - Updated [03-clubs]: Lean Six Sigma White Belt subtask 1 complete
+- Updated [10-hearts]: sp26wk5 UIUX started
 
 #### Notes
 

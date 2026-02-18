@@ -63,7 +63,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] C4D
   - [ ] Agile
   - [ ] DBprog
-  - [ ] UIUX
+  - [ ] UIUX(_started_)(_Figjam assignment outstanding_)
 
 ---
 
