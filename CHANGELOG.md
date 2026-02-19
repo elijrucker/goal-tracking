@@ -79,9 +79,12 @@ Format: [YYYY-MM-DD] - Description of change
 - Updated [03-clubs]: Lean Six Sigma White Belt subtask 1 complete
 - Updated [10-hearts]: sp26wk5 UIUX started
 
-#### Notes
+### [2026-02-18] - General Status Updates
 
-- Any other relevant observations or reflections
+#### Changed
+
+- Updated [10-hearts]: sp26wk4 Agile completed
+- Updated [02-diamdonds]: Subtasks updated, GitHub Foundations 3/8 completed
 
 ---
 
