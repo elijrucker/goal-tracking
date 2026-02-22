@@ -63,15 +63,23 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] DBprog
     - [x] Data Ethics
     - [ ] Project 1
-  - [ ] UIUX
+  - [x] UIUX
     - [x] Group Assignment
-    - [ ] Personal FigJam
+    - [x] Personal FigJam
 
 - [ ] sp26wk6
   - [ ] C4D
     - [ ] Week 6 Read / Watch
     - [ ] Week 6 Lab
     - [ ] Week 6 Quiz (DynamoDB)
+    - [ ] C4D Project 1
+  - [ ] Agile
+  - [ ] DBprog
+  - [ ] UIUX
+    - [ ] Project 1 - Contextual Inquiry (personal)
+    - [ ] UX Quiz (personal)
+    - [ ] Peer Assessment
+    - [ ] Card Sort Results / Site Map (group)
 
 ---
 
