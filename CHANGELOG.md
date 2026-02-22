@@ -84,7 +84,14 @@ Format: [YYYY-MM-DD] - Description of change
 #### Changed
 
 - Updated [10-hearts]: sp26wk4 Agile completed
-- Updated [02-diamdonds]: Subtasks updated, GitHub Foundations 3/8 completed
+- Updated [02-diamonds]: Subtasks updated, GitHub Foundations 3/8 completed
+
+### [2026-02-21] - General Status Updates
+
+#### Changed
+
+- Updated [10-hearts]: sp26wk4 DBProg completed, sp26wk4 completed, updated subtasks for sp26wk5
+- Updated [02-diamonds]: Subtasks updated, GitHub Foundations 4/8 completed, 5/8 started
 
 ---
 

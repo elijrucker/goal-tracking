@@ -54,16 +54,19 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year
 
-- [ ] sp26wk4
-  - [x] C4D
-  - [x] Agile
-  - [ ] DBprog
-  - [x] UIUX
 - [ ] sp26wk5
   - [ ] C4D
+    - [ ] Lab 5 AWS IAM Policies
+    - [ ] Quiz 5 DynamoDB
   - [ ] Agile
+    - [ ] Week 5 Chapter One Work Breakdown Structure
+    - [ ] Week 5 Discussion Board
   - [ ] DBprog
-  - [ ] UIUX(_started_)(_Figjam assignment outstanding_)
+    - [ ] Data Ethics
+    - [ ] Project 1
+  - [ ] UIUX
+    - [x] Group Assignment
+    - [ ] Personal FigJam
 
 ---
 
