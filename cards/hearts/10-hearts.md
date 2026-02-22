@@ -55,27 +55,27 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - Expected completion within ~1 year
 
 - [ ] sp26wk5
-  - [x] C4D
+  - [x] c4d
     - [x] Lab 5 AWS IAM Policies
-  - [ ] Agile
+  - [ ] agilePractices
     - [ ] Week 5 Chapter One Work Breakdown Structure
     - [ ] Week 5 Discussion Board
-  - [ ] DBprog
+  - [ ] dbProg
     - [x] Data Ethics
     - [ ] Project 1
-  - [x] UIUX
+  - [x] uiUx
     - [x] Group Assignment
     - [x] Personal FigJam
 
 - [ ] sp26wk6
-  - [ ] C4D
+  - [ ] c4d
     - [ ] Week 6 Read / Watch
     - [ ] Week 6 Lab
     - [ ] Week 6 Quiz (DynamoDB)
     - [ ] C4D Project 1
-  - [ ] Agile
-  - [ ] DBprog
-  - [ ] UIUX
+  - [ ] agilePractices
+  - [ ] dbProg
+  - [ ] uiUx
     - [ ] Project 1 - Contextual Inquiry (personal)
     - [ ] UX Quiz (personal)
     - [ ] Peer Assessment
