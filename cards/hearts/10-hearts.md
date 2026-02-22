@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 5 Chapter One Work Breakdown Structure
     - [ ] Week 5 Discussion Board
   - [ ] DBprog
-    - [ ] Data Ethics
+    - [x] Data Ethics
     - [ ] Project 1
   - [ ] UIUX
     - [x] Group Assignment
