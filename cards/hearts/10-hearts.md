@@ -55,9 +55,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - Expected completion within ~1 year
 
 - [ ] sp26wk5
-  - [ ] C4D
-    - [ ] Lab 5 AWS IAM Policies
-    - [ ] Quiz 5 DynamoDB
+  - [x] C4D
+    - [x] Lab 5 AWS IAM Policies
   - [ ] Agile
     - [ ] Week 5 Chapter One Work Breakdown Structure
     - [ ] Week 5 Discussion Board
@@ -67,6 +66,12 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] UIUX
     - [x] Group Assignment
     - [ ] Personal FigJam
+
+- [ ] sp26wk6
+  - [ ] C4D
+    - [ ] Week 6 Read / Watch
+    - [ ] Week 6 Lab
+    - [ ] Week 6 Quiz (DynamoDB)
 
 ---
 

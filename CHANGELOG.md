@@ -97,7 +97,7 @@ Format: [YYYY-MM-DD] - Description of change
 
 #### Changed
 
-- Updated [10-hearts]: sp26wk5 DBprog Data Ethics subtask completed
+- Updated [10-hearts]: sp26wk5 DBprog Data Ethics subtask completed, sp26wk5 C4D completed
 
 ---
 
