@@ -111,6 +111,8 @@ Format: [YYYY-MM-DD] - Description of change
   - sp26wk6 uiUx Project 1 completed
 - Updated [03-clubs]:
   - Started audiobook over the weekend, Ch. 1 - 2 complete
+- Updated [02-diamonds]:
+  - 'Microsoft Learn GitHub Foundations 1 of 2' completed
 
 ---
 

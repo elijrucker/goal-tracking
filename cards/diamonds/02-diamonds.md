@@ -49,15 +49,7 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 - [x] Learn links and images
 - [x] Review advanced features (footnotes, HTML in markdown, etc.)
 - [x] Apply knowledge to card template and repo documentation
-- [ ] Microsoft Learn GitHub Foundations 1 of 2
-  - [x] Unit 1
-  - [x] Unit 2
-  - [x] Unit 3
-  - [x] Unit 4
-  - [ ] Unit 5 (_started_)
-  - [ ] Unit 6
-  - [ ] Unit 7
-  - [ ] Unit 8
+- [x] Microsoft Learn GitHub Foundations 1 of 2
 - [ ] Microsoft Learn GitHub Foundations 2 of 2
 
 ---
