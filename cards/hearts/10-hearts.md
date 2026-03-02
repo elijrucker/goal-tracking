@@ -60,9 +60,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] agilePractices
     - [ ] Week 5 Chapter One Work Breakdown Structure
     - [ ] Week 5 Discussion Board
-  - [ ] dbProg
+  - [x] dbProg
     - [x] Data Ethics
-    - [ ] Project 1
+    - [x] Project 1
   - [x] uiUx
     - [x] Group Assignment
     - [x] Personal FigJam
@@ -75,11 +75,11 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] C4D Project 1
   - [ ] agilePractices
   - [ ] dbProg
-  - [ ] uiUx
-    - [ ] Project 1 - Contextual Inquiry (personal)
-    - [ ] UX Quiz (personal)
-    - [ ] Peer Assessment
-    - [ ] Card Sort Results / Site Map (group)
+  - [x] uiUx
+    - [x] Project 1 - Contextual Inquiry (personal)
+    - [x] UX Quiz (personal)
+    - [x] Peer Assessment
+    - [x] Card Sort Results / Site Map (group)
 
 ---
 

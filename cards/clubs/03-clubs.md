@@ -43,7 +43,7 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 - Six Sigma Society - White Belt Course / Cert
   - [x] Introduction
-  - [ ] Define (_Currently in progress_)
+  - [ ] Define
   - [ ] Measure
   - [ ] Analyze
   - [ ] Improve
@@ -52,7 +52,7 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [ ] Career Guide
 
 - The Pragmatic Programmer
-  - [ ] Chapter 1-2: A Pragmatic Philosophy
+  - [x] Chapter 1-2: A Pragmatic Philosophy
   - [ ] Chapter 3-4: A Pragmatic Approach / The Basic Tools
   - [ ] Chapter 5-6: Pragmatic Paranoia / Bend or Break
   - [ ] Chapter 7-8: While You Are Coding / Before the Project
