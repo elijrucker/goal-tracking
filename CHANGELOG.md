@@ -114,6 +114,20 @@ Format: [YYYY-MM-DD] - Description of change
 - Updated [02-diamonds]:
   - 'Microsoft Learn GitHub Foundations 1 of 2' completed
 
+### [2026-03-04] - First Card Completion
+
+#### Changed
+
+- Updated [02-diamonds]: Time Invested estimated retroactively (~7 hours across LinkedIn Learning, MS Learn GitHub Foundations Pt 1, and reference docs)
+
+#### Completed
+
+- [02-diamonds] - [Markdown Proficiency] completed on 2026-03-04
+
+#### Notes
+
+- First card completed. Time invested estimated retroactively — ~7 hours across LinkedIn Learning and MS Learn GitHub Foundations Pt 1.
+
 ---
 
 ---

@@ -12,11 +12,11 @@
 
 ## Status
 
-- **Current Status**: In Progress
+- **Current Status**: Completed
 - **Start Date**: 2026-02-16
 - **Target Completion**: 2026-02-23
-- **Completion Date**:
-- **Time Invested**: 1.5hrs
+- **Completion Date**: 2026-03-04
+- **Time Invested**: ~7 hours (est. — 1h LinkedIn Learning, 5.5h MS Learn GitHub Foundations Pt 1, 0.5h reference docs)
 
 ---
 
@@ -50,18 +50,19 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 - [x] Review advanced features (footnotes, HTML in markdown, etc.)
 - [x] Apply knowledge to card template and repo documentation
 - [x] Microsoft Learn GitHub Foundations 1 of 2
-- [ ] Microsoft Learn GitHub Foundations 2 of 2
 
 ---
 
 ## Progress Notes
 
 - Completed: LinkedIn Learning course 'Learning Markdown: Formatting Text without the Complexity'
-- PENDING: Microsoft Learn GitHub Foundations
+- Completed: Microsoft Learn GitHub Foundations
 
 ---
 
 ## Completion Notes
+
+- Determined that 'Microsoft Learn GitHub Foundations 2 of 2 was unrelated to goal, removed subtask
 
 ---
 
