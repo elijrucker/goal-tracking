@@ -54,19 +54,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year
 
-- [ ] sp26wk5
-  - [x] c4d
-    - [x] Lab 5 AWS IAM Policies
-  - [ ] agilePractices
-    - [ ] Week 5 Chapter One Work Breakdown Structure
-    - [ ] Week 5 Discussion Board
-  - [x] dbProg
-    - [x] Data Ethics
-    - [x] Project 1
-  - [x] uiUx
-    - [x] Group Assignment
-    - [x] Personal FigJam
-
 - [ ] sp26wk6
   - [ ] c4d
     - [ ] Week 6 Read / Watch
@@ -76,10 +63,12 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] agilePractices
   - [ ] dbProg
   - [x] uiUx
-    - [x] Project 1 - Contextual Inquiry (personal)
-    - [x] UX Quiz (personal)
-    - [x] Peer Assessment
-    - [x] Card Sort Results / Site Map (group)
+
+- [ ] sp26wk7
+  - [ ] c4d
+  - [ ] agilePractices
+  - [ ] dbProg
+  - [ ] uiUx
 
 ---
 
