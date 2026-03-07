@@ -1,21 +1,21 @@
 # Changelog
 
 All notable changes to the 52-card goal tracking system will be documented here.
-Format: [YYYY-MM-DD] - Description of change
+Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-02-13] - Initial Release
+### [2026-02-13] — Initial Release
 
 #### Added
 
-- Complete 52-card deck structure defined
-- Four suits established (Diamonds, Clubs, Spades, Hearts)
-- All 52 card values assigned across four suits
-- Two jokers designated (Berlin job offer, TBD)
-- Color-coding system established (5 tiers: Green, Blue, Yellow, Orange, Red)
-- README, DECK_OVERVIEW, GOALS_TLDR documentation created
-- Repo structure initialized
+- Defined complete 52-card deck structure
+- Established four suits (Diamonds, Clubs, Spades, Hearts)
+- Assigned all 52 card values across four suits
+- Designated two jokers (Berlin job offer; TBD)
+- Established five-tier color-coding system (Green, Blue, Yellow, Orange, Red)
+- Created README, DECK_OVERVIEW, and GOALS_TLDR documentation
+- Initialized repo structure
 
 #### Suits at Launch
 
@@ -26,149 +26,161 @@ Format: [YYYY-MM-DD] - Description of change
 
 ---
 
----
-
-### [2026-02-15] - Progress Detail Updates
+### [2026-02-15] — Initial Card Activations
 
 #### Changed
 
-- Updated [10-hearts]: added progress details (credits completed)
-- Updated [queen-hearts]: updated from [Not Started] to [In Progress],
-  added progress and resource details
-- Updated [05-hearts]: updated from [Not Started] to [In Progress],
-  added progress, resource, subtask details
-  added calendar reminder for ADDITIONAL DATA REQUIRED
-- Updated [04-diamonds]: updated from [Not Started] to [In Progress],
-  added progress and resource details
-  added calendar reminder
+- [10-hearts] — Logged progress details (credits completed)
+- [queen-hearts] — Transitioned: Not Started → In Progress; added progress and resource details
+- [05-hearts] — Transitioned: Not Started → In Progress; added progress, resource, and subtask details; flagged for additional data
+- [04-diamonds] — Transitioned: Not Started → In Progress; added progress and resource details; flagged for follow-up
 
 #### Notes
 
-- Eight various card updates still outstanding, will update cards in batches
-  over the next week.
+- Eight cards pending initial status updates; to be addressed in batches over the next week
 
 ---
 
----
-
-### [2026-02-16] - MD Progress Update
+### [2026-02-16] — Card Metadata & Status Updates
 
 #### Changed
 
-- Updated [02-diamonds]: 1/2 courses completed, added metadata
-- Updated [10-hearts]: Added Progress Notes, and Time Invested estimate
-- Updated [05-hearts]: Further refined Dietary Approach, Subtasks, and Progress Notes, created recipe matrix
-- Updated [02-spades]: Added Status data, updated Subtasks data
-- Updated [02-hearts]: Added Schwab educational content
-- Updated [09-hearts]: Added Status and Progress Note data
-- Reassigned [king-hearts]: [Not Started] to [Preparing]; added Progress Notes
-- Reassigned [03-spades]: [Not Started] to [In Progress]; Chapter 1 read prior to tracking system, Chapter 2 (read 1) completed 2026-02-15
-
----
+- [02-diamonds] — Logged 1 of 2 courses completed; added metadata
+- [10-hearts] — Added Progress Notes and Time Invested estimate
+- [05-hearts] — Refined Dietary Approach, subtasks, and Progress Notes; created recipe matrix
+- [02-spades] — Added status and subtask data
+- [02-hearts] — Added Schwab educational content
+- [09-hearts] — Added status and Progress Note data
+- [king-hearts] — Transitioned: Not Started → Preparing; added Progress Notes
+- [03-spades] — Transitioned: Not Started → In Progress; Ch. 1 completed prior to tracking; Ch. 2 (read 1) resolved 2026-02-15
 
 ---
 
-### [2026-02-17] - General Status Updates
+### [2026-02-17] — Status Transitions & Sprint Activations
 
 #### Changed
 
-- Reassigned [03-clubs]: [Not Started] to [In Progress]; adding Lean Six Sigma White Belt course to goal
-- Reassigned [06-hearts]: [Not Started] to [Preparing]; Duolingo Spanish course will support goal
-- Updated [03-spades]: Chapter 2 completed
-- Reassigned [joker-1]: [Not Started] to [Preparing]; Duolingo German course providing language maintenance / improvement, updated subtasks
-- Updated [03-clubs]: Lean Six Sigma White Belt subtask 1 complete
-- Updated [10-hearts]: sp26wk5 UIUX started
+- [03-clubs] — Transitioned: Not Started → In Progress; added Lean Six Sigma White Belt to goal scope
+- [06-hearts] — Transitioned: Not Started → Preparing; Duolingo Spanish activated in support of goal
+- [joker-1] — Transitioned: Not Started → Preparing; Duolingo German activated for language maintenance; subtasks updated
+- [03-spades] — Resolved Ch. 2
+- [03-clubs] — Resolved Lean Six Sigma White Belt subtask 1
+- [10-hearts] — Activated sp26wk5 UIUX
 
-### [2026-02-18] - General Status Updates
+---
 
-#### Changed
-
-- Updated [10-hearts]: sp26wk4 Agile completed
-- Updated [02-diamonds]: Subtasks updated, GitHub Foundations 3/8 completed
-
-### [2026-02-21] - General Status Updates
-
-#### Changed
-
-- Updated [10-hearts]: sp26wk4 DBProg completed, sp26wk4 completed, updated subtasks for sp26wk5
-- Updated [02-diamonds]: Subtasks updated, GitHub Foundations 4/8 completed, 5/8 started
-
-### [2026-02-22] - General Status Updates
-
-#### Changed
-
-- Updated [10-hearts]:
-  - sp26wk5 dbProg Data Ethics subtask completed
-  - sp26wk5 c4d completed
-  - sp26wk5 uiUx completed
-
-### [2026-03-02] - dbProg and uiUx Projects Completed
-
-#### Changed
-
-- Updated [10-hearts]:
-  - sp26wk5 dbProg Project 1 completed
-  - sp26wk6 uiUx Project 1 completed
-- Updated [03-clubs]:
-  - Started audiobook over the weekend, Ch. 1 - 2 complete
-- Updated [02-diamonds]:
-  - 'Microsoft Learn GitHub Foundations 1 of 2' completed
-
-### [2026-03-04] - First Card Completion
-
-#### Changed
-
-- Updated [02-diamonds]: Time Invested estimated retroactively (~7 hours across LinkedIn Learning, MS Learn GitHub Foundations Pt 1, and reference docs)
+### [2026-02-18] — Sprint 26 Week 4 Progress
 
 #### Completed
 
-- [02-diamonds] - [Markdown Proficiency] completed on 2026-03-04
-
-#### Notes
-
-- First card completed. Time invested estimated retroactively — ~7 hours across LinkedIn Learning and MS Learn GitHub Foundations Pt 1.
-
----
-
----
-
-### [2026-03-06] - 10-hearts sp26wk5 Completion
+- [10-hearts] — Closed sp26wk4 Agile
 
 #### Changed
 
-- Updated [10-hearts]
-  - sp26wk5 Agile Practices completed
-  - sp26wk5 completed
-  - sp26wk7 checklist added
-- Updated [03-spades]
-  - Simplified subtasks
+- [02-diamonds] — Updated subtasks; resolved GitHub Foundations 3 of 8
+
+---
+
+### [2026-02-21] — Sprint 26 Week 4 Closure
+
+#### Completed
+
+- [10-hearts] — Closed sp26wk4 DBProg
+- [10-hearts] — Closed sp26wk4
+
+#### Changed
+
+- [10-hearts] — Added sp26wk5 subtask checklist
+- [02-diamonds] — Updated subtasks; resolved GitHub Foundations 4 of 8; activated 5 of 8
+
+---
+
+### [2026-02-22] — Sprint 26 Week 5 Mid-Week Progress
+
+#### Completed
+
+- [10-hearts] — Resolved sp26wk5 dbProg Data Ethics
+- [10-hearts] — Resolved sp26wk5 c4d
+- [10-hearts] — Resolved sp26wk5 uiUx
+
+---
+
+### [2026-03-02] — Project Completions: dbProg & uiUx
+
+#### Completed
+
+- [10-hearts] — Resolved sp26wk5 dbProg Project 1
+- [10-hearts] — Resolved sp26wk6 uiUx Project 1
+- [02-diamonds] — Resolved Microsoft Learn GitHub Foundations Pt. 1 of 2
+- [03-clubs] — Resolved audiobook Ch. 1–2
+
+---
+
+### [2026-03-04] — First Card Completion
+
+#### Completed
+
+- [02-diamonds] — Markdown Proficiency closed 2026-03-04
+
+#### Changed
+
+- [02-diamonds] — Logged Time Invested retroactively (~7 hours across LinkedIn Learning, MS Learn GitHub Foundations Pt. 1, and reference docs)
 
 #### Notes
 
-- Progressing further with [03-clubs] and knowledge gained from [02-diamonds] has influenced my approach to git commit message drafting.
-  - Messages should be written in the imperative mood, answering the question 'this commit will _blank_'
+- First card completed. Time invested estimated retroactively — ~7 hours across LinkedIn Learning and MS Learn GitHub Foundations Pt. 1.
+
+---
+
+### [2026-03-06] — Multi-Card Progress — sp26wk5 Closure
+
+#### Completed
+
+- [10-hearts] — Resolved sp26wk5 Agile Practices
+- [10-hearts] — Closed sp26wk5
+- [03-clubs] — Resolved Lean Six Sigma White Belt > Define
+- [03-clubs] — Resolved The Pragmatic Programmer > Ch. 3–4
+
+#### Changed
+
+- [10-hearts] — Added sp26wk7 checklist to worklog
+- [03-clubs] — Promoted Microsoft Learn GitHub Foundations Pt. 2 of 2 from [02-diamonds] backlog to active worklog
+- [03-spades] — Refactored subtask structure; activated Chapter 3: Strategy; flagged for second read-through
+
+#### Process
+
+- Git commit messages: imperative mood, answering "this commit will ___"
+- Progress Notes scoping syntax:
+  - `[Parent]` — note applies to a subtask group
+  - `[Parent > Child > Detail]` — note scoped to a specific subtask or concept
+
+---
 
 ## Template for Future Entries
 
-### [YYYY-MM-DD] - Version or Update Title
+### [YYYY-MM-DD] — Update Title
 
 #### Added
 
-- New card added: [Card] - [Goal]
+- [Card] — Added [description]
 
 #### Changed
 
-- Updated [Card] from [Old Goal] to [New Goal]
-- Reassigned [Card] from [Old Value] to [New Value]
+- [Card] — Transitioned: [Old Status] → [New Status]
+- [Card] — [Description of structural or content change]
 
 #### Completed
 
-- [Card] - [Goal] completed on [Date]
+- [Card] — [Subtask or goal] closed [Date]
 
 #### Removed
 
-- Dropped [Card] - [Goal] (reason: [why])
+- [Card] — Removed [description] (reason: [why])
+
+#### Process
+
+- [Convention, workflow decision, or tooling change established this session]
 
 #### Notes
 
-- Any other relevant observations or reflections
+- [Observations, reflections, or flags relevant to the project]

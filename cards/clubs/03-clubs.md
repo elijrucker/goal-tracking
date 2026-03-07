@@ -41,9 +41,9 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 ## Subtasks
 
-- Six Sigma Society - White Belt Course / Cert
+- Lean Six Sigma White Belt Course
   - [x] Introduction
-  - [ ] Define
+  - [x] Define
   - [ ] Measure
   - [ ] Analyze
   - [ ] Improve
@@ -53,17 +53,29 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 - The Pragmatic Programmer
   - [x] Chapter 1-2: A Pragmatic Philosophy
-  - [ ] Chapter 3-4: A Pragmatic Approach / The Basic Tools
+  - [x] Chapter 3-4: A Pragmatic Approach / The Basic Tools
   - [ ] Chapter 5-6: Pragmatic Paranoia / Bend or Break
   - [ ] Chapter 7-8: While You Are Coding / Before the Project
   - [ ] Chapter 9: Pragmatic Projects
   - [ ] Note and apply key concepts
 
+- Microsoft Learn GitHub Foundations Part 2 of 2
+  - [x] Contribute to an open-source project on GitHub
+  - [ ] Manage an InnerSource program by using GitHub
+  - [ ] Maintain a secure repository by using GitHub best practices
+  - [ ] Introduction to GitHub administration
+  - [ ] Authenticate and authorize user identities on GitHub
+  - [ ] Manage repository changes by using pull requests on GitHub
+  - [ ] Search and organize repository history by using GitHub
+  - [ ] Using GitHub Copilot with Python
+
 ---
 
 ## Progress Notes
 
-- Added Lean Six Sigma White Belt Course from sp26 Agile course (10-hearts)
+- Added [Lean Six Sigma White Belt Course] subtask from sp26 Agile course (10-hearts)
+- [The Pragmatic Programmer > Chapter 3-4 > Day Book] subtask proposed the concept of a Day Book, repurposed 'think' journal as a Day Book
+- Added [Micrsoft Learn GitHub Foundations Part 2 of 2] originally part of [02-diamonds]
 
 ---
 
