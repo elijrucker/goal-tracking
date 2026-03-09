@@ -52,10 +52,10 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [x] Establish baseline weight (300 lbs)
 - [x] Calculate maintenance calories and target deficit (2,900-3,000 cal/day for 650-750 cal deficit)
 - [x] Plan plant-based protein sources (legumes, tofu, tempeh, seitan, nuts, seeds)
-- [ ] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
-- [ ] Establish weekly meal prep routine (batch cooking 1-2x per week)
+- [x] Establish weekly meal prep routine (batch cooking 1-2x per week)
 - [x] Set up calorie tracking system (Green journal)
 - [ ] Integrate exercise and calorie tracking systems into daily routine
+- [ ] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
 - [ ] Establish 6pm fasting routine (5 nights/week minimum)
 - [ ] Reach -10 lbs milestone
 - [ ] Reach -20 lbs milestone
@@ -66,9 +66,8 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 
 ## Progress Notes
 
-- TO-DO [2026-02-18] - Weigh in
-- TO-DO [2026-02-25] - Resume fitness tracking, once back in the gym
-- TO-DO [2026-02-25] - Begin diet tracking, via green journal
+- [2026-03-09] Beginning active green journal tracking
+- [2026-03-09] Reconsider fasting routine time after testing this week
 
 ---
 

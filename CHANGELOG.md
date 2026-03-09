@@ -69,7 +69,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-02-18] — Sprint 26 Week 4 Progress
+### [2026-02-18] — Spring 26 Week 4 Progress
 
 #### Completed
 
@@ -81,7 +81,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-02-21] — Sprint 26 Week 4 Closure
+### [2026-02-21] — Spring 26 Week 4 Closure
 
 #### Completed
 
@@ -95,7 +95,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-02-22] — Sprint 26 Week 5 Mid-Week Progress
+### [2026-02-22] — Spring 26 Week 5 Mid-Week Progress
 
 #### Completed
 
@@ -145,20 +145,50 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — Added sp26wk7 checklist to worklog
 - [03-clubs] — Promoted Microsoft Learn GitHub Foundations Pt. 2 of 2 from [02-diamonds] backlog to active worklog
-- [03-spades] — Refactored subtask structure; activated Chapter 3: Strategy; flagged for second read-through
+- [03-spades] — Refactored subtask structure; promoted Chapter 3: Strategy; flagged for second read-through
 
 #### Process
 
-- Git commit messages: imperative mood, answering "this commit will ___"
+- Git commit messages: imperative mood, answering "this commit will \_\_\_"
 - Progress Notes scoping syntax:
   - `[Parent]` — note applies to a subtask group
   - `[Parent > Child > Detail]` — note scoped to a specific subtask or concept
 
 ---
 
+### [2026-03-08] — Spring 26 Week 6 c4d Subtask Progress
+
+#### Completed
+
+- [10-hearts] — [sp26wk6 > c4d > Week 6 Lab] closed
+- [10-hearts] — [sp26wk6 > c4d > Week 6 Quiz] closed
+- [05-hearts] — [Establish weekly meal prep routine] closed
+
+#### Changed
+
+- [10-hearts] — Promoted [sp26wk7 > c4d] backlog → worklog
+- [03-clubs] — Promoted [Microsoft Learn GitHub Foundations Part 2 of 2 > Manage an InnerSource program by using GitHub] backlog → worklog
+- [05-hearts] — Refactored subtask structure; sorted by status
+
+#### Process
+
+- Claude Project created for c4d course
+  - Claude instructed to use Socratic method, and not provide direct answer to questions asked
+  - Chats will be specific to weekly material
+
+#### Notes
+
+- Claude Projects allow for easier tutoring and pair-programming by confining subject matter and highlighting specific course resources for reference
+
+---
+
 ## Template for Future Entries
 
 ### [YYYY-MM-DD] — Update Title
+
+#### Completed
+
+- [Card] — [Subtask or goal] closed [Date]
 
 #### Added
 
@@ -168,10 +198,6 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [Card] — Transitioned: [Old Status] → [New Status]
 - [Card] — [Description of structural or content change]
-
-#### Completed
-
-- [Card] — [Subtask or goal] closed [Date]
 
 #### Removed
 

@@ -56,16 +56,15 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [ ] sp26wk6
   - [ ] c4d
-    - [ ] Week 6 Read / Watch
-    - [ ] Week 6 Lab
-    - [ ] Week 6 Quiz (DynamoDB)
+    - [x] Week 6 Lab
+    - [x] Week 6 Quiz (DynamoDB)
     - [ ] C4D Project 1
   - [ ] agilePractices
   - [ ] dbProg
   - [x] uiUx
 
 - [ ] sp26wk7
-  - [ ] c4d
+  - [/] c4d
   - [ ] agilePractices
   - [ ] dbProg
   - [ ] uiUx
