@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Preparing
+- **Current Status**: In Progress
 - **Start Date**: 2025-11-21
 - **Target Completion**: 2026-12-31
 - **Completion Date**:
@@ -69,7 +69,7 @@ This wildcard goal ties together multiple threads:
 **Highly Recommended:**
 
 - [ ] Q♥️ - Polish C1 Certification (language asset, EU connection)
-- [ ] 10♥️ - Complete Associate's Degree (education credential)
+- [/] 10♥️ - Complete Associate's Degree (education credential)
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
 
@@ -83,7 +83,7 @@ This wildcard goal ties together multiple threads:
 
 ## Subtasks
 
-- [ ] German LinkedIn profile (_scheduled 2026-02-20_)
+- [/] German LinkedIn profile
 - [ ] German resume and portfolio website
 - [ ] Ensure 2-3 strong portfolio projects are live and documented
 - [ ] Research Berlin companies and tech scene
