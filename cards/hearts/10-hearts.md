@@ -41,6 +41,31 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
+- [ ] sp26wk6
+  - [x] c4d
+    - [x] Week 6 Lab
+    - [x] Week 6 Quiz (DynamoDB)
+    - [x] Project 1
+  - [ ] agilePractices
+  - [ ] dbProg
+  - [x] uiUx
+
+- [ ] sp26wk7
+  - [/] c4d
+    - [x] Week 7 Lab
+    - [ ] Week 7 Video Material
+  - [ ] agilePractices
+  - [ ] dbProg
+  - [ ] uiUx
+
+- [ ] sp26wk8
+  - [ ] c4d
+    - [ ] Project 2
+    - [ ] Midterm Exam
+  - [ ] agilePractices
+  - [ ] dbProg
+  - [ ] uiUx
+
 - [ ] Complete remaining required courses
 - [ ] Maintain satisfactory GPA
 - [ ] Apply for graduation
@@ -53,21 +78,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year
-
-- [ ] sp26wk6
-  - [ ] c4d
-    - [x] Week 6 Lab
-    - [x] Week 6 Quiz (DynamoDB)
-    - [ ] C4D Project 1
-  - [ ] agilePractices
-  - [ ] dbProg
-  - [x] uiUx
-
-- [ ] sp26wk7
-  - [/] c4d
-  - [ ] agilePractices
-  - [ ] dbProg
-  - [ ] uiUx
 
 ---
 

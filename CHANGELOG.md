@@ -180,6 +180,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 - Claude Projects allow for easier tutoring and pair-programming by confining subject matter and highlighting specific course resources for reference
 
+### [2026-03-09] — Spring 26 Week 6 c4d Project 1 Completion
+
+#### Completed
+
+- [10-hearts] — [sp26wk6 > c4d > Project 1] closed
+- [10-hearts] — [sp26wk6 > c4d] closed
+- [10-hearts] — [sp26wk7 > c4d > Week 7 Lab] closed
+
+#### Changed
+
+- [10-hearts] — Added [sp26wk8] to backlog
+- [10-hearts] — Deferred [sp26wk7 > c4d > Project 2] to sp26wk8
+
+#### Notes
+
+- Claude is good at generating site files but ignores best practices unless specifically prompted, as witnessed in c4d Project 1. The example being coding style elements in-line within HTML files, as opposed to creating a dedicated CSS file
+
 ---
 
 ## Template for Future Entries
