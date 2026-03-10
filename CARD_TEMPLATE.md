@@ -42,9 +42,9 @@
 
 ## Subtasks
 
-- [ ] [Subtask 1]
-- [ ] [Subtask 2]
-- [ ] [Subtask 3]
+- [ ] [Subtask — not started]
+- [/] [Subtask — in progress]
+- [x] [Subtask — complete]
 
 ---
 

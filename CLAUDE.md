@@ -25,7 +25,7 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 - **Current Status**: One of `Not Started`, `Preparing`, `In Progress`, `Complete`
 - **Color Tier / Difficulty**: Determined by card value — 2-4 = 🟢 Green/Foundational, 5-7 = 🔵 Blue/Moderate, 8-9 = 🟡 Yellow/Substantial, 10-J = 🟠 Orange/Advanced, Q-K-A = 🔴 Red/Elite
-- **Subtasks**: Use `- [x]` / `- [ ]` checkboxes
+- **Subtasks**: Use `- [x]` / `- [ ]` / `- [/]` checkboxes (`[x]` = complete, `[ ]` = not started, `[/]` = in progress)
 - **Prerequisites**: Reference other cards that must be completed first
 - **Unlocks**: Cards that become available after this one is completed
 
