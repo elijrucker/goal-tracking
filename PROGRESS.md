@@ -7,8 +7,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 1 / 52
-- **Cards In Progress**: 7
-- **Cards Preparing**: 3
+- **Cards In Progress**: 8
+- **Cards Preparing**: 2
 - **Current Streak**: 1 card
 - **Last Completed**: 2♦️ Markdown (2026-03-04)
 - **Deck Started**: 2026-02-13
@@ -21,8 +21,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ♣️ Clubs    | 0         | 1           | 0         | 12          | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
 | ♥️ Hearts   | 0         | 3           | 2         | 8           | 13     |
-| 🃏 Jokers   | 0         | 0           | 1         | 1           | 2      |
-| **Total**   | **1**     | **7**       | **3**     | **43**      | **54** |
+| 🃏 Jokers   | 0         | 1           | 0         | 1           | 2      |
+| **Total**   | **1**     | **8**       | **2**     | **43**      | **54** |
 
 ### Completion by Color Tier
 
@@ -38,16 +38,16 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
-| 4♦️  | Foundational C# with Microsoft   | In Progress | 5/7              |
-| 3♣️  | Pragmatic Programmer             | In Progress | 2/14             |
+| 4♦️  | Foundational C# with Microsoft   | In Progress | 6/7              |
+| 3♣️  | Pragmatic Programmer             | In Progress | 5/22             |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
 | 3♠️  | CS Distilled                     | In Progress | 2/8              |
-| 5♥️  | Weight Loss: 25 lbs              | In Progress | 4/12             |
+| 5♥️  | Weight Loss: 25 lbs              | In Progress | 5/12             |
 | 6♥️  | South American Markets ($5K)     | Preparing   | 0/7              |
-| 10♥️ | Complete Associate's Degree      | In Progress | 0/5              |
+| 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
 | Q♥️  | Polish C1 Certification          | In Progress | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
-| 🃏1  | Software Developer Job in Berlin | Preparing   | 0/11             |
+| 🃏1  | Software Developer Job in Berlin | In Progress | 0/11             |
 
 ---
 
