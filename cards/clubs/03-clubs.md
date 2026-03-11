@@ -44,7 +44,7 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 - Lean Six Sigma White Belt Course
   - [x] Introduction
   - [x] Define
-  - [ ] Measure
+  - [x] Measure
   - [ ] Analyze
   - [ ] Improve
   - [ ] Control

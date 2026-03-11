@@ -46,7 +46,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [x] Week 6 Lab
     - [x] Week 6 Quiz (DynamoDB)
     - [x] Project 1
-  - [ ] agilePractices
+  - [/] agilePractices
   - [ ] dbProg
   - [x] uiUx
 
