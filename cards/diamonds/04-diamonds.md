@@ -45,7 +45,7 @@ Complete the Foundational C# with Microsoft certification on FreeCodeCamp. Curre
 - [x] Create and Run Simple C# Console Applications (2024-09-27)
 - [x] Add Logic to C# Console Applications (2024-10-05)
 - [x] Work with Variable Data in C# Console Applications (2026-01-13)
-- [x] Create Methods in C# Console Applications (2026-01-05)
+- [x] Create Methods in C# Console Applications
 - [ ] Debug C# Console Applications
 - [ ] Complete certification exam
 
@@ -54,7 +54,6 @@ Complete the Foundational C# with Microsoft certification on FreeCodeCamp. Curre
 ## Progress Notes
 
 - ~50% complete at deck initialization (2026-02-13)
-- Adding Google Calendar reminder as progress has stalled with school (2026-02-15)
 
 ---
 

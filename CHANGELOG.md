@@ -201,11 +201,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-03-10] — joker-1 Activation
+### [2026-03-10] — joker-1 Activation; 04-diamonds Progress
+
+#### Completed
+
+- [04-diamonds] — [Create Methods in C# Console Applications] closed 2026-03-10
 
 #### Changed
 
-- [joker-1] — Transitioned: [Preparing] → [In Progress]
+- [joker-1] — Transitioned: Preparing → In Progress
 - [joker-1] — Promoted [German LinkedIn profile] backlog → worklog
 - [joker-1] — Activated [10-hearts] as prerequisite
 
@@ -223,7 +227,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Completed
 
-- [Card] — [Subtask or goal] closed [Date]
+- [Card] — [Subtask or goal] closed _Date_
 
 #### Added
 
@@ -231,12 +235,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [Card] — Transitioned: [Old Status] → [New Status]
-- [Card] — [Description of structural or content change]
+- [Card] — Transitioned: _Old Status_ → _New Status_
+- [Card] — _Description of structural or content change_
 
 #### Removed
 
-- [Card] — Removed [description] (reason: [why])
+- [Card] — Removed _description_ (reason: [why])
 
 #### Process
 
