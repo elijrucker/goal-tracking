@@ -235,6 +235,34 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-03-12] — 10-hearts Progress
+
+#### Completed
+
+- [10-hearts] — [sp26wk6 > agilePractices] closed 2026-03-12
+
+#### Changed
+
+- [10-hearts] — Promoted [sp26wk7 > agilePractices] backlog → worklog
+
+---
+
+### [2026-03-16] — Spring 26 Week 6 Closure
+
+#### Completed
+
+- [10-hearts] — [sp26wk6 > db_prog] closed 2026-03-16
+
+#### Changed
+
+- [10-hearts] — Promoted [sp26wk7 > db_prog] backlog → worklog
+
+#### Process
+
+- [10-hearts] - Updated all references to subtask 'dbProg' to 'db_prog' to remain consistent with local course directory
+
+---
+
 ---
 
 ## Template for Future Entries
