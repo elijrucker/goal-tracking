@@ -42,9 +42,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Subtasks
 
 - [ ] sp26wk7
-  - [/] c4d
-    - [x] Week 7 Lab
-    - [ ] Week 7 Video Material
+  - [x] c4d
   - [/] agilePractices
   - [/] db_prog
   - [ ] uiUx

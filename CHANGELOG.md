@@ -5,15 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-03-16] — Spring 26 Week 6 Closure
+### [2026-03-16] — Spring 26 Week 6 Closure; 02-spades Progress
 
 #### Completed
 
 - [10-hearts] — [sp26wk6 > db_prog] closed 2026-03-16
+- [10-hearts] — [sp26wk6 > c4d] closed 2026-03-16
+- [10-hearts] — [sp26wk6] closed 2026-03-16
+- [10-hearts] — [sp26wk7 > c4d] closed 2026-03-16
 
 #### Changed
 
 - [10-hearts] — Promoted [sp26wk7 > db_prog] backlog → worklog
+- [02-spades] — Promoted [Week 1], [Week 2], and [Week 3] backlog → worklog
 
 #### Process
 

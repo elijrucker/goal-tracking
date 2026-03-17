@@ -41,9 +41,9 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 ## Subtasks
 
 - [x] Week 0: Scratch
-- [ ] Week 1: C (Assignments 'Mario', and 'Credit' outstanding)
-- [ ] Week 2: Arrays
-- [ ] Week 3: Algorithms
+- [/] Week 1: C (Assignments 'Mario', and 'Credit' outstanding)
+- [/] Week 2: Arrays (Assignment 'Readability' and 'Scrabble' outstanding)
+- [/] Week 3: Algorithms (Assignment 'Sort' and 'Plurality' outstanding)
 - [ ] Week 4: Memory
 - [ ] Week 5: Data Structures
 - [ ] Week 6: Python
@@ -58,6 +58,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 ## Progress Notes
 
 - In progress at deck initialization (2026-02-13)
+- Lectures for Week 0 - Week 3 watched (2026-03-17)
 
 ---
 
