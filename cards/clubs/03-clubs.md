@@ -45,10 +45,10 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [x] Introduction
   - [x] Define
   - [x] Measure
-  - [ ] Analyze
-  - [ ] Improve
-  - [ ] Control
-  - [ ] Certification Exam
+  - [x] Analyze
+  - [x] Improve
+  - [x] Control
+  - [x] Certification Exam
   - [ ] Career Guide
 
 - The Pragmatic Programmer

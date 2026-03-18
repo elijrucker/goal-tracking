@@ -5,7 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-03-18] — 10-hearts Restructure & Progress
+### [2026-03-18] — 03-clubs LSS Progress; 10-hearts Restructure
+
+#### Completed
+
+- [03-clubs] — [Lean Six Sigma White Belt Course > Analyze] closed 2026-03-18
+- [03-clubs] — [Lean Six Sigma White Belt Course > Improve] closed 2026-03-18
+- [03-clubs] — [Lean Six Sigma White Belt Course > Control] closed 2026-03-18
+- [03-clubs] — [Lean Six Sigma White Belt Course > Certification Exam] closed 2026-03-18
 
 #### Changed
 
