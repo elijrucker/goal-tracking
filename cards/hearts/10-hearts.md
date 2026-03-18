@@ -41,22 +41,20 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
-- [ ] sp26wk7
-  - [x] c4d
-  - [/] agilePractices
-  - [/] db_prog
-  - [ ] uiUx
-
-- [ ] sp26wk8
-  - [ ] c4d
-    - [ ] Project 2
-    - [ ] Midterm Exam
-  - [ ] agilePractices
-  - [ ] db_prog
-  - [ ] uiUx
-
-- [ ] Complete remaining required courses
-- [ ] Maintain satisfactory GPA
+- [/] Complete remaining required courses
+  - [ ] sp26wk7
+    - [x] c4d
+    - [/] agilePractices
+    - [/] db_prog
+    - [ ] uiUx
+  - [ ] sp26wk8
+    - [ ] c4d
+      - [ ] Project 2
+      - [ ] Midterm Exam
+    - [ ] agilePractices
+    - [ ] db_prog
+    - [ ] uiUx
+- [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
 - [ ] Confirm transfer credits toward Bachelor's program
 - [ ] Graduate
@@ -67,6 +65,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year
+- Actively retaking select courses to improve cumulative GPA (ongoing, noted 2026-03-18)
 
 ---
 

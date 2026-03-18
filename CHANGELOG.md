@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-03-18] — 10-hearts Restructure & Progress
+
+#### Changed
+
+- [10-hearts] — Refactored [sp26wk7] and [sp26wk8] as nested subtasks under [Complete remaining required courses]
+- [10-hearts] — Promoted [Complete remaining required courses] backlog → worklog (ongoing)
+- [10-hearts] — Promoted [Maintain satisfactory GPA] backlog → worklog (ongoing)
+
+#### Notes
+
+- [10-hearts] — Actively retaking select courses to improve cumulative GPA (ongoing)
+
+---
+
 ### [2026-03-16] — Spring 26 Week 6 Closure; 02-spades Progress
 
 #### Completed
