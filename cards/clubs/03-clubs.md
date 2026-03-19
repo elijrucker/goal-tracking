@@ -41,7 +41,7 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 ## Subtasks
 
-- Lean Six Sigma White Belt Course
+- [x] Lean Six Sigma White Belt Course
   - [x] Introduction
   - [x] Define
   - [x] Measure
@@ -49,9 +49,9 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [x] Improve
   - [x] Control
   - [x] Certification Exam
-  - [ ] Career Guide
+  - [x] Career Guide
 
-- The Pragmatic Programmer
+- [/] The Pragmatic Programmer
   - [x] Chapter 1-2: A Pragmatic Philosophy
   - [x] Chapter 3-4: A Pragmatic Approach / The Basic Tools
   - [ ] Chapter 5-6: Pragmatic Paranoia / Bend or Break
@@ -59,7 +59,7 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [ ] Chapter 9: Pragmatic Projects
   - [ ] Note and apply key concepts
 
-- Microsoft Learn GitHub Foundations Part 2 of 2
+- [/] Microsoft Learn GitHub Foundations Part 2 of 2
   - [x] Contribute to an open-source project on GitHub
   - [/] Manage an InnerSource program by using GitHub
   - [ ] Maintain a secure repository by using GitHub best practices
