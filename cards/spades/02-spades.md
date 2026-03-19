@@ -44,7 +44,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 - [/] Week 1: C (Assignments 'Mario', and 'Credit' outstanding)
 - [/] Week 2: Arrays (Assignment 'Readability' and 'Scrabble' outstanding)
 - [/] Week 3: Algorithms (Assignment 'Sort' and 'Plurality' outstanding)
-- [ ] Week 4: Memory
+- [/] Week 4: Memory (lecture in progress, assignments not started)
 - [ ] Week 5: Data Structures
 - [ ] Week 6: Python
 - [ ] Week 7: SQL
@@ -59,6 +59,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 
 - In progress at deck initialization (2026-02-13)
 - Lectures for Week 0 - Week 3 watched (2026-03-17)
+- Week 4: Memory lecture started, assignments not yet begun (2026-03-19)
 
 ---
 

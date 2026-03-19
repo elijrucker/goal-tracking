@@ -5,12 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-03-19] — 03-clubs LSS White Belt Series Complete
+### [2026-03-19] — 03-clubs LSS Module Complete; 02-spades Week 4 Progress
 
 #### Completed
 
 - [03-clubs] — [Lean Six Sigma White Belt Course > Career Guide] closed 2026-03-19
 - [03-clubs] — [Lean Six Sigma White Belt Course] module closed 2026-03-19
+
+#### Changed
+
+- [02-spades] — Promoted [Week 4: Memory] backlog → worklog (lecture in progress, assignments not started)
 
 ---
 
