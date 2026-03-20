@@ -41,5 +41,5 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 1. Always update the card file itself with the relevant changes (status, subtasks, progress notes, etc.)
 2. Add a dated entry to `CHANGELOG.md` under the current date header (create one if it doesn't exist for today)
 3. When a card's status changes to `Complete`, also update `PROGRESS.md` counts and milestone checkboxes
-4. Progress Notes entries should be prefixed with a date or context note (e.g., `- Completed Chapter 3 (2026-02-17)`)
+4. Progress Notes entries should be prefixed with a bracketed date (e.g., `- [2026-02-17] Completed Chapter 3`)
 5. If a card has a subdirectory (e.g., `05-hearts/`), supplementary materials like matrices or trackers live there alongside the card file

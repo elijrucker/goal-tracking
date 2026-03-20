@@ -54,10 +54,10 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [x] Plan plant-based protein sources (legumes, tofu, tempeh, seitan, nuts, seeds)
 - [x] Establish weekly meal prep routine (batch cooking 1-2x per week)
 - [x] Set up calorie tracking system (Green journal)
-- [ ] Integrate exercise and calorie tracking systems into daily routine
-- [ ] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
-- [ ] Establish 6pm fasting routine (5 nights/week minimum)
-- [ ] Reach -10 lbs milestone
+- [/] Integrate exercise and calorie tracking systems into daily routine
+- [/] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
+- [/] Establish 1900 hours fasting routine (5 nights/week minimum)
+- [x] Reach -10 lbs milestone
 - [ ] Reach -20 lbs milestone
 - [ ] Reach -25 lbs milestone
 - [ ] Maintain weight at milestone for at least 2 weeks
@@ -68,6 +68,9 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 
 - [2026-03-09] Beginning active green journal tracking
 - [2026-03-09] Reconsider fasting routine time after testing this week
+- [2026-03-20] Refactored fasting goal from 1800 hours to 1900 hours
+- [2026-03-20] Began Claude project chat and established weight, blood pressure, and exercise, and dietary tracker
+- [2026-03-20] With Claude tracker data added, confirmed -10 lbs milestone had been reached earlier this year already
 
 ---
 

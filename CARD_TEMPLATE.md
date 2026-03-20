@@ -50,11 +50,8 @@
 
 ## Progress Notes
 
-### [YYYY-MM-DD]
-[Progress update, observations, or reflections]
-
-### [YYYY-MM-DD]
-[Progress update, observations, or reflections]
+- [YYYY-MM-DD] [Progress update, observations, or reflections]
+- [YYYY-MM-DD] [Progress update, observations, or reflections]
 
 ---
 
