@@ -54,8 +54,8 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 - [/] The Pragmatic Programmer
   - [x] Chapter 1-2: A Pragmatic Philosophy
   - [x] Chapter 3-4: A Pragmatic Approach / The Basic Tools
-  - [ ] Chapter 5-6: Pragmatic Paranoia / Bend or Break
-  - [ ] Chapter 7-8: While You Are Coding / Before the Project
+  - [x] Chapter 5-6: Pragmatic Paranoia / Bend or Break
+  - [/] Chapter 7-8: While You Are Coding / Before the Project
   - [ ] Chapter 9: Pragmatic Projects
   - [ ] Note and apply key concepts
 

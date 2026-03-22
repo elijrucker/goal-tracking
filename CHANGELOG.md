@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-03-21] — 03-clubs Pragmatic Programmer Progress
+
+#### Completed
+
+- [03-clubs] — [The Pragmatic Programmer > Chapter 5-6: Pragmatic Paranoia / Bend or Break] closed 2026-03-21
+
+#### Changed
+
+- [03-clubs] — Promoted [The Pragmatic Programmer > Chapter 7-8: While You Are Coding / Before the Project] backlog → worklog
+
+---
+
 ### [2026-03-20] — 05-hearts Active Tracking; -10 lbs Milestone Confirmed
 
 #### Completed
