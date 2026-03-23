@@ -1,18 +1,18 @@
-# Joker 2 - Wildcard Goal (TBD)
+# Joker 2 - Own a Sport Luxury Vehicle
 
 ## Card Details
 
 - **Card**: Joker 2 (Wildcard)
 - **Suit**: N/A (Wildcard)
-- **Domain**: To Be Determined
+- **Domain**: Personal
 - **Color Tier**: N/A (Wildcard)
-- **Difficulty**: To Be Determined
+- **Difficulty**: Elite/Legendary
 
 ---
 
 ## Status
 
-- **Current Status**: Not Started | Preparing | In Progress | Complete
+- **Current Status**: Not Started
 - **Start Date**:
 - **Target Completion**:
 - **Completion Date**:
@@ -22,44 +22,45 @@
 
 ## Goal Description
 
-This joker slot is reserved for an unexpected high-value opportunity or goal that emerges during the journey through the deck. Jokers are wildcards - they don't fit neatly into any of the four suits but are significant enough to warrant tracking.
+Acquire a sport luxury vehicle — a high-performance car that blends everyday usability with genuine driving engagement and presence. Representative marques include Mercedes-AMG and comparable sport luxury manufacturers.
 
-**Potential uses for this card:**
-- A unique career opportunity that doesn't fit the Berlin plan
-- An unexpected certification or credential that becomes highly valuable
-- A major personal goal that emerges (e.g., starting a business, relocating to a different country)
-- A significant project or collaboration opportunity
-- An emergency pivot if circumstances change dramatically
-
-**When to activate this card:**
-- An opportunity arises that doesn't fit existing cards
-- The opportunity is significant enough to be tracked formally
-- It aligns with overall life goals even if not anticipated
+This is the one card in the deck reserved purely for personal enjoyment, serving as an intentional counterbalance to the predominantly professional, academic, and health-focused goals across the other 52 cards.
 
 ---
 
 ## Resources
 
-- TBD - Resources will be defined when the goal is specified
+**Configurator:**
+
+- [Mercedes-AMG Configurator](https://www.mercedes-benz.com/en/vehicles/amg/) - Maintain a saved spec build; revisable over time
+
+**Apparel:**
+
+- [Mercedes-AMG Lifestyle Collection](https://shop.mercedes-amg.com) - Official AMG branded apparel
 
 ---
 
 ## Prerequisites
 
-- TBD - Prerequisites will be defined when the goal is specified
+- [/] Joker 1 - Software Developer Job Offer in Berlin (financial foundation)
 
 ---
 
 ## Subtasks
 
-- [ ] Define the wildcard goal
-- [ ] Identify prerequisites and resources
-- [ ] Create action plan
-- [ ] Execute
+- [ ] Maintain and refine saved AMG configurator build (colour, trim, interior, packages)
+- [ ] Source cinematic wallpaper for phone/desktop — atmospheric, not a press shot
+- [ ] Select and save first drive route (e.g. Großglockner, Tatra Mountains)
+- [ ] Acquire one piece of AMG branded apparel (polo or similar)
+- [ ] Research EU vehicle ownership logistics (insurance, registration)
+- [ ] Define target model and budget range
+- [ ] Acquire vehicle
 
 ---
 
 ## Progress Notes
+
+- [2026-03-23] Goal defined; Joker 2 activated as sport luxury vehicle acquisition
 
 ---
 
@@ -69,4 +70,4 @@ This joker slot is reserved for an unexpected high-value opportunity or goal tha
 
 ## Unlocks
 
-- TBD - Unlocks will be defined when the goal is specified
+- Motorcycle ownership flagged as a candidate for a Version 2 deck Joker card

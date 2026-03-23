@@ -102,7 +102,7 @@
 | Card | Goal |
 |------|------|
 | Joker 1 | Software Developer Job Offer in Berlin |
-| Joker 2 | (Available for future wildcard goal) |
+| Joker 2 | Own a Sport Luxury Vehicle |
 
 ---
 

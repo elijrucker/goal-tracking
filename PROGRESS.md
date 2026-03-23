@@ -107,7 +107,7 @@ Cards will be logged here as they are completed.
 ### Joker Milestones
 
 - [ ] Joker 1: Software Developer Job Offer in Berlin
-- [ ] Joker 2: TBD
+- [ ] Joker 2: Own a Sport Luxury Vehicle
 
 ### Full Deck
 
