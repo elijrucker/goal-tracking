@@ -5,6 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-03-22] — 10-hearts sp26wk7 Progress; 03-clubs Subtask Recount
+
+#### Completed
+
+- [10-hearts] — [sp26wk7 > agilePractices] closed 2026-03-22
+
+#### Changed
+
+- [10-hearts] — Promoted [sp26wk7 > uiUx] backlog → worklog
+
+#### Process
+
+- [10-hearts] — Retroactively marked [sp26wk7] In Progress; status was lagging behind actual work (c4d, db_prog, agilePractices already active)
+- [PROGRESS] — Reconciled 03-clubs subtask count to 12/22 following full recount
+
+---
+
 ### [2026-03-21] — 03-clubs Pragmatic Programmer Progress
 
 #### Completed

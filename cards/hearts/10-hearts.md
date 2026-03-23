@@ -42,11 +42,11 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Subtasks
 
 - [/] Complete remaining required courses
-  - [ ] sp26wk7
+  - [/] sp26wk7
     - [x] c4d
-    - [/] agilePractices
+    - [x] agilePractices
     - [/] db_prog
-    - [ ] uiUx
+    - [/] uiUx
   - [ ] sp26wk8
     - [ ] c4d
       - [ ] Project 2
