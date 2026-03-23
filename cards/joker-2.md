@@ -12,9 +12,9 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
-- **Target Completion**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-03-22
+- **Target Completion**: -
 - **Completion Date**:
 - **Time Invested**:
 
@@ -49,9 +49,9 @@ This is the one card in the deck reserved purely for personal enjoyment, serving
 ## Subtasks
 
 - [ ] Maintain and refine saved AMG configurator build (colour, trim, interior, packages)
-- [ ] Source cinematic wallpaper for phone/desktop — atmospheric, not a press shot
+- [x] Source cinematic wallpaper for phone/desktop — atmospheric, not a press shot
 - [ ] Select and save first drive route (e.g. Großglockner, Tatra Mountains)
-- [ ] Acquire one piece of AMG branded apparel (polo or similar)
+- [/] Acquire one piece of AMG branded apparel (polo or similar)
 - [ ] Research EU vehicle ownership logistics (insurance, registration)
 - [ ] Define target model and budget range
 - [ ] Acquire vehicle
@@ -60,7 +60,8 @@ This is the one card in the deck reserved purely for personal enjoyment, serving
 
 ## Progress Notes
 
-- [2026-03-23] Goal defined; Joker 2 activated as sport luxury vehicle acquisition
+- [2026-03-22] Goal defined; Joker 2 activated as sport luxury vehicle acquisition
+- [2026-03-23] Sourced cinematic AMG wallpaper — closed; apparel (polo) order in progress
 
 ---
 

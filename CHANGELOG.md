@@ -3,17 +3,25 @@
 All notable changes to the 52-card goal tracking system will be documented here.
 Format: [YYYY-MM-DD] — Description of change
 
-### [2026-03-23] — Joker 2 Defined
+### [2026-03-23] — Joker 2 Defined and Active
 
 #### Added
 
 - [joker-2] — Goal defined: Own a Sport Luxury Vehicle (Mercedes-AMG or comparable)
 
+#### Completed
+
+- [joker-2] — [Source cinematic wallpaper] closed 2026-03-23
+
+#### Changed
+
+- [joker-2] — Status: Not Started → In Progress (subtasks already underway)
+- [joker-2] — [Acquire AMG branded apparel] promoted to in progress
+
 #### Process
 
-- [joker-2] — Corrected status from `Planned` → `Not Started` to match valid status values
 - [DECK_OVERVIEW] — Updated Joker 2 from TBD → Own a Sport Luxury Vehicle
-- [PROGRESS] — Updated Joker 2 milestone label from TBD → Own a Sport Luxury Vehicle
+- [PROGRESS] — Updated Joker 2 milestone label from TBD → Own a Sport Luxury Vehicle; added to Active Cards
 
 ---
 

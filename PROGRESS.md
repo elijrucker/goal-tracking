@@ -21,8 +21,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ♣️ Clubs    | 0         | 1           | 0         | 12          | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
 | ♥️ Hearts   | 0         | 3           | 2         | 8           | 13     |
-| 🃏 Jokers   | 0         | 1           | 0         | 1           | 2      |
-| **Total**   | **1**     | **8**       | **2**     | **43**      | **54** |
+| 🃏 Jokers   | 0         | 2           | 0         | 0           | 2      |
+| **Total**   | **1**     | **9**       | **2**     | **42**      | **54** |
 
 ### Completion by Color Tier
 
@@ -48,6 +48,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Q♥️  | Polish C1 Certification          | In Progress | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/11             |
+| 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 1/7              |
 
 ---
 
