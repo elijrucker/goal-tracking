@@ -52,6 +52,8 @@ Complete 1-2 intermediate complexity web projects, applying skills gained from C
 
 ## Progress Notes
 
+- [2026-03-23] C# (ASP.NET Core) is a viable contender for one of the projects here given the C# foundation from 04-diamonds; not the default path but worth considering when selecting projects
+
 ---
 
 ## Completion Notes

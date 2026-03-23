@@ -28,7 +28,7 @@ Build a functional REST API from scratch, demonstrating backend development skil
 
 ## Resources
 
-- TBD - Select framework after completing CS50W (Django, Flask, FastAPI, or Node.js/Express)
+- TBD - Select framework after completing CS50W (Django, Flask, FastAPI, Node.js/Express, or ASP.NET Core if continuing C# path)
 - [REST API Design Best Practices](https://restfulapi.net)
 - [Swagger/OpenAPI Documentation](https://swagger.io)
 
@@ -57,6 +57,8 @@ Build a functional REST API from scratch, demonstrating backend development skil
 ---
 
 ## Progress Notes
+
+- [2026-03-23] ASP.NET Core flagged as a strong C#-native framework option; pairs with 8♦️ Anki - C# for retention alongside active building
 
 ---
 

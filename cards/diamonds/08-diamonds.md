@@ -50,6 +50,8 @@ Source or build an Anki deck for C# and establish a consistent spaced repetition
 
 ## Progress Notes
 
+- [2026-03-23] Companion to 10♣️ API Development — Anki retention to run alongside hands-on C# building; start this card when 04-diamonds closes
+
 ---
 
 ## Completion Notes
