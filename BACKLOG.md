@@ -56,8 +56,6 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Wildcard / Joker Ideas
 
-- [/] Joker 2: Own a Sport Luxury Vehicle — defined 2026-03-23, In Progress
-
 ---
 
 ## Review Log

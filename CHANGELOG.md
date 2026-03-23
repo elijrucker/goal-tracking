@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-03-23] — Joker 2 Defined and Active; 04-diamonds Progress; Backlog Updates
+### [2026-03-23] — joker-2 Defined and Active; 04-diamonds Progress; Backlog Updates; joker-1 Declutter Subtask
 
 #### Added
 
 - [joker-2] — Goal defined: Own a Sport Luxury Vehicle (Mercedes-AMG or comparable)
+- [joker-1] — Added subtask: Declutter and liquidate unused possessions prior to relocation; marked In Progress
 
 #### Completed
 
@@ -29,10 +30,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Process
 
-- [DECK_OVERVIEW] — Updated Joker 2 from TBD → Own a Sport Luxury Vehicle
-- [PROGRESS] — Updated Joker 2 milestone label from TBD → Own a Sport Luxury Vehicle; added to Active Cards
+- [DECK_OVERVIEW] — Updated joker-2 from TBD → Own a Sport Luxury Vehicle
+- [PROGRESS] — Updated joker-2 milestone label from TBD → Own a Sport Luxury Vehicle; added to Active Cards
 - [PROGRESS] — Corrected 04-diamonds subtask count from 6/7 → 5/7
-- [BACKLOG] — Updated Joker 2 entry from TBD → defined and In Progress (2026-03-23)
+- [BACKLOG] — Removed joker-2 entry; goal now defined and active as a deck card
 - [CHANGELOG] — Fixed missing --- separator after file header; corrected hyphen → em dash on 2026-03-16 Process entry
 
 ---

@@ -94,6 +94,7 @@ This wildcard goal ties together multiple threads:
 - [ ] Pass technical interviews
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process
+- [/] Declutter and liquidate unused possessions prior to relocation
 
 ---
 
