@@ -6,6 +6,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Potential Diamonds Cards (Tools & Platforms)
 
+- [ ] iTerm & tmux deep dive (Green/Blue tier — terminal workflow tooling)
 - [ ] Linux/Bash scripting (deeper terminal proficiency)
 - [ ] PostgreSQL / database tooling
 - [ ] GraphQL
@@ -55,7 +56,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Wildcard / Joker Ideas
 
-- [ ] Joker 2: TBD - reserved for unexpected high-value opportunity
+- [/] Joker 2: Own a Sport Luxury Vehicle — defined 2026-03-23, In Progress
 
 ---
 

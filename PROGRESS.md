@@ -38,7 +38,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
-| 4♦️  | Foundational C# with Microsoft   | In Progress | 6/7              |
+| 4♦️  | Foundational C# with Microsoft   | In Progress | 5/7              |
 | 3♣️  | Pragmatic Programmer             | In Progress | 12/22            |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
 | 3♠️  | CS Distilled                     | In Progress | 2/8              |

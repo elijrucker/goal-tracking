@@ -14,7 +14,7 @@
 
 - **Current Status**: In Progress
 - **Start Date**: 2023-02-23
-- **Target Completion**: -
+- **Target Completion**: 2026-03-31
 - **Completion Date**:
 - **Time Invested**:
 
@@ -35,7 +35,7 @@ Complete the Foundational C# with Microsoft certification on FreeCodeCamp. Curre
 
 ## Prerequisites
 
-- [ ] 2♦️ - Markdown (recommended before logging progress)
+- [x] 2♦️ - Markdown (completed 2026-03-04)
 
 ---
 
@@ -45,15 +45,16 @@ Complete the Foundational C# with Microsoft certification on FreeCodeCamp. Curre
 - [x] Create and Run Simple C# Console Applications (2024-09-27)
 - [x] Add Logic to C# Console Applications (2024-10-05)
 - [x] Work with Variable Data in C# Console Applications (2026-01-13)
-- [x] Create Methods in C# Console Applications
-- [ ] Debug C# Console Applications
+- [x] Create Methods in C# Console Applications (2026-03-10)
+- [/] Debug C# Console Applications
 - [ ] Complete certification exam
 
 ---
 
 ## Progress Notes
 
-- ~50% complete at deck initialization (2026-02-13)
+- [2026-02-13] ~50% complete at deck initialization
+- [2026-03-23] Debug C# Console Applications promoted to in progress
 
 ---
 

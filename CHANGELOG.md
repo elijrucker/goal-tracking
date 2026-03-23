@@ -3,7 +3,9 @@
 All notable changes to the 52-card goal tracking system will be documented here.
 Format: [YYYY-MM-DD] — Description of change
 
-### [2026-03-23] — Joker 2 Defined and Active
+---
+
+### [2026-03-23] — Joker 2 Defined and Active; 04-diamonds Progress; Backlog Updates
 
 #### Added
 
@@ -17,11 +19,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-2] — Status: Not Started → In Progress (subtasks already underway)
 - [joker-2] — [Acquire AMG branded apparel] promoted to in progress
+- [04-diamonds] — Promoted [Debug C# Console Applications] backlog → worklog
+- [04-diamonds] — Set Target Completion: 2026-03-31
+- [04-diamonds] — Marked prerequisite 2♦️ Markdown complete (completed 2026-03-04)
+
+#### Added
+
+- [BACKLOG] — Added iTerm & tmux deep dive to Potential Diamonds Cards
 
 #### Process
 
 - [DECK_OVERVIEW] — Updated Joker 2 from TBD → Own a Sport Luxury Vehicle
 - [PROGRESS] — Updated Joker 2 milestone label from TBD → Own a Sport Luxury Vehicle; added to Active Cards
+- [PROGRESS] — Corrected 04-diamonds subtask count from 6/7 → 5/7
+- [BACKLOG] — Updated Joker 2 entry from TBD → defined and In Progress (2026-03-23)
+- [CHANGELOG] — Fixed missing --- separator after file header; corrected hyphen → em dash on 2026-03-16 Process entry
 
 ---
 
@@ -123,7 +135,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Process
 
-- [10-hearts] - Updated all references to subtask 'dbProg' to 'db_prog' to remain consistent with local course directory
+- [10-hearts] — Updated all references to subtask 'dbProg' to 'db_prog' to remain consistent with local course directory
 
 ---
 
