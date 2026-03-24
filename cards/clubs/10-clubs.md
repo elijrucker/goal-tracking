@@ -31,6 +31,7 @@ Build a functional REST API from scratch, demonstrating backend development skil
 - TBD - Select framework after completing CS50W (Django, Flask, FastAPI, Node.js/Express, or ASP.NET Core if continuing C# path)
 - [REST API Design Best Practices](https://restfulapi.net)
 - [Swagger/OpenAPI Documentation](https://swagger.io)
+- [Intro to Backend Web Development: Node.js, Express, MongoDB (freeCodeCamp)](https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/)
 
 ---
 

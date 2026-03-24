@@ -11,6 +11,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] PostgreSQL / database tooling
 - [ ] GraphQL
 - [ ] TypeScript
+  - [Learn OOP in TypeScript (freeCodeCamp)](https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/)
 - [ ] React (deep dive)
 - [ ] Django framework
 - [ ] Terraform / Infrastructure as Code

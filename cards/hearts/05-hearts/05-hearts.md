@@ -58,7 +58,7 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [/] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
 - [/] Establish 1900 hours fasting routine (5 nights/week minimum)
 - [x] Reach -10 lbs milestone
-- [ ] Reach -20 lbs milestone
+- [/] Reach -20 lbs milestone
 - [ ] Reach -25 lbs milestone
 - [ ] Maintain weight at milestone for at least 2 weeks
 

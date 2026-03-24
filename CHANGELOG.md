@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-03-23] — joker-2 Defined and Active; 04-diamonds Progress; Backlog Updates; joker-1 Declutter Subtask
+### [2026-03-23] — joker-2 Defined and Active; 04-diamonds Progress; Backlog Updates; joker-1 Declutter Subtask; 05-hearts -20 lbs In Progress; Resources Added
 
 #### Added
 
@@ -23,10 +23,14 @@ Format: [YYYY-MM-DD] — Description of change
 - [04-diamonds] — Promoted [Debug C# Console Applications] backlog → worklog
 - [04-diamonds] — Set Target Completion: 2026-03-31
 - [04-diamonds] — Marked prerequisite 2♦️ Markdown complete (completed 2026-03-04)
+- [05-hearts] — [Reach -20 lbs milestone] marked In Progress
 
 #### Added
 
 - [BACKLOG] — Added iTerm & tmux deep dive to Potential Diamonds Cards
+- [BACKLOG] — Added resource under TypeScript: Learn OOP in TypeScript (freeCodeCamp)
+- [07-clubs] — Added resource: How to Become an Analytical Programmer: Compare Five Projects (freeCodeCamp)
+- [10-clubs] — Added resource: Intro to Backend Web Development: Node.js, Express, MongoDB (freeCodeCamp)
 
 #### Process
 
