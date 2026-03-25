@@ -17,6 +17,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Terraform / Infrastructure as Code
 - [ ] Vim / Neovim proficiency
 - [ ] Git advanced usage (rebasing, workflows, etc.)
+- [ ] Java — Advanced & Enterprise Prep (Spring Boot, JPA/Hibernate, Maven/Gradle; prep for Academic Advanced Java and Enterprise Java coursework)
 
 ---
 
@@ -34,6 +35,8 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Potential Spades Cards (Theory & Math)
 
+- [ ] Algebra Review (ACCUPLACER Advanced Algebra & Functions prep; Khan Academy diagnostic + targeted review, Professor Leonard YouTube, or ALEKS)
+- [ ] Pre-Calculus Foundations (bridge between Algebra Review and freeCodeCamp College Calculus / 10♠️ MIT Single Variable Calculus; Professor Leonard YouTube + OpenStax Pre-Calculus)
 - [ ] Linear Algebra (e.g., MIT OpenCourseWare)
 - [ ] Probability & Statistics
 - [ ] Computational Complexity Theory
