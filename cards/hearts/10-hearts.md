@@ -93,6 +93,10 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] wk13
       - [ ] wk14
   - [ ] Summer 26
+    - [ ] jobSearchPrep (05/18–06/12)
+    - [ ] advancedJavaScript (06/22–08/14)
+    - [ ] technicalReporting (07/06–08/14)
+    - [ ] introPhilosophy (06/22–08/14)
   - [ ] Fulfill math elective requirement
     - [ ] Pull Franklin University MATC articulation agreement
     - [ ] Confirm Franklin's math requirement and which MATC courses/CLEP exams satisfy it
@@ -103,6 +107,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Complete pre-calculus foundations (Professor Leonard / OpenStax)
     - [ ] Complete freeCodeCamp College Calculus (Python/SymPy)
   - [ ] Fall 26
+    - [ ] javaProgramming (08/31–12/18)
+    - [ ] phpWebMySQL (08/31–12/18)
 - [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
 - [ ] Confirm transfer credits toward Bachelor's program

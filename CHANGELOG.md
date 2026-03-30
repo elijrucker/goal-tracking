@@ -5,6 +5,22 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-03-29] — 10-hearts Full Semester Subtask Expansion; BACKLOG Hearts Additions
+
+#### Changed
+
+- [10-hearts] — Replaced week-by-week snapshot format with full per-course breakdown for Spring 26; each course (c4d, agilePractices, db_prog, uiUx) now tracks individual deliverables with due dates and weekly checkoffs through end of semester
+- [10-hearts] — Added Summer 26 course listings: jobSearchPrep (05/18–06/12), advancedJavaScript (06/22–08/14), technicalReporting (07/06–08/14), introPhilosophy (06/22–08/14)
+- [10-hearts] — Added Fall 26 course listings: javaProgramming (08/31–12/18), phpWebMySQL (08/31–12/18)
+
+#### Added
+
+- [10-hearts] — Added [Fulfill math elective requirement] subtask with discrete research steps: Franklin/MATC articulation agreement, CLEP options, CS elective confirmation, algebra/precalc/calculus progression
+- [BACKLOG] — Added Master's Degree to Potential Hearts Cards (follows A♥️, likely Red/Elite tier; specialty TBD)
+- [BACKLOG] — Added PhD to Potential Hearts Cards (purely aspirational; no current professional ROI — revisit if trajectory changes)
+
+---
+
 ### [2026-03-23] — joker-2 Defined and Active; 04-diamonds Progress; Backlog Updates; joker-1 Declutter Subtask; 05-hearts -20 lbs In Progress; Resources Added
 
 #### Added

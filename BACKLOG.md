@@ -49,6 +49,8 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Potential Hearts Cards (Personal Development)
 
+- [ ] Complete Master's Degree (follows A♥️ Bachelor's — likely Red/Elite tier; specialty TBD)
+- [ ] Complete PhD (purely aspirational; no clear professional ROI at this time — revisit only if trajectory changes significantly)
 - [ ] EU relocation logistics (visa, housing, banking)
 - [ ] Polish B1 Certification (intermediate milestone before C1)
 - [ ] Read non-technical books (TBD)
