@@ -42,18 +42,67 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Subtasks
 
 - [/] Complete remaining required courses
-  - [/] sp26wk7
-    - [x] c4d
-    - [x] agilePractices
-    - [/] db_prog
-    - [/] uiUx
-  - [ ] sp26wk8
-    - [ ] c4d
+  - [/] Spring 26
+    - [/] c4d
+      - [x] Project 1
       - [ ] Project 2
+      - [ ] Project 3
+      - [ ] Project 4
       - [ ] Midterm Exam
-    - [ ] agilePractices
-    - [ ] db_prog
-    - [ ] uiUx
+      - [x] wk7
+      - [ ] wk8
+      - [ ] wk9
+      - [ ] wk10
+      - [ ] wk11
+      - [ ] wk12
+    - [/] agilePractices
+      - [ ] Final Exam (due 05/15)
+      - [x] wk7
+      - [ ] wk8
+      - [ ] wk9
+      - [ ] wk10
+      - [ ] wk11
+      - [ ] wk12
+      - [ ] wk13
+      - [ ] wk14
+      - [ ] wk15
+      - [ ] wk16
+    - [/] db_prog
+      - [ ] Project 2 (due 03/29)
+      - [/] wk7
+      - [ ] wk8
+      - [ ] wk9
+      - [ ] wk10
+      - [ ] wk11
+      - [ ] wk12
+      - [ ] wk13
+      - [ ] wk14
+      - [ ] wk15
+      - [ ] wk16
+    - [/] uiUx
+      - [ ] Project 2 (due 04/05)
+      - [ ] UI Quiz (due 04/05)
+      - [ ] Project 3 (due 05/13)
+      - [ ] A11y Quiz (due 05/13)
+      - [x] wk7
+      - [ ] wk8
+      - [ ] wk9
+      - [ ] wk10
+      - [ ] wk11
+      - [ ] wk12
+      - [ ] wk13
+      - [ ] wk14
+  - [ ] Summer 26
+  - [ ] Fulfill math elective requirement
+    - [ ] Pull Franklin University MATC articulation agreement
+    - [ ] Confirm Franklin's math requirement and which MATC courses/CLEP exams satisfy it
+    - [ ] Confirm credit-by-exam options with MATC advising (CLEP College Algebra, Precalculus, Calculus, or equivalent)
+    - [ ] Confirm whether existing CS coursework satisfies the elective (CS1/CS2)
+    - [ ] Confirm whether 5♠️ Discrete Mathematics satisfies the elective
+    - [ ] Complete algebra review (Khan Academy / Professor Leonard / ALEKS)
+    - [ ] Complete pre-calculus foundations (Professor Leonard / OpenStax)
+    - [ ] Complete freeCodeCamp College Calculus (Python/SymPy)
+  - [ ] Fall 26
 - [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
 - [ ] Confirm transfer credits toward Bachelor's program
