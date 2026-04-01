@@ -68,9 +68,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] wk15
       - [ ] wk16
     - [/] db_prog
-      - [ ] Project 2 (due 03/29)
-      - [/] wk7
-      - [ ] wk8
+      - [/] Project 2 (due 03/29)
+      - [/] wk7 (lab6 outstanding)
+      - [x] wk8
       - [ ] wk9
       - [ ] wk10
       - [ ] wk11
@@ -85,7 +85,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Project 3 (due 05/13)
       - [ ] A11y Quiz (due 05/13)
       - [x] wk7
-      - [ ] wk8
+      - [/] wk8
       - [ ] wk9
       - [ ] wk10
       - [ ] wk11

@@ -5,6 +5,26 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-01] — 10-hearts subtask progress; changelog pattern and template overhaul
+
+#### Completed
+
+- [10-hearts] — [db_prog > wk8] closed (2026-04-01)
+
+#### Changed
+
+- [10-hearts] — [uiUx > wk8] promoted backlog → worklog
+- [10-hearts] — [db_prog > wk7] lab6 outstanding, all other material completed
+
+#### Process
+
+- [CHANGELOG] — Established standardized entry pattern: `- [card-name] — [subtask] action (date)` with fixed vocabulary; subtask bracket optional, only used when action is subtask-scoped
+- [CHANGELOG] — Defined card-level actions: `transitioned`, `added`, `refactored`, `removed`
+- [CHANGELOG] — Defined subtask-level actions: `promoted backlog → worklog`, `marked`, `closed`, `deferred to`, `added`, `refactored`
+- [CHANGELOG] — Updated Template for Future Entries to reflect new pattern; collapsed Removed section into Changed; added inline scope annotations
+
+---
+
 ### [2026-03-29] — 10-hearts Full Semester Subtask Expansion; BACKLOG Hearts Additions
 
 #### Changed
@@ -408,20 +428,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Completed
 
-- [Card] — [Subtask or goal] closed _Date_
+- [card-name] — [subtask] closed (YYYY-MM-DD)     ← subtask-scoped
+- [card-name] — transitioned: In Progress → Complete (YYYY-MM-DD)     ← card-scoped
 
 #### Added
 
-- [Card] — Added [description]
+- [card-name] — added [description]
+- [card-name] — [subtask] added [description]
 
 #### Changed
 
-- [Card] — Transitioned: _Old Status_ → _New Status_
-- [Card] — _Description of structural or content change_
-
-#### Removed
-
-- [Card] — Removed _description_ (reason: [why])
+- [card-name] — transitioned: Old Status → New Status     ← card-level status
+- [card-name] — refactored [description]                  ← card-level structural
+- [card-name] — removed [description]                     ← card-level removal
+- [card-name] — [subtask] promoted backlog → worklog      ← subtask promotion
+- [card-name] — [subtask] marked in progress              ← subtask state
+- [card-name] — [subtask] deferred to [period]            ← subtask deferral
+- [card-name] — [subtask] refactored [description]        ← subtask structural
 
 #### Process
 
