@@ -5,6 +5,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-04] — 10-hearts Spring 26 progress
+
+#### Completed
+
+- [10-hearts] — [db_prog > wk9] closed (2026-04-04)
+- [10-hearts] — [uiUx > wk8] closed (2026-04-04)
+
+#### Changed
+
+- [10-hearts] — [uiUx > Project 2] marked in progress
+- [10-hearts] — [uiUx > wk9] marked in progress
+- [10-hearts] — [db_prog > wk10] added annotation: lab 8 outstanding
+
+---
+
 ### [2026-04-01] — 10-hearts subtask progress; changelog pattern and template overhaul
 
 #### Completed
