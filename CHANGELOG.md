@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-06] — 10-hearts Spring 26 progress
+### [2026-04-06] — 10-hearts Spring 26 progress; 04-diamonds progress
 
 #### Completed
 
@@ -16,6 +16,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [uiUx > wk10] marked in progress
 - [10-hearts] — [c4d > wk8] added annotation: Project 2 & Midterm Exam outstanding
+- [04-diamonds] — [Debug C# Console Applications] added annotation: 2/7 Units Completed, 2026-04-06
+
+#### Process
+
+- [CHANGELOG] — standardized capitalization: action text in card-scoped entries lowercased across all historical entries; unscoped Notes entries treated as prose exceptions
 
 ---
 
@@ -47,10 +52,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Process
 
-- [CHANGELOG] — Established standardized entry pattern: `- [card-name] — [subtask] action (date)` with fixed vocabulary; subtask bracket optional, only used when action is subtask-scoped
-- [CHANGELOG] — Defined card-level actions: `transitioned`, `added`, `refactored`, `removed`
-- [CHANGELOG] — Defined subtask-level actions: `promoted backlog → worklog`, `marked`, `closed`, `deferred to`, `added`, `refactored`
-- [CHANGELOG] — Updated Template for Future Entries to reflect new pattern; collapsed Removed section into Changed; added inline scope annotations
+- [CHANGELOG] — established standardized entry pattern: `- [card-name] — [subtask] action (date)` with fixed vocabulary; subtask bracket optional, only used when action is subtask-scoped
+- [CHANGELOG] — defined card-level actions: `transitioned`, `added`, `refactored`, `removed`
+- [CHANGELOG] — defined subtask-level actions: `promoted backlog → worklog`, `marked`, `closed`, `deferred to`, `added`, `refactored`
+- [CHANGELOG] — updated Template for Future Entries to reflect new pattern; collapsed Removed section into Changed; added inline scope annotations
 
 ---
 
@@ -100,7 +105,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [PROGRESS] — refactored joker-2 milestone label from TBD → Own a Sport Luxury Vehicle; added to Active Cards
 - [PROGRESS] — refactored 04-diamonds subtask count from 6/7 → 5/7
 - [BACKLOG] — removed joker-2 entry; goal now defined and active as a deck card
-- [CHANGELOG] — Fixed missing --- separator after file header; corrected hyphen → em dash on 2026-03-16 Process entry
+- [CHANGELOG] — fixed missing --- separator after file header; corrected hyphen → em dash on 2026-03-16 Process entry
 
 ---
 
@@ -117,7 +122,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Process
 
 - [10-hearts] — [sp26wk7] marked in progress retroactively; status was lagging behind actual work (c4d, db_prog, agilePractices already active)
-- [PROGRESS] — Reconciled 03-clubs subtask count to 12/22 following full recount
+- [PROGRESS] — reconciled 03-clubs subtask count to 12/22 following full recount
 
 ---
 
@@ -248,7 +253,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Notes
 
-- [joker-1] — [German LinkedIn profile] Refactoring primary LinkedIn profile prior to translation
+- [joker-1] — [German LinkedIn profile] refactoring primary LinkedIn profile prior to translation
 
 ---
 
