@@ -50,7 +50,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Project 4
       - [ ] Midterm Exam
       - [x] wk7
-      - [ ] wk8
+      - [ ] wk8 (Project 2 & Midterm Exam outstanding)
       - [ ] wk9
       - [ ] wk10
       - [ ] wk11
@@ -80,14 +80,14 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] wk15
       - [ ] wk16
     - [/] uiUx
-      - [/] Project 2 (due 04/05)
+      - [x] Project 2 (due 04/05)
       - [ ] UI Quiz (due 04/05)
       - [ ] Project 3 (due 05/13)
       - [ ] A11y Quiz (due 05/13)
       - [x] wk7
       - [x] wk8
-      - [/] wk9
-      - [ ] wk10
+      - [x] wk9
+      - [/] wk10
       - [ ] wk11
       - [ ] wk12
       - [ ] wk13

@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-06] — 10-hearts Spring 26 progress
+
+#### Completed
+
+- [10-hearts] — [uiUx > Project 2] closed (2026-04-06)
+- [10-hearts] — [uiUx > wk9] closed (2026-04-06)
+
+#### Changed
+
+- [10-hearts] — [uiUx > wk10] marked in progress
+- [10-hearts] — [c4d > wk8] added annotation: Project 2 & Midterm Exam outstanding
+
+---
+
 ### [2026-04-04] — 10-hearts Spring 26 progress
 
 #### Completed
@@ -440,8 +454,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Completed
 
-- [card-name] — [subtask] closed (YYYY-MM-DD)     ← subtask-scoped
-- [card-name] — transitioned: In Progress → Complete (YYYY-MM-DD)     ← card-scoped
+- [card-name] — [subtask] closed (YYYY-MM-DD) ← subtask-scoped
+- [card-name] — transitioned: In Progress → Complete (YYYY-MM-DD) ← card-scoped
 
 #### Added
 
@@ -450,13 +464,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [card-name] — transitioned: Old Status → New Status     ← card-level status
-- [card-name] — refactored [description]                  ← card-level structural
-- [card-name] — removed [description]                     ← card-level removal
-- [card-name] — [subtask] promoted backlog → worklog      ← subtask promotion
-- [card-name] — [subtask] marked in progress              ← subtask state
-- [card-name] — [subtask] deferred to [period]            ← subtask deferral
-- [card-name] — [subtask] refactored [description]        ← subtask structural
+- [card-name] — transitioned: Old Status → New Status ← card-level status
+- [card-name] — refactored [description] ← card-level structural
+- [card-name] — removed [description] ← card-level removal
+- [card-name] — [subtask] promoted backlog → worklog ← subtask promotion
+- [card-name] — [subtask] marked in progress ← subtask state
+- [card-name] — [subtask] deferred to [period] ← subtask deferral
+- [card-name] — [subtask] refactored [description] ← subtask structural
 
 #### Process
 
