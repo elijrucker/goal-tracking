@@ -58,7 +58,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] agilePractices
       - [ ] Final Exam (due 05/15)
       - [x] wk7
-      - [ ] wk8
+      - [/] wk8 (started 2026-04-06)
       - [ ] wk9
       - [ ] wk10
       - [ ] wk11
@@ -81,7 +81,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] wk16
     - [/] uiUx
       - [x] Project 2 (due 04/05)
-      - [ ] UI Quiz (due 04/05)
+      - [x] UI Quiz (due 04/05)
       - [ ] Project 3 (due 05/13)
       - [ ] A11y Quiz (due 05/13)
       - [x] wk7

@@ -9,13 +9,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Completed
 
-- [10-hearts] — [uiUx > Project 2] closed (2026-04-06)
-- [10-hearts] — [uiUx > wk9] closed (2026-04-06)
+- [10-hearts] — [uiUx > Project 2] closed (2026-04-05)
+- [10-hearts] — [uiUx > wk9] closed (2026-04-05)
+- [10-hearts] — [uiUx > UI Quiz] closed (2026-04-05)
 
 #### Changed
 
 - [10-hearts] — [uiUx > wk10] marked in progress
 - [10-hearts] — [c4d > wk8] added annotation: Project 2 & Midterm Exam outstanding
+- [10-hearts] — [agilePractices > wk8] marked in progress
 - [04-diamonds] — [Debug C# Console Applications] added annotation: 2/7 Units Completed, 2026-04-06
 
 #### Process
