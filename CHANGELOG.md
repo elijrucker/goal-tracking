@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-07] — 10-hearts Spring 26 progress; 04-diamonds progress
+
+#### Completed
+
+- [10-hearts] — [agilePractices > wk8] closed 2026-04-07
+
+#### Changed
+
+- [04-diamonds] — [Debug C# Console Applications] updated annotation: '2/7 Units Completed, 2026-04-06' → '3/7 Units Completed, 2026-04-07'
+
+---
+
 ### [2026-04-06] — 10-hearts Spring 26 progress; 04-diamonds progress
 
 #### Completed
