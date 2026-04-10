@@ -5,6 +5,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-09] — 05-hearts updates; 04-diamonds progress; 10-hearts progress
+
+#### Changed
+
+- [05-hearts] — [Reach -20 lbs milestone] added annotation: 'Within 2lbs range of subtask completion 2026-04-09'
+- [05-hearts] — [Reach -20 lbs milestone] added progress note: 'Added exercise tracking to Claude 05-hearts chat'
+- [04-diamonds] — [Debug C# Console Applications] updated annotation: '3/7 Units Completed, 2026-04-06' → '4/7 Units Completed, 2026-04-09'
+- [10-hearts] — [agilePractices > wk9] marked in progress
+
+#### Process
+
+- [CHANGELOG] — corrected post-2026-03-29 misuse of 'promoted backlog → worklog' → 'marked in progress' on 2026-04-01 entry; confirmed both terms are now used correctly per their distinct meanings
+
+---
+
 ### [2026-04-07] — 10-hearts Spring 26 progress; 04-diamonds progress
 
 #### Completed
@@ -61,7 +76,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [10-hearts] — [uiUx > wk8] promoted backlog → worklog
+- [10-hearts] — [uiUx > wk8] marked in progress
 - [10-hearts] — [db_prog > wk7] lab6 outstanding, all other material completed
 
 #### Process

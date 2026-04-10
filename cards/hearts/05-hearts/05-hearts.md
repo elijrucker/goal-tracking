@@ -58,7 +58,7 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [/] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
 - [/] Establish 1900 hours fasting routine (5 nights/week minimum)
 - [x] Reach -10 lbs milestone
-- [/] Reach -20 lbs milestone
+- [/] Reach -20 lbs milestone (Within 2lbs range of subtask completion 2026-04-09)
 - [ ] Reach -25 lbs milestone
 - [ ] Maintain weight at milestone for at least 2 weeks
 
@@ -71,6 +71,7 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [2026-03-20] Refactored fasting goal from 1800 hours to 1900 hours
 - [2026-03-20] Began Claude project chat and established weight, blood pressure, and exercise, and dietary tracker
 - [2026-03-20] With Claude tracker data added, confirmed -10 lbs milestone had been reached earlier this year already
+- [2026-04-09] Added exercise tracking to Claude 05-hearts chat
 
 ---
 
