@@ -69,9 +69,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] wk16
     - [/] db_prog
       - [/] Project 2 (due 03/29)
-      - [/] wk7 (lab6 outstanding)
+      - [x] wk7
       - [x] wk8
-      - [x] wk9
+      - [/] wk9 (Module 3 - lab 7)
       - [ ] wk10 (lab 8)
       - [ ] wk11
       - [ ] wk12

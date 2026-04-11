@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-11] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [db_prog > wk7] closed (2026-04-11)
+
+#### Changed
+
+- [10-hearts] — [db_prog > wk9] reopened; added annotation: 'Module 3 - lab 7'
+
+---
+
 ### [2026-04-09] — 05-hearts updates; 04-diamonds progress; 10-hearts progress
 
 #### Changed
