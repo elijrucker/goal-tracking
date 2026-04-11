@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: In Progress (Duolingo Score: 13)
+- **Current Status**: Preparing (Duolingo Score: 13)
 - **Start Date**: 2025-12-21
 - **Target Completion**: -
 - **Completion Date**:

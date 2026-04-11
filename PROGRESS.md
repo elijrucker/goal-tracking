@@ -7,8 +7,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 1 / 52
-- **Cards In Progress**: 8
-- **Cards Preparing**: 2
+- **Cards In Progress**: 9
+- **Cards Preparing**: 3
 - **Current Streak**: 1 card
 - **Last Completed**: 2♦️ Markdown (2026-03-04)
 - **Deck Started**: 2026-02-13
@@ -20,24 +20,25 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ♦️ Diamonds | 1         | 1           | 0         | 11          | 13     |
 | ♣️ Clubs    | 0         | 1           | 0         | 12          | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
-| ♥️ Hearts   | 0         | 3           | 2         | 8           | 13     |
+| ♥️ Hearts   | 0         | 3           | 3         | 7           | 13     |
 | 🃏 Jokers   | 0         | 2           | 0         | 0           | 2      |
-| **Total**   | **1**     | **9**       | **2**     | **42**      | **54** |
+| **Total**   | **1**     | **9**       | **3**     | **41**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 1         | 4           | 12    |
+| 🟢 Green (Foundational) | 1         | 5           | 12    |
 | 🔵 Blue (Moderate)      | 0         | 1           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 0           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 1           | 8     |
-| 🔴 Red (Elite)          | 0         | 1           | 12    |
+| 🔴 Red (Elite)          | 0         | 0           | 12    |
 
 ### Active Cards
 
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
+| 2♥️  | Index Investing Fundamentals     | In Progress | 0/12             |
 | 4♦️  | Foundational C# with Microsoft   | In Progress | 5/7              |
 | 3♣️  | Pragmatic Programmer             | In Progress | 12/22            |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
@@ -45,7 +46,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 5/12             |
 | 6♥️  | South American Markets ($5K)     | Preparing   | 0/7              |
 | 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
-| Q♥️  | Polish C1 Certification          | In Progress | 0/8              |
+| Q♥️  | Polish C1 Certification          | Preparing   | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/11             |
 | 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 1/7              |

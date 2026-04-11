@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-11] — 10-hearts progress
+### [2026-04-11] — 02-hearts activation; queen-hearts status change; 10-hearts progress
 
 #### Completed
 
@@ -13,6 +13,9 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
+- [02-hearts] — transitioned: Not Started → In Progress (2026-04-10)
+- [queen-hearts] — transitioned: In Progress → Preparing
+- [02-hearts] — [Read The Little Book of Common Sense Investing] marked in progress
 - [10-hearts] — [db_prog > wk9] reopened; added annotation: 'Module 3 - lab 7'
 
 ---
