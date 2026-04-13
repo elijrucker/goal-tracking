@@ -10,6 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Completed
 
 - [10-hearts] — [db_prog > Project 2] closed (2026-04-12)
+- [10-hearts] — [db_prog > wk11] closed (2026-04-12)
 
 #### Added
 
@@ -18,6 +19,9 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
+- [10-hearts] — [db_prog > wk10] updated annotation: 'lab 8' → 'Module 3 - lab 8'
+- [10-hearts] — [db_prog > wk11] added annotation: 'Data Governance'
+- [10-hearts] — [db_prog > wk12] added annotation: 'Project 3 and Checkpoint Quiz #4'
 - [03-clubs] — [Chapter 7-8] added annotation: 'Started chapter 8, 2026-04-12'
 
 ---

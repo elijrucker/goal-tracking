@@ -74,9 +74,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk7
       - [x] wk8
       - [/] wk9 (Module 3 - lab 7)
-      - [ ] wk10 (lab 8)
-      - [ ] wk11
-      - [ ] wk12
+      - [ ] wk10 (Module 3 - lab 8)
+      - [x] wk11 (Data Governance)
+      - [ ] wk12 (Project 3 and Checkpoint Quiz #4)
       - [ ] wk13
       - [ ] wk14
       - [ ] wk15
