@@ -5,6 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-12] — 10-hearts progress; 03-clubs update
+
+#### Completed
+
+- [10-hearts] — [db_prog > Project 2] closed (2026-04-12)
+
+#### Added
+
+- [10-hearts] — [db_prog > Project 3] added (due 04/15)
+- [10-hearts] — [db_prog > Project 4] added
+
+#### Changed
+
+- [03-clubs] — [Chapter 7-8] added annotation: 'Started chapter 8, 2026-04-12'
+
+---
+
 ### [2026-04-11] — 02-hearts activation; queen-hearts status change; 10-hearts progress
 
 #### Completed
