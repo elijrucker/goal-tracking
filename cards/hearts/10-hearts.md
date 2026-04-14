@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Final Exam (due 05/15)
       - [x] wk7
       - [x] wk8
-      - [/] wk9
+      - [x] wk9
       - [ ] wk10
       - [ ] wk11
       - [ ] wk12
