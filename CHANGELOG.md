@@ -5,11 +5,29 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-14] — 10-hearts progress
+### [2026-04-15] — 10-hearts progress
 
 #### Completed
 
 - [10-hearts] — [agilePractices > wk9] closed (2026-04-14)
+
+---
+
+### [2026-04-14] — 10-hearts progress; 03-clubs progress
+
+#### Completed
+
+- [10-hearts] — [agilePractices > wk9] closed (2026-04-14)
+- [03-clubs] — [The Pragmatic Programmer > Chapter 7-8] closed (2026-04-14)
+
+#### Changed
+
+- [03-clubs] — [The Pragmatic Programmer > Chapter 9] marked in progress
+- [03-clubs] — [The Pragmatic Programmer > Note and apply key concepts] marked in progress
+
+#### Notes
+
+- [I realized two things while reading 'The Pragmatic Progammer'; I'd internalized the concepts when I'd started applying them outside of the scope of programming and to more general project management. I'll have to read the book again to better internalize all if its concepts.]
 
 ---
 
