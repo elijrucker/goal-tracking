@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-16] — 10-hearts progress; 05-hearts progress
+
+#### Completed
+
+- [10-hearts] — [05-hearts > Reach -20 lbs milestone] closed (2026-04-16)
+
+#### Changed
+
+- [10-hearts] — [agilePractices > wk10] marked in progress
+
+---
+
 ### [2026-04-15] — 10-hearts progress
 
 #### Completed
