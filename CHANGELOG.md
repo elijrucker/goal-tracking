@@ -5,11 +5,34 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-16] — 10-hearts progress; 05-hearts progress
+### [2026-04-19] — 03-clubs progress; 10-hearts progress
 
 #### Completed
 
-- [10-hearts] — [05-hearts > Reach -20 lbs milestone] closed (2026-04-16)
+- [03-clubs] — [The Pragmatic Programmer > Chapter 9: Pragmatic Projects] closed (2026-04-19)
+- [10-hearts] — [agilePractices > wk10] closed (2026-04-19)
+- [03-clubs] — [The Pragmatic Programmer > Chapter 10: Postface] closed (2026-04-19)
+- [03-clubs] — [The Pragmatic Programmer > Note and apply key concepts] closed (2026-04-19)
+
+#### Added
+
+- [03-clubs] — [The Pragmatic Programmer > Chapter 10: Postface] marked in progress
+
+#### Changed
+
+- [10-hearts] — [agilePractices > wk11] marked in progress
+
+#### Notes
+
+- [05-hearts] [I fit into size 34 jeans again as of last night]
+
+---
+
+### [2026-04-16] — 05-hearts progress; 10-hearts progress
+
+#### Completed
+
+- [05-hearts] — [Reach -20 lbs milestone] closed (2026-04-16)
 
 #### Changed
 

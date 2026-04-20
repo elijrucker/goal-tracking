@@ -60,8 +60,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk7
       - [x] wk8
       - [x] wk9
-      - [/] wk10
-      - [ ] wk11
+      - [x] wk10
+      - [/] wk11
       - [ ] wk12
       - [ ] wk13
       - [ ] wk14
