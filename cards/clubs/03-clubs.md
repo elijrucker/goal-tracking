@@ -51,7 +51,7 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [x] Certification Exam
   - [x] Career Guide
 
-- [/] The Pragmatic Programmer
+- [x] The Pragmatic Programmer
   - [x] Chapter 1-2: A Pragmatic Philosophy
   - [x] Chapter 3-4: A Pragmatic Approach / The Basic Tools
   - [x] Chapter 5-6: Pragmatic Paranoia / Bend or Break
@@ -62,9 +62,9 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 - [/] Microsoft Learn GitHub Foundations Part 2 of 2
   - [x] Contribute to an open-source project on GitHub
-  - [/] Manage an InnerSource program by using GitHub
-  - [ ] Maintain a secure repository by using GitHub best practices
-  - [ ] Introduction to GitHub administration
+  - [x] Manage an InnerSource program by using GitHub
+  - [x] Maintain a secure repository by using GitHub best practices
+  - [/] Introduction to GitHub administration
   - [ ] Authenticate and authorize user identities on GitHub
   - [ ] Manage repository changes by using pull requests on GitHub
   - [ ] Search and organize repository history by using GitHub

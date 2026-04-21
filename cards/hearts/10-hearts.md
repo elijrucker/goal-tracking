@@ -61,7 +61,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk8
       - [x] wk9
       - [x] wk10
-      - [/] wk11
+      - [x] wk11
       - [ ] wk12
       - [ ] wk13
       - [ ] wk14
@@ -76,7 +76,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk9
       - [x] wk10
       - [x] wk11
-      - [ ] wk12 (Project 3 and Checkpoint Quiz #4)
+      - [/] wk12 (Project 3)
       - [ ] wk13
       - [ ] wk14
       - [ ] wk15

@@ -5,6 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-20] — 10-hearts progress; 03-clubs progress
+
+#### Completed
+
+- [10-hearts] — [agilePractices > wk11] closed (2026-04-20)
+- [10-hearts] — [db_prog > wk12 > Checkpoint Quiz #4] closed (2026-04-20)
+- [03-clubs] — [The Pragmatic Programmer] closed (2026-04-20)
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 0f 2 > Manage an InnerSource program by using GitHub] closed (2026-04-20)
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Maintain a secure repository by using GitHub best practices] closed (2026-04-20)
+
+#### Changed
+
+- [10-hearts] — [db_prog > wk12] marked in progress
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Introduction to GitHub administration] marked in progress
+
+---
+
 ### [2026-04-19] — 03-clubs progress; 10-hearts progress
 
 #### Completed
