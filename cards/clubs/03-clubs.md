@@ -64,8 +64,8 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [x] Contribute to an open-source project on GitHub
   - [x] Manage an InnerSource program by using GitHub
   - [x] Maintain a secure repository by using GitHub best practices
-  - [/] Introduction to GitHub administration
-  - [ ] Authenticate and authorize user identities on GitHub
+  - [x] Introduction to GitHub administration
+  - [/] Authenticate and authorize user identities on GitHub
   - [ ] Manage repository changes by using pull requests on GitHub
   - [ ] Search and organize repository history by using GitHub
   - [ ] Using GitHub Copilot with Python

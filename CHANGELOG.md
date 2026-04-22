@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-21] — 03-clubs progress; 10-hearts progress
+
+#### Completed
+
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Introduction to GitHub administration] closed (2026-04-20)
+
+#### Changed
+
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Authenticate and authorize user identities on GitHub] marked in progress
+- [10-hearts] — [db_prog > Project 3] marked in progress
+
+---
+
 ### [2026-04-20] — 10-hearts progress; 03-clubs progress
 
 #### Completed
