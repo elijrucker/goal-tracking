@@ -6,11 +6,11 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 ## Summary
 
-- **Cards Completed**: 1 / 52
-- **Cards In Progress**: 9
+- **Cards Completed**: 2 / 52
+- **Cards In Progress**: 8
 - **Cards Preparing**: 3
-- **Current Streak**: 1 card
-- **Last Completed**: 2♦️ Markdown (2026-03-04)
+- **Current Streak**: 2 cards
+- **Last Completed**: 3♣️ Pragmatic Programmer (2026-04-23)
 - **Deck Started**: 2026-02-13
 
 ### Completion by Suit
@@ -18,17 +18,17 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Suit        | Completed | In Progress | Preparing | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | ----------- | ------ |
 | ♦️ Diamonds | 1         | 1           | 0         | 11          | 13     |
-| ♣️ Clubs    | 0         | 1           | 0         | 12          | 13     |
+| ♣️ Clubs    | 1         | 0           | 0         | 12          | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
 | ♥️ Hearts   | 0         | 3           | 3         | 7           | 13     |
 | 🃏 Jokers   | 0         | 2           | 0         | 0           | 2      |
-| **Total**   | **1**     | **9**       | **3**     | **41**      | **54** |
+| **Total**   | **2**     | **8**       | **3**     | **41**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 1         | 5           | 12    |
+| 🟢 Green (Foundational) | 2         | 4           | 12    |
 | 🔵 Blue (Moderate)      | 0         | 1           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 0           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 1           | 8     |
@@ -40,7 +40,6 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/12             |
 | 4♦️  | Foundational C# with Microsoft   | In Progress | 5/7              |
-| 3♣️  | Pragmatic Programmer             | In Progress | 12/22            |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
 | 3♠️  | CS Distilled                     | In Progress | 2/8              |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 5/12             |
@@ -56,6 +55,14 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Completed Cards
 
 Cards will be logged here as they are completed.
+
+---
+
+**3 of Clubs - Pragmatic Programmer**
+
+- Completed: 2026-04-23
+- Time Invested: ~17 hours (est.)
+- Key Takeaway: The Pragmatic Programmer's principles translated to immediate habit changes — the Day Book concept alone reshaped how daily notes are kept — and pairing it with Six Sigma process thinking and GitHub tooling made this one of the more practically dense foundational cards in the deck.
 
 ---
 
@@ -90,7 +97,7 @@ Cards will be logged here as they are completed.
 ### Suit Milestones
 
 - [x] Complete first card in Diamonds
-- [ ] Complete first card in Clubs
+- [x] Complete first card in Clubs
 - [ ] Complete first card in Spades
 - [ ] Complete first card in Hearts
 - [ ] Complete all Green cards in any suit

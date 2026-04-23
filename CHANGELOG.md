@@ -5,6 +5,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-23] — 03-clubs completed
+
+#### Completed
+
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Authenticate and authorize user identities on GitHub] closed (2026-04-23)
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Manage repository changes by using pull requests on GitHub] closed (2026-04-23)
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Search and organize repository history by using GitHub] closed (2026-04-23)
+- [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Using GitHub Copilot with Python] closed (2026-04-23)
+
+#### Changed
+
+- [03-clubs] — transitioned: In Progress → Complete (2026-04-23)
+
+---
+
 ### [2026-04-22] — 10-hearts progress
 
 #### Completed

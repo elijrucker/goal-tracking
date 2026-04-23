@@ -12,11 +12,11 @@
 
 ## Status
 
-- **Current Status**: In Progress
+- **Current Status**: Complete
 - **Start Date**: 2026-02-12
 - **Target Completion**: -
-- **Completion Date**:
-- **Time Invested**:
+- **Completion Date**: 2026-04-23
+- **Time Invested**: ~17 hours (est.)
 
 ---
 
@@ -60,15 +60,15 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
   - [x] Chapter 10: Postface
   - [x] Note and apply key concepts
 
-- [/] Microsoft Learn GitHub Foundations Part 2 of 2
+- [x] Microsoft Learn GitHub Foundations Part 2 of 2
   - [x] Contribute to an open-source project on GitHub
   - [x] Manage an InnerSource program by using GitHub
   - [x] Maintain a secure repository by using GitHub best practices
   - [x] Introduction to GitHub administration
-  - [/] Authenticate and authorize user identities on GitHub
-  - [ ] Manage repository changes by using pull requests on GitHub
-  - [ ] Search and organize repository history by using GitHub
-  - [ ] Using GitHub Copilot with Python
+  - [x] Authenticate and authorize user identities on GitHub
+  - [x] Manage repository changes by using pull requests on GitHub
+  - [x] Search and organize repository history by using GitHub
+  - [x] Using GitHub Copilot with Python
 
 ---
 
@@ -81,6 +81,8 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 ---
 
 ## Completion Notes
+
+- Spanned two domains: software craftsmanship (Pragmatic Programmer) and process/tooling (Lean Six Sigma, GitHub). Good early foundation for applied work across the deck.
 
 ---
 
