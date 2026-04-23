@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-22] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [db_prog > wk12] closed (2026-04-22)
+
+#### Process
+
+- [10-hearts] — [db_prog > Project 3] refactored as standalone subtask; separated from db_prog > wk12
+- [10-hearts] — [db_prog > Project 3] added annotation (Part A completed, Part B half completed)
+
+---
+
 ### [2026-04-21] — 03-clubs progress; 10-hearts progress
 
 #### Completed
