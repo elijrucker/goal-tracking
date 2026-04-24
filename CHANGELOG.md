@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-23] — 03-clubs completed
+### [2026-04-23] — 03-clubs completed; 10-hearts progress
 
 #### Completed
 
@@ -17,6 +17,8 @@ Format: [YYYY-MM-DD] — Description of change
 #### Changed
 
 - [03-clubs] — transitioned: In Progress → Complete (2026-04-23)
+- [10-hearts] — [agilePractices > wk12] marked in progress
+- [10-hearts] — [agilePractices > wk13] marked in progres
 
 ---
 
