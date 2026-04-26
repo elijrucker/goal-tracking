@@ -62,14 +62,14 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk9
       - [x] wk10
       - [x] wk11
-      - [/] wk12
-      - [/] wk13
+      - [x] wk12
+      - [x] wk13
       - [ ] wk14
       - [ ] wk15
       - [ ] wk16
     - [/] db_prog
       - [x] Project 2
-      - [/] Project 3 (Part A completed, Part B half completed)
+      - [x] Project 3
       - [ ] Project 4
       - [x] wk7
       - [x] wk8
