@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -51,6 +51,8 @@ Pass the AWS Certified Developer Associate (DVA-C02) certification exam. The ult
 ---
 
 ## Progress Notes
+
+- [2026-04-27] Active 10-hearts subtask (c4d course) is building foundational cloud and developer skills that directly prepare for further AWS material. Marking Preparing as groundwork is underway ahead of formal prerequisites.
 
 ---
 

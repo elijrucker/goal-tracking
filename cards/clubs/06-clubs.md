@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -52,6 +52,8 @@ Complete a focused algorithms course or resource using Python as the implementat
 ---
 
 ## Progress Notes
+
+- [2026-04-27] 10-hearts c4d course building Python and developer fundamentals that feed directly into this goal. Active LeetCode practice (9♣️ Preparing) creating a practical feedback loop with the algorithmic skills this card targets.
 
 ---
 

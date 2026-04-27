@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -40,7 +40,7 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 ## Subtasks
 
-- [ ] AWS Cloud Practitioner Essentials
+- [x] AWS Cloud Practitioner Essentials
 - [ ] Developer learning path modules
 - [ ] AWS core services (EC2, S3, Lambda, DynamoDB, etc.)
 - [ ] AWS security fundamentals
@@ -49,6 +49,8 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 ---
 
 ## Progress Notes
+
+- [2026-04-27] AWS Cloud Practitioner Essentials completed 2024-03-29 (certificate of completion achieved) — satisfies first subtask. 10-hearts c4d course building further AWS-adjacent developer foundation ahead of formal Skill Builder work.
 
 ---
 

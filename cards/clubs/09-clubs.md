@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -51,6 +51,8 @@ Establish a consistent LeetCode practice routine for algorithm and data structur
 ---
 
 ## Progress Notes
+
+- [2026-04-27] Already have an active LeetCode account and practicing on a weekly basis. Effort is not yet consistent enough to warrant "In Progress" status — marking Preparing until a regular cadence is established.
 
 ---
 

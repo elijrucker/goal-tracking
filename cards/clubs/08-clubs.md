@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -51,6 +51,8 @@ Work through Google's Technical Development Guide - a curated collection of reso
 ---
 
 ## Progress Notes
+
+- [2026-04-27] 10-hearts coursework and active LeetCode practice (9♣️ Preparing) building the CS and problem-solving foundation this guide is designed to strengthen and formalize.
 
 ---
 

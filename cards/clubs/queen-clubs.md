@@ -59,6 +59,8 @@ Build a complete full-stack application with a polished frontend, robust backend
 
 ## Progress Notes
 
+- [2026-04-27] 10-hearts coursework (c4d, db_prog, agile practices) lays significant foundational groundwork, but prerequisite club-suit goals (CS50W, intermediate and advanced projects) remain outstanding before a status update is warranted.
+
 ---
 
 ## Completion Notes

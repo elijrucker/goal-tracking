@@ -8,7 +8,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 - **Cards Completed**: 2 / 52
 - **Cards In Progress**: 8
-- **Cards Preparing**: 3
+- **Cards Preparing**: 10
 - **Current Streak**: 2 cards
 - **Last Completed**: 3♣️ Pragmatic Programmer (2026-04-23)
 - **Deck Started**: 2026-02-13
@@ -17,12 +17,12 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Suit        | Completed | In Progress | Preparing | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | ----------- | ------ |
-| ♦️ Diamonds | 1         | 1           | 0         | 11          | 13     |
-| ♣️ Clubs    | 1         | 0           | 0         | 12          | 13     |
+| ♦️ Diamonds | 1         | 1           | 3         | 8           | 13     |
+| ♣️ Clubs    | 1         | 0           | 4         | 8           | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
 | ♥️ Hearts   | 0         | 3           | 3         | 7           | 13     |
 | 🃏 Jokers   | 0         | 2           | 0         | 0           | 2      |
-| **Total**   | **2**     | **8**       | **3**     | **41**      | **54** |
+| **Total**   | **2**     | **8**       | **10**    | **34**      | **54** |
 
 ### Completion by Color Tier
 
@@ -47,6 +47,13 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
 | Q♥️  | Polish C1 Certification          | Preparing   | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
+| J♦️  | AWS Skill Builder Learning Plan  | Preparing   | 1/5              |
+| K♦️  | AWS DVA Prep Course              | Preparing   | 0/5              |
+| A♦️  | AWS Certified Developer Assoc.   | Preparing   | 0/4              |
+| 2♣️  | FCC Algorithms & Data Structures | Preparing   | 0/5              |
+| 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
+| 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
+| 9♣️  | LeetCode Practice                | Preparing   | 0/6              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/11             |
 | 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 1/7              |
 

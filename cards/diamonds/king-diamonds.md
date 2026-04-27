@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -50,6 +50,8 @@ Complete a comprehensive AWS Certified Developer Associate (DVA-C02) exam prepar
 ---
 
 ## Progress Notes
+
+- [2026-04-27] AWS Cloud Practitioner Essentials (March 2024) establishes base AWS knowledge ahead of DVA prep. 10-hearts c4d course building developer fundamentals that feed directly into this path.
 
 ---
 

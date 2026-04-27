@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: Preparing
+- **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -49,6 +49,8 @@ Complete FreeCodeCamp's Algorithms and Data Structures course (approximately 6 h
 ---
 
 ## Progress Notes
+
+- [2026-04-27] 10-hearts programming coursework (c4d, db_prog) building foundational CS and programming knowledge that this goal formalizes. Actively acquiring the baseline this card is designed to establish.
 
 ---
 
