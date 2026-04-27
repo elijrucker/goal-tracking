@@ -11,6 +11,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [db_prog > Project 3] closed (2026-04-26)
 
+#### Changed
+
+- [10-hearts] — [c4d > Project 2] marked in progress
+
+#### Process
+
+- [10-hearts] — [c4d > wk8] updated annotation (Project 2 pending, Midterm Exam outstanding)
+
 ---
 
 ### [2026-04-25] — 10-hearts progress
