@@ -57,6 +57,8 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Meditation / mindfulness practice
 - [ ] Additional language (German - useful for Berlin)
 - [ ] Contribute to Polish-speaking developer community
+- [ ] Minimize tax implications as a US citizen pre-relocation (unassigned — Red tier candidate)
+- [ ] Cross-border tax optimization as a US citizen in the EU (unassigned — Red tier candidate)
 
 ---
 
@@ -66,9 +68,9 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Review Log
 
-| Date | Items Reviewed | Added to Deck | Dropped |
-|------|---------------|---------------|---------|
-| 2026-02-13 | Initial backlog created | 0 | 0 |
+| Date       | Items Reviewed          | Added to Deck | Dropped |
+| ---------- | ----------------------- | ------------- | ------- |
+| 2026-02-13 | Initial backlog created | 0             | 0       |
 
 ---
 
@@ -76,4 +78,3 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 - Review backlog quarterly or after completing a card
 - Consider whether backlog items have become more or less relevant
-- Open slots in Diamonds (2 remaining) and any suit with future vacancies are candidates for backlog promotion

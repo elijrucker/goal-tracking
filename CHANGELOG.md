@@ -5,6 +5,27 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-28] — joker-1 Subtask Updates; Backlog Tax Strategy Cards Added
+
+#### Added
+
+- [BACKLOG] — added [Minimize tax implications as a US citizen pre-relocation] to Hearts backlog (unassigned, Red tier candidate)
+- [BACKLOG] — added [Cross-border tax optimization as a US citizen in the EU] to Hearts backlog (unassigned, Red tier candidate)
+- [joker-1] — [Minimize US financial footprint] added; marked in progress (Scheels Visa and Thrivent accounts closed; company stock liquidation pending)
+- [RESOURCES] — added Poland Business Harbour link under Hearts backlog section (tax strategy and relocation reference)
+
+#### Changed
+
+- [joker-1] — [German LinkedIn profile] added annotation (Refactor following: Featured, Experience, Education, Skills, Interests, Licenses/Certs, Projects)
+- [joker-1] — [Declutter and liquidate physical possessions prior to relocation] refactored wording: 'unused' → 'physical'
+
+#### Notes
+
+- Pre-relocation tax card captures US footprint simplification already underway
+- Post-relocation tax card scoped to ongoing FEIE/FTC strategy, US-Germany tax treaty, and EU brokerage compliance
+- Both cards held in backlog pending deck space; expected to promote before Berlin relocation
+- Financial footprint reduction remains tracked under joker-1 until a dedicated Hearts card is promoted
+
 ### [2026-04-27] — joker-1 update; multiple cards transitioned to preparing; 10-hearts update
 
 #### Changed
