@@ -45,7 +45,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [/] Spring 26
     - [/] c4d
       - [x] Project 1
-      - [/] Project 2
+      - [/] Project 2 (Customers table design and table verification (screenshots) outstanding 2026-04-27)
       - [ ] Project 3
       - [ ] Project 4
       - [ ] Midterm Exam

@@ -5,11 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-27] — joker-1 update; multiple cards transitioned to preparing
-
-#### Process
-
-- [joker-1] — [German LinkedIn profile] added annotation (Refactor following: Featured, Experience, Education, Skills, Interests, Licenses/Certs, Projects)
+### [2026-04-27] — joker-1 update; multiple cards transitioned to preparing; 10-hearts update
 
 #### Changed
 
@@ -22,6 +18,13 @@ Format: [YYYY-MM-DD] — Description of change
 - [06-clubs] — transitioned: Not Started → Preparing (2026-04-27)
 - [08-clubs] — transitioned: Not Started → Preparing (2026-04-27)
 - [queen-clubs] — added progress note: 10-hearts as foundational context (2026-04-27)
+
+#### Process
+
+- [joker-1] — [German LinkedIn profile] added annotation (Refactor following: Featured, Experience, Education, Skills, Interests, Licenses/Certs, Projects)
+- [04-diamonds] — [Debug C# Console Applications] updated annotation (5/7 Units Completed, 2026-04-27)
+- [10-hearts] — [c4d > Project 2] added annotation (Customers table design and table verification (screenshots) outstanding 2026-04-27)
+- [03-spades] — [Chapter 3: Strategy] added annotation (3.7 Dynamic Programming 2026-04-27)
 
 ---
 
