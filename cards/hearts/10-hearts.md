@@ -45,12 +45,13 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [/] Spring 26
     - [/] c4d
       - [x] Project 1
-      - [/] Project 2 (Customers table design and table verification (screenshots) outstanding 2026-04-27)
+      - [x] Project 2
       - [ ] Project 3
       - [ ] Project 4
-      - [ ] Midterm Exam
+      - [/] Midterm Exam
+      - [ ] Final Exam
       - [x] wk7
-      - [/] wk8 (Project 2 pending, Midterm Exam outstanding)
+      - [/] wk8 (NodeJS material)
       - [ ] wk9
       - [ ] wk10
       - [ ] wk11

@@ -5,7 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-28] — joker-1 Subtask Updates; Backlog Tax Strategy Cards Added
+### [2026-04-29] — 10-hearts progress
+
+#### Added
+
+- [10-hearts] — [c4d > Final Exam] added
+
+#### Changed
+
+- [10-hearts] — [c4d > Midterm Exam] marked in progress
+- [10-hearts] — [c4d > wk8] updated annotation (NodeJS material)
+
+---
+
+### [2026-04-28] — joker-1 Subtask Updates; Backlog Tax Strategy Cards Added; 10-hearts Progress
+
+#### Completed
+
+- [10-hearts] — [c4d > Project 2] closed (2026-04-28)
 
 #### Added
 
@@ -25,6 +42,8 @@ Format: [YYYY-MM-DD] — Description of change
 - Post-relocation tax card scoped to ongoing FEIE/FTC strategy, US-Germany tax treaty, and EU brokerage compliance
 - Both cards held in backlog pending deck space; expected to promote before Berlin relocation
 - Financial footprint reduction remains tracked under joker-1 until a dedicated Hearts card is promoted
+
+---
 
 ### [2026-04-27] — joker-1 update; multiple cards transitioned to preparing; 10-hearts update
 
