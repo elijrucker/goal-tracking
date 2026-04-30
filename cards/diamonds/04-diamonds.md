@@ -12,11 +12,11 @@
 
 ## Status
 
-- **Current Status**: In Progress
+- **Current Status**: Complete
 - **Start Date**: 2023-02-23
 - **Target Completion**: 2026-03-31
-- **Completion Date**:
-- **Time Invested**:
+- **Completion Date**: 2026-04-30
+- **Time Invested**: ~30 hrs (est.)
 
 ---
 
@@ -46,8 +46,8 @@ Complete the Foundational C# with Microsoft certification on FreeCodeCamp. Curre
 - [x] Add Logic to C# Console Applications (2024-10-05)
 - [x] Work with Variable Data in C# Console Applications (2026-01-13)
 - [x] Create Methods in C# Console Applications (2026-03-10)
-- [/] Debug C# Console Applications (5/7 Units Completed, 2026-04-27)
-- [ ] Complete certification exam
+- [x] Debug C# Console Applications (2026-04-30)
+- [x] Complete certification exam
 
 ---
 
@@ -55,10 +55,13 @@ Complete the Foundational C# with Microsoft certification on FreeCodeCamp. Curre
 
 - [2026-02-13] ~50% complete at deck initialization
 - [2026-03-23] Debug C# Console Applications promoted to in progress
+- [2026-04-30] Passed certification exam; card complete
 
 ---
 
 ## Completion Notes
+
+The concepts extend well beyond C# syntax — the course reinforced programming and software development principles that translate to higher-quality work in any language or environment.
 
 ---
 

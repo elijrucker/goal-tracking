@@ -6,29 +6,29 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 ## Summary
 
-- **Cards Completed**: 2 / 52
-- **Cards In Progress**: 8
+- **Cards Completed**: 3 / 52
+- **Cards In Progress**: 7
 - **Cards Preparing**: 10
-- **Current Streak**: 2 cards
-- **Last Completed**: 3♣️ Pragmatic Programmer (2026-04-23)
+- **Current Streak**: 3 cards
+- **Last Completed**: 4♦️ Foundational C# with Microsoft (2026-04-30)
 - **Deck Started**: 2026-02-13
 
 ### Completion by Suit
 
 | Suit        | Completed | In Progress | Preparing | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | ----------- | ------ |
-| ♦️ Diamonds | 1         | 1           | 3         | 8           | 13     |
+| ♦️ Diamonds | 2         | 0           | 3         | 8           | 13     |
 | ♣️ Clubs    | 1         | 0           | 4         | 8           | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
 | ♥️ Hearts   | 0         | 3           | 3         | 7           | 13     |
 | 🃏 Jokers   | 0         | 2           | 0         | 0           | 2      |
-| **Total**   | **2**     | **8**       | **10**    | **34**      | **54** |
+| **Total**   | **3**     | **7**       | **10**    | **34**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 2         | 4           | 12    |
+| 🟢 Green (Foundational) | 3         | 3           | 12    |
 | 🔵 Blue (Moderate)      | 0         | 1           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 0           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 1           | 8     |
@@ -39,7 +39,6 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/12             |
-| 4♦️  | Foundational C# with Microsoft   | In Progress | 5/7              |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
 | 3♠️  | CS Distilled                     | In Progress | 2/8              |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 5/12             |
@@ -62,6 +61,14 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Completed Cards
 
 Cards will be logged here as they are completed.
+
+---
+
+**4 of Diamonds - Foundational C# with Microsoft**
+
+- Completed: 2026-04-30
+- Time Invested: ~30 hrs (est.)
+- Key Takeaway: The concepts extend well beyond C# syntax — the course reinforced programming and software development principles that translate to higher-quality work in any language or environment.
 
 ---
 

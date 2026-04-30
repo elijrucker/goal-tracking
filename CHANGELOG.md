@@ -5,6 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-04-30] — 04-diamonds completed
+
+#### Completed
+
+- [04-diamonds] — [Debug C# Console Applications] closed (2026-04-30)
+- [04-diamonds] — [Complete certification exam] closed (2026-04-30)
+- [04-diamonds] — transitioned: In Progress → Complete (2026-04-30)
+
+---
+
 ### [2026-04-29] — 10-hearts progress; 03-spades progress
 
 #### Completed
