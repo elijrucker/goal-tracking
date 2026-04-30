@@ -5,13 +5,26 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-30] — 04-diamonds completed
+### [2026-04-30] — 04-diamonds completed; deck consistency review
 
 #### Completed
 
 - [04-diamonds] — [Debug C# Console Applications] closed (2026-04-30)
 - [04-diamonds] — [Complete certification exam] closed (2026-04-30)
 - [04-diamonds] — transitioned: In Progress → Complete (2026-04-30)
+- [05-hearts] — [Identify and eliminate processed foods from regular rotation] closed (2026-04-30)
+- [05-hearts] — [Integrate exercise and calorie tracking systems into daily routine] closed (2026-04-30)
+
+#### Changed
+
+- [08-diamonds] — [4♦️ - Foundational C# with Microsoft] prerequisite marked complete
+- [king-hearts] — removed stale progress notes (EPOL ETF and Wise PLN conversions liquidated)
+- [09-hearts] — cleared ambiguous start date
+
+#### Process
+
+- [PROGRESS] — 3♠️ subtask count corrected: 2/8 → 3/8
+- [PROGRESS] — 5♥️ subtask count corrected: 5/12 → 10/12
 
 ---
 
