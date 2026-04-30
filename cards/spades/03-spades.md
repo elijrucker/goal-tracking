@@ -42,7 +42,7 @@ Read Computer Science Distilled by Wladston Ferreira Filho. An accessible, conci
 
 - [x] Chapter 1: Basics
 - [x] Chapter 2: Complexity
-- [/] Chapter 3: Strategy (3.7 Dynamic Programming 2026-04-27)
+- [x] Chapter 3: Strategy (2026-04-29)
 - [ ] Chapter 4: Data
 - [ ] Chapter 5: Algorithms
 - [ ] Chapter 6: Databases

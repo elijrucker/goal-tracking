@@ -48,7 +48,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] Project 2
       - [ ] Project 3
       - [ ] Project 4
-      - [/] Midterm Exam
+      - [x] Midterm Exam
       - [ ] Final Exam
       - [x] wk7
       - [/] wk8 (NodeJS material)

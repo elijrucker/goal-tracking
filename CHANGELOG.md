@@ -5,7 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-04-29] — 10-hearts progress
+### [2026-04-29] — 10-hearts progress; 03-spades progress
+
+#### Completed
+
+- [10-hearts] — [c4d > Midterm Exam] closed (2026-04-29)
+- [03-spades] — [Chapter 3: Strategy] closed (2026-04-29)
 
 #### Added
 
