@@ -40,8 +40,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/12             |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
-| 3♠️  | CS Distilled                     | In Progress | 2/8              |
-| 5♥️  | Weight Loss: 25 lbs              | In Progress | 5/12             |
+| 3♠️  | CS Distilled                     | In Progress | 3/8              |
+| 5♥️  | Weight Loss: 25 lbs              | In Progress | 10/12            |
 | 6♥️  | South American Markets ($5K)     | Preparing   | 0/7              |
 | 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
 | Q♥️  | Polish C1 Certification          | Preparing   | 0/8              |

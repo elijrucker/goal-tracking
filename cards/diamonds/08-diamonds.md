@@ -35,7 +35,7 @@ Source or build an Anki deck for C# and establish a consistent spaced repetition
 
 ## Prerequisites
 
-- [ ] 4♦️ - Foundational C# with Microsoft
+- [x] 4♦️ - Foundational C# with Microsoft (completed 2026-04-30)
 
 ---
 

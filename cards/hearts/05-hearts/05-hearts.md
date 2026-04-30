@@ -54,8 +54,8 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [x] Plan plant-based protein sources (legumes, tofu, tempeh, seitan, nuts, seeds)
 - [x] Establish weekly meal prep routine (batch cooking 1-2x per week)
 - [x] Set up calorie tracking system (Green journal)
-- [/] Integrate exercise and calorie tracking systems into daily routine
-- [/] Identify and eliminate processed foods from regular rotation (Pull data from green journal)
+- [x] Integrate exercise and calorie tracking systems into daily routine
+- [x] Identify and eliminate processed foods from regular rotation
 - [x] Establish 1900 hours fasting routine (5 nights/week minimum)
 - [x] Reach -10 lbs milestone
 - [x] Reach -20 lbs milestone

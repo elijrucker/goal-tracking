@@ -61,9 +61,6 @@ Achieve $15,000 direct investment in Eastern European markets, made from within 
 
 ## Progress Notes
 
-- [2025-11-18]: Initial purchase of EPOL ETF shares
-- [2026-02-11]: First USD to PLN conversion in Wise, automated Wise funding
-
 ---
 
 ## Completion Notes
