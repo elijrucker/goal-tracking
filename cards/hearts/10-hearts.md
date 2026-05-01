@@ -51,7 +51,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] Midterm Exam
       - [ ] Final Exam
       - [x] wk7
-      - [/] wk8 (NodeJS material)
+      - [x] wk8
       - [ ] wk9
       - [ ] wk10
       - [ ] wk11
