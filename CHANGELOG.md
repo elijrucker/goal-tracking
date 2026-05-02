@@ -5,6 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-02] — 10-hearts progress
+
+#### Added
+
+- [10-hearts] — [c4d > wk13–wk16] added
+- [10-hearts] — [uiUx > wk15–wk16] added
+
+---
+
+### [2026-05-01] — 10-hearts progress
+
+#### Changed
+
+- [10-hearts] — [c4d > wk9] marked in progress (2026-05-01)
+
+---
+
 ### [2026-04-30] — 04-diamonds completed; 10-hearts progress; deck consistency review
 
 #### Completed

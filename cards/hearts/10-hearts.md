@@ -52,10 +52,14 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Final Exam
       - [x] wk7
       - [x] wk8
-      - [ ] wk9
+      - [/] wk9 (Watch - Lambda Layers)
       - [ ] wk10
       - [ ] wk11
       - [ ] wk12
+      - [ ] wk13
+      - [ ] wk14
+      - [ ] wk15
+      - [ ] wk16
     - [/] agilePractices
       - [ ] Final Exam (due 05/15)
       - [x] wk7
@@ -95,6 +99,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] wk12
       - [ ] wk13
       - [ ] wk14
+      - [ ] wk15
+      - [ ] wk16
   - [ ] Summer 26
     - [ ] jobSearchPrep (05/18–06/12)
     - [ ] advancedJavaScript (06/22–08/14)
