@@ -43,7 +43,7 @@ Read Computer Science Distilled by Wladston Ferreira Filho. An accessible, conci
 - [x] Chapter 1: Basics
 - [x] Chapter 2: Complexity
 - [x] Chapter 3: Strategy (2026-04-29)
-- [ ] Chapter 4: Data
+- [/] Chapter 4: Data (4.1, 2026-05-02)
 - [ ] Chapter 5: Algorithms
 - [ ] Chapter 6: Databases
 - [ ] Chapter 7: Computers

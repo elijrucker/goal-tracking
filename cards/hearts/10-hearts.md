@@ -52,14 +52,14 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Final Exam
       - [x] wk7
       - [x] wk8
-      - [/] wk9 (Watch - Lambda Layers)
-      - [ ] wk10
-      - [ ] wk11
-      - [ ] wk12
-      - [ ] wk13
-      - [ ] wk14
+      - [x] wk9
+      - [/] wk10 (Lab 9)
+      - [ ] wk11 (Quiz 7)
+      - [ ] wk12 (Project 3)
+      - [ ] wk13 (Quiz 8 / Lab 10)
+      - [ ] wk14 (Project 4, Quiz 9 / Lab 11)
       - [ ] wk15
-      - [ ] wk16
+      - [ ] wk16 (Final Exam)
     - [/] agilePractices
       - [ ] Final Exam (due 05/15)
       - [x] wk7

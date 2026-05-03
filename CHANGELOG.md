@@ -5,7 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-02] — 10-hearts progress
+### [2026-05-02] — 10-hearts progress; 03-spades progress
+
+#### Completed
+
+- [10-hearts] — [c4d > wk9] closed
+
+#### Changed
+
+- [10-hearts] — [c4d > wk10] marked in progress; added annotation (Lab 9)
+- [10-hearts] — [c4d > wk11] added annotation (Quiz 7)
+- [10-hearts] — [c4d > wk12] added annotation (Project 3)
+- [10-hearts] — [c4d > wk13] added annotation (Quiz 8 / Lab 10)
+- [10-hearts] — [c4d > wk14] added annotation (Project 4, Quiz 9 / Lab 11)
+- [10-hearts] — [c4d > wk16] added annotation (Final Exam)
+- [03-spades] — [Chapter 4] marked in progress; added annotation (4.1, 2026-05-02)
+
+---
 
 #### Added
 
@@ -18,7 +34,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [10-hearts] — [c4d > wk9] marked in progress (2026-05-01)
+- [10-hearts] — [c4d > wk9] marked in progress; added annotation (Watch - Lambda Layers)
 
 ---
 
