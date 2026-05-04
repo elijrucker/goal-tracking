@@ -69,7 +69,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk11
       - [x] wk12
       - [x] wk13
-      - [ ] wk14
+      - [x] wk14
       - [ ] wk15
       - [ ] wk16
     - [/] db_prog

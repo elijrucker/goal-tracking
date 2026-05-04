@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-03] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [agilePractices > wk14] closed
+
+#### Changed
+
+- [10-hearts] — [agilePractices > wk14] marked in progress
+
+---
+
 ### [2026-05-02] — 10-hearts progress; 03-spades progress
 
 #### Completed
@@ -20,8 +32,6 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [c4d > wk14] added annotation (Project 4, Quiz 9 / Lab 11)
 - [10-hearts] — [c4d > wk16] added annotation (Final Exam)
 - [03-spades] — [Chapter 4] marked in progress; added annotation (4.1, 2026-05-02)
-
----
 
 #### Added
 
