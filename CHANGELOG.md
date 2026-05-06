@@ -5,6 +5,22 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-05] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [c4d > wk10] closed
+- [10-hearts] — [c4d > wk11] closed
+
+#### Changed
+
+- [10-hearts] — [c4d > wk12] marked in progress
+- [10-hearts] — [c4d > wk11] marked in progress
+- [10-hearts] — [db_prog > wk15] added annotation (All labs due)
+- [10-hearts] — [db_prog > wk16] added annotation (Project 4)
+
+---
+
 ### [2026-05-04] — 10-hearts progress
 
 #### Completed

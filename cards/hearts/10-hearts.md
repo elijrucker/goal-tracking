@@ -53,9 +53,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk7
       - [x] wk8
       - [x] wk9
-      - [/] wk10 (Lab 9)
-      - [ ] wk11 (Quiz 7)
-      - [ ] wk12 (Project 3)
+      - [x] wk10
+      - [x] wk11
+      - [/] wk12 (Project 3)
       - [ ] wk13 (Quiz 8 / Lab 10)
       - [ ] wk14 (Project 4, Quiz 9 / Lab 11)
       - [ ] wk15
@@ -84,8 +84,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk12
       - [ ] wk13
       - [ ] wk14
-      - [ ] wk15
-      - [ ] wk16
+      - [ ] wk15 (All labs due)
+      - [ ] wk16 (Project 4)
     - [/] uiUx
       - [x] Project 2 (due 04/05)
       - [x] UI Quiz (due 04/05)
