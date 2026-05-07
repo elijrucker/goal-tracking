@@ -95,8 +95,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk8
       - [x] wk9
       - [x] wk10
-      - [/] wk11 (Assignments)
-      - [ ] wk12
+      - [x] wk11
+      - [/] wk12 (Lecture, Assignment)
       - [ ] wk13
       - [ ] wk14
       - [ ] wk15

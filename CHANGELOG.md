@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-06] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [uiUx > wk11] closed
+
+#### Changed
+
+- [10-hearts] — [uiUx > wk12] marked in progress; added annotation (Lecture, Assignment)
+
+---
+
 ### [2026-05-05] — 10-hearts progress
 
 #### Completed
