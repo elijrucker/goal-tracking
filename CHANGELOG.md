@@ -5,6 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-07] — 10-hearts progress; 03-spades progress
+
+#### Changed
+
+- [10-hearts] — [uiUx > wk12] updated annotation ('Some Basics' Assignment)
+- [10-hearts] — [c4d > wk12] updated annotation (Project 3 - API Gateway)
+- [03-spades] — [Chapter 4: Data] updated annotation (4.5 The Tree, 2026-05-07)
+
+---
+
 ### [2026-05-06] — 10-hearts progress
 
 #### Completed

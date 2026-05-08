@@ -55,7 +55,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk9
       - [x] wk10
       - [x] wk11
-      - [/] wk12 (Project 3)
+      - [/] wk12 (Project 3 - API Gateway)
       - [ ] wk13 (Quiz 8 / Lab 10)
       - [ ] wk14 (Project 4, Quiz 9 / Lab 11)
       - [ ] wk15
@@ -96,7 +96,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk9
       - [x] wk10
       - [x] wk11
-      - [/] wk12 (Lecture, Assignment)
+      - [/] wk12 ('Some Basics' Assignment)
       - [ ] wk13
       - [ ] wk14
       - [ ] wk15
