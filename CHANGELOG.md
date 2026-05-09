@@ -5,6 +5,27 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-09] — 09-clubs update
+
+#### Changed
+
+- [09-clubs] — refactored goal description and subtasks: interview-readiness → knowledge acquisition focus; updated Start Date → 2026-05-14
+
+---
+
+### [2026-05-08] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [c4d > wk12] closed
+- [10-hearts] — [c4d > Project 3] closed
+
+#### Changed
+
+- [10-hearts] — [c4d > wk13] marked in progress; updated annotation (Pending CodePipeline Tutorial, Outstanding Quiz 8 / Lab 10)
+
+---
+
 ### [2026-05-07] — 10-hearts progress; 03-spades progress
 
 #### Changed

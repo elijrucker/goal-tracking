@@ -13,7 +13,7 @@
 ## Status
 
 - **Current Status**: Preparing
-- **Start Date**: 2026-04-27
+- **Start Date**: 2026-05-14
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -22,7 +22,9 @@
 
 ## Goal Description
 
-Establish a consistent LeetCode practice routine for algorithm and data structure problem solving. Primary purpose is interview preparation, particularly relevant for the Berlin developer job goal (Joker 1). Ongoing practice platform - completion milestone could be defined as solving a target number of problems or achieving a specific problem difficulty distribution.
+Build genuine understanding of algorithms and data structures through consistent, curiosity-driven problem solving.
+Problems are treated as opportunities to see theory in action rather than solutions to memorize. Practice begins in collaborative/lab mode — working through Easy problems sequentially to develop intuition before scaling difficulty.
+Interview readiness is a byproduct of deep understanding, not the primary driver. Completion milestone defined as achieving a target problem distribution across difficulty tiers with demonstrated comprehension at each level.
 
 ---
 
@@ -41,12 +43,13 @@ Establish a consistent LeetCode practice routine for algorithm and data structur
 
 ## Subtasks
 
+- [ ] Work through Easy problems sequentially in collaborative/lab mode (theory-focused, no time pressure)
 - [ ] Complete LeetCode 75 (curated study plan)
 - [ ] Solve 50 Easy problems
 - [ ] Solve 30 Medium problems
 - [ ] Solve 10 Hard problems
+- [ ] Review and internalize all solutions — prioritize understanding over output
 - [ ] Focus on company-tagged problems relevant to target employers
-- [ ] Review and understand all solutions thoroughly
 
 ---
 

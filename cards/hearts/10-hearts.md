@@ -46,7 +46,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] c4d
       - [x] Project 1
       - [x] Project 2
-      - [ ] Project 3
+      - [x] Project 3
       - [ ] Project 4
       - [x] Midterm Exam
       - [ ] Final Exam
@@ -55,8 +55,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk9
       - [x] wk10
       - [x] wk11
-      - [/] wk12 (Project 3 - API Gateway)
-      - [ ] wk13 (Quiz 8 / Lab 10)
+      - [x] wk12
+      - [/] wk13 (Pending CodePipeline Tutorial, Outstanding Quiz 8 / Lab 10)
       - [ ] wk14 (Project 4, Quiz 9 / Lab 11)
       - [ ] wk15
       - [ ] wk16 (Final Exam)
