@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-09] — 09-clubs update
+### [2026-05-09] — 10-hearts progress; 09-clubs update
+
+#### Completed
+
+- [10-hearts] — [uiUx > wk12] closed
 
 #### Changed
 
 - [09-clubs] — refactored goal description and subtasks: interview-readiness → knowledge acquisition focus; updated Start Date → 2026-05-14
+
+- [10-hearts] — [c4d > wk13] updated annotation (Lab 10 in progress, pending Quiz 8)
+- [10-hearts] — [c4d > wk14] updated annotation (Lab 11, Quiz 9)
+- [10-hearts] — [c4d > wk15] updated annotation (Project 4)
 
 ---
 

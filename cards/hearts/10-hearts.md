@@ -56,9 +56,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk10
       - [x] wk11
       - [x] wk12
-      - [/] wk13 (Pending CodePipeline Tutorial, Outstanding Quiz 8 / Lab 10)
-      - [ ] wk14 (Project 4, Quiz 9 / Lab 11)
-      - [ ] wk15
+      - [/] wk13 (Lab 10 in progress, pending Quiz 8)
+      - [ ] wk14 (Lab 11, Quiz 9)
+      - [ ] wk15 (Project 4)
       - [ ] wk16 (Final Exam)
     - [/] agilePractices
       - [ ] Final Exam (due 05/15)
@@ -96,7 +96,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk9
       - [x] wk10
       - [x] wk11
-      - [/] wk12 ('Some Basics' Assignment)
+      - [x] wk12
       - [ ] wk13
       - [ ] wk14
       - [ ] wk15
