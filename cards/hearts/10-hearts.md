@@ -56,8 +56,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk10
       - [x] wk11
       - [x] wk12
-      - [/] wk13 (Lab 10 in progress, pending Quiz 8)
-      - [ ] wk14 (Lab 11, Quiz 9)
+      - [x] wk13
+      - [/] wk14 (Lab 11, Quiz 9)
       - [ ] wk15 (Project 4)
       - [ ] wk16 (Final Exam)
     - [/] agilePractices
@@ -70,8 +70,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk12
       - [x] wk13
       - [x] wk14
-      - [ ] wk15
-      - [ ] wk16
+      - [ ] wk15 (Mindset Assignment)
+      - [ ] wk16 (Final Exam)
     - [/] db_prog
       - [x] Project 2
       - [x] Project 3
@@ -82,9 +82,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk10
       - [x] wk11
       - [x] wk12
-      - [ ] wk13
-      - [ ] wk14
-      - [ ] wk15 (All labs due)
+      - [-] wk13 (Lab 9)
+      - [-] wk14 (lab 10)
+      - [-] wk15 (Lab 11)
       - [ ] wk16 (Project 4)
     - [/] uiUx
       - [x] Project 2 (due 04/05)
@@ -97,10 +97,10 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk10
       - [x] wk11
       - [x] wk12
-      - [ ] wk13
-      - [ ] wk14
-      - [ ] wk15
-      - [ ] wk16
+      - [ ] wk13 (Accessible Menu)
+      - [ ] wk14 (Accessible Form)
+      - [ ] wk15 (A11y Quiz)
+      - [ ] wk16 (Project 3)
   - [ ] Summer 26
     - [ ] jobSearchPrep (05/18–06/12)
     - [ ] advancedJavaScript (06/22–08/14)

@@ -5,6 +5,43 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-11] — 10-hearts db_prog update
+
+#### Changed
+
+- [10-hearts] — [db_prog > wk13–wk15] marked skipped
+
+#### Process
+
+- [CLAUDE.md] — added `[-]` skipped state to checkbox vocabulary
+
+#### Notes
+
+- [10-hearts] — [db_prog > wk13–wk15] skipped: material substantially covered by professional experience; remaining time invested in Project 4
+
+---
+
+### [2026-05-10] — 10-hearts progress
+
+#### Completed
+
+- [10-hearts] — [c4d > wk13] closed
+
+#### Changed
+
+- [10-hearts] — [db_prog > wk13] marked in progress; updated annotation (Lab 9)
+- [10-hearts] — [db_prog > wk14] marked in progress
+- [10-hearts] — [db_prog > wk14] updated annotation (Lab 10)
+- [10-hearts] — [db_prog > wk15] updated annotation (Lab 11)
+- [10-hearts] — [uiUx > wk13] added annotation (Accessible Menu)
+- [10-hearts] — [uiUx > wk14] added annotation (Accessible Form)
+- [10-hearts] — [uiUx > wk15] added annotation (A11y Quiz)
+- [10-hearts] — [uiUx > wk16] added annotation (Project 3)
+- [10-hearts] — [agilePractices > wk15] added annotation (Mindset Assignment)
+- [10-hearts] — [agilePractices > wk16] added annotation (Final Exam)
+
+---
+
 ### [2026-05-09] — 10-hearts progress; 09-clubs update
 
 #### Completed
@@ -14,7 +51,6 @@ Format: [YYYY-MM-DD] — Description of change
 #### Changed
 
 - [09-clubs] — refactored goal description and subtasks: interview-readiness → knowledge acquisition focus; updated Start Date → 2026-05-14
-
 - [10-hearts] — [c4d > wk13] updated annotation (Lab 10 in progress, pending Quiz 8)
 - [10-hearts] — [c4d > wk14] updated annotation (Lab 11, Quiz 9)
 - [10-hearts] — [c4d > wk15] updated annotation (Project 4)
