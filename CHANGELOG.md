@@ -5,7 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-11] — 10-hearts db_prog update
+### [2026-05-11] — 10-hearts c4d closed; 10-hearts agilePractices closed
+
+#### Completed
+
+- [10-hearts] — [c4d > wk14–wk16] closed
+- [10-hearts] — [c4d > Project 4] closed
+- [10-hearts] — [c4d > Final Exam] closed
+- [10-hearts] — [c4d] closed
+- [10-hearts] — [agilePractices > wk15–wk16] closed
+- [10-hearts] — [agilePractices > Final Exam] closed
+- [10-hearts] — [agilePractices] closed
 
 #### Changed
 

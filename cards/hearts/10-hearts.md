@@ -43,25 +43,13 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] Complete remaining required courses
   - [/] Spring 26
-    - [/] c4d
+    - [x] c4d
       - [x] Project 1
       - [x] Project 2
       - [x] Project 3
-      - [ ] Project 4
+      - [x] Project 4
       - [x] Midterm Exam
-      - [ ] Final Exam
-      - [x] wk7
-      - [x] wk8
-      - [x] wk9
-      - [x] wk10
-      - [x] wk11
-      - [x] wk12
-      - [x] wk13
-      - [/] wk14 (Lab 11, Quiz 9)
-      - [ ] wk15 (Project 4)
-      - [ ] wk16 (Final Exam)
-    - [/] agilePractices
-      - [ ] Final Exam (due 05/15)
+      - [x] Final Exam
       - [x] wk7
       - [x] wk8
       - [x] wk9
@@ -70,8 +58,20 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk12
       - [x] wk13
       - [x] wk14
-      - [ ] wk15 (Mindset Assignment)
-      - [ ] wk16 (Final Exam)
+      - [x] wk15
+      - [x] wk16
+    - [x] agilePractices
+      - [x] Final Exam
+      - [x] wk7
+      - [x] wk8
+      - [x] wk9
+      - [x] wk10
+      - [x] wk11
+      - [x] wk12
+      - [x] wk13
+      - [x] wk14
+      - [x] wk15
+      - [x] wk16
     - [/] db_prog
       - [x] Project 2
       - [x] Project 3
