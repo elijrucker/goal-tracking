@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-12] — Changelog annotation convention; 10-hearts uiUx progress; 03-spades progress
+
+#### Completed
+
+- [10-hearts] — [uiUx > wk13] closed
+- [10-hearts] — [uiUx > wk14] closed
+- [03-spades] — [Chapter 4: Data] closed
+
+#### Changed
+
+- [03-spades] — [Chapter 5: Algorithms] marked in progress
+
+#### Process
+
+- [CHANGELOG] — established `updated annotation: last touched (date)` qualifier for date-tracking annotations on in-progress subtasks; completion date annotations require no changelog entry — temporal event captured by `closed` action
+
+---
+
 ### [2026-05-11] — 10-hearts c4d closed; 10-hearts agilePractices closed
 
 #### Completed

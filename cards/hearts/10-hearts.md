@@ -87,8 +87,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [-] wk15 (Lab 11)
       - [ ] wk16 (Project 4)
     - [/] uiUx
-      - [x] Project 2 (due 04/05)
-      - [x] UI Quiz (due 04/05)
+      - [x] Project 2
+      - [x] UI Quiz
       - [ ] Project 3 (due 05/13)
       - [ ] A11y Quiz (due 05/13)
       - [x] wk7
@@ -97,8 +97,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] wk10
       - [x] wk11
       - [x] wk12
-      - [ ] wk13 (Accessible Menu)
-      - [ ] wk14 (Accessible Form)
+      - [x] wk13
+      - [x] wk14
       - [ ] wk15 (A11y Quiz)
       - [ ] wk16 (Project 3)
   - [ ] Summer 26
