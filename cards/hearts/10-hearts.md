@@ -42,65 +42,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Subtasks
 
 - [/] Complete remaining required courses
-  - [/] Spring 26
-    - [x] c4d
-      - [x] Project 1
-      - [x] Project 2
-      - [x] Project 3
-      - [x] Project 4
-      - [x] Midterm Exam
-      - [x] Final Exam
-      - [x] wk7
-      - [x] wk8
-      - [x] wk9
-      - [x] wk10
-      - [x] wk11
-      - [x] wk12
-      - [x] wk13
-      - [x] wk14
-      - [x] wk15
-      - [x] wk16
-    - [x] agilePractices
-      - [x] Final Exam
-      - [x] wk7
-      - [x] wk8
-      - [x] wk9
-      - [x] wk10
-      - [x] wk11
-      - [x] wk12
-      - [x] wk13
-      - [x] wk14
-      - [x] wk15
-      - [x] wk16
-    - [/] db_prog
-      - [x] Project 2
-      - [x] Project 3
-      - [ ] Project 4
-      - [x] wk7
-      - [x] wk8
-      - [x] wk9
-      - [x] wk10
-      - [x] wk11
-      - [x] wk12
-      - [-] wk13 (Lab 9)
-      - [-] wk14 (lab 10)
-      - [-] wk15 (Lab 11)
-      - [ ] wk16 (Project 4)
-    - [/] uiUx
-      - [x] Project 2
-      - [x] UI Quiz
-      - [ ] Project 3 (due 05/13)
-      - [ ] A11y Quiz (due 05/13)
-      - [x] wk7
-      - [x] wk8
-      - [x] wk9
-      - [x] wk10
-      - [x] wk11
-      - [x] wk12
-      - [x] wk13
-      - [x] wk14
-      - [ ] wk15 (A11y Quiz)
-      - [ ] wk16 (Project 3)
   - [ ] Summer 26
     - [ ] jobSearchPrep (05/18–06/12)
     - [ ] advancedJavaScript (06/22–08/14)
@@ -127,6 +68,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-05-14] db_prog incomplete; Project 4 and wk16 deferred to Fall 26
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year
 - Actively retaking select courses to improve cumulative GPA (ongoing, noted 2026-03-18)

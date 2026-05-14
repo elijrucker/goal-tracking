@@ -5,6 +5,22 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-13] — 10-hearts uiUx closed; 10-hearts db_prog deferral
+
+#### Completed
+
+- [10-hearts] — [uiUx > wk15] closed
+- [10-hearts] — [uiUx > A11y Quiz] closed
+- [10-hearts] — [uiUx > wk16] closed
+- [10-hearts] — [uiUx > Project 3] closed
+
+#### Changed
+
+- [10-hearts] — [db_prog > Project 4] deferred to Fall 26
+- [10-hearts] — [db_prog > wk16] deferred to Fall 26
+
+---
+
 ### [2026-05-12] — Changelog annotation convention; 10-hearts uiUx progress; 03-spades progress
 
 #### Completed
