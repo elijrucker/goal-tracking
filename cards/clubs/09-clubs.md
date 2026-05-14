@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Preparing
+- **Current Status**: In Progress
 - **Start Date**: 2026-05-14
 - **Target Completion**:
 - **Completion Date**:
@@ -55,6 +55,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-05-14] Transitioned to In Progress — weekly LeetCode practice ongoing, building toward consistent daily cadence
 - [2026-04-27] Already have an active LeetCode account and practicing on a weekly basis. Effort is not yet consistent enough to warrant "In Progress" status — marking Preparing until a regular cadence is established.
 
 ---

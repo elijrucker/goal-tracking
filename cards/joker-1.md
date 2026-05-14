@@ -84,6 +84,7 @@ This wildcard goal ties together multiple threads:
 ## Subtasks
 
 - [/] German LinkedIn profile (Refactor following: Featured, Experience, Education, Skills, Interests, Licenses/Certs, Projects)
+- [ ] Complete Job Search Preparation course (MATC, 05/18–06/12) — supports career transition narrative and resume/interview readiness
 - [ ] German resume and portfolio website
 - [ ] Ensure 2-3 strong portfolio projects are live and documented
 - [ ] Research Berlin companies and tech scene

@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Preparing
+- **Current Status**: In Progress
 - **Start Date**: 2026-04-27
 - **Target Completion**:
 - **Completion Date**:
@@ -50,6 +50,7 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 ## Progress Notes
 
+- [2026-05-14] Transitioned to In Progress — daily touch points established alongside summer coursework
 - [2026-04-27] AWS Cloud Practitioner Essentials completed 2024-03-29 (certificate of completion achieved) — satisfies first subtask. 10-hearts c4d course building further AWS-adjacent developer foundation ahead of formal Skill Builder work.
 
 ---

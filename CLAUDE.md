@@ -43,3 +43,7 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 3. When a card's status changes to `Complete`, also update `PROGRESS.md` counts and milestone checkboxes
 4. Progress Notes entries should be prefixed with a bracketed date (e.g., `- [2026-02-17] Completed Chapter 3`)
 5. If a card has a subdirectory (e.g., `05-hearts/`), supplementary materials like matrices or trackers live there alongside the card file
+
+## Changelog Conventions
+
+**Entry header order** — When a single day's header covers multiple events, list them in descending order of significance: major milestones and status transitions first, routine progress updates last. Example: `Post-Semester Retro; Status Transitions; joker-2 apparel closed`.

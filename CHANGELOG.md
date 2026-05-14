@@ -5,10 +5,35 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-14] — Post-Semester Retro; Status Transitions; joker-2 apparel closed
+
+#### Completed
+
+- [joker-2] — [Acquire one piece of AMG branded apparel] closed
+
+#### Changed
+
+- [jack-diamonds] — transitioned: Preparing → In Progress
+- [09-clubs] — transitioned: Preparing → In Progress
+- [joker-1] — added Job Search Preparation course subtask
+
+#### Process
+
+- [PROGRESS] — 3♠️ subtask count corrected: 3/8 → 4/8
+
+#### Notes
+
+- Spring 2026 semester complete; 3/4 courses finished, db_prog deferred to Fall 2026
+- Summer 2026 courses confirmed: jobSearchPrep, advancedJavaScript, technicalReporting, introPhilosophy
+- Comprehensive deck retro completed; summer strategy established
+
+---
+
 ### [2026-05-13] — 10-hearts uiUx closed; 10-hearts db_prog deferral
 
 #### Completed
 
+- [joker-2] — [Acquire one piece of AMG branded apparel] closed
 - [10-hearts] — [uiUx > wk15] closed
 - [10-hearts] — [uiUx > A11y Quiz] closed
 - [10-hearts] — [uiUx > wk16] closed

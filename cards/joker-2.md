@@ -48,10 +48,10 @@ This is the one card in the deck reserved purely for personal enjoyment, serving
 
 ## Subtasks
 
-- [ ] Maintain and refine saved AMG configurator build (colour, trim, interior, packages)
+- [/] Maintain and refine saved AMG configurator build (colour, trim, interior, packages)
 - [x] Source cinematic wallpaper for phone/desktop — atmospheric, not a press shot
 - [ ] Select and save first drive route (e.g. Großglockner, Tatra Mountains)
-- [/] Acquire one piece of AMG branded apparel (polo or similar)
+- [x] Acquire one piece of AMG branded apparel (polo or similar)
 - [ ] Research EU vehicle ownership logistics (insurance, registration)
 - [ ] Define target model and budget range
 - [ ] Acquire vehicle

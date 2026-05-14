@@ -7,8 +7,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 3 / 52
-- **Cards In Progress**: 7
-- **Cards Preparing**: 10
+- **Cards In Progress**: 9
+- **Cards Preparing**: 8
 - **Current Streak**: 3 cards
 - **Last Completed**: 4♦️ Foundational C# with Microsoft (2026-04-30)
 - **Deck Started**: 2026-02-13
@@ -17,12 +17,12 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Suit        | Completed | In Progress | Preparing | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | ----------- | ------ |
-| ♦️ Diamonds | 2         | 0           | 3         | 8           | 13     |
-| ♣️ Clubs    | 1         | 0           | 4         | 8           | 13     |
+| ♦️ Diamonds | 2         | 1           | 2         | 8           | 13     |
+| ♣️ Clubs    | 1         | 1           | 3         | 8           | 13     |
 | ♠️ Spades   | 0         | 2           | 0         | 11          | 13     |
 | ♥️ Hearts   | 0         | 3           | 3         | 7           | 13     |
 | 🃏 Jokers   | 0         | 2           | 0         | 0           | 2      |
-| **Total**   | **3**     | **7**       | **10**    | **34**      | **54** |
+| **Total**   | **3**     | **9**       | **8**     | **34**      | **54** |
 
 ### Completion by Color Tier
 
@@ -30,8 +30,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ----------------------- | --------- | ----------- | ----- |
 | 🟢 Green (Foundational) | 3         | 3           | 12    |
 | 🔵 Blue (Moderate)      | 0         | 1           | 12    |
-| 🟡 Yellow (Substantial) | 0         | 0           | 8     |
-| 🟠 Orange (Advanced)    | 0         | 1           | 8     |
+| 🟡 Yellow (Substantial) | 0         | 1           | 8     |
+| 🟠 Orange (Advanced)    | 0         | 2           | 8     |
 | 🔴 Red (Elite)          | 0         | 0           | 12    |
 
 ### Active Cards
@@ -40,21 +40,21 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/12             |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
-| 3♠️  | CS Distilled                     | In Progress | 3/8              |
+| 3♠️  | CS Distilled                     | In Progress | 4/8              |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 10/12            |
 | 6♥️  | South American Markets ($5K)     | Preparing   | 0/7              |
 | 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
 | Q♥️  | Polish C1 Certification          | Preparing   | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
-| J♦️  | AWS Skill Builder Learning Plan  | Preparing   | 1/5              |
+| J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/5              |
 | K♦️  | AWS DVA Prep Course              | Preparing   | 0/5              |
 | A♦️  | AWS Certified Developer Assoc.   | Preparing   | 0/4              |
 | 2♣️  | FCC Algorithms & Data Structures | Preparing   | 0/5              |
 | 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
 | 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
-| 9♣️  | LeetCode Practice                | Preparing   | 0/6              |
-| 🃏1  | Software Developer Job in Berlin | In Progress | 0/13             |
-| 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 1/7              |
+| 9♣️  | LeetCode Practice                | In Progress | 0/7              |
+| 🃏1  | Software Developer Job in Berlin | In Progress | 0/14             |
+| 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 2/7              |
 
 ---
 
