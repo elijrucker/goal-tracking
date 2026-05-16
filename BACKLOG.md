@@ -64,6 +64,8 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Wildcard / Joker Ideas
 
+- [ ] (Relocate to a tax-friendly location (currently considering Cyprus or Malta))
+
 ---
 
 ## Review Log

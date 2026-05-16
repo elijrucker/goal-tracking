@@ -63,7 +63,7 @@ This wildcard goal ties together multiple threads:
 
 - [ ] A♦️ - AWS Certified Developer Associate (portfolio credential)
 - [ ] Q♣️ - Full-Stack Application (portfolio project)
-- [ ] 9♣️ - LeetCode Practice (interview readiness)
+- [/] 9♣️ - LeetCode Practice (interview readiness)
 - [ ] A♣️ - Open Source Contribution (demonstrates collaboration)
 
 **Highly Recommended:**

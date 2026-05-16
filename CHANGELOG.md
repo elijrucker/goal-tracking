@@ -5,11 +5,42 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-14] — Post-Semester Retro; Status Transitions; joker-2 apparel closed
+### [2026-05-15] — 09-clubs progress; jack-diamonds progress; 10-hearts updates; joker progress; 03-spades progress; BACKLOG refinement
 
-#### Completed
+#### Added
 
-- [joker-2] — [Acquire one piece of AMG branded apparel] closed
+- [BACKLOG] — [(Relocate to a tax-friendly location (currently considering Cyprus or Malta))] added to Wildcard / Joker Ideas backlog
+- [09-clubs] — [Complete The LeetCode Beginner's Guide] added; marked in progress
+- [09-clubs] — [Complete 30 Days of JavaScript Study Plan] added; marked in progress
+- [09-clubs] — [Complete Shell-specific problems] added
+- [jack-diamonds] — [Developer learning path modules > Phase 0-Phase 6] added
+- [jack-diamonds] — [Review AWS DVA-C02 exam guide] added
+- [jack-diamonds] — [Complete AWS Skill Builder practice questions/knowledge checks] added
+
+#### Changed
+
+- [joker-2] — [Maintain and refine saved AMG configurator build] marked in progress
+- [joker-1] — [9♣️ - LeetCode Practice (interview readiness)] marked in progress
+- [jack-diamonds] — [Start Date] updated to today 2026-05-15
+- [09-clubs] — [Work through Easy problems sequentially in collaborative/lab mode] merged with [Complete LeetCode 75] → [Complete LeetCode 75 sequentially in collaborative/lab mode]
+- [09-clubs] — [Solve 50 Easy problems] added annotation (Consider mix of Database, Algorithms, and Concurrency problems)
+- [09-clubs] — [Solve 30 Medium problems] added annotation (Consider mix of Database, Algorithms, and Concurrency problems)
+- [09-clubs] — [Complete The LeetCode Beginner's Guide] added annotation (2236.Root Equals Sum of Children)
+- [09-clubs] — [Target Completion] set to 2026-12-31
+- [jack-diamonds] — [Target Completion] set to 2026-07-31
+- [king-diamonds] — [Target Completion] set to 2026-09-30
+- [ace-diamonds] — [Target Completion] set to 2026-10-31
+- [05-hearts] — [Reach -25lbs milestone] added annotation (within 2.2lbs of subtask completion)
+- [10-hearts] — [Confirm whether existing CS coursework satisfies the elective (CS1/CS2)] dropped; subtask refers to subject matter not within scope of parent task
+- [10-hearts] — [Confirm whether 5♠️ Discrete Mathematics satisfies the elective] dropped; subtask refers to subject matter not within scope of parent task
+- [jack-diamonds] — [AWS core services] dropped; redundant subtask covered in [Developer learning path module]
+- [jack-diamonds] — [AWS security fundamentals] dropped; redundant subtask covered in [Developer learning path module]
+- [jack-diamonds] — [Complete all learning plan modules] dropped; redundant subtask covered in [Developer learning path module]
+- [03-spades] — [Chapter 5: Algorithms] updated annotation (5.2-5.3, 2026-05-15)
+
+---
+
+### [2026-05-14] — Post-Semester Retro; Status Transitions
 
 #### Changed
 

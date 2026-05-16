@@ -46,13 +46,13 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
 | Q♥️  | Polish C1 Certification          | Preparing   | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
-| J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/5              |
+| J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
 | K♦️  | AWS DVA Prep Course              | Preparing   | 0/5              |
 | A♦️  | AWS Certified Developer Assoc.   | Preparing   | 0/4              |
 | 2♣️  | FCC Algorithms & Data Structures | Preparing   | 0/5              |
 | 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
 | 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
-| 9♣️  | LeetCode Practice                | In Progress | 0/7              |
+| 9♣️  | LeetCode Practice                | In Progress | 0/9              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/14             |
 | 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 2/7              |
 

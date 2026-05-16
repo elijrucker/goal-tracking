@@ -51,8 +51,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Pull Franklin University MATC articulation agreement
     - [ ] Confirm Franklin's math requirement and which MATC courses/CLEP exams satisfy it
     - [ ] Confirm credit-by-exam options with MATC advising (CLEP College Algebra, Precalculus, Calculus, or equivalent)
-    - [ ] Confirm whether existing CS coursework satisfies the elective (CS1/CS2)
-    - [ ] Confirm whether 5♠️ Discrete Mathematics satisfies the elective
     - [ ] Complete algebra review (Khan Academy / Professor Leonard / ALEKS)
     - [ ] Complete pre-calculus foundations (Professor Leonard / OpenStax)
     - [ ] Complete freeCodeCamp College Calculus (Python/SymPy)

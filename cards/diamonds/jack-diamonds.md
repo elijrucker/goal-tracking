@@ -13,8 +13,8 @@
 ## Status
 
 - **Current Status**: In Progress
-- **Start Date**: 2026-04-27
-- **Target Completion**:
+- **Start Date**: 2026-05-15
+- **Target Completion**: 2026-07-31
 - **Completion Date**:
 - **Time Invested**:
 
@@ -42,9 +42,15 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 - [x] AWS Cloud Practitioner Essentials
 - [ ] Developer learning path modules
-- [ ] AWS core services (EC2, S3, Lambda, DynamoDB, etc.)
-- [ ] AWS security fundamentals
-- [ ] Complete all learning plan modules
+  - [ ] Phase 0
+  - [ ] Phase 1
+  - [ ] Phase 2
+  - [ ] Phase 3
+  - [ ] Phase 4
+  - [ ] Phase 5
+  - [ ] Phase 6
+- [ ] Review AWS DVA-C02 exam guide
+- [ ] Complete AWS Skill Builder practice questions/knowledge checks
 
 ---
 
