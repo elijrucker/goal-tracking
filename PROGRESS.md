@@ -40,10 +40,10 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/12             |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
-| 3♠️  | CS Distilled                     | In Progress | 4/8              |
+| 3♠️  | CS Distilled                     | In Progress | 5/8              |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 10/12            |
 | 6♥️  | South American Markets ($5K)     | Preparing   | 0/7              |
-| 10♥️ | Complete Associate's Degree      | In Progress | 0/8              |
+| 10♥️ | Complete Associate's Degree      | In Progress | 35/63 units      |
 | Q♥️  | Polish C1 Certification          | Preparing   | 0/8              |
 | K♥️  | Eastern European Markets ($15K)  | Preparing   | 0/7              |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
@@ -53,7 +53,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
 | 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
 | 9♣️  | LeetCode Practice                | In Progress | 0/9              |
-| 🃏1  | Software Developer Job in Berlin | In Progress | 0/14             |
+| 🃏1  | Software Developer Job in Berlin | In Progress | 2/22             |
 | 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 2/7              |
 
 ---

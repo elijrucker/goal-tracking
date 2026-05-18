@@ -5,6 +5,55 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-18] — PROGRESS update
+
+#### PROCESS
+
+- [PROGRESS] — 3♠️ subtask count corrected: 4/8 → 5/8
+- [PROGRESS] — 10♥️ subtask tracking changed: 0/8 → 35/63 units
+
+---
+
+### [2026-05-17] — 03-spades progress
+
+#### Changed
+
+- [03-spades] — [Chapter 6: Databases] marked in progress, added annotation (2026-05-17; 6.2)
+
+---
+
+### [2026-05-16] — 10-hearts jobSearchPrep progress; joker-1 progress; 03-spades progress
+
+#### Completed
+
+- [03-spades] — [Chapter 5: Algorithms] closed
+
+#### Added
+
+- [10-hearts] — [jobSearchPrep > Wk1-Wk4] subtasks added
+- [joker-1] — [German LinkedIn profile > Identify Interests strategy] added; marked complete with annotation (Berlin tech, AWS/Google, Polish)
+- [joker-1] — [German LinkedIn profile > Research Berlin tech companies for Interests follows] added
+- [joker-1] — [German LinkedIn profile > Execute Interests follows] added
+- [joker-1] — [German LinkedIn profile > Translate Experience descriptions] added with annotation (DeepL verification)
+- [joker-1] — [German LinkedIn profile > Translate/adapt remaining sections] added with annotation (Featured, Education, Skills, Licenses/Certs, Projects)
+- [joker-1] — [German LinkedIn profile > Publish German profile] added
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented > 52-card goal tracker] added with annotation (live, documented); marked complete
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented > Project 2-Project3] added
+
+#### Changed
+
+- [joker-1] — [Complete Job Search Preparation course (MATC, 05/18–06/12) — supports career transition narrative and resume/interview readiness] dropped; redundant subtask already covered in 10-hearts
+- [joker-1] — [Minimize US financial footprint] removed annotation
+- [joker-1] — [Ensure 2-3 strong portfolio projects are live and documented] → [Ensure 3 strong portfolio projects are live and documented]
+- [03-spades] — [Chapter 5: Algorithms] updated annotation (5.4, 2026-05-16)
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count corrected: 0/14 → 2/22
+- [README] — introductory section revised
+
+---
+
 ### [2026-05-15] — 09-clubs progress; jack-diamonds progress; 10-hearts updates; joker progress; 03-spades progress; BACKLOG refinement
 
 #### Added

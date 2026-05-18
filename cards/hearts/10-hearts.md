@@ -42,11 +42,20 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Subtasks
 
 - [/] Complete remaining required courses
-  - [ ] Summer 26
-    - [ ] jobSearchPrep (05/18–06/12)
+  - [/] Summer 26
+    - [/] jobSearchPrep (05/18–06/12)
+      - [x] Review 'START HERE', Syllabus, Due Dates
+      - [ ] Wk1 Assignment; job questionnaire (Due 2026-05-25)
+      - [ ] Wk1 Discussion Board; introduction (Due 2026-05-25)
+      - [ ] Wk2 Assignment; resume (Due 2026-06-01)
+      - [ ] Wk2 Assignment; cover letter (Due 2026-06-01)
+      - [ ] Wk3 Assignment; social media (Due 2026-06-08)
+      - [ ] Wk3 Discussion Board; peer review (Due 2026-06-08)
+      - [ ] Wk4 Assignment; interview question answers (Due 2026-06-12)
+      - [ ] Wk4 Assignment; resume final draft (Due 2026-06-12)
     - [ ] advancedJavaScript (06/22–08/14)
-    - [ ] technicalReporting (07/06–08/14)
     - [ ] introPhilosophy (06/22–08/14)
+    - [ ] technicalReporting (07/06–08/14)
   - [ ] Fulfill math elective requirement
     - [ ] Pull Franklin University MATC articulation agreement
     - [ ] Confirm Franklin's math requirement and which MATC courses/CLEP exams satisfy it
@@ -66,6 +75,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-05-18] Units (35/63) do not yet reflect Spring 26 final grades — to be updated once posted
 - [2026-05-14] db_prog incomplete; Project 4 and wk16 deferred to Fall 26
 - In progress at deck initialization (2026-02-13)
 - Expected completion within ~1 year

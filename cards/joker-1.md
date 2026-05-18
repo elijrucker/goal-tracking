@@ -83,10 +83,18 @@ This wildcard goal ties together multiple threads:
 
 ## Subtasks
 
-- [/] German LinkedIn profile (Refactor following: Featured, Experience, Education, Skills, Interests, Licenses/Certs, Projects)
-- [ ] Complete Job Search Preparation course (MATC, 05/18–06/12) — supports career transition narrative and resume/interview readiness
+- [/] German LinkedIn profile
+  - [x] Identify Interests strategy (Berlin tech, AWS/Google, Polish)
+  - [ ] Research Berlin tech companies for Interests follows
+  - [ ] Execute Interests follows
+  - [ ] Translate Experience descriptions (DeepL verification)
+  - [ ] Translate/adapt remaining sections (Featured, Education, Skills, Licenses/Certs, Projects)
+  - [ ] Publish German profile
 - [ ] German resume and portfolio website
-- [ ] Ensure 2-3 strong portfolio projects are live and documented
+- [/] Ensure 3 strong portfolio projects are live and documented
+  - [x] 52-card goal tracker (live, documented)
+  - [ ] Project 2
+  - [ ] Project 3
 - [ ] Research Berlin companies and tech scene
 - [ ] Prepare for technical interviews (LeetCode, system design)
 - [ ] Research visa requirements (EU Blue Card or other options)
@@ -96,7 +104,7 @@ This wildcard goal ties together multiple threads:
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process
 - [/] Declutter and liquidate physical possessions prior to relocation
-- [/] Minimize US financial footprint (liquidate company stock)
+- [/] Minimize US financial footprint
 
 ---
 
