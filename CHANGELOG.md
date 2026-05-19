@@ -5,7 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-18] — PROGRESS update
+### [2026-05-18] — jack-diamonds progress; 02-spades progress; PROGRESS update
+
+#### Changed
+
+- [jack-damonds] — [Developer learning path modules > Phase 0] marked in progress, added annotation (2026-05-18)
+- [02-spades] — [Week 4: Memory] updated annotation (2026-05-18; lecture in progress, assignments outstanding)
 
 #### PROCESS
 

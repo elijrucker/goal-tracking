@@ -42,7 +42,7 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 - [x] AWS Cloud Practitioner Essentials
 - [ ] Developer learning path modules
-  - [ ] Phase 0
+  - [/] Phase 0 (2026-05-18)
   - [ ] Phase 1
   - [ ] Phase 2
   - [ ] Phase 3
