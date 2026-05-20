@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added; 02-spades progress
+### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added; 05-clubs & jack-clubs resources added; resources added to 07-clubs, 08-spades, 10-clubs; BACKLOG expanded; 02-spades progress
 
 #### Completed
 
@@ -41,11 +41,23 @@ Format: [YYYY-MM-DD] — Description of change
   - [joker-1] — [home server > Document server architecture and service stack for portfolio] added
 - [09-hearts] — [Read "Anatomy for Runners"] added (biomechanics and injury prevention)
 - [09-hearts] — [Read "Delavier's Stretching Anatomy"] added (flexibility and mobility)
+- [05-clubs] — [Resources > Mastering the JavaScript Event Loop] added (freeCodeCamp, 1hr video; async concepts)
+- [05-clubs] — [Watch "Mastering the JavaScript Event Loop"] subtask added (prep for CS50W JavaScript weeks)
+- [jack-clubs] — [Resources > Build and Deploy a Calendly Clone] added (freeCodeCamp, 4hr course; Next.js 15, React 19, full-stack)
+- [jack-clubs] — [Complete Calendly Clone project] subtask added (portfolio-ready SaaS app; potential Q♣️ scope)
+- [08-spades] — [Resources > Operating Systems: Three Easy Pieces] added (ostep.org; primary resource; Phil Eaton book club)
+- [07-clubs] — [Resources > High Performance Browser Networking] added (O'Reilly; networking and browser performance)
+- [10-clubs] — [Resources > Database Design and Implementation] added (Phil Eaton book club; activate on In Progress)
+- [joker-1] — [Resources > Writing for Developers] added (Phil Eaton book club; technical writing for job search)
+- [joker-1] — [Read "Writing for Developers"] subtask added (portfolio docs, cover letters, professional writing)
+- [BACKLOG] — Potential Spades: 18 advanced systems/distributed systems/database books added
+- [BACKLOG] — Potential Diamonds: Building a Debugger added
 
 #### Process
 
 - [PROGRESS] — 🃏1 subtask count corrected: 7/41 → 7/42
 - [PROGRESS] — 5♥️ subtask count updated: 10/12 → 11/12
+- [PROGRESS] — 🃏1 subtask count updated: 7/42 → 7/43 (Writing for Developers subtask added)
 
 ---
 

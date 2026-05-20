@@ -32,6 +32,7 @@ Build a functional REST API from scratch, demonstrating backend development skil
 - [REST API Design Best Practices](https://restfulapi.net)
 - [Swagger/OpenAPI Documentation](https://swagger.io)
 - [Intro to Backend Web Development: Node.js, Express, MongoDB (freeCodeCamp)](https://www.freecodecamp.org/news/intro-to-backend-web-development-nodejs-express-mongodb/)
+- [Database Design and Implementation](https://eatonphil.com/2024-database-design-and-implementation.html) - Previously featured in Phil Eaton's Software Internals Book Club — activate as subtask when this card moves to In Progress
 
 ---
 

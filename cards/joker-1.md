@@ -35,6 +35,10 @@ This wildcard goal ties together multiple threads:
 
 ## Resources
 
+**Writing & Communication:**
+
+- [Writing for Developers](https://eatonphil.com/2025-writing-for-developers.html) - Phil Eaton's Software Internals Book Club — technical writing for professional communication, portfolio documentation, and job applications
+
 **Job Boards:**
 
 - [Berlin Startup Jobs](https://berlinstartupjobs.com) - Berlin-specific tech jobs
@@ -96,6 +100,7 @@ This wildcard goal ties together multiple threads:
   - [ ] Review C# goal
 - [ ] German resume and portfolio website
 - [ ] Complete "Schreiben Lernen" (writing guide)
+- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing relevant to Berlin job search
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)

@@ -18,6 +18,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Vim / Neovim proficiency
 - [ ] Git advanced usage (rebasing, workflows, etc.)
 - [ ] Java — Advanced & Enterprise Prep (Spring Boot, JPA/Hibernate, Maven/Gradle; prep for Academic Advanced Java and Enterprise Java coursework)
+- [ ] Building a Debugger — [No Starch Press](https://nostarch.com/building-a-debugger); tooling-focused, practical; defer until comfortable with systems fundamentals
 
 ---
 
@@ -44,6 +45,24 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Compilers course
 - [ ] Computer Networks course
 - [ ] Multivariable Calculus
+- [ ] Designing Data-Intensive Applications (2nd Ed.) — [O'Reilly](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/); activate as subtask under 5♣️ CS50W or 10♣️ API Development Project, whichever moves to In Progress first
+- [ ] The Garbage Collection Handbook (2nd Ed.) — [O'Reilly](https://www.oreilly.com/library/view/the-garbage-collection/9781000883688/); systems theory, defer until 8♠️ OS and 9♠️ CS:APP complete
+- [ ] Concurrency: The Works of Leslie Lamport — [ACM](https://dl.acm.org/doi/book/10.1145/3335772); distributed systems theory, advanced
+- [ ] Fault Tolerant Design — [Springer](https://link.springer.com/book/10.1007/978-1-4614-2113-9); systems theory, defer until post-OS
+- [ ] Replication: Theory and Practice — [ACM](https://dl.acm.org/doi/book/10.5555/2172338); distributed systems, advanced
+- [ ] On Transactional Concurrency Control — [Springer](https://link.springer.com/book/10.1007/978-3-031-01873-2); database theory, advanced
+- [ ] Feedback Control for Computer Systems — [O'Reilly](https://www.oreilly.com/library/view/feedback-control-for/9781449362638/); niche systems topic
+- [ ] Hacker's Delight (2nd Ed.) — [O'Reilly](https://www.oreilly.com/library/view/hackers-delight-second/9780133084993/); low-level bit manipulation, defer until 7♠️ Computer Architecture complete
+- [ ] Transaction Processing — [ACM](https://dl.acm.org/doi/10.5555/573304); database internals, advanced
+- [ ] Memory Systems: Cache, DRAM, Disk — [ScienceDirect](https://www.sciencedirect.com/book/9780123797513/memory-systems); defer until 9♠️ CS:APP complete
+- [ ] The Art of Computer Systems Performance Analysis — [ACM](https://dl.acm.org/doi/book/10.5555/2172338); performance analysis, advanced
+- [ ] Virtual Machines — [ScienceDirect](https://www.sciencedirect.com/book/9781558609105/virtual-machines); systems theory, defer until post-OS
+- [ ] Readings in Database Systems — [redbook.io](http://www.redbook.io/); database theory anthology, advanced
+- [ ] Database Internals — [eatonphil.com](https://eatonphil.com/2023-database-internals.html); deep database internals, defer until OS/systems complete
+- [ ] Systems Performance — [eatonphil.com](https://eatonphil.com/2024-systems-performance.html); defer until 8♠️ OS and 9♠️ CS:APP complete
+- [ ] Understanding Software Dynamics — [eatonphil.com](https://eatonphil.com/2024-understanding-software-dynamics.html); performance/systems analysis, advanced
+- [ ] The Art of Multiprocessor Programming — [eatonphil.com](https://eatonphil.com/2025-art-of-multiprocessor-programming.html); concurrency theory, very advanced
+- [ ] Concurrency Control and Recovery in Database Systems — [eatonphil.com](https://eatonphil.com/2025-concurrency-control-and-recovery-in-database-systems.html); database theory, advanced
 
 ---
 

@@ -28,8 +28,8 @@ Study operating systems theory and design. Understanding how operating systems m
 
 ## Resources
 
-- TBD - Select course or book
-- Options: Operating Systems: Three Easy Pieces (free online at ostep.org), MIT OpenCourseWare 6.828
+- [Operating Systems: Three Easy Pieces](https://ostep.org/) - Free online textbook — primary resource for this card; also currently featured in Phil Eaton's Software Internals Book Club (eatonphil.com/bookclub.html)
+- Options: MIT OpenCourseWare 6.828
 
 ---
 

@@ -31,6 +31,7 @@ Complete 1-2 intermediate complexity web projects, applying skills gained from C
 - Reference: 40 Web Project Ideas (see DECK_OVERVIEW.md)
 - Suggested projects: Weather App, Portfolio Website, Chat App, Password Generator, Movie App
 - [How to Become an Analytical Programmer: Compare Five Projects (freeCodeCamp)](https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/)
+- [High Performance Browser Networking](https://www.oreilly.com/library/view/high-performance-browser/9781449344757/) - O'Reilly — networking and browser performance concepts applicable to intermediate web project work
 
 ---
 

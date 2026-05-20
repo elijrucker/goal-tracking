@@ -53,7 +53,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
 | 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
 | 9♣️  | LeetCode Practice                | In Progress | 0/9              |
-| 🃏1  | Software Developer Job in Berlin | In Progress | 7/42             |
+| 🃏1  | Software Developer Job in Berlin | In Progress | 7/43             |
 | 🃏2  | Own a Sport Luxury Vehicle       | In Progress | 2/7              |
 
 ---

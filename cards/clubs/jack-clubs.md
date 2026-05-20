@@ -30,6 +30,7 @@ Complete one complex clone or advanced web project. These are ambitious builds t
 
 - Reference: 40 Web Project Ideas (see DECK_OVERVIEW.md)
 - Suggested projects: Netflix Clone, Instagram Clone, Social Media Dashboard, Stock Trading App, Chess Game
+- [Build and Deploy a Calendly Clone with Google Calendar Integration](https://www.freecodecamp.org/news/build-and-deploy-a-calendly-clone-with-google-calendar-integration/) - freeCodeCamp, 4-hour course — full-stack project using Next.js 15, React 19, TypeScript, Tailwind, PostgreSQL, Drizzle ORM, Google Calendar API, and Clerk authentication
 
 ---
 
@@ -42,6 +43,7 @@ Complete one complex clone or advanced web project. These are ambitious builds t
 
 ## Subtasks
 
+- [ ] Complete Calendly Clone project (freeCodeCamp, 4hr) — full-stack, portfolio-ready SaaS app; note: scope may satisfy Q♣️ Full-Stack Application if executed thoroughly
 - [ ] Select a challenging project from the ideas list
 - [ ] Research similar applications for feature reference
 - [ ] Plan architecture and tech stack

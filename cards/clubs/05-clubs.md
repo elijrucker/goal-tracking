@@ -29,6 +29,7 @@ Complete Harvard's CS50W - Web Programming with Python and JavaScript. Replaces 
 ## Resources
 
 - [CS50W - Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) - Harvard/edX course
+- [Mastering the JavaScript Event Loop](https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/) - freeCodeCamp, 1-hour video — foundational JavaScript async concepts (call stack, web APIs, task queue, microtask queue)
 
 ---
 
@@ -41,6 +42,7 @@ Complete Harvard's CS50W - Web Programming with Python and JavaScript. Replaces 
 
 ## Subtasks
 
+- [ ] Watch "Mastering the JavaScript Event Loop" (freeCodeCamp, 1hr) — understand async execution before JavaScript weeks of CS50W
 - [ ] HTML, CSS
 - [ ] Git
 - [ ] Python/Django
