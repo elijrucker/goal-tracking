@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added
+### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added; 02-spades progress
 
 #### Completed
 
@@ -18,6 +18,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [02-hearts] — [Resources > Schwab Educational Materials] removed (Schwab account closed)
 - [02-hearts] — [Progress Notes] added note (2026-05-20; Schwab account closed)
 - [queen-hearts] — [Progress Notes] added note (2026-05-20; clarified as standalone personal development goal)
+- [02-spades] — [Week 4: Memory] updated annotation (2026-05-20; assignments outstanding)
+- [02-spades] — [Week 5: Data Structures] marked in progress
 
 #### Added
 
