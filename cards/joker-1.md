@@ -97,7 +97,7 @@ This wildcard goal ties together multiple threads:
 - [ ] German resume and portfolio website
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
-  - [ ] Project 2
+  - [/] Self-hosted Linux infrastructure (ejr-homeserver)
   - [ ] Project 3
 - [ ] Research Berlin companies and tech scene
 - [ ] Prepare for technical interviews (LeetCode, system design)
@@ -108,6 +108,21 @@ This wildcard goal ties together multiple threads:
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process
 - [/] Declutter and liquidate physical possessions prior to relocation
+- [/] Home server — infrastructure & workflow integration
+  - [x] Source hardware (Beelink EQi13 Pro)
+  - [x] Install Ubuntu 24.04 LTS
+  - [x] Configure Tailscale (exit node)
+  - [x] Install Docker
+  - [x] Harden SSH (key auth, password auth disabled)
+  - [ ] Configure Caddy reverse proxy
+  - [ ] Deploy Syncthing — integrate with MacBook and mobile file workflows
+  - [ ] Deploy Uptime Kuma — monitor active services
+  - [ ] Deploy self-hosted personal finance tool — replace US-based financial apps pre-relocation
+  - [ ] Build AWS dev environment container — integrate with J♦️ coursework
+  - [ ] Establish remote dev workflow — SSH into server as development environment for coursework and projects
+  - [ ] Deploy note-taking or knowledge management service — integrate with academic workflow
+  - [ ] Validate exit node functionality from off-network location
+  - [ ] Document server architecture and service stack for portfolio
 - [/] Minimize US financial footprint
 
 ---

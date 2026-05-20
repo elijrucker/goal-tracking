@@ -5,6 +5,40 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-20] — 05-hearts milestone; joker-1 update; 05-hearts progress
+
+#### Completed
+
+- [05-hearts] — [Reach -25 lbs milestone] closed
+
+#### Changed
+
+- [05-hearts] — [Maintain weight at milestone for at least 2 weeks] marked in progress; added annotation (through 2026-06-03)
+
+#### Added
+
+- [joker-1] — [home server — infrastructure & workflow integration] subtask added; marked in progress
+  - [joker-1] — [home server > Source hardware] added; marked complete (Beelink EQi13 Pro)
+  - [joker-1] — [home server > Install Ubuntu 24.04 LTS] added; marked complete
+  - [joker-1] — [home server > Configure Tailscale] added; marked complete (exit node)
+  - [joker-1] — [home server > Install Docker] added; marked complete
+  - [joker-1] — [home server > Harden SSH] added; marked complete (key auth, password auth disabled)
+  - [joker-1] — [home server > Configure Caddy reverse proxy] added
+  - [joker-1] — [home server > Deploy Syncthing] added (MacBook and mobile file workflows)
+  - [joker-1] — [home server > Deploy Uptime Kuma] added (monitor active services)
+  - [joker-1] — [home server > Deploy self-hosted personal finance tool] added (replace US-based financial apps pre-relocation)
+  - [joker-1] — [home server > Build AWS dev environment container] added (integrate with J♦️ coursework)
+  - [joker-1] — [home server > Establish remote dev workflow] added (SSH into server for coursework and projects)
+  - [joker-1] — [home server > Deploy note-taking or knowledge management service] added (integrate with academic workflow)
+  - [joker-1] — [home server > Validate exit node functionality from off-network location] added
+  - [joker-1] — [home server > Document server architecture and service stack for portfolio] added
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count corrected: 2/26 → 7/41
+
+---
+
 ### [2026-05-19] — 02-spades progress; jack-diamonds progress; Unlocks audit (02-diamonds, 03-clubs, 03-spades)
 
 #### Added

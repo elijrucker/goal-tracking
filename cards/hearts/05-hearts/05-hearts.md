@@ -59,8 +59,8 @@ First milestone on the 75 lb total weight loss journey. Losing the first 25 lbs 
 - [x] Establish 1900 hours fasting routine (5 nights/week minimum)
 - [x] Reach -10 lbs milestone
 - [x] Reach -20 lbs milestone
-- [/] Reach -25 lbs milestone (within 2.2 lbs of subtask completion)
-- [ ] Maintain weight at milestone for at least 2 weeks
+- [x] Reach -25 lbs milestone
+- [/] Maintain weight at milestone for at least 2 weeks (through 2026-06-03)
 
 ---
 
