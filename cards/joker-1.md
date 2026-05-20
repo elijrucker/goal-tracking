@@ -68,7 +68,7 @@ This wildcard goal ties together multiple threads:
 
 **Highly Recommended:**
 
-- [ ] Q♥️ - Polish C1 Certification (language asset, EU connection)
+
 - [/] 10♥️ - Complete Associate's Degree (education credential)
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
@@ -95,6 +95,7 @@ This wildcard goal ties together multiple threads:
   - [ ] Review Pragmatic Programmer goal
   - [ ] Review C# goal
 - [ ] German resume and portfolio website
+- [ ] Complete "Schreiben Lernen" (writing guide)
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)

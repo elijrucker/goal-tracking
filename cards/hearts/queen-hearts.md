@@ -57,6 +57,8 @@ Achieve Polish C1 (Advanced/Proficient) certification on the CEFR scale. C1 repr
 
 ## Progress Notes
 
+- [2026-05-20] Clarified as standalone personal development goal — strategically aligned with EU relocation but not a strict requirement for Joker 1
+
 ---
 
 ## Completion Notes

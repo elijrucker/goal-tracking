@@ -41,6 +41,8 @@ Achieve the intermediate fitness standards defined in Mark de Lisle's Navy SEAL 
 ## Subtasks
 
 - [ ] Establish baseline fitness levels across all four areas
+- [ ] Read "Anatomy for Runners" — understand biomechanics and injury prevention for running portion of intermediate standards
+- [ ] Read "Delavier's Stretching Anatomy" — support flexibility and mobility development for intermediate fitness
 - [ ] Begin beginner-level training program
 - [ ] Pullups: reach intermediate standard
 - [ ] Pushups: reach intermediate standard

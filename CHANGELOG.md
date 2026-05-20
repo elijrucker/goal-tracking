@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-20] — 05-hearts milestone; joker-1 update; 05-hearts progress
+### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added
 
 #### Completed
 
@@ -14,9 +14,14 @@ Format: [YYYY-MM-DD] — Description of change
 #### Changed
 
 - [05-hearts] — [Maintain weight at milestone for at least 2 weeks] marked in progress; added annotation (through 2026-06-03)
+- [joker-1] — [Prerequisites > Q♥️ Polish C1 Certification] removed (clarified as standalone goal, not a strict requirement for Joker 1)
+- [02-hearts] — [Resources > Schwab Educational Materials] removed (Schwab account closed)
+- [02-hearts] — [Progress Notes] added note (2026-05-20; Schwab account closed)
+- [queen-hearts] — [Progress Notes] added note (2026-05-20; clarified as standalone personal development goal)
 
 #### Added
 
+- [joker-1] — [Complete "Schreiben Lernen"] added (writing guide)
 - [joker-1] — [home server — infrastructure & workflow integration] subtask added; marked in progress
   - [joker-1] — [home server > Source hardware] added; marked complete (Beelink EQi13 Pro)
   - [joker-1] — [home server > Install Ubuntu 24.04 LTS] added; marked complete
@@ -32,10 +37,13 @@ Format: [YYYY-MM-DD] — Description of change
   - [joker-1] — [home server > Deploy note-taking or knowledge management service] added (integrate with academic workflow)
   - [joker-1] — [home server > Validate exit node functionality from off-network location] added
   - [joker-1] — [home server > Document server architecture and service stack for portfolio] added
+- [09-hearts] — [Read "Anatomy for Runners"] added (biomechanics and injury prevention)
+- [09-hearts] — [Read "Delavier's Stretching Anatomy"] added (flexibility and mobility)
 
 #### Process
 
-- [PROGRESS] — 🃏1 subtask count corrected: 2/26 → 7/41
+- [PROGRESS] — 🃏1 subtask count corrected: 7/41 → 7/42
+- [PROGRESS] — 5♥️ subtask count updated: 10/12 → 11/12
 
 ---
 
