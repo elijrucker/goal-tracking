@@ -90,6 +90,10 @@ This wildcard goal ties together multiple threads:
   - [ ] Translate Experience descriptions (DeepL verification)
   - [ ] Translate/adapt remaining sections (Featured, Education, Skills, Licenses/Certs, Projects)
   - [ ] Publish German profile
+- [ ] Document completed milestones on LinkedIn (knowledge-focused posts)
+  - [ ] Review md goal
+  - [ ] Review Pragmatic Programmer goal
+  - [ ] Review C# goal
 - [ ] German resume and portfolio website
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)

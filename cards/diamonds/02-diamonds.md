@@ -68,4 +68,6 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 
 ## Unlocks
 
-- All other cards benefit from Markdown proficiency
+- 4♦️ - Foundational C# with Microsoft
+- 3♦️ - Python Crash Course
+- Foundation for all card documentation across the deck

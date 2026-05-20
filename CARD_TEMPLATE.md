@@ -61,8 +61,18 @@
 
 ---
 
+## Reflection & Lessons Learned
+
+- **What surprised you?**
+- **What would you do differently?**
+- **One thing that worked well:**
+- **One thing harder than expected:**
+- **Patterns noticed (if applicable):**
+- **Insights for similar future work:**
+
 ## Unlocks
 
 Cards or goals that become available or easier after completing this one:
+
 - [Card] - [Goal]
 - [Card] - [Goal]

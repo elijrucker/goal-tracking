@@ -19,7 +19,7 @@ A 52-card deck goal tracking system. Each card is a markdown file representing a
 
 Card filenames: `{value}-{suit}.md` (e.g., `02-spades.md`, `king-hearts.md`, `ace-diamonds.md`). Face cards use full names (`jack`, `queen`, `king`, `ace`).
 
-Every card has these sections in order: **Card Details → Status → Goal Description → Resources → Prerequisites → Subtasks → Progress Notes → Completion Notes → Unlocks**. Do not add, remove, or reorder sections.
+Every card has these sections in order: **Card Details → Status → Goal Description → Resources → Prerequisites → Subtasks → Progress Notes → Completion Notes → Reflection & Lessons Learned → Unlocks**. Do not add, remove, or reorder sections.
 
 ### Key Fields
 

@@ -88,4 +88,4 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 ## Unlocks
 
-- Informs all development work across Clubs suit
+- Informs applied practice across all Clubs cards (no formal prerequisite gate)

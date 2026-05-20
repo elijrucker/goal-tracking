@@ -42,7 +42,7 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 - [x] AWS Cloud Practitioner Essentials
 - [ ] Developer learning path modules
-  - [/] Phase 0 (2026-05-18)
+  - [/] Phase 0 (2026-05-19; initial setup)
   - [ ] Phase 1
   - [ ] Phase 2
   - [ ] Phase 3
@@ -56,6 +56,7 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 ## Progress Notes
 
+- [2026-05-19] Established AWS dev environment foundation on ejr-homeserver: Ubuntu 24.04 LTS installed and hardened (SSH key auth, password auth disabled), Tailscale running as exit node, Docker installed and verified. AWS container build in progress — language/runtime to be confirmed from course materials before finalizing image.
 - [2026-05-14] Transitioned to In Progress — daily touch points established alongside summer coursework
 - [2026-04-27] AWS Cloud Practitioner Essentials completed 2024-03-29 (certificate of completion achieved) — satisfies first subtask. 10-hearts c4d course building further AWS-adjacent developer foundation ahead of formal Skill Builder work.
 

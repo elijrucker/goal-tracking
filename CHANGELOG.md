@@ -5,11 +5,38 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-19] — 02-spades progress; jack-diamonds progress; Unlocks audit (02-diamonds, 03-clubs, 03-spades)
+
+#### Added
+
+- [joker-1] — [Document compeleted milestones on LinkedIn] subtask added; annotation added (knowledge-focused posts)
+- [joker-1] — [Document compeleted milestones on LinkedIn > Review md goal] subtask added
+- [joker-1] — [Document compeleted milestones on LinkedIn > Review Pragmatic Programmer goal] subtask added
+- [joker-1] — [Document compeleted milestones on LinkedIn > Review C# goal] subtask added
+
+#### Changed
+
+- [02-spades] — [Week 4: Memory] updated annotation (2026-05-19; lecture (Overflow), assignments outstanding)
+- [02-diamonds] — [Unlocks] updated: formal card references added (4♦️, 3♦️); broad note retained
+- [03-clubs] — [Unlocks] updated: narrative refined to note no formal prerequisite gate
+- [03-spades] — [Unlocks] updated: formal card references added (5♠️, 7♠️); broad note retained
+- [03-spades] — [Progress Notes] removed note regarding multiple readthroughs - redundant
+- [jack-diamonds] — [Developer learning path modules > Phase 0] updated annotation (2026-05-19; initial setup)
+- [jack-diamonds] — [Progress Notes] added note (2026-05-19; ejr-homeserver AWS dev environment setup)
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count corrected: 2/22 → 2/26
+- [CARD_TEMPLATE] — [Reflection & Lessons Learned] section added between Completion Notes and Unlocks
+- [CLAUDE.md] — card section order updated to include Reflection & Lessons Learned
+
+---
+
 ### [2026-05-18] — jack-diamonds progress; 02-spades progress; PROGRESS update
 
 #### Changed
 
-- [jack-damonds] — [Developer learning path modules > Phase 0] marked in progress, added annotation (2026-05-18)
+- [jack-diamonds] — [Developer learning path modules > Phase 0] marked in progress, added annotation (2026-05-18)
 - [02-spades] — [Week 4: Memory] updated annotation (2026-05-18; lecture in progress, assignments outstanding)
 
 #### PROCESS
