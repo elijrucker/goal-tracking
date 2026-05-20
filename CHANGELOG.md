@@ -16,7 +16,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [02-spades] — [Week 4: Memory] updated annotation (2026-05-19; lecture (Overflow), assignments outstanding)
+- [02-spades] — [Week 4: Memory] updated annotation (2026-05-19; lecture (wrap up), assignments outstanding)
 - [02-diamonds] — [Unlocks] updated: formal card references added (4♦️, 3♦️); broad note retained
 - [03-clubs] — [Unlocks] updated: narrative refined to note no formal prerequisite gate
 - [03-spades] — [Unlocks] updated: formal card references added (5♠️, 7♠️); broad note retained
