@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-21] — joker-1 home server progress; jack-diamonds progress note
+### [2026-05-21] — joker-1 home server progress; jack-diamonds progress note; reflections added
 
 #### Completed
 
@@ -20,6 +20,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — Rebuild over debug: cleaner to restart than troubleshoot naming issues mid-config
 - [joker-1] — Infrastructure work benefits from longer uninterrupted sessions; schedule around lighter course weeks
 - [joker-1] — Home server shifts workflow from student to professional habits; document for LinkedIn milestone post
+
+#### Added
+
+- [joker-1] — [Reflection & Lessons Learned > 2026-05-21] section created; entry added (container-first development; system cleanup discipline)
+- [jack-diamonds] — [Reflection & Lessons Learned > 2026-05-21] section created; entry added (IAM hardening; rebuild over debug instinct)
 
 #### Process
 

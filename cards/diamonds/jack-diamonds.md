@@ -67,6 +67,14 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 
 ---
 
+## Reflection & Lessons Learned
+
+### [2026-05-21]
+
+- IAM user naming and credential management require the same "rebuild over debug" instinct applied to the server setup. Account hardening (MFA on both root and IAM user, PowerUserAccess scoping) established before any course work begins — professional habit over convenience.
+
+---
+
 ## Unlocks
 
 - K♦️ - AWS DVA Prep Course

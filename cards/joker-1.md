@@ -143,6 +143,14 @@ This wildcard goal ties together multiple threads:
 
 ---
 
+## Reflection & Lessons Learned
+
+### [2026-05-21]
+
+- System cleanup is a neglected but critical part of sysadmin work. Python was found installed four different ways across multiple config files — a direct consequence of incremental addition without intentional removal. Container-first development enforces cleanup by design; if the runtime isn't in the container spec, it doesn't exist. Every action has consequences — think about the exit before the entrance.
+
+---
+
 ## Unlocks
 
 - K♥️ - Eastern European Markets Investment ($15K via EU brokerage)
