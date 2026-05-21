@@ -72,7 +72,6 @@ This wildcard goal ties together multiple threads:
 
 **Highly Recommended:**
 
-
 - [/] 10♥️ - Complete Associate's Degree (education credential)
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
@@ -124,7 +123,7 @@ This wildcard goal ties together multiple threads:
   - [ ] Deploy Syncthing — integrate with MacBook and mobile file workflows
   - [ ] Deploy Uptime Kuma — monitor active services
   - [ ] Deploy self-hosted personal finance tool — replace US-based financial apps pre-relocation
-  - [ ] Build AWS dev environment container — integrate with J♦️ coursework
+  - [x] Build AWS dev environment container — integrate with J♦️ coursework
   - [ ] Establish remote dev workflow — SSH into server as development environment for coursework and projects
   - [ ] Deploy note-taking or knowledge management service — integrate with academic workflow
   - [ ] Validate exit node functionality from off-network location
@@ -135,6 +134,7 @@ This wildcard goal ties together multiple threads:
 
 ## Progress Notes
 
+- [2026-05-21] Rebuild over debug: cleaner to restart than troubleshoot naming issues mid-config. Infrastructure work benefits from longer uninterrupted sessions — schedule around lighter course weeks. Home server marks a shift from student to professional development habits.
 - Duolingo German course providing language maintenance / improvement
 
 ---

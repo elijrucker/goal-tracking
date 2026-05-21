@@ -5,6 +5,28 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-21] — jack-diamonds/joker-1 home server progress
+
+#### Completed
+
+- [joker-1] — [Home server - infrastructure & workflow integration > Build AWS dev environment container - integrate with jack-diamonds coursework] closed
+
+#### Changed
+
+- [jack-diamonds] — Added Progress Note: AWS dev environment container operational on ejr-homeserver
+
+#### Notes
+
+- [joker-1] — Rebuild over debug: cleaner to restart than troubleshoot naming issues mid-config
+- [joker-1] — Infrastructure work benefits from longer uninterrupted sessions; schedule around lighter course weeks
+- [joker-1] — Home server shifts workflow from student to professional habits; document for LinkedIn milestone post
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count updated: 7/43 → 8/43 (Build AWS dev environment container marked complete)
+
+---
+
 ### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added; 05-clubs & jack-clubs resources added; resources added to 07-clubs, 08-spades, 10-clubs; BACKLOG expanded; 02-spades progress
 
 #### Completed
