@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-21] — jack-diamonds/joker-1 home server progress
+### [2026-05-21] — joker-1 home server progress; jack-diamonds progress note
 
 #### Completed
 
