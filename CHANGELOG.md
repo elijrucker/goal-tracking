@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-22] — joker-1 progress
+
+#### Completed
+
+- [joker-1] — [German LinkedIn profile > Research and follow Berlin tech companies] closed (merged from two subtasks)
+
+#### Changed
+
+- [joker-1] — [German LinkedIn profile > Research Berlin tech companies for Interests follows] and [Execute Interests follows] merged into [Research and follow Berlin tech companies]; marked complete
+- [joker-1] — [German LinkedIn profile > Identify Interests strategy] annotation simplified (removed Polish reference)
+- [joker-1] — [German LinkedIn profile > Translate Experience descriptions] marked in progress
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count updated: 8/43 → 9/42 (two subtasks merged; merged item complete)
+
+---
+
 ### [2026-05-21] — joker-1 home server progress; jack-diamonds progress note; reflections added
 
 #### Completed
@@ -13,7 +31,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [jack-diamonds] — Added Progress Note: AWS dev environment container operational on ejr-homeserver
+- [jack-diamonds] — [Progress Notes > 2026-05-21] updated: Node.js 18 → 24 (LTS); CDK bootstrapped to us-east-1; ejr-dev AdministratorAccess granted for bootstrap, reverted to PowerUserAccess; billing budget set ($40/mo, 85%/100% alerts); git identity via ~/.gitconfig volume mount; run.sh saved for container launch repeatability
+- [jack-diamonds] — [Resources] added: AWS Well-Architected Framework, AWS CLI User Guide, AWS Architecture Center, AWS Builder
 
 #### Notes
 
