@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-22] — joker-1 progress; system design dimension added to 10-clubs, jack-clubs, queen-clubs
+### [2026-05-22] — joker-1 progress; system design dimension added to 10-clubs, jack-clubs, queen-clubs; BACKLOG Hearts expanded
 
 #### Completed
 
@@ -30,6 +30,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [queen-clubs] — [Design full application architecture end-to-end] subtask added (frontend/backend, DB, API contracts, auth, deployment)
 - [queen-clubs] — [Progress Notes] added note (2026-05-22; architectural mastery)
 - [BACKLOG] — Potential Clubs: System Design Capstone Project added (post-10♣️/J♣️/Q♣️; Queen or King tier)
+
+#### Added
+
+- [BACKLOG] — Potential Hearts: Technical Speaking & Oration added (8♥️ Yellow tier; Toastmasters; activate post-Berlin relocation 2027+)
+- [BACKLOG] — Potential Hearts: Technical Writing & Blogging added (6♥️ Blue tier; blog/tutorials/docs; activate post-summer 2026)
 
 #### Process
 
