@@ -26,6 +26,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [9♥️] — [Resources] Anatomy for Runners (Jay Dicharry) and Delavier's Stretching Anatomy (Frédéric Delavier) added
 - [9♥️] — [Subtasks > Read "Delavier's Stretching Anatomy"] wording updated: "intermediate fitness" → "intermediate fitness standards"
 - [RESOURCES.md] — 2♥️ section updated: partial Bogleheads-only content replaced with full structured resource list (Damodaran, IG Academy, OIC, CME Institute, BabyPips, Yale/Shiller)
+- [🃏 Joker 1] — A♣️ Open Source Contribution reclassified: Essential → Highly Recommended
 
 #### Added
 
@@ -48,6 +49,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [2♥️] — Bogle remains primary resource; all replacements are free and authoritative
 - [2♥️] — Card deprioritized until reactivated; lower urgency given Not Started status
+- [🃏 Joker 1] — Open source contribution is valuable portfolio material but not a strict requirement for Berlin job offer
 
 #### Process
 

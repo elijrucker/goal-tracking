@@ -68,13 +68,13 @@ This wildcard goal ties together multiple threads:
 - [ ] A♦️ - AWS Certified Developer Associate (portfolio credential)
 - [ ] Q♣️ - Full-Stack Application (portfolio project)
 - [/] 9♣️ - LeetCode Practice (interview readiness)
-- [ ] A♣️ - Open Source Contribution (demonstrates collaboration)
 
 **Highly Recommended:**
 
 - [/] 10♥️ - Complete Associate's Degree (education credential)
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
+- [ ] A♣️ - Open Source Contribution (demonstrates real-world collaboration and community engagement — valuable but not a hard prerequisite)
 
 **Supporting:**
 
