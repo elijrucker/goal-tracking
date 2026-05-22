@@ -25,6 +25,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [2♥️] — [Subtasks] updated to reflect new resource list
 - [9♥️] — [Resources] Anatomy for Runners (Jay Dicharry) and Delavier's Stretching Anatomy (Frédéric Delavier) added
 - [9♥️] — [Subtasks > Read "Delavier's Stretching Anatomy"] wording updated: "intermediate fitness" → "intermediate fitness standards"
+- [RESOURCES.md] — 2♥️ section updated: partial Bogleheads-only content replaced with full structured resource list (Damodaran, IG Academy, OIC, CME Institute, BabyPips, Yale/Shiller)
 
 #### Added
 
