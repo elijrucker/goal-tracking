@@ -20,6 +20,9 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-clubs] — [Goal Description] updated: architecture-first approach added
 - [jack-clubs] — [Goal Description] updated: architectural awareness dimension added
 - [queen-clubs] — [Goal Description] updated: holistic architectural vision dimension added
+- [2♥️] — transitioned: In Progress → Not Started (false start; Schwab account closed)
+- [2♥️] — [Resources] Schwab courses replaced with free authoritative alternatives (Damodaran, OIC, CME Institute, IG Academy, BabyPips, Yale/Shiller)
+- [2♥️] — [Subtasks] updated to reflect new resource list
 
 #### Added
 
@@ -37,6 +40,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [BACKLOG] — Potential Hearts: Technical Writing & Blogging added (6♥️ Blue tier; blog/tutorials/docs; activate post-summer 2026)
 - [BACKLOG] — Potential Clubs: Applied Security & Ethical Hacking added (mid-to-high tier; CTF, OWASP Top 10, secure code review, TryHackMe; prereq 4♠️)
 - [BACKLOG] — Potential Clubs: Mentorship & Technical Teaching added (high tier; ADPList, Coding Coach, pair programming, workshops, open source mentorship; prereqs Joker 1, A♣️; activate post-Berlin relocation 2027+)
+
+#### Notes
+
+- [2♥️] — Bogle remains primary resource; all replacements are free and authoritative
+- [2♥️] — Card deprioritized until reactivated; lower urgency given Not Started status
 
 #### Process
 

@@ -29,7 +29,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 3         | 3           | 12    |
+| 🟢 Green (Foundational) | 3         | 2           | 12    |
 | 🔵 Blue (Moderate)      | 0         | 1           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
