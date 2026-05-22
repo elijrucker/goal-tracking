@@ -65,7 +65,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added; 05-clubs & jack-clubs resources added; resources added to 07-clubs, 08-spades, 10-clubs; BACKLOG expanded; 02-spades progress
+### [2026-05-20] — 05-hearts milestone; joker-1 update; 02-hearts resource update; 09-hearts subtasks added; 05-clubs & jack-clubs resources added; resources added to 07-clubs, 07-diamonds, 08-spades, 10-clubs; BACKLOG expanded; 02-spades progress
 
 #### Completed
 
@@ -112,6 +112,18 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Read "Writing for Developers"] subtask added (portfolio docs, cover letters, professional writing)
 - [BACKLOG] — Potential Spades: 18 advanced systems/distributed systems/database books added
 - [BACKLOG] — Potential Diamonds: Building a Debugger added
+- [07-diamonds] — [Resources > BMAD Framework] added (open-source AI agent framework; structured enterprise-grade development)
+- [07-diamonds] — [Unlocks] updated: specific card references added (10♣️, J♣️, Q♣️)
+
+#### Changed
+
+- [07-diamonds] — [Goal Description] expanded: BMAD workflow orchestration dimension added
+- [07-diamonds] — [Unlocks > 10♣️, J♣️, Q♣️] added as downstream cards via BMAD
+
+#### Notes
+
+- [07-diamonds] — BMAD positioned as modern workflow orchestration tool alongside traditional CI/CD platforms
+- [07-diamonds] — Complements system design refactor across Clubs projects (10♣️, J♣️, Q♣️)
 
 #### Process
 
