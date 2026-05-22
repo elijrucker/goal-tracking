@@ -23,6 +23,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [2♥️] — transitioned: In Progress → Not Started (false start; Schwab account closed)
 - [2♥️] — [Resources] Schwab courses replaced with free authoritative alternatives (Damodaran, OIC, CME Institute, IG Academy, BabyPips, Yale/Shiller)
 - [2♥️] — [Subtasks] updated to reflect new resource list
+- [9♥️] — [Resources] Anatomy for Runners (Jay Dicharry) and Delavier's Stretching Anatomy (Frédéric Delavier) added
+- [9♥️] — [Subtasks > Read "Delavier's Stretching Anatomy"] wording updated: "intermediate fitness" → "intermediate fitness standards"
 
 #### Added
 
