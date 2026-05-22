@@ -24,6 +24,8 @@
 
 Build a complete full-stack application with a polished frontend, robust backend, and integrated database. This is a flagship portfolio project that demonstrates end-to-end development capability. The application should be something genuinely useful or impressive - not just a tutorial project. Aim for something you'd be proud to show in a job interview.
 
+Full-stack applications require holistic architectural vision. Design the entire system before implementation: frontend architecture, backend services, database schema, API design, authentication flow, deployment strategy. Document and justify every major decision. This is where you demonstrate senior-level thinking.
+
 ---
 
 ## Resources
@@ -44,6 +46,7 @@ Build a complete full-stack application with a polished frontend, robust backend
 
 ## Subtasks
 
+- [ ] Design full application architecture end-to-end — document frontend/backend separation, database design, API contracts, authentication strategy, and deployment approach
 - [ ] Define project concept and scope
 - [ ] Design database schema
 - [ ] Build and test backend API
@@ -59,6 +62,7 @@ Build a complete full-stack application with a polished frontend, robust backend
 
 ## Progress Notes
 
+- [2026-05-22] Architectural mastery: design thinking should precede and inform all implementation work.
 - [2026-04-27] 10-hearts coursework (c4d, db_prog, agile practices) lays significant foundational groundwork, but prerequisite club-suit goals (CS50W, intermediate and advanced projects) remain outstanding before a status update is warranted.
 
 ---

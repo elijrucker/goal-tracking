@@ -89,7 +89,7 @@ This wildcard goal ties together multiple threads:
 - [/] German LinkedIn profile
   - [x] Identify Interests strategy (Berlin tech, AWS/Google)
   - [x] Research and follow Berlin tech companies
-  - [/] Translate Experience descriptions (DeepL verification)
+  - [/] Translate Experience descriptions
   - [ ] Translate/adapt remaining sections (Featured, Education, Skills, Licenses/Certs, Projects)
   - [ ] Publish German profile
 - [ ] Document completed milestones on LinkedIn (knowledge-focused posts)

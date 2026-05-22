@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-22] — joker-1 progress
+### [2026-05-22] — joker-1 progress; system design dimension added to 10-clubs, jack-clubs, queen-clubs
 
 #### Completed
 
@@ -16,6 +16,20 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [German LinkedIn profile > Research Berlin tech companies for Interests follows] and [Execute Interests follows] merged into [Research and follow Berlin tech companies]; marked complete
 - [joker-1] — [German LinkedIn profile > Identify Interests strategy] annotation simplified (removed Polish reference)
 - [joker-1] — [German LinkedIn profile > Translate Experience descriptions] marked in progress
+- [joker-1] — [German LinkedIn profile > Translate Experience descriptions] removed annotation
+- [10-clubs] — [Goal Description] updated: architecture-first approach added
+- [jack-clubs] — [Goal Description] updated: architectural awareness dimension added
+- [queen-clubs] — [Goal Description] updated: holistic architectural vision dimension added
+
+#### Added
+
+- [10-clubs] — [Design API architecture] subtask added (tech stack justification, patterns, trade-offs)
+- [10-clubs] — [Progress Notes] added note (2026-05-22; architecture-first approach)
+- [jack-clubs] — [Design system architecture for clone project] subtask added (scalability, tech justification, trade-offs)
+- [jack-clubs] — [Progress Notes] added note (2026-05-22; architectural thinking)
+- [queen-clubs] — [Design full application architecture end-to-end] subtask added (frontend/backend, DB, API contracts, auth, deployment)
+- [queen-clubs] — [Progress Notes] added note (2026-05-22; architectural mastery)
+- [BACKLOG] — Potential Clubs: System Design Capstone Project added (post-10♣️/J♣️/Q♣️; Queen or King tier)
 
 #### Process
 

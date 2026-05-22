@@ -24,6 +24,8 @@
 
 Complete one complex clone or advanced web project. These are ambitious builds that replicate the functionality of well-known applications or implement sophisticated features. Choose a project that challenges current skill level and produces a portfolio-worthy result.
 
+Clone projects at this level require architectural awareness. Before building, design the system: how would Netflix/Instagram actually scale? Document your architectural decisions, justify technology choices, and explain trade-offs in data modeling, caching, real-time features, etc.
+
 ---
 
 ## Resources
@@ -43,6 +45,7 @@ Complete one complex clone or advanced web project. These are ambitious builds t
 
 ## Subtasks
 
+- [ ] Design system architecture for clone project — document scalability considerations, technology justification, and architectural trade-offs
 - [ ] Complete Calendly Clone project (freeCodeCamp, 4hr) — full-stack, portfolio-ready SaaS app; note: scope may satisfy Q♣️ Full-Stack Application if executed thoroughly
 - [ ] Select a challenging project from the ideas list
 - [ ] Research similar applications for feature reference
@@ -56,6 +59,8 @@ Complete one complex clone or advanced web project. These are ambitious builds t
 ---
 
 ## Progress Notes
+
+- [2026-05-22] Architectural thinking: understand why systems are built the way they are, not just how to build them.
 
 ---
 

@@ -31,6 +31,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Refactor an existing project using TDD
 - [ ] Complete Advent of Code (any year)
 - [ ] Build a personal portfolio website
+- [ ] System Design Capstone Project — Advanced capstone project integrating architectural thinking from multiple completed Clubs projects (10♣️, J♣️, Q♣️). Design and build a complex system end-to-end, demonstrating mastery of architectural patterns, scalability considerations, and systems thinking. Suggested tier: Queen or King in Clubs.
 
 ---
 

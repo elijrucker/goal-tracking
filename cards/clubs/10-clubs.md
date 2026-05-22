@@ -24,6 +24,8 @@
 
 Build a functional REST API from scratch, demonstrating backend development skills. The API should include authentication, database integration, proper routing, error handling, and documentation. Choose a domain (blog, task manager, e-commerce, etc.) that makes a meaningful portfolio piece. Distinct from full-stack work - this is backend/server-side focused.
 
+Before implementation, design the API architecture end-to-end. Document your technology choices, justify architectural decisions (monolith vs. microservices, synchronous vs. asynchronous patterns, caching strategy, etc.), and outline trade-offs. This design-first approach is as important as the code itself.
+
 ---
 
 ## Resources
@@ -45,6 +47,7 @@ Build a functional REST API from scratch, demonstrating backend development skil
 
 ## Subtasks
 
+- [ ] Design API architecture — document tech stack choices, justify architectural patterns, identify trade-offs before coding begins
 - [ ] Design API endpoints and data models
 - [ ] Set up project structure and framework
 - [ ] Implement authentication (JWT or OAuth)
@@ -60,6 +63,7 @@ Build a functional REST API from scratch, demonstrating backend development skil
 
 ## Progress Notes
 
+- [2026-05-22] Architecture-first approach: design and document before implementation.
 - [2026-03-23] ASP.NET Core flagged as a strong C#-native framework option; pairs with 8♦️ Anki - C# for retention alongside active building
 
 ---
