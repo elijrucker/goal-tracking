@@ -32,6 +32,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Complete Advent of Code (any year)
 - [ ] Build a personal portfolio website
 - [ ] System Design Capstone Project — Advanced capstone project integrating architectural thinking from multiple completed Clubs projects (10♣️, J♣️, Q♣️). Design and build a complex system end-to-end, demonstrating mastery of architectural patterns, scalability considerations, and systems thinking. Suggested tier: Queen or King in Clubs.
+- [ ] Applied Security & Ethical Hacking (Clubs, mid-to-high tier) — Hands-on applied security practice building on CS50 Cybersecurity (4♠️) theory foundation. Scope includes: CTF (Capture the Flag) challenges (gamified, beginner-friendly entry point), OWASP Top 10 applied practice (industry standard vulnerability framework), secure code review methodology (directly applicable to Clubs project cards), penetration testing basics, and TryHackMe platform curriculum. Resources TBD on activation — consider TryHackMe learning paths, PicoCTF, OWASP WebGoat, HackTheBox. Prerequisite: 4♠️ CS50 Cybersecurity complete. Suggested activation: After completing several Clubs project cards to have real codebases to review for vulnerabilities. Refine scope, tier, and subtasks when promoted to worklog.
 
 ---
 

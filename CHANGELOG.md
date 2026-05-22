@@ -35,6 +35,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [BACKLOG] — Potential Hearts: Technical Speaking & Oration added (8♥️ Yellow tier; Toastmasters; activate post-Berlin relocation 2027+)
 - [BACKLOG] — Potential Hearts: Technical Writing & Blogging added (6♥️ Blue tier; blog/tutorials/docs; activate post-summer 2026)
+- [BACKLOG] — Potential Clubs: Applied Security & Ethical Hacking added (mid-to-high tier; CTF, OWASP Top 10, secure code review, TryHackMe; prereq 4♠️)
 
 #### Process
 
