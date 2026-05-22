@@ -103,6 +103,7 @@ This wildcard goal ties together multiple threads:
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
   - [ ] Project 3
+- [ ] Optimize GitHub profile for recruiter audience (profile README, pinned repositories, repository descriptions)
 - [ ] Research Berlin companies and tech scene
 - [ ] Prepare for technical interviews (LeetCode, system design)
 - [ ] Research visa requirements (EU Blue Card or other options)
@@ -133,6 +134,7 @@ This wildcard goal ties together multiple threads:
 
 ## Progress Notes
 
+- [2026-05-22] GitHub profile optimization identified as a subtask during LinkedIn profile review session
 - [2026-05-21] Rebuild over debug: cleaner to restart than troubleshoot naming issues mid-config. Infrastructure work benefits from longer uninterrupted sessions — schedule around lighter course weeks. Home server marks a shift from student to professional development habits.
 - Duolingo German course providing language maintenance / improvement
 

@@ -27,6 +27,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [9♥️] — [Subtasks > Read "Delavier's Stretching Anatomy"] wording updated: "intermediate fitness" → "intermediate fitness standards"
 - [RESOURCES.md] — 2♥️ section updated: partial Bogleheads-only content replaced with full structured resource list (Damodaran, IG Academy, OIC, CME Institute, BabyPips, Yale/Shiller)
 - [🃏 Joker 1] — A♣️ Open Source Contribution reclassified: Essential → Highly Recommended
+- [🃏 Joker 1] — [Subtasks] GitHub profile optimization subtask added (profile README, pinned repos, repo descriptions)
+- [🃏 Joker 1] — [Progress Notes] added note (2026-05-22; GitHub profile optimization identified during LinkedIn review)
 
 #### Added
 
