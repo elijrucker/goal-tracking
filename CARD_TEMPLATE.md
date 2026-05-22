@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: [Not Started / In Progress / Complete]
+- **Current Status**: [Not Started / Preparing / Deferred / In Progress / Complete]
 - **Start Date**: [YYYY-MM-DD]
 - **Target Completion**: [YYYY-MM-DD]
 - **Completion Date**: [YYYY-MM-DD]

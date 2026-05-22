@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Preparing
+- **Current Status**: Deferred
 - **Start Date**: 2025-11-18
 - **Target Completion**: -
 - **Completion Date**:
@@ -60,6 +60,8 @@ Achieve $15,000 direct investment in Eastern European markets, made from within 
 ---
 
 ## Progress Notes
+
+- [2026-05-20] Status set to Deferred — requires EU residency and Joker 1 (Berlin job offer) as financial foundation before activating
 
 ---
 

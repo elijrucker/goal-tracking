@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: In Progress
+- **Current Status**: Preparing
 - **Start Date**: 2026-03-22
 - **Target Completion**: -
 - **Completion Date**:
@@ -62,6 +62,7 @@ This is the one card in the deck reserved purely for personal enjoyment, serving
 
 - [2026-03-22] Goal defined; Joker 2 activated as sport luxury vehicle acquisition
 - [2026-03-23] Sourced cinematic AMG wallpaper — closed; apparel (polo) order in progress
+- [2026-05-20] Adjusted from In Progress to Preparing — subtasks complete but primary financial prerequisite (Joker 1) not yet met
 
 ---
 

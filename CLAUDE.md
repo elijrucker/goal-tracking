@@ -23,7 +23,8 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 ### Key Fields
 
-- **Current Status**: One of `Not Started`, `Preparing`, `In Progress`, `Complete`
+- **Current Status**: One of `Not Started`, `Preparing`, `Deferred`, `In Progress`, `Complete`
+  - `Deferred` = intentionally postponed; card was previously active or preparing but deliberately paused pending better timing, prerequisites, or circumstances
 - **Color Tier / Difficulty**: Determined by card value — 2-4 = 🟢 Green/Foundational, 5-7 = 🔵 Blue/Moderate, 8-9 = 🟡 Yellow/Substantial, 10-J = 🟠 Orange/Advanced, Q-K-A = 🔴 Red/Elite
 - **Subtasks**: Use `- [x]` / `- [ ]` / `- [/]` / `- [-]` checkboxes (`[x]` = complete, `[ ]` = not started, `[/]` = in progress, `[-]` = skipped)
 - **Prerequisites**: Reference other cards that must be completed first

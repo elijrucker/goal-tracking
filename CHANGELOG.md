@@ -78,6 +78,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
+- [CLAUDE.md / CARD_TEMPLATE.md] — 'Deferred' added as formal card status (intentionally postponed; previously active/preparing but deliberately paused)
+- [6♥️] — Status: Preparing → Deferred (investment literacy cards must progress further before activating geographic cards)
+- [Q♥️] — Status: Preparing → Deferred (post-relocation activation makes more practical sense)
+- [2♥️] — Status: In Progress → Not Started (false start; Schwab account closed, resources invalidated)
+- [🃏2] — Status: In Progress → Preparing (subtasks complete but primary financial prerequisite Joker 1 not yet met)
+- [K♥️] — Status: Preparing → Deferred (requires EU residency and Joker 1)
 - [05-hearts] — [Maintain weight at milestone for at least 2 weeks] marked in progress; added annotation (through 2026-06-03)
 - [joker-1] — [Prerequisites > Q♥️ Polish C1 Certification] removed (clarified as standalone goal, not a strict requirement for Joker 1)
 - [02-hearts] — [Resources > Schwab Educational Materials] removed (Schwab account closed)
@@ -129,12 +135,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [07-diamonds] — BMAD positioned as modern workflow orchestration tool alongside traditional CI/CD platforms
 - [07-diamonds] — Complements system design refactor across Clubs projects (10♣️, J♣️, Q♣️)
+- Active card list culled to sharpen summer focus
+- Deferred status distinguishes intentionally postponed cards from never-started cards
 
 #### Process
 
 - [PROGRESS] — 🃏1 subtask count corrected: 7/41 → 7/42
 - [PROGRESS] — 5♥️ subtask count updated: 10/12 → 11/12
 - [PROGRESS] — 🃏1 subtask count updated: 7/42 → 7/43 (Writing for Developers subtask added)
+- [PROGRESS] — Deferred column added to Completion by Suit table; 6♥️/Q♥️/K♥️ Preparing→Deferred; 2♥️ In Progress→Not Started; 🃏2 In Progress→Preparing; summary In Progress 9→7, Preparing 8→6, Deferred added (3)
 
 ---
 

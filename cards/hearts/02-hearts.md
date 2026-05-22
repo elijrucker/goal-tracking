@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: In Progress
-- **Start Date**: 2026-04-10
+- **Current Status**: Not Started
+- **Start Date**:
 - **Target Completion**: ?
 - **Completion Date**:
 - **Time Invested**:
@@ -63,6 +63,7 @@ Build foundational knowledge of index investing philosophy and strategy. Learn t
 ## Progress Notes
 
 - [2026-05-20] Schwab account closed; transitioning to alternative resources
+- [2026-05-20] Reset to Not Started — false start; Schwab account closed, resources invalidated. Will reactivate once replacement resources are confirmed
 
 ---
 

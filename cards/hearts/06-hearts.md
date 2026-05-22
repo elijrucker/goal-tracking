@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Preparing (Duolingo Spanish course)
+- **Current Status**: Deferred
 - **Start Date**:
 - **Target Completion**:
 - **Completion Date**:
@@ -54,6 +54,8 @@ Achieve $5,000 direct investment in South American markets. The smallest of the 
 ---
 
 ## Progress Notes
+
+- [2026-05-20] Status set to Deferred — investment literacy cards (2♥️, 3♥️, 4♥️) must progress further before activating geographic investment cards
 
 ---
 
