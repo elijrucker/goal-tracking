@@ -70,6 +70,8 @@
 - **Patterns noticed (if applicable):**
 - **Insights for similar future work:**
 
+---
+
 ## Unlocks
 
 Cards or goals that become available or easier after completing this one:

@@ -86,6 +86,17 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 ---
 
+## Reflection & Lessons Learned
+
+- **What surprised you?**
+- **What would you do differently?**
+- **One thing that worked well:**
+- **One thing harder than expected:**
+- **Patterns noticed (if applicable):**
+- **Insights for similar future work:**
+
+---
+
 ## Unlocks
 
 - Informs applied practice across all Clubs cards (no formal prerequisite gate)

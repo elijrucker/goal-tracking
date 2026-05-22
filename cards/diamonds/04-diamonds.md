@@ -65,6 +65,17 @@ The concepts extend well beyond C# syntax — the course reinforced programming 
 
 ---
 
+## Reflection & Lessons Learned
+
+- **What surprised you?**
+- **What would you do differently?**
+- **One thing that worked well:**
+- **One thing harder than expected:**
+- **Patterns noticed (if applicable):**
+- **Insights for similar future work:**
+
+---
+
 ## Unlocks
 
 - 8♦️ - Anki - C#

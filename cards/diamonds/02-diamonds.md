@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Completed
+- **Current Status**: Complete
 - **Start Date**: 2026-02-16
 - **Target Completion**: 2026-02-23
 - **Completion Date**: 2026-03-04
@@ -63,6 +63,17 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 ## Completion Notes
 
 - Determined that 'Microsoft Learn GitHub Foundations 2 of 2 was unrelated to goal, removed subtask
+
+---
+
+## Reflection & Lessons Learned
+
+- **What surprised you?**
+- **What would you do differently?**
+- **One thing that worked well:**
+- **One thing harder than expected:**
+- **Patterns noticed (if applicable):**
+- **Insights for similar future work:**
 
 ---
 

@@ -29,6 +29,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [🃏 Joker 1] — A♣️ Open Source Contribution reclassified: Essential → Highly Recommended
 - [🃏 Joker 1] — [Subtasks] GitHub profile optimization subtask added (profile README, pinned repos, repo descriptions)
 - [🃏 Joker 1] — [Progress Notes] added note (2026-05-22; GitHub profile optimization identified during LinkedIn review)
+- [2♦️] — [Status] typo fixed: "Completed" → "Complete"
+- [2♦️] — [Reflection & Lessons Learned] empty section added for backfill
+- [3♣️] — [Reflection & Lessons Learned] empty section added for backfill
+- [4♦️] — [Reflection & Lessons Learned] empty section added for backfill
+- [CARD_TEMPLATE.md] — added missing `---` divider before Unlocks section (consistency with all other section separators)
 
 #### Added
 
