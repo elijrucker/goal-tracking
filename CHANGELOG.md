@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-24] — joker-1 subtask updates
+
+#### Changed
+
+- [🃏 Joker 1] — Updated subtasks: removed redundant LinkedIn publish step, added master resume skills overhaul subtask
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count updated: 9/42 → 9/48 (removed 1 subtask; added 6-item master resume skills block; also absorbed missed +1 from 2026-05-22 GitHub profile subtask)
+
+---
+
 ### [2026-05-22] — joker-1 progress; system design dimension added to 10-clubs, jack-clubs, queen-clubs; BACKLOG Hearts expanded
 
 #### Completed

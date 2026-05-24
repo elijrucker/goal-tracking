@@ -91,12 +91,17 @@ This wildcard goal ties together multiple threads:
   - [x] Research and follow Berlin tech companies
   - [/] Translate Experience descriptions
   - [ ] Translate/adapt remaining sections (Featured, Education, Skills, Licenses/Certs, Projects)
-  - [ ] Publish German profile
 - [ ] Document completed milestones on LinkedIn (knowledge-focused posts)
   - [ ] Review md goal
   - [ ] Review Pragmatic Programmer goal
   - [ ] Review C# goal
 - [ ] German resume and portfolio website
+- [ ] Master resume skills section overhaul
+  - [ ] Audit current skills keyword section against present capabilities
+  - [ ] Identify gaps (new technical skills, tools, certifications)
+  - [ ] Update master resume skills section
+  - [ ] Sync updated skills section to LinkedIn profile
+  - [ ] Verify alignment between master resume and LinkedIn for ATS consistency
 - [ ] Complete "Schreiben Lernen" (writing guide)
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing relevant to Berlin job search
 - [/] Ensure 3 strong portfolio projects are live and documented
@@ -134,6 +139,7 @@ This wildcard goal ties together multiple threads:
 
 ## Progress Notes
 
+- [2026-05-24] Identified master resume skills section as requiring substantial overhaul; added dedicated subtask.
 - [2026-05-22] GitHub profile optimization identified as a subtask during LinkedIn profile review session
 - [2026-05-21] Rebuild over debug: cleaner to restart than troubleshoot naming issues mid-config. Infrastructure work benefits from longer uninterrupted sessions — schedule around lighter course weeks. Home server marks a shift from student to professional development habits.
 - Duolingo German course providing language maintenance / improvement
