@@ -97,7 +97,7 @@ This wildcard goal ties together multiple threads:
   - [ ] Review C# goal
 - [ ] German resume and portfolio website
 - [ ] Master resume skills section overhaul
-  - [ ] Audit current skills keyword section against present capabilities
+  - [ ] Audit current skills keyword section against present capabilities (include Claude Code)
   - [ ] Identify gaps (new technical skills, tools, certifications)
   - [ ] Update master resume skills section
   - [ ] Sync updated skills section to LinkedIn profile

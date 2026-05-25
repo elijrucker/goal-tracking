@@ -45,8 +45,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [/] Summer 26
     - [/] jobSearchPrep (05/18–06/12)
       - [x] Review 'START HERE', Syllabus, Due Dates
-      - [ ] Wk1 Assignment; job questionnaire (Due 2026-05-25)
-      - [ ] Wk1 Discussion Board; introduction (Due 2026-05-25)
+      - [x] Wk1 Assignment; job questionnaire
+      - [x] Wk1 Discussion Board; introduction
       - [ ] Wk2 Assignment; resume (Due 2026-06-01)
       - [ ] Wk2 Assignment; cover letter (Due 2026-06-01)
       - [ ] Wk3 Assignment; social media (Due 2026-06-08)
