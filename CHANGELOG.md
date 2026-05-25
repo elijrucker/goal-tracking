@@ -5,11 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-24] — joker-1 subtask updates
+### [2026-05-24] — joker-1 subtask updates; 10-hearts jobSearchPrep Wk1 closed
+
+#### Completed
+
+- [10-hearts] — [jobSearchPrep > Wk1 Assignment; job questionnaire] closed
+- [10-hearts] — [jobSearchPrep > Wk1 Discussion Board; introduction] closed
 
 #### Changed
 
 - [🃏 Joker 1] — Updated subtasks: removed redundant LinkedIn publish step, added master resume skills overhaul subtask
+- [🃏 Joker 1] — [Subtasks > Audit current skills keyword section] annotation updated: added "(include Claude Code)"
 
 #### Process
 
