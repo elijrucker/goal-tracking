@@ -84,17 +84,14 @@ This wildcard goal ties together multiple threads:
 
 ---
 
-## Subtasks
+## Subtasks - Profile, Portfolio & Credentials
 
 - [/] German LinkedIn profile
   - [x] Identify Interests strategy (Berlin tech, AWS/Google)
   - [x] Research and follow Berlin tech companies
-  - [/] Translate Experience descriptions
-  - [ ] Translate/adapt remaining sections (Featured, Education, Skills, Licenses/Certs, Projects)
-- [ ] Document completed milestones on LinkedIn (knowledge-focused posts)
-  - [ ] Review md goal
-  - [ ] Review Pragmatic Programmer goal
-  - [ ] Review C# goal
+  - [/] Translate About section
+  - [/] Translate/adapt profile sections (Education (Add TU), Skills, Licenses/Certs, Projects)
+- [ ] Optimize GitHub profile for recruiter audience (profile README, pinned repositories, repository descriptions)
 - [ ] German resume and portfolio website
 - [ ] Master resume skills section overhaul
   - [ ] Audit current skills keyword section against present capabilities (include Claude Code)
@@ -102,22 +99,18 @@ This wildcard goal ties together multiple threads:
   - [ ] Update master resume skills section
   - [ ] Sync updated skills section to LinkedIn profile
   - [ ] Verify alignment between master resume and LinkedIn for ATS consistency
-- [ ] Complete "Schreiben Lernen" (writing guide)
+- [ ] Goethe-Zertifikat C2
+  - [ ] Complete "Schreiben Lernen" (writing guide)
+  - [ ] Complete "Mit Erfolg zum Goethe-Zertifikat C2: GDS" (exam prep guide)
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing relevant to Berlin job search
+- [ ] Document completed milestones on LinkedIn (knowledge-focused posts)
+  - [ ] Review md goal
+  - [ ] Review Pragmatic Programmer goal
+  - [ ] Review C# goal
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
   - [ ] Project 3
-- [ ] Optimize GitHub profile for recruiter audience (profile README, pinned repositories, repository descriptions)
-- [ ] Research Berlin companies and tech scene
-- [ ] Prepare for technical interviews (LeetCode, system design)
-- [ ] Research visa requirements (EU Blue Card or other options)
-- [ ] Network with Berlin-based developers (LinkedIn, meetups)
-- [ ] Apply to target companies in Berlin
-- [ ] Pass technical interviews
-- [ ] Receive and negotiate job offer
-- [ ] Accept offer and begin visa process
-- [/] Declutter and liquidate physical possessions prior to relocation
 - [/] Home server — infrastructure & workflow integration
   - [x] Source hardware (Beelink EQi13 Pro)
   - [x] Install Ubuntu 24.04 LTS
@@ -133,6 +126,26 @@ This wildcard goal ties together multiple threads:
   - [ ] Deploy note-taking or knowledge management service — integrate with academic workflow
   - [ ] Validate exit node functionality from off-network location
   - [ ] Document server architecture and service stack for portfolio
+
+## Subtasks - Job Search & Preparation
+
+**Preparation**
+
+- [/] Research Berlin companies and tech scene (expand on portfolio subtask results)
+- [/] Prepare for technical interviews (LeetCode, system design)
+- [ ] Research visa requirements (EU Blue Card or other options)
+- [ ] Network with Berlin-based developers (LinkedIn, meetups)
+
+**Execution**
+
+- [ ] Apply to target companies in Berlin
+- [ ] Pass technical interviews
+- [ ] Receive and negotiate job offer
+- [ ] Accept offer and begin visa process
+
+## Subtasks - Relocation Logistics
+
+- [/] Declutter and liquidate physical possessions prior to relocation
 - [/] Minimize US financial footprint
 
 ---

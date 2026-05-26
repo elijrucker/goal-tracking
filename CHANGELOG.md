@@ -5,6 +5,40 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-25] — joker-1 subtask updates & reorganization; 03-spades Ch.6 closed; PROGRESS restructured; 10-hearts template fixes
+
+#### Completed
+
+- [03-spades] — [Chapter 6: Databases] closed; updated annotation (2026-05-25)
+
+#### Added
+
+- [joker-1] — [Goethe-Zertifikat C2] subtask series added: reorganized 'Complete "Schreiben Lernen" (writing guide)' as child item; added subtask 'Complete "Mit Erfolg zum Goethe-Zertifikat C2: GDS" (exam prep guide)'
+
+#### Changed
+
+- [joker-1] — [Research Berlin companies and tech scene] marked in progress; research begun with 10-hearts subtask jobSearchPrep
+- [joker-1] — [Prepare for technical interviews] marked in progress; updated status to reflect current 09-clubs (LeetCode) status
+- [joker-1] — [Research Berlin companies and tech scene] added annotation (expand on portfolio subtask results)
+- [joker-1] — [Translate Experience descriptions] → [Translate About section]
+- [joker-1] — [Translate/adapt profile sections] marked in progress; updated annotation (Education (Add TU), Skills, Licenses/Certs, Projects)
+- [joker-1] — [Subtasks - Portfolio & Softskills] → [Subtasks - Profile, Portfolio & Credentials]
+- [joker-1] — [Subtasks - Hardware & Relocation] → [Subtasks - Relocation Logistics]
+- [joker-1] — [Home server] subtask series reallocated: Relocation Logistics → Profile, Portfolio & Credentials
+- [joker-1] — [Job Search & Preparation] restructured: Preparation and Execution sub-groups added
+- [10-hearts] — added Reflection & Lessons Learned section
+- [10-hearts] — [Progress Notes] refactored: date prefixes added to two undated entries
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count updated: 9/48 → 9/50 (added 'Goethe-Zertifikat C2' subtask series)
+- [PROGRESS] — 3♠️ subtask count updated: 5/8 → 6/8
+- [PROGRESS] — "Active Cards" table renamed to "On the Board"; rows sorted by status (In Progress → Preparing → Deferred)
+- [joker-1] — Subtasks organized into three categories: Profile, Portfolio & Credentials; Job Search & Preparation; Relocation Logistics
+- [CHANGELOG] — [2026-05-24 > joker-1 annotation entry] corrected: subtask path and verb form
+
+---
+
 ### [2026-05-24] — joker-1 subtask updates; 10-hearts jobSearchPrep Wk1 closed
 
 #### Completed
@@ -14,8 +48,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [🃏 Joker 1] — Updated subtasks: removed redundant LinkedIn publish step, added master resume skills overhaul subtask
-- [🃏 Joker 1] — [Subtasks > Audit current skills keyword section] annotation updated: added "(include Claude Code)"
+- [joker-1] — Updated subtasks: removed redundant LinkedIn publish step, added master resume skills overhaul subtask
+- [joker-1] — [Master resume skills section overhaul > Audit current skills keyword section against present capabilities] added annotation (include Claude Code)
 
 #### Process
 

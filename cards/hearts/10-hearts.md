@@ -77,13 +77,17 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [2026-05-18] Units (35/63) do not yet reflect Spring 26 final grades — to be updated once posted
 - [2026-05-14] db_prog incomplete; Project 4 and wk16 deferred to Fall 26
-- In progress at deck initialization (2026-02-13)
-- Expected completion within ~1 year
+- [2026-02-13] In progress at deck initialization
+- [2026-02-13] Expected completion within ~1 year
 - Actively retaking select courses to improve cumulative GPA (ongoing, noted 2026-03-18)
 
 ---
 
 ## Completion Notes
+
+---
+
+## Reflection & Lessons Learned
 
 ---
 
