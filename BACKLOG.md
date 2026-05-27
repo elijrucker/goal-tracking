@@ -19,6 +19,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Git advanced usage (rebasing, workflows, etc.)
 - [ ] Java — Advanced & Enterprise Prep (Spring Boot, JPA/Hibernate, Maven/Gradle; prep for Academic Advanced Java and Enterprise Java coursework)
 - [ ] Building a Debugger — [No Starch Press](https://nostarch.com/building-a-debugger); tooling-focused, practical; defer until comfortable with systems fundamentals
+- [ ] Personal domain & professional email (Diamonds, low-to-mid tier) — Research and configure a personal domain for professional email. Requirements: German-based provider, billing in EUR, email hosting with Gmail forwarding or "Send As" integration. Goal: consistent personal branding across email, LinkedIn, and GitHub. Prerequisite: Joker 1 (Berlin relocation). Suggested activation: When Berlin relocation is imminent.
 
 ---
 
@@ -33,6 +34,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Build a personal portfolio website
 - [ ] System Design Capstone Project — Advanced capstone project integrating architectural thinking from multiple completed Clubs projects (10♣️, J♣️, Q♣️). Design and build a complex system end-to-end, demonstrating mastery of architectural patterns, scalability considerations, and systems thinking. Suggested tier: Queen or King in Clubs.
 - [ ] Applied Security & Ethical Hacking (Clubs, mid-to-high tier) — Hands-on applied security practice building on CS50 Cybersecurity (4♠️) theory foundation. Scope includes: CTF (Capture the Flag) challenges (gamified, beginner-friendly entry point), OWASP Top 10 applied practice (industry standard vulnerability framework), secure code review methodology (directly applicable to Clubs project cards), penetration testing basics, and TryHackMe platform curriculum. Resources TBD on activation — consider TryHackMe learning paths, PicoCTF, OWASP WebGoat, HackTheBox. Prerequisite: 4♠️ CS50 Cybersecurity complete. Suggested activation: After completing several Clubs project cards to have real codebases to review for vulnerabilities. Refine scope, tier, and subtasks when promoted to worklog.
+- [ ] Home Server Auxiliary Services (Clubs, low-to-mid tier) — Service deployments deferred from joker-1 home server portfolio subtask. Scope: Deploy Syncthing (MacBook and mobile file sync), Deploy Uptime Kuma (service monitoring), Deploy self-hosted personal finance tool (replace US-based financial apps pre-relocation), Deploy note-taking or knowledge management service. Prerequisite: joker-1 home server portfolio & dev environment subtasks complete. Suggested activation: After Caddy and remote dev workflow are operational.
 - [ ] Mentorship & Technical Teaching (Clubs, high tier) — Share accumulated technical knowledge and experience by mentoring junior developers, students, or career changers. Requires professional credibility built through completed Clubs projects, open source contributions, and real-world development experience. Scope includes: formal mentorship via platforms (ADPList, Coding Coach), pair programming and code review with junior developers, teaching workshops or tutorials, contributing to developer communities (Discord, forums, Stack Overflow), internal workplace mentorship, open source project mentorship (reviewing PRs, onboarding contributors), and potentially creating online course content. Resources and platform TBD on activation. Prerequisites: Joker 1 (Berlin job offer), A♣️ Open Source Contribution, substantial Clubs project portfolio, real-world professional development experience. Suggested activation: Post-relocation to Berlin/EU (2027+). Refine scope, tier, and subtasks when promoted to worklog.
 
 ---
@@ -70,6 +72,9 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 ---
 
 ## Potential Hearts Cards (Personal Development)
+
+- [ ] Goethe-Zertifikat C2 (Hearts, mid-to-high tier) — German language certification deferred from joker-1. Scope: Complete "Schreiben Lernen" (writing guide), Complete "Mit Erfolg zum Goethe-Zertifikat C2: GDS" (exam prep guide), pass the Goethe-Zertifikat C2 exam. Best pursued post-relocation to Berlin where immersion accelerates preparation. Prerequisite: Joker 1 (Berlin job offer and relocation). Suggested activation: Post-relocation (2027+).
+
 
 - [ ] Complete Master's Degree (follows A♥️ Bachelor's — likely Red/Elite tier; specialty TBD)
 - [ ] Complete PhD (purely aspirational; no clear professional ROI at this time — revisit only if trajectory changes significantly)

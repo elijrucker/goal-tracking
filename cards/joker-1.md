@@ -89,42 +89,27 @@ This wildcard goal ties together multiple threads:
 - [/] German LinkedIn profile
   - [x] Identify Interests strategy (Berlin tech, AWS/Google)
   - [x] Research and follow Berlin tech companies
-  - [/] Translate About section
-  - [/] Translate/adapt profile sections (Education (Add TU), Skills, Licenses/Certs, Projects)
+  - [/] Translate and adapt all profile sections (About, Education (Add TU), Skills, Licenses/Certs, Projects)
 - [ ] Optimize GitHub profile for recruiter audience (profile README, pinned repositories, repository descriptions)
 - [ ] German resume and portfolio website
 - [ ] Master resume skills section overhaul
-  - [ ] Audit current skills keyword section against present capabilities (include Claude Code)
-  - [ ] Identify gaps (new technical skills, tools, certifications)
-  - [ ] Update master resume skills section
-  - [ ] Sync updated skills section to LinkedIn profile
-  - [ ] Verify alignment between master resume and LinkedIn for ATS consistency
-- [ ] Goethe-Zertifikat C2
-  - [ ] Complete "Schreiben Lernen" (writing guide)
-  - [ ] Complete "Mit Erfolg zum Goethe-Zertifikat C2: GDS" (exam prep guide)
+  - [ ] Audit current skills and identify gaps (capabilities, tools, certifications; include Claude Code)
+  - [ ] Update master resume, sync to LinkedIn, and verify ATS alignment
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing relevant to Berlin job search
-- [ ] Document completed milestones on LinkedIn (knowledge-focused posts)
-  - [ ] Review md goal
-  - [ ] Review Pragmatic Programmer goal
-  - [ ] Review C# goal
+- [ ] Document completed milestones on LinkedIn — knowledge-focused posts (md, Pragmatic Programmer, C#)
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
   - [ ] Project 3
-- [/] Home server — infrastructure & workflow integration
+- [/] Home server — portfolio & dev environment
   - [x] Source hardware (Beelink EQi13 Pro)
   - [x] Install Ubuntu 24.04 LTS
   - [x] Configure Tailscale (exit node)
   - [x] Install Docker
   - [x] Harden SSH (key auth, password auth disabled)
   - [ ] Configure Caddy reverse proxy
-  - [ ] Deploy Syncthing — integrate with MacBook and mobile file workflows
-  - [ ] Deploy Uptime Kuma — monitor active services
-  - [ ] Deploy self-hosted personal finance tool — replace US-based financial apps pre-relocation
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
-  - [ ] Establish remote dev workflow — SSH into server as development environment for coursework and projects
-  - [ ] Deploy note-taking or knowledge management service — integrate with academic workflow
-  - [ ] Validate exit node functionality from off-network location
+  - [ ] Establish and validate remote dev workflow and exit node from off-network location
   - [ ] Document server architecture and service stack for portfolio
 
 ## Subtasks - Job Search & Preparation

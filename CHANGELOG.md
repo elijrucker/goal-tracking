@@ -5,6 +5,29 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-26] — joker-1 subtask restructure & consolidation
+
+#### Changed
+
+- [joker-1] — [Home server — infrastructure & workflow integration] → [Home server — portfolio & dev environment]; 4 auxiliary service subtasks deferred to BACKLOG
+- [joker-1] — [Goethe-Zertifikat C2] subtask series removed; deferred to BACKLOG as standalone Hearts card (post-relocation)
+- [joker-1] — [LinkedIn profile > Translate About section] + [Translate/adapt profile sections] merged → [Translate and adapt all profile sections] (annotation form)
+- [joker-1] — [Master resume skills section overhaul] refactored: 5 children → 2 (audit + gaps consolidated; update + sync + verify consolidated)
+- [joker-1] — [Document completed milestones on LinkedIn] refactored: 3 children collapsed into parent annotation (md, Pragmatic Programmer, C#)
+- [joker-1] — [Home server > Establish remote dev workflow] + [Validate exit node functionality] merged → [Establish and validate remote dev workflow and exit node from off-network location]
+- [10-hearts] — [jobSearchPrep > Wk2 Assignment; resume] marked in progress
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count updated: 9/50 → 9/46 (home server restructure)
+- [PROGRESS] — 🃏1 subtask count updated: 9/46 → 9/43 (Goethe-Zertifikat C2 deferred)
+- [PROGRESS] — 🃏1 subtask count updated: 9/43 → 9/35 (subtask consolidation: −8)
+- [BACKLOG] — Home server auxiliary services added to Potential Clubs Cards (low-to-mid tier candidate; deferred from joker-1)
+- [BACKLOG] — Goethe-Zertifikat C2 added to Potential Hearts Cards (post-relocation; deferred from joker-1)
+- [BACKLOG] — Personal domain & professional email added to Potential Diamonds Cards (low-to-mid tier; defer until Berlin relocation imminent)
+
+---
+
 ### [2026-05-25] — joker-1 subtask updates & reorganization; 03-spades Ch.6 closed; PROGRESS restructured; 10-hearts template fixes
 
 #### Completed
