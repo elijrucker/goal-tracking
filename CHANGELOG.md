@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-27] — 10-hearts progress
+
+#### Changed
+
+- [10-hearts] — [jobSearchPrep > Wk2 Assignment; resume] updated annotation: (Due 2026-06-01)(Make Skills section relevant and ATS-friendly)
+
+---
+
 ### [2026-05-26] — joker-1 subtask restructure & consolidation
 
 #### Changed
