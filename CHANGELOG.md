@@ -9,14 +9,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Completed
 
+- [03-diamonds] — [Prerequisites > 2♦️ Markdown] marked complete
 - [03-spades] — [Chapter 8: Programming] closed (2026-05-29)
 - [03-spades] — transitioned: In Progress → Complete (2026-05-29)
 - [joker-1] — [Home server > Configure Caddy reverse proxy] closed; annotation added (routing rules to be added per service on respective card deployment)
 
 #### Changed
 
-- [09-clubs] — transitioned: In Progress → Deferred (2026-05-29)
+- [03-diamonds] — subtasks expanded to chapter-level granularity
+- [03-diamonds] — [Project 1] annotation added (Pygame display constraint)
 - [03-diamonds] — transitioned: Not Started → In Progress (2026-05-29)
+- [09-clubs] — transitioned: In Progress → Deferred (2026-05-29)
 - [PROGRESS] — joker-1 subtask count corrected to 10/35 (Caddy was [x] but count not updated at time of close)
 
 #### Notes
@@ -34,6 +37,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Process
 
 - [PROGRESS] — 3♠️ moved to Completed; Spades first completion milestone checked; Green tier count updated 3 → 4; 3♦️ transitioned Not Started → In Progress
+- [PROGRESS] — 3♦️ subtask count updated: 0/3 → 0/15
 
 #### Reflection & Lessons Learned
 

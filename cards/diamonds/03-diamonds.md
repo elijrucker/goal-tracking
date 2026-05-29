@@ -34,14 +34,34 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Prerequisites
 
-- [ ] 2♦️ - Markdown (recommended before logging progress)
+- [x] 2♦️ - Markdown (recommended before logging progress)
 
 ---
 
 ## Subtasks
 
-- [ ] Part 1: Basics (variables, data types, lists, loops, functions, classes)
-- [ ] Part 2: Projects (complete at least one project)
+**Part 1: Basics**
+
+- [ ] Ch. 1: Getting Started
+- [ ] Ch. 2: Variables and Simple Data Types
+- [ ] Ch. 3: Introducing Lists
+- [ ] Ch. 4: Working with Lists
+- [ ] Ch. 5: if Statements
+- [ ] Ch. 6: Dictionaries
+- [ ] Ch. 7: User Input and while Loops
+- [ ] Ch. 8: Functions
+- [ ] Ch. 9: Classes
+- [ ] Ch. 10: Files and Exceptions
+- [ ] Ch. 11: Testing Your Code
+
+**Part 2: Projects**
+
+- [ ] Project 1 — Alien Invasion (Ch. 12–14) _(Pygame requires display; X11 forwarding or run locally)_
+- [ ] Project 2 — Data Visualization (Ch. 15–17)
+- [ ] Project 3 — Web Applications (Ch. 18–20)
+
+**Wrap-up**
+
 - [ ] Review and consolidate key concepts
 
 ---
