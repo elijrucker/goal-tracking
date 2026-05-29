@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-29] — Backlog additions
+
+#### Added
+
+- [BACKLOG] — The Psychology of Computer Programming (Weinberg) added to Potential Clubs Cards
+- [BACKLOG] — The Mythical Man-Month (Brooks) added to Potential Clubs Cards
+- [BACKLOG] — First Break All the Rules (Buckingham & Coffman) added to Potential Hearts Cards
+- [BACKLOG] — Never Split the Difference (Chris Voss) added to Potential Hearts Cards
+- [BACKLOG] — Wanderungen durch die Mark Brandenburg (Fontane) added to Potential Hearts Cards
+
+---
+
 ### [2026-05-28] — 03-spades progress
 
 #### Completed
