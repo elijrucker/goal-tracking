@@ -7,9 +7,9 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 4 / 52
-- **Cards In Progress**: 7
+- **Cards In Progress**: 6
 - **Cards Preparing**: 6
-- **Cards Deferred**: 3
+- **Cards Deferred**: 4
 - **Current Streak**: 4 cards
 - **Last Completed**: 3♠️ CS Distilled (2026-05-29)
 - **Deck Started**: 2026-02-13
@@ -19,11 +19,11 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Suit        | Completed | In Progress | Preparing | Deferred | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | -------- | ----------- | ------ |
 | ♦️ Diamonds | 2         | 2           | 2         | 0        | 7           | 13     |
-| ♣️ Clubs    | 1         | 1           | 3         | 0        | 8           | 13     |
+| ♣️ Clubs    | 1         | 0           | 3         | 1        | 8           | 13     |
 | ♠️ Spades   | 1         | 1           | 0         | 0        | 11          | 13     |
 | ♥️ Hearts   | 0         | 2           | 0         | 3        | 8           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **4**     | **7**       | **6**     | **3**    | **34**      | **54** |
+| **Total**   | **4**     | **6**       | **6**     | **4**    | **34**      | **54** |
 
 ### Completion by Color Tier
 
@@ -44,7 +44,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 11/12            |
 | 10♥️ | Complete Associate's Degree      | In Progress | 35/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
-| 9♣️  | LeetCode Practice                | In Progress | 0/9              |
+| 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 10/35            |
 | K♦️  | AWS DVA Prep Course              | Preparing   | 0/5              |
 | A♦️  | AWS Certified Developer Assoc.   | Preparing   | 0/4              |

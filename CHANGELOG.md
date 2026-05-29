@@ -15,8 +15,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
+- [09-clubs] — transitioned: In Progress → Deferred (2026-05-29)
 - [03-diamonds] — transitioned: Not Started → In Progress (2026-05-29)
 - [PROGRESS] — joker-1 subtask count corrected to 10/35 (Caddy was [x] but count not updated at time of close)
+
+#### Notes
+
+- [09-clubs] — Deferred due to current bandwidth constraints; reactivate when capacity allows
 
 #### Added
 
