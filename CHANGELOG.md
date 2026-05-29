@@ -5,7 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-29] — Backlog additions
+### [2026-05-29] — joker-1 Caddy closed; Backlog additions
+
+#### Completed
+
+- [joker-1] — [Home server > Configure Caddy reverse proxy] closed; annotation added (routing rules to be added per service on respective card deployment)
+
+#### Changed
+
+- [PROGRESS] — joker-1 subtask count corrected to 10/35 (Caddy was [x] but count not updated at time of close)
 
 #### Added
 

@@ -107,7 +107,7 @@ This wildcard goal ties together multiple threads:
   - [x] Configure Tailscale (exit node)
   - [x] Install Docker
   - [x] Harden SSH (key auth, password auth disabled)
-  - [ ] Configure Caddy reverse proxy
+  - [x] Configure Caddy reverse proxy (routing rules to be added per service on respective card deployment)
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
   - [ ] Establish and validate remote dev workflow and exit node from off-network location
   - [ ] Document server architecture and service stack for portfolio
