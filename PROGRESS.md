@@ -6,30 +6,30 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 ## Summary
 
-- **Cards Completed**: 3 / 52
+- **Cards Completed**: 4 / 52
 - **Cards In Progress**: 7
 - **Cards Preparing**: 6
 - **Cards Deferred**: 3
-- **Current Streak**: 3 cards
-- **Last Completed**: 4♦️ Foundational C# with Microsoft (2026-04-30)
+- **Current Streak**: 4 cards
+- **Last Completed**: 3♠️ CS Distilled (2026-05-29)
 - **Deck Started**: 2026-02-13
 
 ### Completion by Suit
 
 | Suit        | Completed | In Progress | Preparing | Deferred | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | -------- | ----------- | ------ |
-| ♦️ Diamonds | 2         | 1           | 2         | 0        | 8           | 13     |
+| ♦️ Diamonds | 2         | 2           | 2         | 0        | 7           | 13     |
 | ♣️ Clubs    | 1         | 1           | 3         | 0        | 8           | 13     |
-| ♠️ Spades   | 0         | 2           | 0         | 0        | 11          | 13     |
+| ♠️ Spades   | 1         | 1           | 0         | 0        | 11          | 13     |
 | ♥️ Hearts   | 0         | 2           | 0         | 3        | 8           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **3**     | **7**       | **6**     | **3**    | **35**      | **54** |
+| **Total**   | **4**     | **7**       | **6**     | **3**    | **34**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 3         | 2           | 12    |
+| 🟢 Green (Foundational) | 4         | 2           | 12    |
 | 🔵 Blue (Moderate)      | 0         | 1           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
@@ -40,7 +40,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♠️  | CS50x                            | In Progress | 1/12             |
-| 3♠️  | CS Distilled                     | In Progress | 6/8              |
+| 3♦️  | Python Crash Course              | In Progress | 0/3              |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 11/12            |
 | 10♥️ | Complete Associate's Degree      | In Progress | 35/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
@@ -61,6 +61,14 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Completed Cards
 
 Cards will be logged here as they are completed.
+
+---
+
+**3 of Spades - CS Distilled**
+
+- Completed: 2026-05-29
+- Time Invested: ~8 hours (est.)
+- Key Takeaway: Functions best as a conceptual primer — first half introduced genuinely new theory (Strategy, Data, Algorithms); second half confirmed existing knowledge. Staggered sequencing with CS50x demonstrated the spaced repetition effect without Anki.
 
 ---
 
@@ -112,7 +120,7 @@ Cards will be logged here as they are completed.
 
 - [x] Complete first card in Diamonds
 - [x] Complete first card in Clubs
-- [ ] Complete first card in Spades
+- [x] Complete first card in Spades
 - [ ] Complete first card in Hearts
 - [ ] Complete all Green cards in any suit
 - [ ] Complete 50% of any suit

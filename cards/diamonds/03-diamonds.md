@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-05-29
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -47,6 +47,8 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 ---
 
 ## Progress Notes
+
+- [2026-05-29] Promoted to In Progress following 3♠️ CS Distilled completion. Python identified as largest current skill gap.
 
 ---
 

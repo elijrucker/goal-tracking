@@ -5,14 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-29] — joker-1 Caddy closed; Backlog additions
+### [2026-05-29] — 03-spades Complete; 03-diamonds In Progress; joker-1 Caddy closed; Backlog additions
 
 #### Completed
 
+- [03-spades] — [Chapter 8: Programming] closed (2026-05-29)
+- [03-spades] — transitioned: In Progress → Complete (2026-05-29)
 - [joker-1] — [Home server > Configure Caddy reverse proxy] closed; annotation added (routing rules to be added per service on respective card deployment)
 
 #### Changed
 
+- [03-diamonds] — transitioned: Not Started → In Progress (2026-05-29)
 - [PROGRESS] — joker-1 subtask count corrected to 10/35 (Caddy was [x] but count not updated at time of close)
 
 #### Added
@@ -22,6 +25,14 @@ Format: [YYYY-MM-DD] — Description of change
 - [BACKLOG] — First Break All the Rules (Buckingham & Coffman) added to Potential Hearts Cards
 - [BACKLOG] — Never Split the Difference (Chris Voss) added to Potential Hearts Cards
 - [BACKLOG] — Wanderungen durch die Mark Brandenburg (Fontane) added to Potential Hearts Cards
+
+#### Process
+
+- [PROGRESS] — 3♠️ moved to Completed; Spades first completion milestone checked; Green tier count updated 3 → 4; 3♦️ transitioned Not Started → In Progress
+
+#### Reflection & Lessons Learned
+
+- Delayed reflection scheduled for 2026-06-12. Return to review what was retained without notes, what has connected to other work, and what patterns emerged.
 
 ---
 
