@@ -46,8 +46,8 @@ Read Computer Science Distilled by Wladston Ferreira Filho. An accessible, conci
 - [x] Chapter 4: Data (2026-05-12)
 - [x] Chapter 5: Algorithms (2026-05-16)
 - [x] Chapter 6: Databases (2026-05-25)
-- [ ] Chapter 7: Computers
-- [ ] Chapter 8: Programming
+- [x] Chapter 7: Computers (2026-05-28)
+- [/] Chapter 8: Programming (2026-05-28; 8.3 Imperative Programming)
 
 ---
 

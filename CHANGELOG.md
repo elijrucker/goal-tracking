@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-28] — 03-spades progress
+
+#### Completed
+
+- [03-spades] — [Chapter 7: Computers] closed
+
+#### Changed
+
+- [03-spades] — [Chapter 8: Programmming] marked in progress; added annotation: (2026-05-28; 8.3 Imperative Programming)
+
+---
+
 ### [2026-05-27] — 10-hearts progress
 
 #### Changed
