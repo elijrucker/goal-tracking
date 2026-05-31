@@ -5,7 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-31] — joker-1 progress
+### [2026-05-31] — 10-hearts jsp wk2 assignment completed; joker-1 progress
+
+#### Completed
+
+- [10-hearts] — [jobSearchPrep > Wk2 Assignment resume] closed
 
 #### Updated
 
