@@ -96,7 +96,7 @@ This wildcard goal ties together multiple threads:
   - [ ] Audit current skills and identify gaps (capabilities, tools, certifications; include Claude Code)
   - [ ] Update master resume, sync to LinkedIn, and verify ATS alignment
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing relevant to Berlin job search
-- [ ] Document completed milestones on LinkedIn — knowledge-focused posts (md, Pragmatic Programmer, C#)
+- [/] Document completed milestones on LinkedIn — knowledge-focused posts (md, Pragmatic Programmer, C#)
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
@@ -110,7 +110,7 @@ This wildcard goal ties together multiple threads:
   - [x] Configure Caddy reverse proxy (routing rules to be added per service on respective card deployment)
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
   - [x] Establish and validate remote dev workflow and exit node from off-network location
-  - [ ] Document server architecture and service stack for portfolio
+  - [/] Document server architecture and service stack for portfolio
 
 ## Subtasks - Job Search & Preparation
 

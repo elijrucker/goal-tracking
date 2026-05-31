@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-31] — joker-1 progress
+
+#### Updated
+
+- [joker-1] — [Home server > Document server architecture and service stack for portfolio] marked in progress
+- [joker-1] — [Home server > Document completed milestones on LinkedIn - knowledge-focused posts] marked in progress
+
+---
+
 ### [2026-05-30] — joker-1 remote dev workflow and exit node validated; jack-diamonds progress
 
 #### Completed
