@@ -109,7 +109,7 @@ This wildcard goal ties together multiple threads:
   - [x] Harden SSH (key auth, password auth disabled)
   - [x] Configure Caddy reverse proxy (routing rules to be added per service on respective card deployment)
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
-  - [ ] Establish and validate remote dev workflow and exit node from off-network location
+  - [x] Establish and validate remote dev workflow and exit node from off-network location
   - [ ] Document server architecture and service stack for portfolio
 
 ## Subtasks - Job Search & Preparation

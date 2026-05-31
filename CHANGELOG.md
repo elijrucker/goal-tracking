@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-05-30] — joker-1 remote dev workflow and exit node validated; jack-diamonds progress
+
+#### Completed
+
+- [joker-1] — [Home server > Establish and validate remote dev workflow and exit node from off-network location] closed; validated from ThinkPad T440s on separate network via Tailscale
+
+#### Updated
+
+- [jack-diamonds] — [Developer learning path modules > Phase 0] annotation updated; (2026-05-30; Introduction to Being an AWS Developer)
+
+#### Notes
+
+- [joker-1] — Remote dev workflow confirmed: SSH into ejr-homeserver via Tailscale IP, aws-dev container launched via run.sh
+- [joker-1] — Exit node confirmed active via `tailscale status` (active; exit node); public IP unchanged due to laptop and server sharing same ISP public address — expected behavior, not a misconfiguration
+- [joker-1] — Tailscale installed on ThinkPad T440s (Ubuntu 24.04) and added to tailnet during this session
+
+---
+
 ### [2026-05-29] — 03-spades Complete; 03-diamonds In Progress; joker-1 Caddy closed; Backlog additions
 
 #### Completed
