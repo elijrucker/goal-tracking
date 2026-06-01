@@ -42,8 +42,9 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 **Part 1: Basics**
 _(Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-05-31)_
+_(Target: complete by 2026-06-30)_
 
-- [/] Ch. 1: Getting Started (Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
+- [/] Ch. 1: Getting Started (2026-05-31; Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
 - [ ] Ch. 2: Variables and Simple Data Types
 - [ ] Ch. 3: Introducing Lists
 - [ ] Ch. 4: Working with Lists
@@ -69,6 +70,7 @@ _(Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-05-31)_
 
 ## Progress Notes
 
+- [2026-06-01] Target set: complete Part 1 (Basics) by 2026-06-30. One month target, not considered a stretch goal. Revisit pace as summer courses ramp up.
 - [2026-05-29] Promoted to In Progress following 3♠️ CS Distilled completion. Python identified as largest current skill gap.
 
 ---

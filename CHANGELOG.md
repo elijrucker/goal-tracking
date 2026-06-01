@@ -5,11 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-01] — 10-hearts jsp wk2 assignment completed
+### [2026-06-01] — 10-hearts jsp wk2 assignment completed; jack-diamonds & 03-diamonds subtask completion goals added
 
 #### Completed
 
 - [10-hearts] — [jobSearchPrep > Wk2 Assignment; cover letter] closed
+
+#### Changed
+
+- [03-diamonds] — [Part 1: Basics > Ch. 1] updated annotation; (2026-05-31; Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
+- [jack-diamonds] — [Developer learning path modules] target added: complete all 6 modules by 2026-07-31
+- [03-diamonds] — [Part 1: Basics] target added: complete by 2026-06-30
 
 ---
 
