@@ -50,7 +50,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 - [ ] Week 3: Assignments
 - [x] Week 4: Memory — Lecture
 - [ ] Week 4: Assignments
-- [/] Week 5: Data Structures — Lecture
+- [/] Week 5: Data Structures — Lecture _(Target: complete all remaining lectures by 2026-07-06 (1 lecture/week))_
 - [ ] Week 5: Assignments
 - [ ] Week 6: Python — Lecture
 - [ ] Week 6: Assignments
@@ -68,6 +68,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 
 ## Progress Notes
 
+- [2026-06-01] Target set: complete all remaining lectures by 2026-07-06 at a pace of one lecture per week. Addressing tendency to let gaps stretch between lectures.
 - In progress at deck initialization (2026-02-13)
 - Lectures for Week 0 - Week 3 watched (2026-03-17)
 - Week 4: Memory lecture started, assignments not yet begun (2026-03-19)

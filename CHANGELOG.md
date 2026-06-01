@@ -20,6 +20,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [ace-diamonds] — [Progress Notes] note added (AWS + open source integration strategy; three Joker 1 prerequisites addressed in one card)
 - [joker-1] — [Prerequisites > A♣️] added annotation (prioritize projects with AWS integration — maximizes overlap with certification track)
 - [jack-diamonds] — [Developer learning path modules > Phase 1] marked in progress; annotation added (2026-06-01)
+- [02-spades] — [Week 5: Data Structures] target added: complete all remaining lectures by 2026-07-06 (1 lecture/week)
 
 ---
 
