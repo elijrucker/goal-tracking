@@ -52,6 +52,7 @@ Pass the AWS Certified Developer Associate (DVA-C02) certification exam. The ult
 
 ## Progress Notes
 
+- [2026-06-01] Prioritize open source projects with AWS integration where possible — simultaneously demonstrates real-world collaboration, practical AWS knowledge applied outside coursework, and community engagement. Three Joker 1 prerequisites addressed in one card.
 - [2026-04-27] Active 10-hearts subtask (c4d course) is building foundational cloud and developer skills that directly prepare for further AWS material. Marking Preparing as groundwork is underway ahead of formal prerequisites.
 
 ---

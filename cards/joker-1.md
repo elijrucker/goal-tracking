@@ -75,6 +75,7 @@ This wildcard goal ties together multiple threads:
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
 - [ ] A♣️ - Open Source Contribution (demonstrates real-world collaboration and community engagement — valuable but not a hard prerequisite)
+  _(Prioritize open source projects with AWS integration — maximizes overlap with AWS certification track and demonstrates practical cloud experience to Berlin recruiters)_
 
 **Supporting:**
 

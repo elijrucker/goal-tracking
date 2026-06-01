@@ -16,6 +16,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [03-diamonds] — [Part 1: Basics > Ch. 1] updated annotation; (2026-05-31; Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
 - [jack-diamonds] — [Developer learning path modules] target added: complete all 6 modules by 2026-07-31
 - [03-diamonds] — [Part 1: Basics] target added: complete by 2026-06-30
+- [ace-diamonds] — [Progress Notes] note added (AWS + open source integration strategy; three Joker 1 prerequisites addressed in one card)
+- [joker-1] — [Prerequisites > A♣️] added annotation (prioritize projects with AWS integration — maximizes overlap with certification track)
 
 ---
 
