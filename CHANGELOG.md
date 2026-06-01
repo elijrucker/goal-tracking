@@ -5,19 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-31] — 10-hearts jsp wk2 assignment completed; joker-1 progress; 02-spades subtask refactor
+### [2026-05-31] — 10-hearts jsp wk2 assignment completed; joker-1 progress; 03-diamonds progress; 02-spades subtask refactor
 
 #### Completed
 
 - [10-hearts] — [jobSearchPrep > Wk2 Assignment resume] closed
 
-#### Updated
+#### Changed
 
 - [joker-1] — [Home server > Document server architecture and service stack for portfolio] marked in progress
 - [joker-1] — [Home server > Document completed milestones on LinkedIn - knowledge-focused posts] marked in progress
-
-#### Changed
-
+- [03-diamonds] — [Part 1: Basics] added annotation; (Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-05-31)
+- [03-diamonds] — [Part 1: Basics > Ch. 1] marked in progress; added annotation; (Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
 - [02-spades] — subtasks refactored: week-by-week structure replaced with per-lecture + per-week assignments breakdown; lectures 0–4 marked complete, Week 5 Data Structures lecture marked in progress; 23 subtasks total
 
 ---
@@ -28,7 +27,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Home server > Establish and validate remote dev workflow and exit node from off-network location] closed; validated from ThinkPad T440s on separate network via Tailscale
 
-#### Updated
+#### Changed
 
 - [jack-diamonds] — [Developer learning path modules > Phase 0] annotation updated; (2026-05-30; Introduction to Being an AWS Developer)
 
@@ -60,6 +59,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Notes
 
 - [09-clubs] — Deferred due to current bandwidth constraints; reactivate when capacity allows
+- Delayed reflection scheduled for 2026-06-12. Return to review what was retained without notes, what has connected to other work, and what patterns emerged.
 
 #### Added
 
@@ -73,10 +73,6 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [PROGRESS] — 3♠️ moved to Completed; Spades first completion milestone checked; Green tier count updated 3 → 4; 3♦️ transitioned Not Started → In Progress
 - [PROGRESS] — 3♦️ subtask count updated: 0/3 → 0/15
-
-#### Reflection & Lessons Learned
-
-- Delayed reflection scheduled for 2026-06-12. Return to review what was retained without notes, what has connected to other work, and what patterns emerged.
 
 ---
 
@@ -373,7 +369,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [jack-diamonds] — [Developer learning path modules > Phase 0] marked in progress, added annotation (2026-05-18)
 - [02-spades] — [Week 4: Memory] updated annotation (2026-05-18; lecture in progress, assignments outstanding)
 
-#### PROCESS
+#### Process
 
 - [PROGRESS] — 3♠️ subtask count corrected: 4/8 → 5/8
 - [PROGRESS] — 10♥️ subtask tracking changed: 0/8 → 35/63 units

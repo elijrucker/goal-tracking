@@ -41,8 +41,9 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 ## Subtasks
 
 **Part 1: Basics**
+_(Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-05-31)_
 
-- [ ] Ch. 1: Getting Started
+- [/] Ch. 1: Getting Started (Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
 - [ ] Ch. 2: Variables and Simple Data Types
 - [ ] Ch. 3: Introducing Lists
 - [ ] Ch. 4: Working with Lists
