@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-01] — 10-hearts jsp wk2 assignment completed; jack-diamonds & 03-diamonds subtask completion goals added
+### [2026-06-01] — 10-hearts jsp wk2 assignment completed; jack-diamonds phase 0 completed; jack-diamonds & 03-diamonds subtask completion goals added
 
 #### Completed
 
 - [10-hearts] — [jobSearchPrep > Wk2 Assignment; cover letter] closed
+- [jack-diamonds] — [Developer learning path modules > Phase 0] closed
 
 #### Changed
 
@@ -18,6 +19,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [03-diamonds] — [Part 1: Basics] target added: complete by 2026-06-30
 - [ace-diamonds] — [Progress Notes] note added (AWS + open source integration strategy; three Joker 1 prerequisites addressed in one card)
 - [joker-1] — [Prerequisites > A♣️] added annotation (prioritize projects with AWS integration — maximizes overlap with certification track)
+- [jack-diamonds] — [Developer learning path modules > Phase 1] marked in progress; annotation added (2026-06-01)
 
 ---
 
