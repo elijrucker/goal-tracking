@@ -48,7 +48,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] Wk1 Assignment; job questionnaire
       - [x] Wk1 Discussion Board; introduction
       - [x] Wk2 Assignment; resume
-      - [/] Wk2 Assignment; cover letter (Due 2026-06-01)
+      - [x] Wk2 Assignment; cover letter
       - [ ] Wk3 Assignment; social media (Due 2026-06-08)
       - [ ] Wk3 Discussion Board; peer review (Due 2026-06-08)
       - [ ] Wk4 Assignment; interview question answers (Due 2026-06-12)

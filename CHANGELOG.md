@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-01] — 10-hearts jsp wk2 assignment completed
+
+#### Completed
+
+- [10-hearts] — [jobSearchPrep > Wk2 Assignment; cover letter] closed
+
+---
+
 ### [2026-05-31] — 10-hearts jsp wk2 assignment completed; joker-1 progress; 03-diamonds progress; 02-spades subtask refactor
 
 #### Completed
