@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-05-31] — 10-hearts jsp wk2 assignment completed; joker-1 progress
+### [2026-05-31] — 10-hearts jsp wk2 assignment completed; joker-1 progress; 02-spades subtask refactor
 
 #### Completed
 
@@ -15,6 +15,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Home server > Document server architecture and service stack for portfolio] marked in progress
 - [joker-1] — [Home server > Document completed milestones on LinkedIn - knowledge-focused posts] marked in progress
+
+#### Changed
+
+- [02-spades] — subtasks refactored: week-by-week structure replaced with per-lecture + per-week assignments breakdown; lectures 0–4 marked complete, Week 5 Data Structures lecture marked in progress; 23 subtasks total
 
 ---
 

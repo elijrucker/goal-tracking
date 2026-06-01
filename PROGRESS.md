@@ -39,7 +39,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
-| 2♠️  | CS50x                            | In Progress | 1/12             |
+| 2♠️  | CS50x                            | In Progress | 5/23             |
 | 3♦️  | Python Crash Course              | In Progress | 0/15             |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 11/12            |
 | 10♥️ | Complete Associate's Degree      | In Progress | 35/63 units      |

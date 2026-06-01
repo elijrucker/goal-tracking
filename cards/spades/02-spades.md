@@ -40,18 +40,29 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 
 ## Subtasks
 
-- [x] Week 0: Scratch
-- [/] Week 1: C (Assignments 'Mario', and 'Credit' outstanding)
-- [/] Week 2: Arrays (Assignment 'Readability' and 'Scrabble' outstanding)
-- [/] Week 3: Algorithms (Assignment 'Sort' and 'Plurality' outstanding)
-- [/] Week 4: Memory (2026-05-20; assignments outstanding)
-- [/] Week 5: Data Structures
-- [ ] Week 6: Python
-- [ ] Week 7: SQL
-- [ ] Week 8: HTML/CSS/JavaScript
-- [ ] Week 9: Flask
-- [ ] Week 10: Cybersecurity
-- [ ] Final Project
+- [x] Week 0: Scratch — Lecture
+- [ ] Week 0: Assignments
+- [x] Week 1: C — Lecture
+- [ ] Week 1: Assignments
+- [x] Week 2: Arrays — Lecture
+- [ ] Week 2: Assignments
+- [x] Week 3: Algorithms — Lecture
+- [ ] Week 3: Assignments
+- [x] Week 4: Memory — Lecture
+- [ ] Week 4: Assignments
+- [/] Week 5: Data Structures — Lecture
+- [ ] Week 5: Assignments
+- [ ] Week 6: Python — Lecture
+- [ ] Week 6: Assignments
+- [ ] Week 7: SQL — Lecture
+- [ ] Week 7: Assignments
+- [ ] Week 8: HTML, CSS, JavaScript — Lecture
+- [ ] Week 8: Assignments
+- [ ] Week 9: Flask — Lecture
+- [ ] Week 9: Assignments
+- [ ] Week 10: The End — Lecture
+- [ ] Week 10: Assignments
+- [ ] AI Lecture (standalone)
 
 ---
 
