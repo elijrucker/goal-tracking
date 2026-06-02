@@ -56,16 +56,21 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] advancedJavaScript (06/22–08/14)
     - [ ] introPhilosophy (06/22–08/14)
     - [ ] technicalReporting (07/06–08/14)
-  - [ ] Fulfill math elective requirement
-    - [ ] Pull Franklin University MATC articulation agreement
-    - [ ] Confirm Franklin's math requirement and which MATC courses/CLEP exams satisfy it
-    - [ ] Confirm credit-by-exam options with MATC advising (CLEP College Algebra, Precalculus, Calculus, or equivalent)
-    - [ ] Complete algebra review (Khan Academy / Professor Leonard / ALEKS)
-    - [ ] Complete pre-calculus foundations (Professor Leonard / OpenStax)
-    - [ ] Complete freeCodeCamp College Calculus (Python/SymPy)
-  - [ ] Fall 26
-    - [ ] javaProgramming (08/31–12/18)
-    - [ ] phpWebMySQL (08/31–12/18)
+- [/] Fulfill math elective requirement (Franklin B.S. CS)
+  - [x] Confirm CLEP College Algebra satisfies MATC College Algebra requirement
+  - [/] Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings
+  - [/] Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160 
+  - [ ] Complete algebra review for CLEP:
+    - [ ] Modern States free CLEP College Algebra course (primary)
+    - [ ] ALEKS diagnostic to identify specific gaps
+    - [ ] Professor Leonard College Algebra (YouTube) for conceptual depth
+    - [ ] Official CLEP College Algebra practice exam (timed)
+  - [ ] Pass CLEP College Algebra (target score: 50+)
+  - [ ] [Auxiliary] Confirm whether MATH 215 (Statistical Concepts) requires Franklin enrollment or accepts CLEP/transfer
+  - [ ] [Auxiliary] Complete statistics foundations and satisfy MATH 215 per advisor guidance
+- [ ] Fall 26
+  - [ ] javaProgramming (08/31–12/18)
+  - [ ] phpWebMySQL (08/31–12/18)
 - [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
 - [ ] Confirm transfer credits toward Bachelor's program
@@ -75,6 +80,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-06-02] Revised math elective subtask list: scoped to Franklin B.S. CS (MATH 160 + MATH 215); Precalculus/Calculus removed; CLEP prep sequence updated; advisory items reset to not started
 - [2026-05-18] Units (35/63) do not yet reflect Spring 26 final grades — to be updated once posted
 - [2026-05-14] db_prog incomplete; Project 4 and wk16 deferred to Fall 26
 - [2026-02-13] In progress at deck initialization

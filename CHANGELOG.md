@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-02] — 10-hearts math elective subtask list revised; MATC CLEP College Algebra acceptance confirmed
+
+#### Completed
+
+- [10-hearts] — [Fulfill math elective requirement > Confirm CLEP College Algebra satisfies MATC College Algebra requirement] closed
+
+#### Changed
+
+- [10-hearts] — [Fulfill math elective requirement] refactored: scoped to Franklin B.S. CS (MATH 160 + MATH 215); Precalculus/Calculus subtasks removed; CLEP prep sequence updated (Modern States primary, ALEKS repositioned as diagnostic); statistics demoted to auxiliary; contingency enrollment subtask removed (CLEP confirmed at MATC)
+
+---
+
 ### [2026-06-01] — 10-hearts jsp wk2 assignment completed; jack-diamonds phase 0 completed; jack-diamonds & 03-diamonds subtask completion goals added
 
 #### Completed
