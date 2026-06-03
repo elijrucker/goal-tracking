@@ -67,4 +67,4 @@ Make a meaningful contribution to an open source project. This is the ultimate a
 
 ## Unlocks
 
-- 🃏 Joker 1 - Software Developer Job Offer in Berlin (demonstrates real-world collaboration)
+- 🃏 Joker 1 - Software Developer Job Offer in Berlin (real-world collaboration experience)

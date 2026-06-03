@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Complete Harvard's CS50M - Mobile App Development with React Native. Extends web development skills into mobile development, broadening the platform portfolio. Part of the CS50 series, known for high quality and rigor. Teaches cross-platform mobile development using React Native.
+Complete Harvard's CS50M - Mobile App Development with React Native. Extends web development skills into mobile development, broadening platform knowledge. Part of the CS50 series, known for high quality and rigor. Teaches cross-platform mobile development using React Native.
 
 ---
 
@@ -62,4 +62,4 @@ Complete Harvard's CS50M - Mobile App Development with React Native. Extends web
 ## Unlocks
 
 - Mobile development capability
-- Cross-platform development portfolio
+- Cross-platform development knowledge

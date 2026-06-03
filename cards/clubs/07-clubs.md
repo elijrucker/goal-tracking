@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Complete 1-2 intermediate complexity web projects, applying skills gained from CS50W. Projects should be more complex than simple exercises but not yet full-stack applications. Choose from the 40 project ideas list based on interest and relevance to portfolio goals.
+Complete 1-2 intermediate complexity web projects, applying skills gained from CS50W. Projects should be more complex than simple exercises but not yet full-stack applications. Choose from the 40 project ideas list based on interest and relevance to current learning goals.
 
 ---
 
@@ -48,7 +48,7 @@ Complete 1-2 intermediate complexity web projects, applying skills gained from C
 - [ ] Implement frontend
 - [ ] Implement backend/API integration where needed
 - [ ] Deploy projects
-- [ ] Document and add to portfolio
+- [ ] Deploy and document
 
 ---
 

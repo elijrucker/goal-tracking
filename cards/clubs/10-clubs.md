@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Build a functional REST API from scratch, demonstrating backend development skills. The API should include authentication, database integration, proper routing, error handling, and documentation. Choose a domain (blog, task manager, e-commerce, etc.) that makes a meaningful portfolio piece. Distinct from full-stack work - this is backend/server-side focused.
+Build a functional REST API from scratch. The API should include authentication, database integration, proper routing, error handling, and documentation. Choose a domain (blog, task manager, e-commerce, etc.) that makes for a meaningful standalone project. Distinct from full-stack work — this is backend/server-side focused.
 
 Before implementation, design the API architecture end-to-end. Document your technology choices, justify architectural decisions (monolith vs. microservices, synchronous vs. asynchronous patterns, caching strategy, etc.), and outline trade-offs. This design-first approach is as important as the code itself.
 

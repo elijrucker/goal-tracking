@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-03] — joker-1 Claude Academy courses subtask added; subtask descriptions revised; reflection added
+
+#### Added
+
+- [joker-1] — [Reflection & Lessons Learned > 2026-06-03] section created; entry added (sharing as Feynman technique; origin of documentation and visibility reminders in the deck)
+
+#### Changed
+
+- [joker-1] — [Profile, Portfolio & Credentials] added [Complete Claude Academy courses] with 10 sub-items (Claude 101 closed, Claude Code 101 closed, Cowork in progress); positioned between master resume overhaul and LinkedIn milestone documentation
+- [joker-1] — subtask descriptions and prerequisite annotations revised: GitHub profile, Writing for Developers, A♣️, A♦️, 10♥️, XING resource
+
+---
+
 ### [2026-06-02] — 10-hearts math elective subtask list revised; MATC CLEP College Algebra acceptance confirmed
 
 #### Completed
@@ -254,7 +267,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [2♥️] — Bogle remains primary resource; all replacements are free and authoritative
 - [2♥️] — Card deprioritized until reactivated; lower urgency given Not Started status
-- [🃏 Joker 1] — Open source contribution is valuable portfolio material but not a strict requirement for Berlin job offer
+- [🃏 Joker 1] — Open source contribution builds real-world collaboration experience but is not a strict requirement for Berlin job offer
 
 #### Process
 
@@ -277,7 +290,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — Rebuild over debug: cleaner to restart than troubleshoot naming issues mid-config
 - [joker-1] — Infrastructure work benefits from longer uninterrupted sessions; schedule around lighter course weeks
-- [joker-1] — Home server shifts workflow from student to professional habits; document for LinkedIn milestone post
+- [joker-1] — Home server shifts workflow from student to professional habits
 
 #### Added
 
@@ -339,8 +352,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [08-spades] — [Resources > Operating Systems: Three Easy Pieces] added (ostep.org; primary resource; Phil Eaton book club)
 - [07-clubs] — [Resources > High Performance Browser Networking] added (O'Reilly; networking and browser performance)
 - [10-clubs] — [Resources > Database Design and Implementation] added (Phil Eaton book club; activate on In Progress)
-- [joker-1] — [Resources > Writing for Developers] added (Phil Eaton book club; technical writing for job search)
-- [joker-1] — [Read "Writing for Developers"] subtask added (portfolio docs, cover letters, professional writing)
+- [joker-1] — [Resources > Writing for Developers] added (Phil Eaton book club; technical writing)
+- [joker-1] — [Read "Writing for Developers"] subtask added (documentation, cover letters, professional writing)
 - [BACKLOG] — Potential Spades: 18 advanced systems/distributed systems/database books added
 - [BACKLOG] — Potential Diamonds: Building a Debugger added
 - [07-diamonds] — [Resources > BMAD Framework] added (open-source AI agent framework; structured enterprise-grade development)
@@ -436,7 +449,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [joker-1] — [Complete Job Search Preparation course (MATC, 05/18–06/12) — supports career transition narrative and resume/interview readiness] dropped; redundant subtask already covered in 10-hearts
+- [joker-1] — [Complete Job Search Preparation course (MATC, 05/18–06/12)] dropped; redundant subtask already covered in 10-hearts
 - [joker-1] — [Minimize US financial footprint] removed annotation
 - [joker-1] — [Ensure 2-3 strong portfolio projects are live and documented] → [Ensure 3 strong portfolio projects are live and documented]
 - [03-spades] — [Chapter 5: Algorithms] updated annotation (5.4, 2026-05-16)

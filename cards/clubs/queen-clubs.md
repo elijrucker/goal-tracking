@@ -22,9 +22,9 @@
 
 ## Goal Description
 
-Build a complete full-stack application with a polished frontend, robust backend, and integrated database. This is a flagship portfolio project that demonstrates end-to-end development capability. The application should be something genuinely useful or impressive - not just a tutorial project. Aim for something you'd be proud to show in a job interview.
+Build a complete full-stack application with a polished frontend, robust backend, and integrated database. This is a flagship project integrating every layer of the stack into a cohesive whole. The application should be something genuinely useful or technically interesting — not just a tutorial project.
 
-Full-stack applications require holistic architectural vision. Design the entire system before implementation: frontend architecture, backend services, database schema, API design, authentication flow, deployment strategy. Document and justify every major decision. This is where you demonstrate senior-level thinking.
+Full-stack applications require holistic architectural vision. Design the entire system before implementation: frontend architecture, backend services, database schema, API design, authentication flow, deployment strategy. Document and justify every major decision. This is where senior-level thinking is put into practice.
 
 ---
 
@@ -56,7 +56,6 @@ Full-stack applications require holistic architectural vision. Design the entire
 - [ ] Write comprehensive tests
 - [ ] Deploy to production environment
 - [ ] Write documentation
-- [ ] Present in portfolio
 
 ---
 

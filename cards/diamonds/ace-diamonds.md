@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Pass the AWS Certified Developer Associate (DVA-C02) certification exam. The ultimate achievement in the Diamonds suit - validates all AWS knowledge accumulated through Skill Builder and the prep course. A recognized industry credential that significantly strengthens a developer portfolio, particularly for cloud-focused roles.
+Pass the AWS Certified Developer Associate (DVA-C02) certification exam. The ultimate achievement in the Diamonds suit — validates all AWS knowledge accumulated through Skill Builder and the prep course. A recognized industry credential that validates comprehensive AWS development knowledge.
 
 ---
 
@@ -52,7 +52,7 @@ Pass the AWS Certified Developer Associate (DVA-C02) certification exam. The ult
 
 ## Progress Notes
 
-- [2026-06-01] Prioritize open source projects with AWS integration where possible — simultaneously demonstrates real-world collaboration, practical AWS knowledge applied outside coursework, and community engagement. Three Joker 1 prerequisites addressed in one card.
+- [2026-06-01] Prioritize open source projects with AWS integration where possible — simultaneously develops real-world collaboration experience, reinforces AWS knowledge beyond coursework, and builds community engagement. Three Joker 1 prerequisites addressed in one card.
 - [2026-04-27] Active 10-hearts subtask (c4d course) is building foundational cloud and developer skills that directly prepare for further AWS material. Marking Preparing as groundwork is underway ahead of formal prerequisites.
 
 ---
@@ -63,4 +63,4 @@ Pass the AWS Certified Developer Associate (DVA-C02) certification exam. The ult
 
 ## Unlocks
 
-- 🃏 Joker 1 - Software Developer Job Offer in Berlin (major portfolio milestone)
+- 🃏 Joker 1 - Software Developer Job Offer in Berlin (major technical milestone)

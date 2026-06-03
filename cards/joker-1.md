@@ -37,14 +37,14 @@ This wildcard goal ties together multiple threads:
 
 **Writing & Communication:**
 
-- [Writing for Developers](https://eatonphil.com/2025-writing-for-developers.html) - Phil Eaton's Software Internals Book Club — technical writing for professional communication, portfolio documentation, and job applications
+- [Writing for Developers](https://eatonphil.com/2025-writing-for-developers.html) - Phil Eaton's Software Internals Book Club — technical writing: documentation, technical prose, and professional correspondence
 
 **Job Boards:**
 
 _Tier 1 — German Market Dominants_
 
 - [StepStone](https://www.stepstone.de) - Dominant private portal for specialist roles
-- [XING](https://www.xing.com) - Native German LinkedIn equivalent; useful for recruiter outreach
+- [XING](https://www.xing.com) - Native German LinkedIn equivalent; useful for professional networking
 - [Indeed Germany](https://www.indeed.de) - Aggregates listings from dozens of sources including smaller companies
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) - Filter: Berlin + backend/software developer
 
@@ -97,17 +97,17 @@ _Bonus — Community & Niche_
 
 **Essential (must have most of these):**
 
-- [ ] A♦️ - AWS Certified Developer Associate (portfolio credential)
+- [ ] A♦️ - AWS Certified Developer Associate
 - [ ] Q♣️ - Full-Stack Application (portfolio project)
 - [/] 9♣️ - LeetCode Practice (interview readiness)
 
 **Highly Recommended:**
 
-- [/] 10♥️ - Complete Associate's Degree (education credential)
+- [/] 10♥️ - Complete Associate's Degree
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
-- [ ] A♣️ - Open Source Contribution (demonstrates real-world collaboration and community engagement — valuable but not a hard prerequisite)
-      _(Prioritize open source projects with AWS integration — maximizes overlap with AWS certification track and demonstrates practical cloud experience to Berlin recruiters)_
+- [ ] A♣️ - Open Source Contribution (community collaboration and real-world engineering experience — valuable but not a hard prerequisite)
+      _(Prioritize open source projects with AWS integration — maximizes overlap with the certification track)_
 
 **Supporting:**
 
@@ -123,12 +123,23 @@ _Bonus — Community & Niche_
   - [x] Identify Interests strategy (Berlin tech, AWS/Google)
   - [x] Research and follow Berlin tech companies
   - [/] Translate and adapt all profile sections (About, Education (Add TU), Skills, Licenses/Certs, Projects)
-- [ ] Optimize GitHub profile for recruiter audience (profile README, pinned repositories, repository descriptions)
+- [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [ ] German resume and portfolio website
 - [ ] Master resume skills section overhaul
   - [ ] Audit current skills and identify gaps (capabilities, tools, certifications; include Claude Code)
-  - [ ] Update master resume, sync to LinkedIn, and verify ATS alignment
-- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing relevant to Berlin job search
+  - [ ] Update master resume and sync to LinkedIn
+- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
+- [/] Complete Claude Academy courses — develop practical AI literacy across Claude tools, APIs, and agent frameworks
+  - [x] Claude 101
+  - [x] Claude Code 101
+  - [/] Cowork
+  - [ ] Claude Code in Action
+  - [ ] Building with Claude API
+  - [ ] Introduction to Model Context Protocol
+  - [ ] Model Context Protocol Advanced Topics
+  - [ ] Introduction to Agent Skills
+  - [ ] Introduction to Subagents
+  - [ ] Claude with Amazon Bedrock
 - [/] Document completed milestones on LinkedIn — knowledge-focused posts (md, Pragmatic Programmer, C#)
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
@@ -182,6 +193,10 @@ _Bonus — Community & Niche_
 ---
 
 ## Reflection & Lessons Learned
+
+### [2026-06-03]
+
+- This project began without documentation or public sharing of any kind. Prompts to post on LinkedIn, build a visible portfolio, and document milestones were corrective reminders — nudges toward habits that didn't come naturally when learning in private. Sharing has intrinsic value beyond visibility: having to describe what you've learned forces the kind of precise articulation that reveals what you actually understand versus what you only think you do. The Feynman technique, applied.
 
 ### [2026-05-21]
 

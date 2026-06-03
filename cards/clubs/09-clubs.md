@@ -51,7 +51,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [ ] Solve 30 Medium problems (Consider mix of Database, Algorithms, and Concurrency problems)
 - [ ] Solve 10 Hard problems
 - [ ] Review and internalize all solutions — prioritize understanding over output
-- [ ] Focus on company-tagged problems relevant to target employers
+- [ ] Explore company-tagged problems for exposure to real-world problem patterns
 
 ---
 
@@ -70,4 +70,4 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Unlocks
 
-- 🃏 Joker 1 - Software Developer Job Offer in Berlin (interview readiness)
+- 🃏 Joker 1 - Software Developer Job Offer in Berlin (algorithmic foundations)
