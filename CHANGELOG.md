@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Changed
 
 - [10-hearts] — [Fulfill math elective requirement] refactored: scoped to Franklin B.S. CS (MATH 160 + MATH 215); Precalculus/Calculus subtasks removed; CLEP prep sequence updated (Modern States primary, ALEKS repositioned as diagnostic); statistics demoted to auxiliary; contingency enrollment subtask removed (CLEP confirmed at MATC)
+- [joker-1] — [Resources > Job Boards] fully redrafted: expanded from 5 entries to tiered structure (Tier 1 German dominants, Tier 2 Berlin/German tech, Tier 3 European/international, Tier 4 German general, Bonus community/niche); visa sponsorship removed as a filter criterion — any Berlin role is in scope
 
 ---
 

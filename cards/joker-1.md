@@ -41,11 +41,43 @@ This wildcard goal ties together multiple threads:
 
 **Job Boards:**
 
-- [Berlin Startup Jobs](https://berlinstartupjobs.com) - Berlin-specific tech jobs
-- [LinkedIn Jobs](https://www.linkedin.com/jobs/) - General job search
-- [Stack Overflow Jobs](https://stackoverflow.com/jobs) - Developer-focused
-- [AngelList](https://angel.co/jobs) - Startup jobs in Berlin
-- [WeWorkRemotely](https://weworkremotely.com) - Remote positions (can lead to relocation)
+_Tier 1 — German Market Dominants_
+
+- [StepStone](https://www.stepstone.de) - Dominant private portal for specialist roles
+- [XING](https://www.xing.com) - Native German LinkedIn equivalent; useful for recruiter outreach
+- [Indeed Germany](https://www.indeed.de) - Aggregates listings from dozens of sources including smaller companies
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) - Filter: Berlin + backend/software developer
+
+_Tier 2 — Berlin & German Tech Specific_
+
+- [Berlin Startup Jobs](https://berlinstartupjobs.com) - Leading platform for Berlin tech jobs specifically
+- [German Dev Jobs](https://germantechjobs.de/en) - Developer-focused; includes salary brackets and company culture insights
+- [WeAreDevelopers](https://www.wearedevelopers.com/jobs) - Developer-specific, Berlin-filterable, salary transparency
+- [Built In Berlin](https://builtin.com/eu/germany/berlin) - Premium tech employer focus, curated listings
+- [TrueUp](https://trueup.io/berlin) - Berlin tech aggregator, startup and scale-up focused
+
+_Tier 3 — European & International with Berlin Coverage_
+
+- [Wellfound](https://wellfound.com/role/l/software-engineer/berlin) - Startup equity plays, single profile application
+- [EuroTechJobs](https://www.eurotechjobs.com) - Europe-wide tech, Python/backend filters available
+- [Glassdoor](https://www.glassdoor.com) - Filter Berlin + software developer; also useful for company reviews and salary benchmarking
+- [Arbeitnow](https://www.arbeitnow.com) - English-speaking jobs in Germany, relocation support flagged
+- [Hisignal](https://hisignal.io) - AI matching for Berlin tech roles including exclusive off-board opportunities
+- [Handpicked Berlin](https://www.handpickedberlin.com/jobs) - Community-curated, Berlin tech scene focused
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs) - Developer-focused, global but filterable
+
+_Tier 4 — German General Boards_
+
+- [Stellenanzeigen.de](https://www.stellenanzeigen.de) - 3.2M monthly visitors; broad Berlin reach
+- [JobNinja](https://www.jobninja.com) - AI-driven distribution, 2.2M monthly visits
+- [Monster Germany](https://www.monster.de) - Legacy platform, lower signal but still active
+- [BA Jobsuche](https://www.arbeitsagentur.de/jobsuche/) - Official German Federal Employment Agency job board
+
+_Bonus — Community & Niche_
+
+- [Awesome Visa-Sponsored Jobs](https://github.com/Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs) - Community-maintained daily list; useful for companies known to hire internationally
+- [Python.org Jobs](https://www.python.org/jobs/) - Python-specific global listings, some Berlin roles
+- [AngelList](https://angel.co/jobs) - Startup equity, global
 
 **Visa/Relocation Resources:**
 
@@ -75,7 +107,7 @@ This wildcard goal ties together multiple threads:
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
 - [ ] A♣️ - Open Source Contribution (demonstrates real-world collaboration and community engagement — valuable but not a hard prerequisite)
-  _(Prioritize open source projects with AWS integration — maximizes overlap with AWS certification track and demonstrates practical cloud experience to Berlin recruiters)_
+      _(Prioritize open source projects with AWS integration — maximizes overlap with AWS certification track and demonstrates practical cloud experience to Berlin recruiters)_
 
 **Supporting:**
 
