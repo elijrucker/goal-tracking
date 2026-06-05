@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-05] — joker-1 hooks note
+
+#### Changed
+
+- [joker-1] — [Progress Notes] added note (2026-06-05; Claude Code hooks as guardrails for future homeserver automation)
+
+---
+
 ### [2026-06-04] — joker-1 progress
 
 #### Added
@@ -14,6 +22,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Changed
 
 - [joker-1] — [Complete Anthropic Academy Courses > Claude Code in Action] marked in progress
+- [jack-diamonds] — [Developer learning path modules > Phase 1] updated annotation (2026-05-04)
 
 ---
 
