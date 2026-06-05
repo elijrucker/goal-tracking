@@ -129,11 +129,11 @@ _Bonus — Community & Niche_
   - [ ] Audit current skills and identify gaps (capabilities, tools, certifications; include Claude Code)
   - [ ] Update master resume and sync to LinkedIn
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
-- [/] Complete Claude Academy courses — develop practical AI literacy across Claude tools, APIs, and agent frameworks
+- [/] Complete Anthropic Academy Courses (develop practical AI literacy across Claude tools, APIs, and agent frameworks)
   - [x] Claude 101
   - [x] Claude Code 101
-  - [/] Cowork
-  - [ ] Claude Code in Action
+  - [x] Cowork
+  - [/] Claude Code in Action
   - [ ] Building with Claude API
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics

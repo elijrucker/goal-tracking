@@ -5,7 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-03] — joker-1 Claude Academy courses subtask added; subtask descriptions revised; reflection added
+### [2026-06-04] — joker-1 progress
+
+#### Added
+
+- [joker-1] — added techLanguageImmersion.txt: German-language tech YouTube channels and publications for passive immersion (Podcasts section placeholder — to be populated)
+
+#### Changed
+
+- [joker-1] — [Complete Anthropic Academy Courses > Claude Code in Action] marked in progress
+
+---
+
+### [2026-06-03] — joker-1 Anthropic Academy subtask added and renamed; Cowork closed; subtask descriptions revised; reflection added
+
+#### Completed
+
+- [joker-1] — [Complete Claude Academy Courses > Cowork] closed
 
 #### Added
 
@@ -13,7 +29,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [joker-1] — [Profile, Portfolio & Credentials] added [Complete Claude Academy courses] with 10 sub-items (Claude 101 closed, Claude Code 101 closed, Cowork in progress); positioned between master resume overhaul and LinkedIn milestone documentation
+- [joker-1] — [Profile, Portfolio & Credentials] added [Complete Anthropic Academy Courses] with 10 sub-items (Claude 101 closed, Claude Code 101 closed, Cowork closed); positioned between master resume overhaul and LinkedIn milestone documentation
+- [joker-1] — [Complete Anthropic Academy Courses] renamed from [Complete Claude Academy courses]; description reformatted from em-dash to parenthetical in line with subtask conventions
 - [joker-1] — subtask descriptions and prerequisite annotations revised: GitHub profile, Writing for Developers, A♣️, A♦️, 10♥️, XING resource
 
 ---
