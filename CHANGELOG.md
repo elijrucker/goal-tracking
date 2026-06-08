@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-08] — 3♦️ subtask expansion; Ch. 1–3 closed; target completions updated; joker-1 milestone posts refined
+### [2026-06-08] — joker-1 goal reframe; 3♦️ subtask expansion; Ch. 1–3 closed; visibility subtasks and resources added; target completions updated; joker-1 milestone posts refined
 
 #### Completed
 
@@ -13,8 +13,16 @@ Format: [YYYY-MM-DD] — Description of change
 - [03-diamonds] — [Part 1: Basics > Ch. 2: Variables and Simple Data Types] closed
 - [03-diamonds] — [Part 1: Basics > Ch. 3: Introducing Lists] closed
 
+#### Added
+
+- [joker-1] — [Home server public repo README and architecture documentation] subtask added if not already present
+- [joker-1] — [Stack Overflow presence] subtask added if not already present (Python, Linux, Docker, AWS tags)
+- [joker-1] — [Community & Visibility] resources section added (dev.to, Stack Overflow, Medium)
+
 #### Changed
 
+- [joker-1] — [Goal Description] reframed: expanded from strictly Berlin-based role to any software developer role enabling Berlin relocation; global distributed roles with UTC+1 timezone compatibility added as co-equal search lane
+- [joker-1] — [Resources > Job Boards] global distributed companies added as direct careers page references (Canonical, Mozilla, Automattic, GitLab, Elastic, Fastly)
 - [03-diamonds] — [Target Completion] set: 2026-07-01
 - [03-diamonds] — subtasks expanded to chapter-level granularity with batched Try It Yourself sessions (Ch. 1–3, 4–6, 7–9, 10, 11)
 - [03-diamonds] — [Part 1] flashcard annotation added (Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-06-08)

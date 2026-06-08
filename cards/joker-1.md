@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Secure a software developer job offer in Berlin, Germany. This is the critical career transition milestone that enables EU relocation, unlocks the Eastern European investment strategy (K♥️), and validates the technical skills developed across the Diamonds, Clubs, and Spades suits. Berlin is the target city for its strong tech scene, English-friendly work environment, and proximity to Poland.
+Secure a software developer role enabling relocation to Berlin, Germany. This is the critical career transition milestone that enables EU relocation, unlocks the Eastern European investment strategy (K♥️), and validates the technical skills developed across the Diamonds, Clubs, and Spades suits. Target roles include Berlin-based positions and globally distributed roles with UTC+1 timezone compatibility that allow independent relocation to Berlin. Berlin is the target city for its strong tech scene, English-friendly work environment, and proximity to Poland.
 
 This wildcard goal ties together multiple threads:
 
@@ -79,6 +79,15 @@ _Bonus — Community & Niche_
 - [Python.org Jobs](https://www.python.org/jobs/) - Python-specific global listings, some Berlin roles
 - [AngelList](https://angel.co/jobs) - Startup equity, global
 
+*Global Distributed (UTC+1 compatible) — Direct Company Careers Pages*
+
+- [Canonical](https://canonical.com/careers) - Ubuntu parent; experience-first hiring, no degree requirement
+- [Mozilla](https://mozilla.org/careers) - Open source culture, contribution-weighted hiring
+- [Automattic](https://automattic.com/jobs) - Fully distributed, WordPress parent company
+- [GitLab](https://gitlab.com/jobs) - Fully remote, strong engineering culture
+- [Elastic](https://elastic.co/careers) - Distributed, strong backend/cloud roles
+- [Fastly](https://fastly.com/careers) - Distributed, infrastructure-heavy
+
 **Visa/Relocation Resources:**
 
 - [Make it in Germany](https://www.make-it-in-germany.com) - Official German visa information
@@ -90,6 +99,12 @@ _Bonus — Community & Niche_
 - Berlin tech meetups and conferences
 - LinkedIn networking with Berlin-based developers
 - Tech communities (Berlin Tech Workers, etc.)
+
+**Community & Visibility:**
+
+- [dev.to](https://dev.to) - Primary technical blogging platform; cross-post to Medium
+- [Stack Overflow](https://stackoverflow.com) - Establish presence in Python, Linux, Docker, AWS tags
+- [Medium](https://medium.com) - Cross-posting destination for dev.to content (minimal refactor)
 
 ---
 
@@ -155,6 +170,8 @@ _Bonus — Community & Niche_
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
   - [x] Establish and validate remote dev workflow and exit node from off-network location
   - [/] Document server architecture and service stack for portfolio
+- [ ] Home server public repo — complete README and architecture documentation (priority deliverable)
+- [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 
 ## Subtasks - Job Search & Preparation
 
