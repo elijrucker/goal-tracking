@@ -14,7 +14,7 @@
 
 - **Current Status**: In Progress
 - **Start Date**: 2025-11-21
-- **Target Completion**: 2026-12-31
+- **Target Completion**: 2026-09-01
 - **Completion Date**:
 - **Time Invested**:
 
@@ -140,7 +140,7 @@ _Bonus — Community & Niche_
   - [ ] Introduction to Agent Skills
   - [ ] Introduction to Subagents
   - [ ] Claude with Amazon Bedrock
-- [/] Document completed milestones on LinkedIn — knowledge-focused posts (md, Pragmatic Programmer, C#)
+- [ ] Document completed milestones on LinkedIn — Pragmatic Programmer post outstanding (md and C# already represented via credential entries)
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
