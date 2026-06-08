@@ -40,11 +40,12 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Subtasks
 
-**Part 1: Basics** *(Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-06-08)*
-- [ ] Ch. 1: Getting Started
-- [ ] Ch. 2: Variables and Simple Data Types
-- [ ] Ch. 3: Introducing Lists
-- [ ] Try It Yourself — Ch. 1–3
+**Part 1: Basics** _(Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-06-08)_
+
+- [x] Ch. 1: Getting Started
+- [x] Ch. 2: Variables and Simple Data Types
+- [x] Ch. 3: Introducing Lists
+- [/] Try It Yourself — Ch. 1–3 (Update exercises for home server environment)
 - [ ] Ch. 4: Working with Lists
 - [ ] Ch. 5: if Statements
 - [ ] Ch. 6: Dictionaries
@@ -59,11 +60,13 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 - [ ] Try It Yourself — Ch. 11
 
 **Part 2: Projects**
-- [ ] Project 1 — Alien Invasion (Ch. 12–14) *(Pygame requires display; X11 forwarding or run locally)*
+
+- [ ] Project 1 — Alien Invasion (Ch. 12–14) _(Pygame requires display; X11 forwarding or run locally)_
 - [ ] Project 2 — Data Visualization (Ch. 15–17)
 - [ ] Project 3 — Web Applications (Ch. 18–20)
 
 **Wrap-up**
+
 - [ ] Review and consolidate key concepts
 
 ---
