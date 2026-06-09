@@ -58,16 +58,16 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] technicalReporting (07/06–08/14)
 - [/] Fulfill math elective requirement (Franklin B.S. CS)
   - [x] Confirm CLEP College Algebra satisfies MATC College Algebra requirement
-  - [/] Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings
-  - [/] Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160
+  - [x] Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings
+  - [x] Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160
   - [ ] Complete algebra review for CLEP:
-    - [ ] Modern States free CLEP College Algebra course (primary)
+    - [ ] Modern States free CLEP College Algebra course (primary; start 2026-06-12)
     - [ ] ALEKS diagnostic to identify specific gaps
     - [ ] Professor Leonard College Algebra (YouTube) for conceptual depth
     - [ ] Official CLEP College Algebra practice exam (timed)
   - [ ] Pass CLEP College Algebra (target score: 50+)
-  - [ ] [Auxiliary] Confirm whether MATH 215 (Statistical Concepts) requires Franklin enrollment or accepts CLEP/transfer
-  - [ ] [Auxiliary] Complete statistics foundations and satisfy MATH 215 per advisor guidance
+  - [ ] [Auxiliary] Complete statistics review for DSST Principles of Statistics
+  - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
 - [ ] Fall 26
   - [ ] javaProgramming (08/31–12/18)
   - [ ] phpWebMySQL (08/31–12/18)

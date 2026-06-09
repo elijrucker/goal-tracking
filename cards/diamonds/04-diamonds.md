@@ -67,12 +67,12 @@ The concepts extend well beyond C# syntax — the course reinforced programming 
 
 ## Reflection & Lessons Learned
 
-- **What surprised you?**
-- **What would you do differently?**
-- **One thing that worked well:**
-- **One thing harder than expected:**
-- **Patterns noticed (if applicable):**
-- **Insights for similar future work:**
+- **What surprised you?** The course rarely required writing a program start to finish — it focused on isolated elements to reinforce elementary concepts rather than end-to-end builds.
+- **What would you do differently?** Employ habit anchoring to make coursework a consistent daily touchpoint until completion.
+- **One thing that worked well:** Hosting coursework in a GitHub repo and using Codespaces before the home server was live — tooling infrastructure ahead of need.
+- **One thing harder than expected:** Syntax recall after returning to the course following several months away from it.
+- **Patterns noticed:** Logic is expressed consistently across OOP languages at the current working level — syntax doesn't meaningfully influence decisions yet.
+- **Insights for similar future work:** Treat certifications and structured courses as core focal points and assume they require more effort than a basic cert or LinkedIn course.
 
 ---
 

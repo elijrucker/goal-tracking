@@ -88,12 +88,12 @@ Read The Pragmatic Programmer by David Thomas and Andrew Hunt. A foundational bo
 
 ## Reflection & Lessons Learned
 
-- **What surprised you?**
-- **What would you do differently?**
-- **One thing that worked well:**
-- **One thing harder than expected:**
-- **Patterns noticed (if applicable):**
-- **Insights for similar future work:**
+- **What surprised you?** The book isn't linear — it doesn't strictly build on previous chapters. It functions less as a manual and more as a catalyst to provoke thought.
+- **What would you do differently?** Make a point to read/listen more consistently rather than in bursts.
+- **One thing that worked well:** Audio format paired with driving — made use of dead time and forced focus.
+- **One thing harder than expected:** Some concrete coding and logic examples were beyond immediate understanding; a 70/30 comprehension ratio was the workable threshold.
+- **Patterns noticed:** Listening to an entire chapter at once was a stretch; subsection chunking worked better — consistent with the CS Distilled experience.
+- **Insights for similar future work:** Anchor reading/listening to a physical activity or location for better repetition and retention.
 
 ---
 

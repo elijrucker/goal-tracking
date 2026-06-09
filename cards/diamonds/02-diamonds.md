@@ -68,12 +68,12 @@ Review and remedial study of Markdown syntax and capabilities. Foundation for th
 
 ## Reflection & Lessons Learned
 
-- **What surprised you?**
-- **What would you do differently?**
-- **One thing that worked well:**
-- **One thing harder than expected:**
-- **Patterns noticed (if applicable):**
-- **Insights for similar future work:**
+- **What surprised you?** Less feature-rich than expected; markdown has vendor-specific flavors (e.g. LinkedIn Learning dialect) rather than a single standard. There is less sense of "right" and "wrong" compared to a programming language.
+- **What would you do differently?** Spend less time on documentation and courses; jump straight into learn-by-doing practice.
+- **One thing that worked well:** The card was an easy win that created momentum for progressing through other open cards.
+- **One thing harder than expected:** Formalizing a training plan — no "one size fits all" approach exists, likely due to the simplicity of the language itself.
+- **Patterns noticed:** Markdown doesn't prescribe best practices, just syntax.
+- **Insights for similar future work:** Consider the overall scope of effort required before finalizing something as a goal card.
 
 ---
 
