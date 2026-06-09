@@ -5,13 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-08] — joker-1 goal reframe; 3♦️ subtask expansion; Ch. 1–3 closed; visibility subtasks and resources added; target completions updated; joker-1 milestone posts refined
+### [2026-06-08] — joker-1 goal reframe; 3♦️ subtask expansion; Ch. 1–3 closed; visibility subtasks and resources added; target completions updated; joker-1 milestone posts refined; 10-hearts jobSearchPrep Wk3 closed
 
 #### Completed
 
 - [03-diamonds] — [Part 1: Basics > Ch. 1: Getting Started] closed
 - [03-diamonds] — [Part 1: Basics > Ch. 2: Variables and Simple Data Types] closed
 - [03-diamonds] — [Part 1: Basics > Ch. 3: Introducing Lists] closed
+- [10-hearts] — [jobSearchPrep > Wk3 Assignment; social media] closed
+- [10-hearts] — [jobSearchPrep > Wk3 Discussion Board; peer review] closed
 
 #### Added
 

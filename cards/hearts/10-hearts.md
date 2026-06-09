@@ -49,8 +49,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] Wk1 Discussion Board; introduction
       - [x] Wk2 Assignment; resume
       - [x] Wk2 Assignment; cover letter
-      - [ ] Wk3 Assignment; social media (Due 2026-06-08)
-      - [ ] Wk3 Discussion Board; peer review (Due 2026-06-08)
+      - [x] Wk3 Assignment; social media
+      - [x] Wk3 Discussion Board; peer review
       - [ ] Wk4 Assignment; interview question answers (Due 2026-06-12)
       - [ ] Wk4 Assignment; resume final draft (Due 2026-06-12)
     - [ ] advancedJavaScript (06/22–08/14)
@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] Fulfill math elective requirement (Franklin B.S. CS)
   - [x] Confirm CLEP College Algebra satisfies MATC College Algebra requirement
   - [/] Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings
-  - [/] Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160 
+  - [/] Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160
   - [ ] Complete algebra review for CLEP:
     - [ ] Modern States free CLEP College Algebra course (primary)
     - [ ] ALEKS diagnostic to identify specific gaps
