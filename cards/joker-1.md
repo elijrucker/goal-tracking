@@ -79,7 +79,7 @@ _Bonus — Community & Niche_
 - [Python.org Jobs](https://www.python.org/jobs/) - Python-specific global listings, some Berlin roles
 - [AngelList](https://angel.co/jobs) - Startup equity, global
 
-*Global Distributed (UTC+1 compatible) — Direct Company Careers Pages*
+_Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 - [Canonical](https://canonical.com/careers) - Ubuntu parent; experience-first hiring, no degree requirement
 - [Mozilla](https://mozilla.org/careers) - Open source culture, contribution-weighted hiring
@@ -134,32 +134,6 @@ _Bonus — Community & Niche_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] German LinkedIn profile
-  - [x] Identify Interests strategy (Berlin tech, AWS/Google)
-  - [x] Research and follow Berlin tech companies
-  - [/] Translate and adapt all profile sections (About, Education (Add TU), Skills, Licenses/Certs, Projects)
-- [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
-- [ ] German resume and portfolio website
-- [ ] Master resume skills section overhaul
-  - [ ] Audit current skills and identify gaps (capabilities, tools, certifications; include Claude Code)
-  - [ ] Update master resume and sync to LinkedIn
-- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
-- [/] Complete Anthropic Academy Courses (develop practical AI literacy across Claude tools, APIs, and agent frameworks)
-  - [x] Claude 101
-  - [x] Claude Code 101
-  - [x] Cowork
-  - [/] Claude Code in Action
-  - [ ] Building with Claude API
-  - [ ] Introduction to Model Context Protocol
-  - [ ] Model Context Protocol Advanced Topics
-  - [ ] Introduction to Agent Skills
-  - [ ] Introduction to Subagents
-  - [ ] Claude with Amazon Bedrock
-- [ ] Document completed milestones on LinkedIn — Pragmatic Programmer post outstanding (md and C# already represented via credential entries)
-- [/] Ensure 3 strong portfolio projects are live and documented
-  - [x] 52-card goal tracker (live, documented)
-  - [/] Self-hosted Linux infrastructure (ejr-homeserver)
-  - [ ] Project 3
 - [/] Home server — portfolio & dev environment
   - [x] Source hardware (Beelink EQi13 Pro)
   - [x] Install Ubuntu 24.04 LTS
@@ -169,9 +143,34 @@ _Bonus — Community & Niche_
   - [x] Configure Caddy reverse proxy (routing rules to be added per service on respective card deployment)
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
   - [x] Establish and validate remote dev workflow and exit node from off-network location
-  - [/] Document server architecture and service stack for portfolio
-- [ ] Home server public repo — complete README and architecture documentation (priority deliverable)
+  - [/] Document server architecture and service stack — substantiate existing public repo (github.com/elijrucker/homeserver-docker); README and architecture documentation priority deliverable
+- [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
+  - [x] Claude 101
+  - [x] Claude Code 101
+  - [x] Cowork
+  - [x] Claude Code in Action
+  - [ ] Building with Claude API
+  - [ ] Introduction to Model Context Protocol
+  - [ ] Model Context Protocol Advanced Topics
+  - [ ] Introduction to Agent Skills
+  - [ ] Introduction to Subagents
+  - [ ] Claude with Amazon Bedrock
+- [/] English LinkedIn profile — finalize all sections (blocks German profile completion)
+  - [x] Identify Interests strategy (Berlin tech, AWS/Google)
+  - [x] Research and follow Berlin tech companies
+  - [/] Refactor current English work experience (in progress via dedicated chat)
+  - [ ] Skills section final pass — fresh review from backend developer perspective for blind spots
+- [/] Ensure 3 strong portfolio projects are live and documented
+  - [x] 52-card goal tracker (live, documented)
+  - [/] Self-hosted Linux infrastructure (ejr-homeserver)
+  - [ ] Project 3
+- [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
+- [ ] German resume version — adapt master resume for German-language company applications
+- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
+- [/] German LinkedIn profile — pending English profile finalization
+  - [ ] Translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
+- [ ] Portfolio website — personal domain; defer post-relocation
 
 ## Subtasks - Job Search & Preparation
 
@@ -179,8 +178,8 @@ _Bonus — Community & Niche_
 
 - [/] Research Berlin companies and tech scene (expand on portfolio subtask results)
 - [/] Prepare for technical interviews (LeetCode, system design)
-- [ ] Research visa requirements (EU Blue Card or other options)
-- [ ] Network with Berlin-based developers (LinkedIn, meetups)
+- [x] Research visa requirements (EU Blue Card confirmed as primary path; IT specialist exception applies; Verisk tenure satisfies 3-year bar; C1 German exceeds B1 threshold for 21-month accelerated permanent residency)
+- [/] Network with Berlin-based developers (LinkedIn, meetups, Berlin Google Developers Group)
 
 **Execution**
 

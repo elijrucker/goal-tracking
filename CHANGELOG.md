@@ -5,12 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-09] — 02-diamonds, 03-clubs, 04-diamonds delayed reflections complete; 03-diamonds progress note; 10-hearts math elective progress
+### [2026-06-09] — joker-1 subtask reconciliation; 02-diamonds, 03-clubs, 04-diamonds delayed reflections complete; 03-diamonds progress note; 10-hearts math elective progress
 
 #### Completed
 
 - [10-hearts] — [Fulfill math elective requirement > Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings] closed
 - [10-hearts] — [Fulfill math elective requirement > Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160] closed
+- [joker-1] — [Complete Anthropic Academy Courses > Claude Code in Action] closed
+- [joker-1] — [Research visa requirements] closed; EU Blue Card confirmed, IT specialist exception applies, Verisk tenure satisfies 3-year bar, C1 German exceeds B1 threshold for 21-month accelerated permanent residency
 
 #### Changed
 
@@ -21,6 +23,18 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fulfill math elective requirement > Complete statistics review for DSST Principles of Statistics] updated subtask goal
 - [10-hearts] — [Fulfill math elective requirement > Pass DSST Principles of Statistics (satisfies MATH 215)] updated subtask goal
 - [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] updated annotation; (primary; start 2026-06-12)
+- [joker-1] — [Subtasks - Profile, Portfolio & Credentials] fully reconciled and reordered by proximity to completion
+- [joker-1] — [English LinkedIn profile] restructured as parent subtask gating German profile completion; Refactor English work experience marked in progress; Skills section final pass added as child item
+- [joker-1] — [Refactor current English work experience] marked in progress (handled via dedicated chat)
+- [joker-1] — [German LinkedIn profile] status updated: blocked pending English profile finalization; remaining sections listed explicitly
+- [joker-1] — [German resume and portfolio website] split into two standalone subtasks: German resume version (near-term) and portfolio website (deferred post-relocation, placed at bottom)
+- [joker-1] — [Home server README] merged into [Document server architecture]; existing public repo referenced (github.com/elijrucker/homeserver-docker)
+- [joker-1] — [Document completed milestones on LinkedIn] removed — posts caught up; subtask no longer meaningful
+
+#### Added
+
+- [joker-1] — [Establish Stack Overflow presence] subtask added (Python, Linux, Docker tags; one well-written answer per week minimum)
+- [joker-1] — [Community & Visibility] resources section added (dev.to, Stack Overflow, Medium)
 
 ---
 
