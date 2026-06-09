@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-09] — 02-diamonds, 03-clubs, 04-diamonds delayed reflections complete; 10-hearts math elective progress
+### [2026-06-09] — 02-diamonds, 03-clubs, 04-diamonds delayed reflections complete; 03-diamonds progress note; 10-hearts math elective progress
 
 #### Completed
 
@@ -16,6 +16,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [02-diamonds] — [Reflection & Lessons Learned] populated (delayed reflection, 2026-06-09)
 - [03-clubs] — [Reflection & Lessons Learned] populated (delayed reflection, 2026-06-09)
+- [03-diamonds] — [Progress Notes] added note (2026-06-09; habit anchoring experiment, post-gym anchor)
 - [04-diamonds] — [Reflection & Lessons Learned] populated (delayed reflection, 2026-06-09)
 - [10-hearts] — [Fulfill math elective requirement > Complete statistics review for DSST Principles of Statistics] updated subtask goal
 - [10-hearts] — [Fulfill math elective requirement > Pass DSST Principles of Statistics (satisfies MATH 215)] updated subtask goal

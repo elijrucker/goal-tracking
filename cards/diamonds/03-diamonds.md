@@ -73,6 +73,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Progress Notes
 
+- [2026-06-09] Habit anchoring experiment in progress: post-gym unpacking as trigger for Python reading sessions. Gym cadence 5+x/week — sufficient to support Part 1 target of June 30.
 - [2026-06-01] Target set: complete Part 1 (Basics) by 2026-06-30. One month target, not considered a stretch goal. Revisit pace as summer courses ramp up.
 - [2026-05-29] Promoted to In Progress following 3♠️ CS Distilled completion. Python identified as largest current skill gap.
 
