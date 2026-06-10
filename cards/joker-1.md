@@ -156,10 +156,15 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [ ] Introduction to Subagents
   - [ ] Claude with Amazon Bedrock
 - [/] English LinkedIn profile — finalize all sections (blocks German profile completion)
-  - [x] Identify Interests strategy (Berlin tech, AWS/Google)
+  - [x] Identify Interests strategy
   - [x] Research and follow Berlin tech companies
-  - [/] Refactor current English work experience (in progress via dedicated chat)
+  - [x] Refactor current English work experience
+  - [ ] Refactor Education section
+  - [ ] Refactor Licenses & certs
+  - [ ] Refactor Projects
+  - [ ] Refactor Volunteering
   - [ ] Skills section final pass — fresh review from backend developer perspective for blind spots
+  - [ ] Refactor Honors & awards
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)

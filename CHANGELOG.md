@@ -5,6 +5,23 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-10] — joker-1 English LinkedIn subtasks expanded; work experience closed
+
+#### Completed
+
+- [joker-1] — [English LinkedIn profile > Refactor current English work experience] closed
+
+#### Added
+
+- [joker-1] — [English LinkedIn profile > Refactor Education section–Refactor Volunteering] added
+- [joker-1] — [English LinkedIn profile > Refactor Honors & awards] added
+
+#### Process
+
+- [PROGRESS] — joker-1 subtask count updated: 16/47 → 17/52
+
+---
+
 ### [2026-06-09] — joker-1 subtask reconciliation; 02-diamonds, 03-clubs, 04-diamonds delayed reflections complete; 03-diamonds progress note; 10-hearts math elective progress
 
 #### Completed
