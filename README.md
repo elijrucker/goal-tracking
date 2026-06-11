@@ -1,6 +1,6 @@
 # 52-Card Goal Tracking System
 
-A comprehensive self-directed agile goal tracking system using a standard 52-card deck metaphor utilizing personal kanban and driven by kaizen. Each suit represents a specific academic, professional, or personal development trajectory. Cards are organized into different domains. Card values (2-Ace) indicate difficulty, time commitment, and prerequisite relationships of individual goals. Accomplishments and effort invested are tracked via CHANGELOG, and the path ahead is kept in focus via PROGRESS file.
+A self-directed agile goal tracking system built around a 52-card deck metaphor, applying personal kanban and kaizen principles to long-term personal and professional development. Utilizing Markdown for legibility and Git for version control and incremental progress tracking, each suit maps to one of the following domains: engineering tools, applied practice, computer science theory, and personal development. Card values indicate difficulty and prerequisite relationships. Progress is tracked via a structured changelog and progress file hosted on GitHub.
 
 ## System Overview
 
