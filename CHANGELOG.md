@@ -5,11 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-10] — joker-1 English LinkedIn subtasks expanded; work experience closed
+### [2026-06-10] — joker-1 English LinkedIn subtasks progress
 
 #### Completed
 
 - [joker-1] — [English LinkedIn profile > Refactor current English work experience] closed
+- [joker-1] — [English LinkedIn profile > Refactor Education section] closed
+- [joker-1] — [English LinkedIn profile > Refactor Licenses & certs] closed
+
+#### Changed
+
+- [joker-1] — [English LinkedIn profile > Refactor Projects] marked in progress
 
 #### Added
 

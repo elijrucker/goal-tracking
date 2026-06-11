@@ -159,9 +159,9 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] Identify Interests strategy
   - [x] Research and follow Berlin tech companies
   - [x] Refactor current English work experience
-  - [ ] Refactor Education section
-  - [ ] Refactor Licenses & certs
-  - [ ] Refactor Projects
+  - [x] Refactor Education section
+  - [x] Refactor Licenses & certs
+  - [/] Refactor Projects
   - [ ] Refactor Volunteering
   - [ ] Skills section final pass — fresh review from backend developer perspective for blind spots
   - [ ] Refactor Honors & awards
