@@ -42,7 +42,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 2♠️  | CS50x                            | In Progress | 5/23             |
 | 3♦️  | Python Crash Course              | In Progress | 0/15             |
 | 5♥️  | Weight Loss: 25 lbs              | In Progress | 11/12            |
-| 10♥️ | Complete Associate's Degree      | In Progress | 35/63 units      |
+| 10♥️ | Complete Associate's Degree      | In Progress | 48/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
 | 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 17/52            |

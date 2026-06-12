@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-12] — 10-hearts jobSearchPrep completed
+
+#### Completed
+
+- [10-hearts] — [jobSearchPrep > Wk4 Assignment; interview question answers] closed
+- [10-hearts] — [jobSearchPrep > Wk4 Assignment; resume final draft] closed
+- [10-hearts] — [jobSearchPrep] closed
+
+#### Changed
+
+- [10-hearts] — [2026-06-12] Calculated current unit count after Spring 26 final grades posted, updating PROGRESS (35/63) → (48/63)
+
+---
+
 ### [2026-06-11] — joker-1 profile progress
 
 #### Completed
