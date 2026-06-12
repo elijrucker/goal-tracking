@@ -161,10 +161,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] Refactor current English work experience
   - [x] Refactor Education section
   - [x] Refactor Licenses & certs
-  - [/] Refactor Projects
-  - [ ] Refactor Volunteering
+  - [x] Refactor Projects
+  - [x] Refactor Volunteering
   - [ ] Skills section final pass — fresh review from backend developer perspective for blind spots
-  - [ ] Refactor Honors & awards
+  - [x] Refactor Honors & awards
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
@@ -202,6 +202,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Progress Notes
 
+- [2026-06-11] GitHub portfolio audit subtask elevated in priority. Single repository (python_crash_course) demonstrated substantial gap between coding skill and documentation/presentation skill. Portfolio-wide consistency audit and remediation planned.
 - [2026-06-05] Hooks (PreToolUse / PostToolUse) identified as deterministic guardrails for Claude Code agent loops — fire around any tool call (file ops, bash, MCP servers). Revisit for homeserver and AWS dev container automation once usage patterns emerge; natural fit for CI/CD pipeline safety and portfolio documentation.
 - [2026-05-24] Identified master resume skills section as requiring substantial overhaul; added dedicated subtask.
 - [2026-05-22] GitHub profile optimization identified as a subtask during LinkedIn profile review session

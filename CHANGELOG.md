@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-11] — joker-1 profile progress
+
+#### Completed
+
+- [joker-1] — [English LinkedIn profile > Refactor Projects] closed
+- [joker-1] — [English LinkedIn profile > Refactor Volunteering] closed
+- [joker-1] — [English LinkedIn profile > Refactor Honors & Awards] closed
+
+#### Changed
+
+- [joker-1] — [Progress Notes] added note (2026-06-12; GitHub portfolio audit subtask elevated in priority. Single repository (python_crash_course) demonstrated substantial gap between coding skill and documentation/presentation skill. Portfolio-wide consistency audit and remediation planned.)
+
+---
+
 ### [2026-06-10] — joker-1 English LinkedIn subtasks progress
 
 #### Completed
