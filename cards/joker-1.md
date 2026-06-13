@@ -155,7 +155,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [ ] Introduction to Agent Skills
   - [ ] Introduction to Subagents
   - [ ] Claude with Amazon Bedrock
-- [/] English LinkedIn profile — finalize all sections (blocks German profile completion)
+- [x] English LinkedIn profile — finalize all sections
   - [x] Identify Interests strategy
   - [x] Research and follow Berlin tech companies
   - [x] Refactor current English work experience
@@ -163,7 +163,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] Refactor Licenses & certs
   - [x] Refactor Projects
   - [x] Refactor Volunteering
-  - [ ] Skills section final pass — fresh review from backend developer perspective for blind spots
+  - [x] Skills section final pass — fresh review from backend developer perspective for blind spots
   - [x] Refactor Honors & awards
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
