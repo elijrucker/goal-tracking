@@ -10,7 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Completed
 
 - [joker-1] — [English LinkedIn profile - finalize all sections > Skills section final pass - fresh view from backend developer perspective for blind spots] closed
-- [joker-1] — [English LinkedIn profile - finalize all sections] closed
+- [joker-1] — [English LinkedIn profile - finalize all sections] closed; completed children pruned (dynamic card convention)
 
 ---
 
