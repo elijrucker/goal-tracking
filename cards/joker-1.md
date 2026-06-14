@@ -151,7 +151,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] Claude Code 101
   - [x] Cowork
   - [x] Claude Code in Action
-  - [ ] Building with Claude API
+  - [/] Building with Claude API
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
   - [ ] Introduction to Agent Skills

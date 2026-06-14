@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-06-14
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -34,7 +34,7 @@ Second milestone on the 75 lb total weight loss journey - the halfway point. Rea
 
 ## Prerequisites
 
-- [ ] 5♥️ - Weight Loss: 25 lbs
+- [x] 5♥️ - Weight Loss: 25 lbs
 
 ---
 

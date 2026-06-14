@@ -6,12 +6,12 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 ## Summary
 
-- **Cards Completed**: 4 / 52
+- **Cards Completed**: 5 / 52
 - **Cards In Progress**: 6
 - **Cards Preparing**: 6
 - **Cards Deferred**: 4
-- **Current Streak**: 4 cards
-- **Last Completed**: 3♠️ CS Distilled (2026-05-29)
+- **Current Streak**: 5 cards
+- **Last Completed**: 5♥️ Weight Loss: 25 lbs (2026-06-14)
 - **Deck Started**: 2026-02-13
 
 ### Completion by Suit
@@ -21,16 +21,16 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ♦️ Diamonds | 2         | 2           | 2         | 0        | 7           | 13     |
 | ♣️ Clubs    | 1         | 0           | 3         | 1        | 8           | 13     |
 | ♠️ Spades   | 1         | 1           | 0         | 0        | 11          | 13     |
-| ♥️ Hearts   | 0         | 2           | 0         | 3        | 8           | 13     |
+| ♥️ Hearts   | 1         | 2           | 0         | 3        | 7           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **4**     | **6**       | **6**     | **4**    | **34**      | **54** |
+| **Total**   | **5**     | **6**       | **6**     | **4**    | **33**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
 | 🟢 Green (Foundational) | 4         | 2           | 12    |
-| 🔵 Blue (Moderate)      | 0         | 1           | 12    |
+| 🔵 Blue (Moderate)      | 1         | 1           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
 | 🔴 Red (Elite)          | 0         | 0           | 12    |
@@ -41,7 +41,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♠️  | CS50x                            | In Progress | 5/23             |
 | 3♦️  | Python Crash Course              | In Progress | 0/15             |
-| 5♥️  | Weight Loss: 25 lbs              | In Progress | 11/12            |
+| 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6              |
 | 10♥️ | Complete Associate's Degree      | In Progress | 48/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
 | 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
@@ -51,16 +51,20 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 2♣️  | FCC Algorithms & Data Structures | Preparing   | 0/5              |
 | 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
 | 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
-| 🃏2  | Own a Sport Luxury Vehicle       | Preparing   | 2/7              |
-| 6♥️  | South American Markets ($5K)     | Deferred    | 0/7              |
-| Q♥️  | Polish C1 Certification          | Deferred    | 0/8              |
-| K♥️  | Eastern European Markets ($15K)  | Deferred    | 0/7              |
 
 ---
 
 ## Completed Cards
 
 Cards will be logged here as they are completed.
+
+---
+
+**5 of Hearts - Weight Loss: 25 lbs**
+
+- Completed: 2026-06-14
+- Time Invested: ~6 months (2025-12-21 – 2026-06-14)
+- Key Takeaway: A 2-week maintenance window requirement (not just a single crossing) was the right call — it prevented premature closure on May 20 and confirmed the milestone was real.
 
 ---
 
@@ -121,7 +125,7 @@ Cards will be logged here as they are completed.
 - [x] Complete first card in Diamonds
 - [x] Complete first card in Clubs
 - [x] Complete first card in Spades
-- [ ] Complete first card in Hearts
+- [x] Complete first card in Hearts
 - [ ] Complete all Green cards in any suit
 - [ ] Complete 50% of any suit
 - [ ] Complete first full suit

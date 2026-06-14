@@ -5,35 +5,29 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-14] — joker-1 subtask reorganization (German LinkedIn profile prioritization); 5♥️ Weight Loss: 25 lbs complete
-
-#### Changed
-
-- [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: [German LinkedIn profile] moved to top, reflecting current session priority
-- [joker-1] — [German LinkedIn profile] flattened parent-child structure (single remaining child) into one item; removed stale "pending English profile finalization" annotation (English profile now complete); consolidated to "translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)"
-- [joker-1] — [German resume version — adapt master resume for German-language company applications] renamed and reframed → [Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)]; repositioned immediately after [German LinkedIn profile] to reflect content dependency
-
-#### Process
-
-- [PROGRESS] — 🃏1 subtask count updated: 17/52 → 17/51 (flattened German LinkedIn profile parent-child structure, net -1 line item)
-
----
-
-### [2026-06-14] — 5♥️ Weight Loss: 25 lbs complete
+### [2026-06-14] — 5♥️ Weight Loss: 25 lbs complete; 7♥️ activated; joker-1 subtask reorg
 
 #### Completed
 
-- [05-hearts] — [Maintain weight at milestone for at least 2 weeks] closed; 5♥️ Weight Loss: 25 lbs marked Complete (2026-06-14)
+- [05-hearts] — [Maintain weight at milestone for at least 2 weeks] closed; 5♥️ Weight Loss: 25 lbs marked Complete
 
 #### Changed
 
-- [05-hearts] — Status: In Progress → Complete
-- [05-hearts] — [Completion Notes / Reflection & Lessons Learned] filled in
+- [05-hearts] — Status: In Progress → Complete; [Completion Notes / Reflection & Lessons Learned] filled in
+- [07-hearts] — Status: Not Started → In Progress; [5♥️ prerequisite] marked complete
+- [joker-1] — [Building with Claude API] marked in progress
+- [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: [German LinkedIn profile] elevated to top
+- [joker-1] — [German LinkedIn profile] flattened to single item; stale "pending English profile finalization" annotation removed
+- [joker-1] — [German resume version] → [Establish German Lebenslauf template (on-request; draws on translated LinkedIn content)]; repositioned after [German LinkedIn profile]
 
 #### Notes
 
 - [05-hearts] — Final weight at close: 285.9 lb (-25.9 lb from 311.8 peak, BMI ~37.7)
-- [7♥️] — Now active target: Weight Loss: 50 lbs (261.8 lb)
+- [7♥️] — Now active target: 50 lbs (261.8 lb)
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count: 17/52 → 17/51 (German LinkedIn flattened, net -1)
 
 ---
 
