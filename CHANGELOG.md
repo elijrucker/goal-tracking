@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-14] — 5♥️ Weight Loss: 25 lbs complete
+
+#### Completed
+
+- [05-hearts] — [Maintain weight at milestone for at least 2 weeks] closed; 5♥️ Weight Loss: 25 lbs marked Complete (2026-06-14)
+
+#### Changed
+
+- [05-hearts] — Status: In Progress → Complete
+- [05-hearts] — [Completion Notes / Reflection & Lessons Learned] filled in
+
+#### Notes
+
+- [05-hearts] — Final weight at close: 285.9 lb (-25.9 lb from 311.8 peak, BMI ~37.7)
+- [7♥️] — Now active target: Weight Loss: 50 lbs (261.8 lb)
+
+---
+
 ### [2026-06-13] — joker-1 English LinkedIn profile review complete
 
 #### Completed
