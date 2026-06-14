@@ -134,6 +134,8 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
+- [/] German LinkedIn profile — translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
+- [ ] Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)
 - [/] Home server — portfolio & dev environment
   - [x] Source hardware (Beelink EQi13 Pro)
   - [x] Install Ubuntu 24.04 LTS
@@ -161,11 +163,8 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [/] Self-hosted Linux infrastructure (ejr-homeserver)
   - [ ] Project 3
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
-- [ ] German resume version — adapt master resume for German-language company applications
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
-- [/] German LinkedIn profile — pending English profile finalization
-  - [ ] Translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
 - [ ] Portfolio website — personal domain; defer post-relocation
 
 ## Subtasks - Job Search & Preparation

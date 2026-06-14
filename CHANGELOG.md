@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-14] — joker-1 subtask reorganization (German LinkedIn profile prioritization); 5♥️ Weight Loss: 25 lbs complete
+
+#### Changed
+
+- [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: [German LinkedIn profile] moved to top, reflecting current session priority
+- [joker-1] — [German LinkedIn profile] flattened parent-child structure (single remaining child) into one item; removed stale "pending English profile finalization" annotation (English profile now complete); consolidated to "translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)"
+- [joker-1] — [German resume version — adapt master resume for German-language company applications] renamed and reframed → [Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)]; repositioned immediately after [German LinkedIn profile] to reflect content dependency
+
+#### Process
+
+- [PROGRESS] — 🃏1 subtask count updated: 17/52 → 17/51 (flattened German LinkedIn profile parent-child structure, net -1 line item)
+
+---
+
 ### [2026-06-14] — 5♥️ Weight Loss: 25 lbs complete
 
 #### Completed
