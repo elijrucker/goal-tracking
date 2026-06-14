@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-14] — 5♥️ Weight Loss: 25 lbs complete; 7♥️ activated; joker-1 subtask reorg
+### [2026-06-14] — 5♥️ Weight Loss: 25 lbs complete; 7♥️ activated; joker-1 subtask reorg; API pipeline reflection
 
 #### Completed
 
@@ -19,6 +19,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: [German LinkedIn profile] elevated to top
 - [joker-1] — [German LinkedIn profile] flattened to single item; stale "pending English profile finalization" annotation removed
 - [joker-1] — [German resume version] → [Establish German Lebenslauf template (on-request; draws on translated LinkedIn content)]; repositioned after [German LinkedIn profile]
+- [joker-1] — [Progress Notes] added reflection (2026-06-14; Anthropic API pipeline walkthrough — tokenization, embedding, attention, generation, KV caching)
 
 #### Notes
 
