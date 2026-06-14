@@ -48,3 +48,9 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 ## Changelog Conventions
 
 **Entry header order** — When a single day's header covers multiple events, list them in descending order of significance: major milestones and status transitions first, routine progress updates last. Example: `Post-Semester Retro; Status Transitions; joker-2 apparel closed`.
+
+## Standing Decisions
+
+Cross-cutting decisions that apply across cards and sessions, not tied to any single card's progress.
+
+- **[2026-06-14] LinkedIn content strategy** — Personal/lifestyle milestones (e.g., weight loss progress) are excluded from individual LinkedIn posts. Reserved for a future cumulative progress-arc reflection post.
