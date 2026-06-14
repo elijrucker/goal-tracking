@@ -20,6 +20,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [German LinkedIn profile] flattened to single item; stale "pending English profile finalization" annotation removed
 - [joker-1] — [German resume version] → [Establish German Lebenslauf template (on-request; draws on translated LinkedIn content)]; repositioned after [German LinkedIn profile]
 - [joker-1] — [Progress Notes] added reflection (2026-06-14; Anthropic API pipeline walkthrough — tokenization, embedding, attention, generation, KV caching)
+- [jack-diamonds] — [Developer learning path modules] retroactively marked in progress
+- [jack-diamonds] — [Developer learning path modules > Phase 1] annotation updated (2026-06-14; next step: Testing and Error Handling)
 
 #### Notes
 

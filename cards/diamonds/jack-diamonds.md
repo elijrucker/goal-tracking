@@ -45,9 +45,9 @@ Complete the official AWS Skill Builder Developer Learning Plan. This is the fou
 ## Subtasks
 
 - [x] AWS Cloud Practitioner Essentials
-- [ ] Developer learning path modules _(Target: complete all 6 modules (18 courses) by 2026-07-31)_
+- [/] Developer learning path modules _(Target: complete all 6 modules (18 courses) by 2026-07-31)_
   - [x] Phase 0 (2026-06-01)
-  - [/] Phase 1 (2026-06-04)
+  - [/] Phase 1 (2026-06-14; next step: Testing and Error Handling)
   - [ ] Phase 2
   - [ ] Phase 3
   - [ ] Phase 4
