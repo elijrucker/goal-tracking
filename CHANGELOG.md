@@ -9,11 +9,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Added
 
-- [joker-1] — [Review and update social media & community accounts] parent subtask added; [dev.to] and [Meetup] nested as children
+- [joker-1] — [Review and update social media & community accounts] added; dev.to and Meetup nested as children
+- [joker-1] — [Review and update Meetup account] — target groups: Software Crafters Berlin, Coding Berlin, Berlin Software Designers
 
 #### Process
 
-- [PROGRESS] — 🃏1 subtask count updated: 17/51 → 17/54 (net +3: parent + Meetup added; dev.to converted to child)
+- [PROGRESS] — 🃏1 subtask count: 17/51 → 17/54 (social media parent + Meetup added; dev.to nested, net +3)
 
 ---
 
