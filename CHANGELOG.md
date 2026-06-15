@@ -16,9 +16,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Review and update social media & community accounts] added; dev.to and Meetup nested as children
 - [joker-1] — [Review and update Meetup account] — target groups: Software Crafters Berlin, Coding Berlin, Berlin Software Designers
+- [joker-1] — [Self-hosted Linux infrastructure] added annotation (GitHub repo needs attention to meet portfolio DoD)
 
 #### Changed
 
+- [joker-1] — [Home server - portfolio & dev environment] completed children pruned (dynamic card convention)
 - [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation: last touched (2026-06-15)
 
 #### Process

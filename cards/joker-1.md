@@ -136,16 +136,6 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 - [/] German LinkedIn profile — translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
 - [ ] Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)
-- [x] Home server — portfolio & dev environment
-  - [x] Source hardware (Beelink EQi13 Pro)
-  - [x] Install Ubuntu 24.04 LTS
-  - [x] Configure Tailscale (exit node)
-  - [x] Install Docker
-  - [x] Harden SSH (key auth, password auth disabled)
-  - [x] Configure Caddy reverse proxy (routing rules to be added per service on respective card deployment)
-  - [x] Build AWS dev environment container — integrate with J♦️ coursework
-  - [x] Establish and validate remote dev workflow and exit node from off-network location
-  - [x] Document server architecture and service stack
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
@@ -160,7 +150,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [x] English LinkedIn profile — finalize all sections
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
-  - [/] Self-hosted Linux infrastructure (ejr-homeserver)
+  - [/] Self-hosted Linux infrastructure — (GitHub repo needs attention to meet portfolio DoD)
   - [ ] Project 3
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
