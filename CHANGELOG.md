@@ -11,6 +11,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Home server - portfolio & dev environment > Document server architecture and service stack] closed
 - [joker-1] — [Home server - portfolio & dev environment] closed
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented > Self-hosted Linux infrastructure] closed
 
 #### Added
 

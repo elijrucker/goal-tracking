@@ -151,7 +151,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [ ] Claude with Amazon Bedrock
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
-  - [/] Self-hosted Linux infrastructure — (GitHub repo needs attention to meet portfolio DoD)
+  - [x] Self-hosted Linux infrastructure
   - [ ] Project 3
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
