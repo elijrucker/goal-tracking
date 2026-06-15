@@ -22,6 +22,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Home server - portfolio & dev environment] completed children pruned (dynamic card convention)
 - [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: LinkedIn subtasks grouped — [English LinkedIn profile] elevated to top, [German LinkedIn profile] and [Establish German Lebenslauf template] follow; [Optimize GitHub profile] position 4
+- [joker-1] — [Progress Notes] added note (2026-06-15; home server series closed; architecture documented with defense-in-depth narrative, Mermaid diagram, and topic tags; ejr-homeserver repo live as standalone portfolio artifact)
 - [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation: last touched (2026-06-15)
 
 #### Process
