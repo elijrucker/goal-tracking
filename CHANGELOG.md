@@ -21,6 +21,7 @@ Format: [YYYY-MM-DD] — Description of change
 #### Changed
 
 - [joker-1] — [Home server - portfolio & dev environment] completed children pruned (dynamic card convention)
+- [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: LinkedIn subtasks grouped — [English LinkedIn profile] elevated to top, [German LinkedIn profile] and [Establish German Lebenslauf template] follow; [Optimize GitHub profile] position 4
 - [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation: last touched (2026-06-15)
 
 #### Process

@@ -134,8 +134,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
+- [x] English LinkedIn profile — finalize all sections
 - [/] German LinkedIn profile — translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
 - [ ] Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)
+- [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
@@ -147,12 +149,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [ ] Introduction to Agent Skills
   - [ ] Introduction to Subagents
   - [ ] Claude with Amazon Bedrock
-- [x] English LinkedIn profile — finalize all sections
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [/] Self-hosted Linux infrastructure — (GitHub repo needs attention to meet portfolio DoD)
   - [ ] Project 3
-- [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 - [ ] Portfolio website — personal domain; defer post-relocation
