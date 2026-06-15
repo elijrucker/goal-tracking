@@ -5,15 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-15] — joker-1 dev.to subtask added
+### [2026-06-15] — joker-1 social media subtasks added
 
 #### Added
 
-- [joker-1] — [Review and update dev.to account; become more active on platform] subtask added
+- [joker-1] — [Review and update social media & community accounts] parent subtask added; [dev.to] and [Meetup] nested as children
 
 #### Process
 
-- [PROGRESS] — 🃏1 subtask count updated: 17/51 → 17/52
+- [PROGRESS] — 🃏1 subtask count updated: 17/51 → 17/54 (net +3: parent + Meetup added; dev.to converted to child)
 
 ---
 
