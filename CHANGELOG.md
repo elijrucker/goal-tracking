@@ -5,7 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-15] — joker-1 social media subtasks added; 03-diamonds progress
+### [2026-06-15] — joker-1 home server subtask series complete; joker-1 social media subtasks added; 03-diamonds progress
+
+#### Completed
+
+- [joker-1] — [Home server - portfolio & dev environment > Document server architecture and service stack] closed
+- [joker-1] — [Home server - portfolio & dev environment] closed
 
 #### Added
 
@@ -14,7 +19,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 #### Changed
 
-- [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation (Container environment configured, and exercise-ready)
+- [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation: last touched (2026-06-15)
 
 #### Process
 

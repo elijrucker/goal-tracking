@@ -136,7 +136,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 - [/] German LinkedIn profile — translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
 - [ ] Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)
-- [/] Home server — portfolio & dev environment
+- [x] Home server — portfolio & dev environment
   - [x] Source hardware (Beelink EQi13 Pro)
   - [x] Install Ubuntu 24.04 LTS
   - [x] Configure Tailscale (exit node)
@@ -145,7 +145,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] Configure Caddy reverse proxy (routing rules to be added per service on respective card deployment)
   - [x] Build AWS dev environment container — integrate with J♦️ coursework
   - [x] Establish and validate remote dev workflow and exit node from off-network location
-  - [/] Document server architecture and service stack — substantiate existing public repo (github.com/elijrucker/homeserver-docker); README and architecture documentation priority deliverable
+  - [x] Document server architecture and service stack
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
