@@ -166,6 +166,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 - [ ] Portfolio website — personal domain; defer post-relocation
+- [ ] Review and update dev.to account; become more active on platform
 
 ## Subtasks - Job Search & Preparation
 

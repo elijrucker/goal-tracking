@@ -45,7 +45,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 10♥️ | Complete Associate's Degree      | In Progress | 48/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
 | 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
-| 🃏1  | Software Developer Job in Berlin | In Progress | 17/51            |
+| 🃏1  | Software Developer Job in Berlin | In Progress | 17/52            |
 | K♦️  | AWS DVA Prep Course              | Preparing   | 0/5              |
 | A♦️  | AWS Certified Developer Assoc.   | Preparing   | 0/4              |
 | 2♣️  | FCC Algorithms & Data Structures | Preparing   | 0/5              |
