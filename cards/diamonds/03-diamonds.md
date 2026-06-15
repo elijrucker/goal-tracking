@@ -45,7 +45,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 - [x] Ch. 1: Getting Started
 - [x] Ch. 2: Variables and Simple Data Types
 - [x] Ch. 3: Introducing Lists
-- [/] Try It Yourself — Ch. 1–3 (Update exercises for home server environment)
+- [/] Try It Yourself — Ch. 1–3 (Container environment configured, and exercise-ready)
 - [ ] Ch. 4: Working with Lists
 - [ ] Ch. 5: if Statements
 - [ ] Ch. 6: Dictionaries

@@ -5,12 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-15] — joker-1 social media subtasks added
+### [2026-06-15] — joker-1 social media subtasks added; 03-diamonds progress
 
 #### Added
 
 - [joker-1] — [Review and update social media & community accounts] added; dev.to and Meetup nested as children
 - [joker-1] — [Review and update Meetup account] — target groups: Software Crafters Berlin, Coding Berlin, Berlin Software Designers
+
+#### Changed
+
+- [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation (Container environment configured, and exercise-ready)
 
 #### Process
 

@@ -168,7 +168,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [ ] Portfolio website — personal domain; defer post-relocation
 - [ ] Review and update social media & community accounts
   - [ ] Review and update dev.to account; become more active on platform
-  - [ ] Review and update Meetup account; become more active on platform
+  - [ ] Review and update Meetup account; become more active on platform (Software Crafters Berlin, Coding Berlin, Berlin Software Designers)
 
 ## Subtasks - Job Search & Preparation
 
