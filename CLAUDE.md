@@ -54,3 +54,4 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 Cross-cutting decisions that apply across cards and sessions, not tied to any single card's progress.
 
 - **[2026-06-14] LinkedIn content strategy** — Personal/lifestyle milestones (e.g., weight loss progress) are excluded from individual LinkedIn posts. Reserved for a future cumulative progress-arc reflection post.
+- **[2026-06-16] Subtask count in changelog** — Do not log subtask count deltas (e.g., `17/51 → 17/54`) in CHANGELOG.md. The count is represented in the card itself; logging it in the changelog is redundant. Omit the `#### Process` section entirely if it has nothing else to say.
