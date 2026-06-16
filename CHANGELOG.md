@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-15] — joker-1 home server subtask series complete; joker-1 social media subtasks added; 03-diamonds progress
+### [2026-06-15] — joker-1 home server subtask series complete; joker-1 social media subtasks added; 03-diamonds progress; Personal observations; reflection notes
 
 #### Completed
 
@@ -25,6 +25,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: LinkedIn subtasks grouped — [English LinkedIn profile] elevated to top, [German LinkedIn profile] and [Establish German Lebenslauf template] follow; [Optimize GitHub profile] position 4
 - [joker-1] — [Progress Notes] added note (2026-06-15; home server series closed; architecture documented with defense-in-depth narrative, Mermaid diagram, and topic tags; ejr-homeserver repo live as standalone portfolio artifact)
 - [03-diamonds] — [Try It Yourself - Ch. 1-3] updated annotation: last touched (2026-06-15)
+
+#### Notes
+
+- [Personal] — Tracking overhead vs. execution: once a routine is anchored (5♥️ as the model), recording less and doing more becomes the more effective mode going forward (e.g. 7♥️). Heavy annotation has value early in habit formation but becomes friction once anchored.
+- [Personal] — YouTube app deactivated on phone (weekend of 2026-06-12/13). Noted uptick in productivity and cognitive coherence; thoughts less scattered. Reinforces existing "environmental design over willpower" principle — full removal preferred over usage-limit settings.
 
 #### Process
 
