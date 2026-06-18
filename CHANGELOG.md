@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-17] — 02-spades progress
+
+#### Changed
+
+- [02-spades] — [Week 5: Data Structures — Lecture] updated annotation: (2026-06-17; Linked Lists)
+
+---
+
 ### [2026-06-15] — joker-1 home server subtask series complete; joker-1 social media subtasks added; 03-diamonds progress; Personal observations; reflection notes
 
 #### Completed
