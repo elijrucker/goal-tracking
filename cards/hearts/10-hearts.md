@@ -44,24 +44,13 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] Complete remaining required courses
   - [/] Summer 26
     - [x] jobSearchPrep
-      - [x] Review 'START HERE', Syllabus, Due Dates
-      - [x] Wk1 Assignment; job questionnaire
-      - [x] Wk1 Discussion Board; introduction
-      - [x] Wk2 Assignment; resume
-      - [x] Wk2 Assignment; cover letter
-      - [x] Wk3 Assignment; social media
-      - [x] Wk3 Discussion Board; peer review
-      - [x] Wk4 Assignment; interview question answers
-      - [x] Wk4 Assignment; resume final draft
     - [ ] advancedJavaScript (06/22–08/14)
     - [ ] introPhilosophy (06/22–08/14)
     - [ ] technicalReporting (07/06–08/14)
 - [/] Fulfill math elective requirement (Franklin B.S. CS)
-  - [x] Confirm CLEP College Algebra satisfies MATC College Algebra requirement
-  - [x] Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings
-  - [x] Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160
+  - [x] Confirm CLEP College Algebra eligibility (MATC req, articulation agreement, Franklin advising)
   - [ ] Complete algebra review for CLEP:
-    - [ ] Modern States free CLEP College Algebra course (primary; start 2026-06-12)
+    - [ ] Modern States free CLEP College Algebra course (2026-06-19; registered, begin ch.1)
     - [ ] ALEKS diagnostic to identify specific gaps
     - [ ] Professor Leonard College Algebra (YouTube) for conceptual depth
     - [ ] Official CLEP College Algebra practice exam (timed)

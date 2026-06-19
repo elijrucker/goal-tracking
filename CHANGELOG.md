@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-19] — 10-hearts subtask consolidation; Modern States CLEP College Algebra registered
+
+#### Changed
+
+- [10-hearts] — [jobSearchPrep] completed children pruned (dynamic card convention)
+- [10-hearts] — [Fulfill math elective requirement > eligibility confirmations] consolidated into single summary line
+- [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] updated annotation: (2026-06-19; registered, begin ch.1)
+
+---
+
+### [2026-06-18] — 02-spades week 5 lecture completed
+
+#### Completed
+
+- [02-spades] — [Week 5: Data Structures — Lecture] closed
+
+---
+
 ### [2026-06-18] — 05-diamonds Fluent Python added; joker-1 profile, portfolio & credentials progress; 02-spades progress
 
 #### Added
