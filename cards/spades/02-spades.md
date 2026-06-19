@@ -50,7 +50,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 - [ ] Week 3: Assignments
 - [x] Week 4: Memory — Lecture
 - [ ] Week 4: Assignments
-- [/] Week 5: Data Structures — Lecture (2026-06-17; Linked Lists)
+- [/] Week 5: Data Structures — Lecture (2026-06-18; Linked Lists)
 - [ ] Week 5: Assignments
 - [ ] Week 6: Python — Lecture
 - [ ] Week 6: Assignments

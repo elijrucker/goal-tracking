@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-18] — 05-diamonds Fluent Python added; joker-1 profile, portfolio & credentials progress; 02-spades progress
+
+#### Added
+
+- [05-diamonds] — added Fluent Python (Ramalho, 2nd ed.) as textbook component; Goal Description expanded to reflect dual Anki + reading structure
+
+#### Changed
+
+- [joker-1] — [German LinkedIn profile] updated annotation:(2026-06-18; completed draft, pending review)
+- [joker-1] — [Complete Anthropic Academy courses > Building with Claude API] updated annotation: (2026-06-18; configure container API dev environment)
+- [02-spades] — [Week 5: Data Structures — Lecture] updated annotation: (2026-06-18; Linked Lists)
+
+---
+
 ### [2026-06-17] — 02-spades progress
 
 #### Changed

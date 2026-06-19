@@ -134,8 +134,8 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [x] English LinkedIn profile — finalize all sections
-- [/] German LinkedIn profile — translate and adapt all remaining sections (Education, Skills, Licenses/Certs, Projects, Experience)
+- [x] English LinkedIn profile
+- [/] German LinkedIn profile (2026-06-18; completed draft, pending review)
 - [ ] Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
@@ -143,7 +143,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] Claude Code 101
   - [x] Cowork
   - [x] Claude Code in Action
-  - [/] Building with Claude API
+  - [/] Building with Claude API (2026-06-18; configure container API dev environment)
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
   - [ ] Introduction to Agent Skills

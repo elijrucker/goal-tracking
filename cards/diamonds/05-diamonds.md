@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Source or build an Anki deck for Python and establish a consistent spaced repetition practice for long-term Python retention. Anki ensures that Python knowledge gained from the Python Crash Course is retained over time through daily review sessions.
+Build or source an Anki deck for Python and establish a consistent spaced repetition practice, combined with deep reading of *Fluent Python* (Ramalho, 2nd ed.). Spaced repetition ensures long-term retention of Python knowledge built in 3♦️; Fluent Python extends that foundation into Python's core language features, data structures, and language mechanics, bridging the gap between 3♦️ Python Crash Course and 6♣️ Algorithms with Python. Scope of reading to be determined dynamically as the card progresses.
 
 ---
 
@@ -30,6 +30,7 @@ Source or build an Anki deck for Python and establish a consistent spaced repeti
 
 - [Anki](https://apps.ankiweb.net) - Spaced repetition flashcard platform
 - [AnkiWeb](https://ankiweb.net/shared/decks/python) - Search for shared Python decks
+- Fluent Python by Luciano Ramalho, 2nd Edition (O'Reilly, 2022) (book)
 
 ---
 

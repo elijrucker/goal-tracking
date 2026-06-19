@@ -23,6 +23,7 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 - [Anki](https://apps.ankiweb.net) - Spaced repetition flashcard platform
 - Search AnkiWeb for Python decks
+- Fluent Python by Luciano Ramalho, 2nd Edition (O'Reilly, 2022) (book)
 
 ### 6♦️ Docker Terminal/CLI
 
