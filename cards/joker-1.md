@@ -136,7 +136,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 - [x] English LinkedIn profile
 - [/] German LinkedIn profile (2026-06-18; completed draft, pending review)
-- [ ] Establish German Lebenslauf template (on-request, secondary to US-style resume; draws on translated LinkedIn content)
+- [/] Develop resume suite
+  - [/] English resume
+  - [/] German resume (hybrid)
+  - [ ] German resume (archival)
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
@@ -185,7 +188,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Progress Notes
 
-- [2026-06-20] Standing application strategy established: submit English and German resume versions together for Berlin applications, rather than choosing one. Reinforces language proficiency (Goethe C1) and cultural integration beyond what either document alone signals; particularly relevant given German *Lebenslauf* conventions have converged toward English-resume structure over the last decade, making the two versions naturally complementary rather than redundant. Standard cover letter line to accompany both: "Anbei erhalten Sie meinen Lebenslauf in Deutsch und Englisch zur Auswahl." To be incorporated into cover letter template/boilerplate once drafted.
+- [2026-06-20] Standing application strategy established: submit English and German resume versions together for Berlin applications, rather than choosing one. Reinforces language proficiency (Goethe C1) and cultural integration beyond what either document alone signals; particularly relevant given German _Lebenslauf_ conventions have converged toward English-resume structure over the last decade, making the two versions naturally complementary rather than redundant. Standard cover letter line to accompany both: "Anbei erhalten Sie meinen Lebenslauf in Deutsch und Englisch zur Auswahl." To be incorporated into cover letter template/boilerplate once drafted.
 - [2026-06-15] Home server subtask series fully closed. Architecture documented with defense-in-depth narrative, Mermaid diagram, and topic tags. ejr-homeserver repo live and presentable as a standalone portfolio artifact.
 - [2026-06-14] Traced the full Anthropic API request pipeline (Tokenization → Embedding → Contextualization/attention → Generation, autoregressive with KV caching) via Socratic walkthrough using an Anthropic Academy diagram. Key insight: token IDs function as pointers into embedding vectors; embedding distance encodes semantic similarity (synonyms and relational structure, e.g. king-man+woman≈queen). Unlocks clearer reasoning about why Claude/Claude Code produces specific outputs, informing input refinement and supporting MCP/Agentic AI Development LinkedIn skill claims.
 - [2026-06-11] GitHub portfolio audit subtask elevated in priority. Single repository (python_crash_course) demonstrated substantial gap between coding skill and documentation/presentation skill. Portfolio-wide consistency audit and remediation planned.

@@ -5,7 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-### [2026-06-20] — joker-1 bilingual resume submission strategy established
+### [2026-06-20] — joker-1 resume suite restructured; bilingual submission strategy established
+
+#### Changed
+
+- [joker-1] — [Establish German Lebenslauf template] replaced with [Develop resume suite] parent; children: English resume `[/]`, German resume (hybrid) `[/]`, German resume (archival) `[ ]`
 
 #### Notes
 
@@ -20,6 +24,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [jobSearchPrep] completed children pruned (dynamic card convention)
 - [10-hearts] — [Fulfill math elective requirement > eligibility confirmations] consolidated into single summary line
 - [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] updated annotation: (2026-06-19; registered, begin ch.1)
+- [02-spades] — [Week 6: Python — Lecture] marked in progress ((2026-05-19; Functions))
 
 ---
 
