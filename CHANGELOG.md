@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-20] — joker-1 bilingual resume submission strategy established
+
+#### Notes
+
+- [joker-1] — Standing application strategy: submit English and German resume versions together for Berlin applications; standard cover letter line established; to be incorporated into cover letter boilerplate once drafted
+
+---
+
 ### [2026-06-19] — 10-hearts subtask consolidation; Modern States CLEP College Algebra registered
 
 #### Changed
