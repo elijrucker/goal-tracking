@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: In Progress (Units Completed 35/63)
+- **Current Status**: In Progress (Units Completed 49/63)
 - **Start Date**: 2023-09-01
 - **Target Completion**: End of 2026
 - **Completion Date**:
