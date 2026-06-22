@@ -58,7 +58,7 @@
 | Card | Color | Goal |
 |------|-------|------|
 | 2♠️ | 🟢 GREEN | CS50x (Introduction to Computer Science) |
-| 3♠️ | 🟢 GREEN | CS Distilled |
+| 3♠️ | 🟢 GREEN | The Mythical Man-Month (V2; CS Distilled complete) |
 | 4♠️ | 🟢 GREEN | CS50 Cybersecurity |
 | 5♠️ | 🔵 BLUE | Discrete Mathematics |
 | 6♠️ | 🔵 BLUE | CS50 AI |

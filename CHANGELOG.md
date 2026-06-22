@@ -5,6 +5,25 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+### [2026-06-22] — 3♠️ V2 The Mythical Man-Month activated; vacancy-gated V2 promotion workflow established
+
+#### Added
+
+- [3♠️ V2] — 03-spades-v2.md created; The Mythical Man-Month (Fred Brooks, 20th Anniversary Ed.) assigned to 3♠️ slot as first V2 promotion; 19-chapter subtask structure; Status: In Progress
+
+#### Notes
+
+- [System] — Vacancy-gated V2 promotion workflow established: V2 goals enter the active deck only when a completed V1 card's slot has no queued V1 successor; tier value is intrinsic to the goal and is not adjusted to fit a vacancy; V2 card files use `{value}-{suit}-v2.md` naming convention alongside the completed V1 file
+- [System] — Version parity rule established: no V3 goal may be marked In Progress while any V1 card remains incomplete; Jokers excluded; rule extends to future versions (no V(n+2) while any V(n) is incomplete)
+
+#### Process
+
+- [BACKLOG] — The Mythical Man-Month marked promoted; Review Log updated
+- [DECK_OVERVIEW] — 3♠️ goal updated: CS Distilled → The Mythical Man-Month (V2)
+- [PROGRESS] — Spades In Progress: 1 → 2; Not Started: 11 → 10; 3♠️ V2 added to On the Board (0/19)
+
+---
+
 ### [2026-06-20] — joker-1 resume suite restructured; bilingual submission strategy established
 
 #### Changed

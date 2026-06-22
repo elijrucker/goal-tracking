@@ -37,7 +37,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Home Server Auxiliary Services (Clubs, low-to-mid tier) — Service deployments deferred from joker-1 home server portfolio subtask. Scope: Deploy Syncthing (MacBook and mobile file sync), Deploy Uptime Kuma (service monitoring), Deploy self-hosted personal finance tool (replace US-based financial apps pre-relocation), Deploy note-taking or knowledge management service. Prerequisite: joker-1 home server portfolio & dev environment subtasks complete. Suggested activation: After Caddy and remote dev workflow are operational.
 - [ ] Mentorship & Technical Teaching (Clubs, high tier) — Share accumulated technical knowledge and experience by mentoring junior developers, students, or career changers. Requires professional credibility built through completed Clubs projects, open source contributions, and real-world development experience. Scope includes: formal mentorship via platforms (ADPList, Coding Coach), pair programming and code review with junior developers, teaching workshops or tutorials, contributing to developer communities (Discord, forums, Stack Overflow), internal workplace mentorship, open source project mentorship (reviewing PRs, onboarding contributors), and potentially creating online course content. Resources and platform TBD on activation. Prerequisites: Joker 1 (Berlin job offer), A♣️ Open Source Contribution, substantial Clubs project portfolio, real-world professional development experience. Suggested activation: Post-relocation to Berlin/EU (2027+). Refine scope, tier, and subtasks when promoted to worklog.
 - [ ] The Psychology of Computer Programming (Gerald Weinberg) — software craft and human factors in programming; explores the social, psychological, and team dynamics behind how software is actually written
-- [ ] The Mythical Man-Month (Fred Brooks) — software engineering and project management classic; foundational text on why large software projects fail and how teams actually work
+- [x] The Mythical Man-Month (Fred Brooks) — promoted to 3♠️ V2 (2026-06-22)
 
 ---
 
@@ -108,6 +108,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 | Date       | Items Reviewed          | Added to Deck | Dropped |
 | ---------- | ----------------------- | ------------- | ------- |
 | 2026-02-13 | Initial backlog created | 0             | 0       |
+| 2026-06-22 | The Mythical Man-Month  | 1 (3♠️ V2)   | 0       |
 
 ---
 

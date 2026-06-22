@@ -20,7 +20,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ----------- | --------- | ----------- | --------- | -------- | ----------- | ------ |
 | ♦️ Diamonds | 2         | 2           | 2         | 0        | 7           | 13     |
 | ♣️ Clubs    | 1         | 0           | 3         | 1        | 8           | 13     |
-| ♠️ Spades   | 1         | 1           | 0         | 0        | 11          | 13     |
+| ♠️ Spades   | 1         | 2           | 0         | 0        | 10          | 13     |
 | ♥️ Hearts   | 1         | 2           | 0         | 3        | 7           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
 | **Total**   | **5**     | **6**       | **6**     | **4**    | **33**      | **54** |
@@ -40,6 +40,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
 | 2♠️  | CS50x                            | In Progress | 5/23             |
+| 3♠️  | The Mythical Man-Month (V2)      | In Progress | 0/19             |
 | 3♦️  | Python Crash Course              | In Progress | 0/15             |
 | 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6              |
 | 10♥️ | Complete Associate's Degree      | In Progress | 48/63 units      |
