@@ -25,6 +25,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — LinkedIn Licenses & Certifications: description is media-attachment-only, cannot be localized per profile
 - [joker-1] — LinkedIn Skills: taxonomy-controlled, English-only regardless of profile language
 
+### Observations
+
+- [joker-1] — Role shift noted: administrative subtasks resolving faster than anticipated; execution offloaded to Claude; primary effort now judgment and refinement rather than direct production.
+
 ---
 
 ## [2026-06-22] — 3♠️ V2 The Mythical Man-Month activated; vacancy-gated V2 promotion workflow established; advancedJavaScript subtasks expanded

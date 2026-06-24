@@ -210,6 +210,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Reflection & Lessons Learned
 
+### 2026-06-24 — Role shift observation
+
+Observed a meaningful shift in how bureaucratic and administrative subtasks are being approached. Items previously deferred due to perceived effort are resolving significantly faster than anticipated. The primary driver is a redistribution of cognitive load: execution is largely handled through Claude, repositioning the role from one of direct execution to management and refinement. Time is now spent on judgment — what is correct, what needs revision, what to cut — rather than on production. This is a higher-leverage pattern and is expected to compound across the job search, CV work, and card system as a whole.
+
 ### [2026-06-03]
 
 - This project began without documentation or public sharing of any kind. Prompts to post on LinkedIn, build a visible portfolio, and document milestones were corrective reminders — nudges toward habits that didn't come naturally when learning in private. Sharing has intrinsic value beyond visibility: having to describe what you've learned forces the kind of precise articulation that reveals what you actually understand versus what you only think you do. The Feynman technique, applied.

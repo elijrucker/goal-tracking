@@ -44,7 +44,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] Complete remaining required courses
   - [/] Summer 26
     - [x] jobSearchPrep
-    - [ ] advancedJavaScript (06/22–08/14)
+    - [/] advancedJavaScript (06/22–08/14)
       - [ ] Lab 1 (due 06/24)
       - [ ] Lab 2 (due 06/28)
       - [ ] Quiz 1 - JS Fundamentals (due 06/28)
