@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-06-24] — 10-hearts introPhilosophy subtasks expanded
+
+### Changed
+
+- [10-hearts] — [introPhilosophy] subtasks expanded to module-level granularity with individual due dates (4 modules, 31 items; syllabus reviewed 2026-06-24); marked in progress
+
+---
+
 ## [2026-06-22] — 3♠️ V2 The Mythical Man-Month activated; vacancy-gated V2 promotion workflow established; advancedJavaScript subtasks expanded
 
 ### Added
