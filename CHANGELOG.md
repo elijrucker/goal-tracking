@@ -14,6 +14,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [introPhilosophy] subtasks expanded to module-level granularity with individual due dates (4 modules, 31 items; syllabus reviewed 2026-06-24); marked in progress
 - [10-hearts] — [advancedJavaScript] marked in progress
 
+### Process
+
+- [PROGRESS] — 🃏1 subtask count: 17/38 → 18/38 (German LinkedIn profile complete)
+
 ### Notes
 
 - [joker-1] — LinkedIn per-language content: only Introduction, Experience, and Education support secondary language profiles; all other sections are language-agnostic
