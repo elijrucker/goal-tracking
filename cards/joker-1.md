@@ -135,7 +135,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 ## Subtasks - Profile, Portfolio & Credentials
 
 - [x] English LinkedIn profile
-- [/] German LinkedIn profile (2026-06-18; completed draft, pending review)
+- [x] German LinkedIn profile
 - [/] Develop resume suite
   - [/] English resume
   - [/] German resume (hybrid)
@@ -187,6 +187,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 ---
 
 ## Progress Notes
+
+- [2026-06-24] German LinkedIn profile backfill complete. Platform audit confirmed only three sections support per-language content: Introduction (Headline, About), Experience, and Education. All other sections (Projects, Licenses & Certs, Volunteering, Honors & Awards, Skills) are language-agnostic and render identically across all language profiles. Education taxonomy fields (degree type, field of study) also override to English regardless of input. German translations for non-supported sections exist in Deutsches_LinkedIn_Profil_Entwurf.docx and Deutscher_Lebenslauf_Hybrid.docx — Lebenslauf remains the authoritative German-language document for those sections.
+
+- [2026-06-24] Translation voice conventions finalized: when a Germanized loanword suffix reads clinical or unnatural (e.g. Testung, Filterung, Versionierung), default to the bare English loanword or infinitive-as-noun rather than a German equivalent. Applied consistently across Experience bullets. Überprüfung confirmed as acceptable exception — fully native German compound, not a loanword suffix pattern. Live profile edit applied: "Filterung" → "Filtern" in Intermediate Analyst bullet 6; update Deutsches_LinkedIn_Profil_Entwurf.docx and Deutscher_Lebenslauf_Hybrid.docx to match.
 
 - [2026-06-20] Standing application strategy established: submit English and German resume versions together for Berlin applications, rather than choosing one. Reinforces language proficiency (Goethe C1) and cultural integration beyond what either document alone signals; particularly relevant given German _Lebenslauf_ conventions have converged toward English-resume structure over the last decade, making the two versions naturally complementary rather than redundant. Standard cover letter line to accompany both: "Anbei erhalten Sie meinen Lebenslauf in Deutsch und Englisch zur Auswahl." To be incorporated into cover letter template/boilerplate once drafted.
 - [2026-06-15] Home server subtask series fully closed. Architecture documented with defense-in-depth narrative, Mermaid diagram, and topic tags. ejr-homeserver repo live and presentable as a standalone portfolio artifact.

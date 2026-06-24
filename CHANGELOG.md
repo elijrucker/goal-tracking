@@ -5,11 +5,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-24] — 10-hearts introPhilosophy subtasks expanded
+## [2026-06-24] — joker-1 German LinkedIn profile complete; 10-hearts introPhilosophy subtasks expanded
 
 ### Changed
 
+- [joker-1] — [German LinkedIn profile] marked complete (2026-06-24); all translatable sections (Introduction, Experience, Education) backfilled to live LinkedIn profile; native speaker review outstanding — revisions to be applied independently post-feedback
+- [joker-1] — [Progress Notes] two entries added: LinkedIn platform audit findings and translation voice conventions/Filterung correction
 - [10-hearts] — [introPhilosophy] subtasks expanded to module-level granularity with individual due dates (4 modules, 31 items; syllabus reviewed 2026-06-24); marked in progress
+- [10-hearts] — [advancedJavaScript] marked in progress
+
+### Notes
+
+- [joker-1] — LinkedIn per-language content: only Introduction, Experience, and Education support secondary language profiles; all other sections are language-agnostic
+- [joker-1] — LinkedIn Education taxonomy fields override user input with English taxonomy terms regardless of profile language
+- [joker-1] — LinkedIn Licenses & Certifications: description is media-attachment-only, cannot be localized per profile
+- [joker-1] — LinkedIn Skills: taxonomy-controlled, English-only regardless of profile language
 
 ---
 
