@@ -138,8 +138,8 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [x] German LinkedIn profile
 - [/] Develop resume suite
   - [/] English resume
-  - [/] German resume (hybrid)
-  - [ ] German resume (archival)
+  - [x] German resume - hybrid
+  - [ ] German resume - archival
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101

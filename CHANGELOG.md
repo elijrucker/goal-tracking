@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-24] — joker-1 German LinkedIn profile complete; 10-hearts introPhilosophy subtasks expanded
+## [2026-06-24] — joker-1 German LinkedIn profile complete; joker-1 German resume hybrid complete; 10-hearts introPhilosophy subtasks expanded
+
+### Completed
+
+- [joker-1] — [German LinkedIn profile] closed (2026-06-24); all translatable sections (Introduction, Experience, Education) backfilled to live LinkedIn profile; native speaker review outstanding — revisions to be applied independently post-feedback
+- [joker-1] — [German resume - hybrid] closed (2026-06-24)
 
 ### Changed
 
-- [joker-1] — [German LinkedIn profile] marked complete (2026-06-24); all translatable sections (Introduction, Experience, Education) backfilled to live LinkedIn profile; native speaker review outstanding — revisions to be applied independently post-feedback
 - [joker-1] — [Progress Notes] two entries added: LinkedIn platform audit findings and translation voice conventions/Filterung correction
 - [10-hearts] — [introPhilosophy] subtasks expanded to module-level granularity with individual due dates (4 modules, 31 items; syllabus reviewed 2026-06-24); marked in progress
 - [10-hearts] — [advancedJavaScript] marked in progress
@@ -17,6 +21,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Process
 
 - [PROGRESS] — 🃏1 subtask count: 17/38 → 18/38 (German LinkedIn profile complete)
+- [PROGRESS] — 🃏1 subtask count: 18/38 → 19/38 (German resume hybrid complete)
 
 ### Notes
 
@@ -147,10 +152,11 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [05-hearts] — [Maintain weight at milestone for at least 2 weeks] closed; 5♥️ Weight Loss: 25 lbs marked Complete
+- [05-hearts] — transitioned: In Progress → Complete (2026-06-14)
 
 ### Changed
 
-- [05-hearts] — Status: In Progress → Complete; [Completion Notes / Reflection & Lessons Learned] filled in
+- [05-hearts] — [Completion Notes / Reflection & Lessons Learned] filled in
 - [07-hearts] — Status: Not Started → In Progress; [5♥️ prerequisite] marked complete
 - [joker-1] — [Building with Claude API] marked in progress
 - [joker-1] — [Subtasks - Profile, Portfolio & Credentials] reordered: [German LinkedIn profile] elevated to top
@@ -1107,12 +1113,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-04-27] — joker-1 update; multiple cards transitioned to preparing; 10-hearts update
 
+### Completed
+
+- [jack-diamonds] — [AWS Cloud Practitioner Essentials] closed (2024-03-29)
+
 ### Changed
 
 - [09-clubs] — transitioned: Not Started → Preparing (2026-04-27)
 - [ace-diamonds] — transitioned: Not Started → Preparing (2026-04-27)
 - [jack-diamonds] — transitioned: Not Started → Preparing (2026-04-27)
-- [jack-diamonds] — [AWS Cloud Practitioner Essentials] closed (2024-03-29)
 - [king-diamonds] — transitioned: Not Started → Preparing (2026-04-27)
 - [02-clubs] — transitioned: Not Started → Preparing (2026-04-27)
 - [06-clubs] — transitioned: Not Started → Preparing (2026-04-27)
@@ -1161,10 +1170,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Manage repository changes by using pull requests on GitHub] closed (2026-04-23)
 - [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Search and organize repository history by using GitHub] closed (2026-04-23)
 - [03-clubs] — [Microsoft Learn GitHub Foundations Part 2 of 2 > Using GitHub Copilot with Python] closed (2026-04-23)
+- [03-clubs] — transitioned: In Progress → Complete (2026-04-23)
 
 ### Changed
 
-- [03-clubs] — transitioned: In Progress → Complete (2026-04-23)
 - [10-hearts] — [agilePractices > wk12] marked in progress
 - [10-hearts] — [agilePractices > wk13] marked in progress
 
@@ -1733,13 +1742,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-02-17] — Status Transitions & Sprint Activations
 
+### Completed
+
+- [03-spades] — [Ch. 2] closed
+- [03-clubs] — [Lean Six Sigma White Belt > subtask 1] closed
+
 ### Changed
 
 - [03-clubs] — transitioned: Not Started → In Progress; added Lean Six Sigma White Belt to goal scope
 - [06-hearts] — transitioned: Not Started → Preparing; Duolingo Spanish activated in support of goal
 - [joker-1] — transitioned: Not Started → Preparing; Duolingo German activated for language maintenance; subtasks updated
-- [03-spades] — [Ch. 2] closed
-- [03-clubs] — [Lean Six Sigma White Belt > subtask 1] closed
 - [10-hearts] — [sp26wk5 > UIUX] promoted backlog → worklog
 
 ---
