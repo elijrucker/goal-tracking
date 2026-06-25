@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-24] — joker-1 German LinkedIn profile complete; joker-1 German resume hybrid complete; 10-hearts introPhilosophy subtasks expanded
+## [2026-06-24] — joker-1 German LinkedIn profile complete; joker-1 German resume hybrid complete; 10-hearts introPhilosophy subtasks expanded; 10-hearts advancedJavaScript progress
 
 ### Completed
 
@@ -17,6 +17,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Progress Notes] two entries added: LinkedIn platform audit findings and translation voice conventions/Filterung correction
 - [10-hearts] — [introPhilosophy] subtasks expanded to module-level granularity with individual due dates (4 modules, 31 items; syllabus reviewed 2026-06-24); marked in progress
 - [10-hearts] — [advancedJavaScript] marked in progress
+- [10-hearts] — [advancedJavaScript > Lab 1] marked in progress
+- [02-spades] — [Week 6: Python — Lecture] updated annotation: (2026-06-24; Loops)
 
 ### Process
 
