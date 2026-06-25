@@ -5,7 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-25] — joker-1 English resume template complete; resume suite formatting decision
+## [2026-06-25] — joker-1 English resume and LinkedIn skills retag complete; German resume - archival removed; resume suite formatting decisions
+
+### Completed
+
+- [joker-1] — [English resume] closed; pending third party review
+- [joker-1] — [LinkedIn skills retag] closed
 
 ### Added
 
@@ -13,7 +18,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
+- [joker-1] — [English resume] annotation updated: pending third party review
+- [joker-1] — [German resume] annotation updated: pending third party review
 - [joker-1] — [English resume] template drafted (eRucker_Resume_English.docx); Work Experience from English LinkedIn; Appendix as substitution pool (certs, projects, skills); pending content review and LinkedIn skills retag
+
+### Removed
+
+- [joker-1] — [German resume - archival] subtask removed; archival version deemed unnecessary
 
 ### Decisions
 
@@ -22,7 +33,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Process
 
-- [PROGRESS] — 🃏1 subtask count: +1 (LinkedIn skills retag added), net change: +1 open subtask added; update count accordingly
+- [PROGRESS] — 🃏1 subtask count: 19/39 → 21/38 (English resume and LinkedIn skills retag closed; German resume - archival removed)
 
 ---
 
@@ -30,8 +41,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Completed
 
-- [joker-1] — [German LinkedIn profile] closed (2026-06-24); all translatable sections (Introduction, Experience, Education) backfilled to live LinkedIn profile; native speaker review outstanding — revisions to be applied independently post-feedback
-- [joker-1] — [German resume - hybrid] closed (2026-06-24)
+- [joker-1] — [German LinkedIn profile] closed; all translatable sections (Introduction, Experience, Education) backfilled to live LinkedIn profile; native speaker review outstanding — revisions to be applied independently post-feedback
+- [joker-1] — [German resume - hybrid] closed
 
 ### Changed
 

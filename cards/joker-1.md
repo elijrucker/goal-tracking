@@ -137,10 +137,9 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [x] English LinkedIn profile
 - [x] German LinkedIn profile
 - [/] Develop resume suite
-  - [/] English resume (2026-06-25; template complete; pending content review and LinkedIn skills retag)
-  - [x] German resume - hybrid (Deutscher_Lebenslauf_Hybrid.docx; with native speaker reviewer)
-  - [ ] German resume - archival
-  - [ ] LinkedIn skills retag — re-add skills stripped from Experience entries during German backfill; transpose finalized list to both resume versions once complete
+  - [x] English resume (pending third party review)
+  - [x] German resume (pending third party review)
+  - [x] LinkedIn skills retag
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
