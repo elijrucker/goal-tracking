@@ -137,9 +137,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [x] English LinkedIn profile
 - [x] German LinkedIn profile
 - [/] Develop resume suite
-  - [/] English resume
-  - [x] German resume - hybrid
+  - [/] English resume (2026-06-25; template complete; pending content review and LinkedIn skills retag)
+  - [x] German resume - hybrid (Deutscher_Lebenslauf_Hybrid.docx; with native speaker reviewer)
   - [ ] German resume - archival
+  - [ ] LinkedIn skills retag — re-add skills stripped from Experience entries during German backfill; transpose finalized list to both resume versions once complete
 - [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
@@ -187,6 +188,9 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 ---
 
 ## Progress Notes
+
+- [2026-06-25] English resume template complete (eRucker_Resume_English.docx). Structured as peer document to German hybrid: Quereinsteiger subtitle, Work Experience bullets sourced from English LinkedIn profile (2-4-6 progression), Education, Skills, Projects, Appendix (full cert list, extended projects, skills pool placeholder). 
+Standing decision: English resume is ATS-optimized (pipe-separated skills); German hybrid is human-reader-optimized (bullet formatting). Both submitted together per application — English covers ATS parsing, German covers native reviewer. Skills pool frozen on both versions pending LinkedIn retag subtask completion.
 
 - [2026-06-24] German LinkedIn profile backfill complete. Platform audit confirmed only three sections support per-language content: Introduction (Headline, About), Experience, and Education. All other sections (Projects, Licenses & Certs, Volunteering, Honors & Awards, Skills) are language-agnostic and render identically across all language profiles. Education taxonomy fields (degree type, field of study) also override to English regardless of input. German translations for non-supported sections exist in Deutsches_LinkedIn_Profil_Entwurf.docx and Deutscher_Lebenslauf_Hybrid.docx — Lebenslauf remains the authoritative German-language document for those sections.
 

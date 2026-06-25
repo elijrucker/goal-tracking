@@ -5,6 +5,26 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-06-25] — joker-1 English resume template complete; resume suite formatting decision
+
+### Added
+
+- [joker-1] — [LinkedIn skills retag] added as standalone subtask under Profile, Portfolio & Credentials
+
+### Changed
+
+- [joker-1] — [English resume] template drafted (eRucker_Resume_English.docx); Work Experience from English LinkedIn; Appendix as substitution pool (certs, projects, skills); pending content review and LinkedIn skills retag
+
+### Decisions
+
+- [joker-1] — English resume: ATS-optimized (pipe-separated skills); German hybrid: human-reader-optimized (bullet formatting). Both submitted together per application. English covers ATS parsing; German covers native reviewer. Skills pool frozen on both versions pending LinkedIn retag subtask.
+
+### Process
+
+- [PROGRESS] — 🃏1 subtask count: +1 (LinkedIn skills retag added), net change: +1 open subtask added; update count accordingly
+
+---
+
 ## [2026-06-24] — joker-1 German LinkedIn profile complete; joker-1 German resume hybrid complete; 10-hearts introPhilosophy subtasks expanded; 10-hearts advancedJavaScript progress
 
 ### Completed
