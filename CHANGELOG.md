@@ -18,6 +18,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Decisions
 
 - [joker-1] — English resume: ATS-optimized (pipe-separated skills); German hybrid: human-reader-optimized (bullet formatting). Both submitted together per application. English covers ATS parsing; German covers native reviewer. Skills pool frozen on both versions pending LinkedIn retag subtask.
+- [joker-1] — Phone number handling: English resume retains both +1 (US) and +49 (DE) as placeholders; US number removed at submission for Berlin applications — German number alone is the stronger signal in that context. German hybrid defaults to German number only.
 
 ### Process
 
