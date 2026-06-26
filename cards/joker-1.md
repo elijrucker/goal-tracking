@@ -140,6 +140,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
   - [x] English resume (pending third party review)
   - [x] German resume (pending third party review)
 - [/] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
+- [ ] Narrative voice review — audit LinkedIn About section, GitHub README, and all public-facing profile text for geo-consistency (Berlin perspective), international legibility, and voice consistency across mediums
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
