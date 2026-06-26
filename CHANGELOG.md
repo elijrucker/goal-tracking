@@ -18,9 +18,9 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [joker-1] — [English resume] annotation updated: pending third party review
-- [joker-1] — [German resume] annotation updated: pending third party review
-- [joker-1] — [English resume] template drafted (eRucker_Resume_English.docx); Work Experience from English LinkedIn; Appendix as substitution pool (certs, projects, skills); pending content review and LinkedIn skills retag
+- [joker-1] — [English resume] annotation updated: pending third party review, will prune complete task once reviewed
+- [joker-1] — [German resume] annotation updated: pending third party review, will prune complete task once reviewed
+- [joker-1] — [Optimize Github profile] marked in progress
 
 ### Removed
 

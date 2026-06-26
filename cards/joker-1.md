@@ -139,8 +139,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [/] Develop resume suite
   - [x] English resume (pending third party review)
   - [x] German resume (pending third party review)
-  - [x] LinkedIn skills retag
-- [ ] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
+- [/] Optimize GitHub profile (profile README, pinned repositories, repository descriptions)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
@@ -188,9 +187,9 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Progress Notes
 
-- [2026-06-25] English resume template complete (eRucker_Resume_English.docx). Structured as peer document to German hybrid: Quereinsteiger subtitle, Work Experience bullets sourced from English LinkedIn profile (2-4-6 progression), Education, Skills, Projects, Appendix (full cert list, extended projects, skills pool placeholder). 
-Standing decision: English resume is ATS-optimized (pipe-separated skills); German hybrid is human-reader-optimized (bullet formatting). Both submitted together per application — English covers ATS parsing, German covers native reviewer. Skills pool frozen on both versions pending LinkedIn retag subtask completion.
-Phone number handling: English resume retains both +1 (US) and +49 (DE) as placeholders; US number to be removed at submission for Berlin applications — German number alone is the stronger signal in that context. German hybrid defaults to German number only.
+- [2026-06-25] English resume template complete (eRucker_Resume_English.docx). Structured as peer document to German hybrid: Quereinsteiger subtitle, Work Experience bullets sourced from English LinkedIn profile (2-4-6 progression), Education, Skills, Projects, Appendix (full cert list, extended projects, skills pool placeholder).
+  Standing decision: English resume is ATS-optimized (pipe-separated skills); German hybrid is human-reader-optimized (bullet formatting). Both submitted together per application — English covers ATS parsing, German covers native reviewer. Skills pool frozen on both versions pending LinkedIn retag subtask completion.
+  Phone number handling: English resume retains both +1 (US) and +49 (DE) as placeholders; US number to be removed at submission for Berlin applications — German number alone is the stronger signal in that context. German hybrid defaults to German number only.
 
 - [2026-06-24] German LinkedIn profile backfill complete. Platform audit confirmed only three sections support per-language content: Introduction (Headline, About), Experience, and Education. All other sections (Projects, Licenses & Certs, Volunteering, Honors & Awards, Skills) are language-agnostic and render identically across all language profiles. Education taxonomy fields (degree type, field of study) also override to English regardless of input. German translations for non-supported sections exist in Deutsches_LinkedIn_Profil_Entwurf.docx and Deutscher_Lebenslauf_Hybrid.docx — Lebenslauf remains the authoritative German-language document for those sections.
 
