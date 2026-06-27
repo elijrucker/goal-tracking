@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-06-27] — 2♥️ and 9♣️ activated to In Progress
+
+### Changed
+
+- [02-hearts] — transitioned: Not Started → In Progress
+- [09-clubs] — transitioned: Deferred → In Progress
+
+---
+
 ## [2026-06-26] — joker-1 narrative voice review subtask added
 
 ### Added

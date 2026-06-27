@@ -7,9 +7,9 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 5 / 52
-- **Cards In Progress**: 7
+- **Cards In Progress**: 9
 - **Cards Preparing**: 6
-- **Cards Deferred**: 4
+- **Cards Deferred**: 3
 - **Current Streak**: 5 cards
 - **Last Completed**: 5♥️ Weight Loss: 25 lbs (2026-06-14)
 - **Deck Started**: 2026-02-13
@@ -19,19 +19,19 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Suit        | Completed | In Progress | Preparing | Deferred | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | -------- | ----------- | ------ |
 | ♦️ Diamonds | 2         | 2           | 2         | 0        | 7           | 13     |
-| ♣️ Clubs    | 1         | 0           | 3         | 1        | 8           | 13     |
+| ♣️ Clubs    | 1         | 1           | 3         | 0        | 8           | 13     |
 | ♠️ Spades   | 1         | 2           | 0         | 0        | 10          | 13     |
-| ♥️ Hearts   | 1         | 2           | 0         | 3        | 7           | 13     |
+| ♥️ Hearts   | 1         | 3           | 0         | 3        | 6           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **5**     | **7**       | **6**     | **4**    | **32**      | **54** |
+| **Total**   | **5**     | **9**       | **6**     | **3**    | **31**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 4         | 3           | 12    |
+| 🟢 Green (Foundational) | 4         | 4           | 12    |
 | 🔵 Blue (Moderate)      | 1         | 1           | 12    |
-| 🟡 Yellow (Substantial) | 0         | 0           | 8     |
+| 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
 | 🔴 Red (Elite)          | 0         | 0           | 12    |
 
@@ -46,7 +46,8 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 21/38            |
-| 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
+| 2♥️  | Index Investing Fundamentals     | In Progress | 0/13             |
+| 9♣️  | LeetCode Practice                | In Progress | 0/9              |
 
 ---
 

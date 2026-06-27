@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-06-27
 - **Target Completion**: ?
 - **Completion Date**:
 - **Time Invested**:
@@ -69,7 +69,7 @@ Build foundational knowledge of index investing philosophy and strategy. Learn t
 
 ## Subtasks
 
-- [ ] Read The Little Book of Common Sense Investing (Bogle)
+- [/] Read The Little Book of Common Sense Investing (Bogle)
 - [ ] Complete Damodaran Foundations of Finance (NYU Stern, ~3-4 hrs)
 - [ ] Complete Damodaran Investment Philosophies (selected modules)
 - [ ] Complete IG Academy Technical Analysis module (~4-5 hrs)
@@ -87,6 +87,7 @@ Build foundational knowledge of index investing philosophy and strategy. Learn t
 
 ## Progress Notes
 
+- [2026-06-27] Transitioned to In Progress — reading The Bogle Book before bed; low-priority cadence; holds bottom position on On the Board intentionally
 - [2026-05-22] Reset to Not Started — Schwab account closed, resources replaced with free authoritative alternatives. Card is lower priority until reactivated.
 - [2026-05-20] Schwab account closed; transitioning to alternative resources
 

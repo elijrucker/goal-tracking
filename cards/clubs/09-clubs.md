@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: Deferred
+- **Current Status**: In Progress
 - **Start Date**: 2026-05-14
 - **Target Completion**: 2026-12-31
 - **Completion Date**:
@@ -57,6 +57,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-06-27] Reactivated to In Progress — low-priority, working as bandwidth allows; holds bottom position on On the Board intentionally
 - [2026-05-29] Deferred — current bandwidth consumed by active goals. Reactivate when capacity allows.
 - [2026-05-15] Added subtask [Complete 30 Days of JavaScript Study Plan]; study plan was started prior to deck initialization, completing study plan will reinforce disciplined task and project follow-through habits
 - [2026-05-14] Transitioned to In Progress — weekly LeetCode practice ongoing, building toward consistent daily cadence
