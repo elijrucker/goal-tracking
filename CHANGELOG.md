@@ -5,12 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-27] — 2♥️ and 9♣️ activated to In Progress
+## [2026-06-27] — 2♥️ and 9♣️ activated to In Progress; 03-diamonds progress; 02-spades progress
+
+### Completed
+
+- [03-diamonds] — [Ch. 4: Working with Lists] closed
 
 ### Changed
 
-- [02-hearts] — transitioned: Not Started → In Progress
+- [02-hearts] — transitioned: Not Started → In Progress; [Read The Little Book of Common Sense Investing (Bogle)] marked in progress
 - [09-clubs] — transitioned: Deferred → In Progress
+- [02-spades] — [Week 6: Python — Lecture] updated annotation: (2026-06-27; Dictionaries)
 
 ---
 
