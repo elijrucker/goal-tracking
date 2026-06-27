@@ -7,7 +7,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 5 / 52
-- **Cards In Progress**: 6
+- **Cards In Progress**: 7
 - **Cards Preparing**: 6
 - **Cards Deferred**: 4
 - **Current Streak**: 5 cards
@@ -23,15 +23,15 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ♠️ Spades   | 1         | 2           | 0         | 0        | 10          | 13     |
 | ♥️ Hearts   | 1         | 2           | 0         | 3        | 7           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **5**     | **6**       | **6**     | **4**    | **33**      | **54** |
+| **Total**   | **5**     | **7**       | **6**     | **4**    | **32**      | **54** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 4         | 2           | 12    |
+| 🟢 Green (Foundational) | 4         | 3           | 12    |
 | 🔵 Blue (Moderate)      | 1         | 1           | 12    |
-| 🟡 Yellow (Substantial) | 0         | 1           | 8     |
+| 🟡 Yellow (Substantial) | 0         | 0           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
 | 🔴 Red (Elite)          | 0         | 0           | 12    |
 
@@ -39,19 +39,14 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Card | Goal                             | Status      | Subtask Progress |
 | ---- | -------------------------------- | ----------- | ---------------- |
-| 2♠️  | CS50x                            | In Progress | 5/23             |
+| 2♠️  | CS50x                            | In Progress | 6/23             |
 | 3♠️  | The Mythical Man-Month (V2)      | In Progress | 0/19             |
-| 3♦️  | Python Crash Course              | In Progress | 0/15             |
+| 3♦️  | Python Crash Course              | In Progress | 3/20             |
 | 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6              |
 | 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units      |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
-| 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 21/38            |
-| K♦️  | AWS DVA Prep Course              | Preparing   | 0/5              |
-| A♦️  | AWS Certified Developer Assoc.   | Preparing   | 0/4              |
-| 2♣️  | FCC Algorithms & Data Structures | Preparing   | 0/5              |
-| 6♣️  | Algorithms with Python           | Preparing   | 0/6              |
-| 8♣️  | Google Tech Dev Guide            | Preparing   | 0/5              |
+| 9♣️  | LeetCode Practice                | Deferred    | 0/9              |
 
 ---
 

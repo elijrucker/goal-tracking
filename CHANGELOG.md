@@ -11,6 +11,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Narrative voice review] added as standalone subtask; scope: LinkedIn About, GitHub README, and all public-facing profile text; criteria: geo-consistency (Berlin perspective), international legibility, voice consistency across mediums
 
+### Changed
+
+- [02-spades] — [Week 6: Python — Lecture] updated annotation: (2026-06-26; Truncation)
+
 ---
 
 ## [2026-06-25] — joker-1 English resume and LinkedIn skills retag complete; German resume - archival removed; resume suite formatting decisions
