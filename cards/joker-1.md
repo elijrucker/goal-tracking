@@ -134,13 +134,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [x] English LinkedIn profile
-- [x] German LinkedIn profile
+- [/] Narrative voice review (audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums)
 - [/] Develop resume suite
   - [x] English resume (pending third party review)
   - [x] German resume (pending third party review)
-- [x] Optimize GitHub profile
-- [/] Narrative voice review (audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
