@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-06-28] — 10♥️ advancedJavaScript YDKJS textbook subtask series added; 10-hearts advancedJavaScript progress
+
+### Completed
+
+- [10-hearts] — [advancedJavaScript > Quiz 1] closed
+
+### Added
+
+- [10-hearts] — [You Don't Know JS: ES6 & Beyond] standalone textbook subtask series added under advancedJavaScript; 8 chapters (Ch. 1 – ES? Now & Future through Ch. 8 – Beyond ES6); marked in progress
+
+### Changed
+
+- [10-hearts] — [You Don't Know JS: ES6 & Beyond > Ch. 1] marked in progress
+- [10-hearts] — [advancedJavaScript > Quiz 2] marked in progress
+- [10-hearts] — [advancedJavaScript > Lab 2] marked in progress
+
+---
+
 ## [2026-06-27] — 2♥️ and 9♣️ activated to In Progress; 03-diamonds progress; 02-spades progress
 
 ### Completed

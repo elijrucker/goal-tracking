@@ -46,9 +46,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [x] jobSearchPrep
     - [/] advancedJavaScript (06/22–08/14)
       - [/] Lab 1 (due 06/24)
-      - [ ] Lab 2 (due 06/28)
-      - [ ] Quiz 1 - JS Fundamentals (due 06/28)
-      - [ ] Quiz 2 - JS Variables & Constants (due 06/28)
+      - [/] Lab 2 (due 06/28)
+      - [x] Quiz 1 - JS Fundamentals
+      - [/] Quiz 2 - JS Variables & Constants (due 06/28)
       - [ ] Lab 3 (due 07/01)
       - [ ] Quiz 3 - DHTML (due 07/01)
       - [ ] Lab 4 (due 07/05)
@@ -73,6 +73,15 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Lab 11 (due 08/02)
       - [ ] Project 4 (due 08/14 12:00 PM)
       - [ ] Final Exam (due 08/14 12:00 PM)
+      - [/] You Don't Know JS: ES6 & Beyond
+        - [/] Ch. 1 – ES? Now & Future
+        - [ ] Ch. 2 – Syntax
+        - [ ] Ch. 3 – Organization
+        - [ ] Ch. 4 – Async Flow Control
+        - [ ] Ch. 5 – Collections
+        - [ ] Ch. 6 – API Additions
+        - [ ] Ch. 7 – Meta Programming
+        - [ ] Ch. 8 – Beyond ES6
     - [/] introPhilosophy (06/22–08/14)
       - [/] Module 1 – Introduction to Philosophy (due 07/06)
         - [ ] Read "Why Philosophy? Five Views" (Norton xxvii)
