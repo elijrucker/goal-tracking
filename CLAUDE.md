@@ -49,6 +49,8 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 **Entry header order** — When a single day's header covers multiple events, list them in descending order of significance: major milestones and status transitions first, routine progress updates last. Example: `Post-Semester Retro; Status Transitions; joker-2 apparel closed`.
 
+**Annotation update entries** — Use the format `- [card] — [subtask] annotation updated (current annotation)`. The parenthetical reflects the annotation's current state after the update, not a before/after diff. Example: `- [joker-1] — [Optimize Github profile] annotation updated (pinned repositories, repository descriptions)`.
+
 ## Standing Decisions
 
 Cross-cutting decisions that apply across cards and sessions, not tied to any single card's progress.

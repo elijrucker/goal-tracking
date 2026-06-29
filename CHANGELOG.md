@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-06-29] — joker-1 profile, portfolio and credentials progress
+
+### Changed
+
+- [joker-1] — [Optimize Github profile] annotation updated (pinned repositories, repository descriptions)
+- [joker-1] — [Narrative voice review] marked in progress; annotation updated (audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums)
+
+---
+
 ## [2026-06-28] — 10♥️ advancedJavaScript YDKJS textbook subtask series added; 10-hearts advancedJavaScript progress
 
 ### Completed
@@ -33,7 +42,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [02-hearts] — transitioned: Not Started → In Progress; [Read The Little Book of Common Sense Investing (Bogle)] marked in progress
 - [09-clubs] — transitioned: Deferred → In Progress
-- [02-spades] — [Week 6: Python — Lecture] updated annotation: (2026-06-27; Dictionaries)
+- [02-spades] — [Week 6: Python — Lecture] annotation updated (2026-06-27; Dictionaries)
 
 ---
 
@@ -45,7 +54,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [02-spades] — [Week 6: Python — Lecture] updated annotation: (2026-06-26; Truncation)
+- [02-spades] — [Week 6: Python — Lecture] annotation updated (2026-06-26; Truncation)
 
 ---
 
@@ -62,8 +71,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [joker-1] — [English resume] annotation updated: pending third party review, will prune complete task once reviewed
-- [joker-1] — [German resume] annotation updated: pending third party review, will prune complete task once reviewed
+- [joker-1] — [English resume] annotation updated (pending third party review, will prune complete task once reviewed)
+- [joker-1] — [German resume] annotation updated (pending third party review, will prune complete task once reviewed)
 - [joker-1] — [Optimize Github profile] marked in progress
 
 ### Removed
@@ -94,7 +103,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [introPhilosophy] subtasks expanded to module-level granularity with individual due dates (4 modules, 31 items; syllabus reviewed 2026-06-24); marked in progress
 - [10-hearts] — [advancedJavaScript] marked in progress
 - [10-hearts] — [advancedJavaScript > Lab 1] marked in progress
-- [02-spades] — [Week 6: Python — Lecture] updated annotation: (2026-06-24; Loops)
+- [02-spades] — [Week 6: Python — Lecture] annotation updated (2026-06-24; Loops)
 
 ### Process
 
@@ -158,7 +167,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [jobSearchPrep] completed children pruned (dynamic card convention)
 - [10-hearts] — [Fulfill math elective requirement > eligibility confirmations] consolidated into single summary line
-- [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] updated annotation: (2026-06-19; registered, begin ch.1)
+- [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] annotation updated (2026-06-19; registered, begin ch.1)
 - [02-spades] — [Week 6: Python — Lecture] marked in progress ((2026-05-19; Functions))
 
 ---
@@ -179,9 +188,9 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [joker-1] — [German LinkedIn profile] updated annotation:(2026-06-18; completed draft, pending review)
-- [joker-1] — [Complete Anthropic Academy courses > Building with Claude API] updated annotation: (2026-06-18; configure container API dev environment)
-- [02-spades] — [Week 5: Data Structures — Lecture] updated annotation: (2026-06-18; Linked Lists)
+- [joker-1] — [German LinkedIn profile] annotation updated (2026-06-18; completed draft, pending review)
+- [joker-1] — [Complete Anthropic Academy courses > Building with Claude API] annotation updated (2026-06-18; configure container API dev environment)
+- [02-spades] — [Week 5: Data Structures — Lecture] annotation updated (2026-06-18; Linked Lists)
 
 ---
 
@@ -189,7 +198,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [02-spades] — [Week 5: Data Structures — Lecture] updated annotation: (2026-06-17; Linked Lists)
+- [02-spades] — [Week 5: Data Structures — Lecture] annotation updated (2026-06-17; Linked Lists)
 
 ---
 
@@ -332,7 +341,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [04-diamonds] — [Reflection & Lessons Learned] populated (delayed reflection, 2026-06-09)
 - [10-hearts] — [Fulfill math elective requirement > Complete statistics review for DSST Principles of Statistics] updated subtask goal
 - [10-hearts] — [Fulfill math elective requirement > Pass DSST Principles of Statistics (satisfies MATH 215)] updated subtask goal
-- [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] updated annotation; (primary; start 2026-06-12)
+- [10-hearts] — [Complete algebra review for CLEP > Modern States free CLEP College Algebra course] annotation updated (primary; start 2026-06-12)
 - [joker-1] — [Subtasks - Profile, Portfolio & Credentials] fully reconciled and reordered by proximity to completion
 - [joker-1] — [English LinkedIn profile] restructured as parent subtask gating German profile completion; Refactor English work experience marked in progress; Skills section final pass added as child item
 - [joker-1] — [Refactor current English work experience] marked in progress (handled via dedicated chat)
@@ -375,7 +384,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [03-diamonds] — [Try It Yourself — Ch. 1–3] marked in progress; added annotation (Update exercises for home server environment)
 - [06-clubs] — [Target Completion] set: 2026-08-01
 - [joker-1] — [Target Completion] updated: 2026-12-31 → 2026-09-01 (active applications begin Q4; offer timeline outcome-dependent, not tracked)
-- [joker-1] — [Document completed milestones on LinkedIn] annotation updated: only Pragmatic Programmer post outstanding; md and C# already represented via credential entries
+- [joker-1] — [Document completed milestones on LinkedIn] annotation updated (only Pragmatic Programmer post outstanding; md and C# already represented via credential entries)
 
 ---
 
@@ -396,7 +405,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [joker-1] — [Complete Anthropic Academy Courses > Claude Code in Action] marked in progress
-- [jack-diamonds] — [Developer learning path modules > Phase 1] updated annotation (2026-05-04)
+- [jack-diamonds] — [Developer learning path modules > Phase 1] annotation updated (2026-05-04)
 
 ---
 
@@ -440,7 +449,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [03-diamonds] — [Part 1: Basics > Ch. 1] updated annotation; (2026-05-31; Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
+- [03-diamonds] — [Part 1: Basics > Ch. 1] annotation updated (2026-05-31; Build Dockerfile, build/test container, run hello.py, set up Dev Containers extension)
 - [jack-diamonds] — [Developer learning path modules] target added: complete all 6 modules by 2026-07-31
 - [03-diamonds] — [Part 1: Basics] target added: complete by 2026-06-30
 - [ace-diamonds] — [Progress Notes] note added (AWS + open source integration strategy; three Joker 1 prerequisites addressed in one card)
@@ -474,7 +483,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [jack-diamonds] — [Developer learning path modules > Phase 0] annotation updated; (2026-05-30; Introduction to Being an AWS Developer)
+- [jack-diamonds] — [Developer learning path modules > Phase 0] annotation updated (2026-05-30; Introduction to Being an AWS Developer)
 
 ### Notes
 
@@ -537,7 +546,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [jobSearchPrep > Wk2 Assignment; resume] updated annotation: (Due 2026-06-01)(Make Skills section relevant and ATS-friendly)
+- [10-hearts] — [jobSearchPrep > Wk2 Assignment; resume] annotation updated (Due 2026-06-01)(Make Skills section relevant and ATS-friendly)
 
 ---
 
@@ -791,12 +800,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [02-spades] — [Week 4: Memory] updated annotation (2026-05-19; lecture (wrap up), assignments outstanding)
+- [02-spades] — [Week 4: Memory] annotation updated (2026-05-19; lecture (wrap up), assignments outstanding)
 - [02-diamonds] — [Unlocks] updated: formal card references added (4♦️, 3♦️); broad note retained
 - [03-clubs] — [Unlocks] updated: narrative refined to note no formal prerequisite gate
 - [03-spades] — [Unlocks] updated: formal card references added (5♠️, 7♠️); broad note retained
 - [03-spades] — [Progress Notes] removed note regarding multiple readthroughs - redundant
-- [jack-diamonds] — [Developer learning path modules > Phase 0] updated annotation (2026-05-19; initial setup)
+- [jack-diamonds] — [Developer learning path modules > Phase 0] annotation updated (2026-05-19; initial setup)
 - [jack-diamonds] — [Progress Notes] added note (2026-05-19; ejr-homeserver AWS dev environment setup)
 
 ### Process
@@ -812,7 +821,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [jack-diamonds] — [Developer learning path modules > Phase 0] marked in progress, added annotation (2026-05-18)
-- [02-spades] — [Week 4: Memory] updated annotation (2026-05-18; lecture in progress, assignments outstanding)
+- [02-spades] — [Week 4: Memory] annotation updated (2026-05-18; lecture in progress, assignments outstanding)
 
 ### Process
 
@@ -852,7 +861,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Complete Job Search Preparation course (MATC, 05/18–06/12)] dropped; redundant subtask already covered in 10-hearts
 - [joker-1] — [Minimize US financial footprint] removed annotation
 - [joker-1] — [Ensure 2-3 strong portfolio projects are live and documented] → [Ensure 3 strong portfolio projects are live and documented]
-- [03-spades] — [Chapter 5: Algorithms] updated annotation (5.4, 2026-05-16)
+- [03-spades] — [Chapter 5: Algorithms] annotation updated (5.4, 2026-05-16)
 
 ### Process
 
@@ -892,7 +901,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [jack-diamonds] — [AWS core services] dropped; redundant subtask covered in [Developer learning path module]
 - [jack-diamonds] — [AWS security fundamentals] dropped; redundant subtask covered in [Developer learning path module]
 - [jack-diamonds] — [Complete all learning plan modules] dropped; redundant subtask covered in [Developer learning path module]
-- [03-spades] — [Chapter 5: Algorithms] updated annotation (5.2-5.3, 2026-05-15)
+- [03-spades] — [Chapter 5: Algorithms] annotation updated (5.2-5.3, 2026-05-15)
 
 ---
 
@@ -985,10 +994,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [db_prog > wk13] marked in progress; updated annotation (Lab 9)
+- [10-hearts] — [db_prog > wk13] marked in progress; annotation updated (Lab 9)
 - [10-hearts] — [db_prog > wk14] marked in progress
-- [10-hearts] — [db_prog > wk14] updated annotation (Lab 10)
-- [10-hearts] — [db_prog > wk15] updated annotation (Lab 11)
+- [10-hearts] — [db_prog > wk14] annotation updated (Lab 10)
+- [10-hearts] — [db_prog > wk15] annotation updated (Lab 11)
 - [10-hearts] — [uiUx > wk13] added annotation (Accessible Menu)
 - [10-hearts] — [uiUx > wk14] added annotation (Accessible Form)
 - [10-hearts] — [uiUx > wk15] added annotation (A11y Quiz)
@@ -1007,7 +1016,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [09-clubs] — refactored goal description and subtasks: interview-readiness → knowledge acquisition focus; updated Start Date → 2026-05-14
-- [10-hearts] — [c4d > wk13] updated annotation (Lab 10 in progress, pending Quiz 8)
+- [10-hearts] — [c4d > wk13] annotation updated (Lab 10 in progress, pending Quiz 8)
 - [10-hearts] — [c4d > wk14] updated annotation (Lab 11, Quiz 9)
 - [10-hearts] — [c4d > wk15] updated annotation (Project 4)
 
@@ -1032,7 +1041,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [uiUx > wk12] updated annotation ('Some Basics' Assignment)
 - [10-hearts] — [c4d > wk12] updated annotation (Project 3 - API Gateway)
-- [03-spades] — [Chapter 4: Data] updated annotation (4.5 The Tree, 2026-05-07)
+- [03-spades] — [Chapter 4: Data] annotation updated (4.5 The Tree, 2026-05-07)
 
 ---
 
@@ -1158,7 +1167,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [c4d > Midterm Exam] marked in progress
-- [10-hearts] — [c4d > wk8] updated annotation (NodeJS material)
+- [10-hearts] — [c4d > wk8] annotation updated (NodeJS material)
 
 ---
 
@@ -1209,7 +1218,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Process
 
 - [joker-1] — [German LinkedIn profile] added annotation (Refactor following: Featured, Experience, Education, Skills, Interests, Licenses/Certs, Projects)
-- [04-diamonds] — [Debug C# Console Applications] updated annotation (5/7 Units Completed, 2026-04-27)
+- [04-diamonds] — [Debug C# Console Applications] annotation updated (5/7 Units Completed, 2026-04-27)
 - [10-hearts] — [c4d > Project 2] added annotation (Customers table design and table verification (screenshots) outstanding 2026-04-27)
 - [03-spades] — [Chapter 3: Strategy] added annotation (3.7 Dynamic Programming 2026-04-27)
 
@@ -1383,7 +1392,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [db_prog > wk10] updated annotation: 'lab 8' → 'Module 3 - lab 8'
+- [10-hearts] — [db_prog > wk10] annotation updated (Module 3 - lab 8)
 - [10-hearts] — [db_prog > wk11] added annotation: 'Data Governance'
 - [10-hearts] — [db_prog > wk12] added annotation: 'Project 3 and Checkpoint Quiz #4'
 - [03-clubs] — [Chapter 7-8] added annotation: 'Started chapter 8, 2026-04-12'
@@ -1411,7 +1420,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [05-hearts] — [Reach -20 lbs milestone] added annotation: 'Within 2lbs range of subtask completion 2026-04-09'
 - [05-hearts] — [Reach -20 lbs milestone] added progress note: 'Added exercise tracking to Claude 05-hearts chat'
-- [04-diamonds] — [Debug C# Console Applications] updated annotation: '3/7 Units Completed, 2026-04-06' → '4/7 Units Completed, 2026-04-09'
+- [04-diamonds] — [Debug C# Console Applications] annotation updated (4/7 Units Completed, 2026-04-09)
 - [10-hearts] — [agilePractices > wk9] marked in progress
 
 ### Process
@@ -1428,7 +1437,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [04-diamonds] — [Debug C# Console Applications] updated annotation: '2/7 Units Completed, 2026-04-06' → '3/7 Units Completed, 2026-04-07'
+- [04-diamonds] — [Debug C# Console Applications] annotation updated (3/7 Units Completed, 2026-04-07)
 
 ---
 
