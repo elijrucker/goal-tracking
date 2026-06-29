@@ -7,9 +7,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-06-29] — joker-1 profile, portfolio and credentials progress
 
+### Completed
+
+- [joker-1] — [Optimize Github profile] closed
+
 ### Changed
 
-- [joker-1] — [Optimize Github profile] annotation updated (pinned repositories, repository descriptions)
 - [joker-1] — [Narrative voice review] marked in progress; annotation updated (audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums)
 
 ---
