@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-06-30] — 10-hearts advancedJavaScript progress
+
+### Completed
+
+- [10-hearts] — [advancedJavaScript > Lab 1] closed
+
+---
+
 ## [2026-06-29] — joker-1 profile, portfolio and credentials progress
 
 ### Completed
