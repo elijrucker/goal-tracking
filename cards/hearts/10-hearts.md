@@ -136,6 +136,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 ## Progress Notes
 
 - [2026-06-30] [advancedJavaScript > You Don't Know JS] Ch. 1 complete. Pacing note: chapter reads dense due to conceptual front-loading (transpiling/polyfills, TC39, spec-vs-runtime) rather than actual difficulty — book assumes a working-dev audience transitioning from ES5, not first-time JS learners. C#/Python background covers the assumed baseline. Plan: let course carry syntax fluency, let book carry depth/vocabulary; textbook may run behind course pace without being a problem.
+- [2026-06-30] [Cross-cutting] Identified idiomatic-fluency gap as distinct from syntax-fluency gap — applies across languages (JS .map/.reduce/.filter vs. for-loops; Python "Pythonic" idioms vs. syntactically-correct-but-non-idiomatic code). Syntax recall is solid across active languages; idiom selection lags because it's acquired through reading others' code, not writing your own from theory. Practical implication: prioritize code-reading exposure (7♣️ projects, A♣️ open source) over additional theory cards to close this specific gap.
 - [2026-06-12] Calculated current unit count after Spring 26 final grades posted, updating PROGRESS (35/63) → (48/63)
 - [2026-06-02] Revised math elective subtask list: scoped to Franklin B.S. CS (MATH 160 + MATH 215); Precalculus/Calculus removed; CLEP prep sequence updated; advisory items reset to not started
 - [2026-05-18] Units (35/63) do not yet reflect Spring 26 final grades — to be updated once posted

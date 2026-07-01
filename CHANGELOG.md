@@ -5,16 +5,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-30] — 10-hearts advancedJavaScript progress
+## [2026-06-30] — 10-hearts advancedJavaScript progress; YDKJS & cross-cutting reflection notes; TypeScript backlog cross-reference
 
 ### Completed
 
 - [10-hearts] — [advancedJavaScript > Lab 1] closed
 - [10-hearts] — [advancedJavaScript > You Don't Know JS > Ch. 1] closed
 
+### Added
+
+- [BACKLOG] — [TypeScript] 9♦️ cross-reference note added (language-choice fork; revisit before promoting if 9♦️ TypeScript path is taken)
+
 ### Notes
 
 - [10-hearts] — [advancedJavaScript > You Don't Know JS] pacing note added to Progress Notes (Ch. 1 density, background fit, course/textbook division of labor)
+- [10-hearts] — [Cross-cutting] idiomatic-fluency gap note added to Progress Notes (syntax vs. idiom distinction; code-reading exposure prioritized over theory cards)
 
 ---
 
