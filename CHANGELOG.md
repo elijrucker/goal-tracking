@@ -12,6 +12,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [advancedJavaScript > Lab 1] closed
 - [10-hearts] — [advancedJavaScript > You Don't Know JS > Ch. 1] closed
 
+### Notes
+
+- [10-hearts] — [advancedJavaScript > You Don't Know JS] pacing note added to Progress Notes (Ch. 1 density, background fit, course/textbook division of labor)
+
 ---
 
 ## [2026-06-29] — joker-1 profile, portfolio and credentials progress

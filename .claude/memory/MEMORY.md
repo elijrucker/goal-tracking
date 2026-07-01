@@ -3,6 +3,7 @@
 - [Changelog Entry Pattern](project_changelog_pattern.md) — Standardized syntax for all CHANGELOG.md card data entries
 - [Static vs Dynamic Cards](project_static_vs_dynamic_cards.md) — Subtask retention rules differ: completed cards retain full trees; in-progress cards prune closed chapters
 - [Progress Notes Order](feedback_progress_notes_order.md) — Progress Notes must always be reverse-chronological (newest first)
+- [Progress Notes Scoping](feedback_progress_notes_scoping.md) — Substantive subtask-scoped notes belong in Progress Notes with a path prefix; brief one-liners don't need it
 - [On the Board Criteria](feedback_on_the_board.md) — Only active cards and their direct static dependencies belong in the On the Board table
 - [Subtask Count in Changelog](feedback_subtask_count_changelog.md) — Do not log subtask count deltas in CHANGELOG.md; count lives in the card itself
 - [V2 Promotion Workflow](project_v2_promotion_workflow.md) — Vacancy-gated rules for promoting backlog (V2) goals into the active deck; file naming, tier integrity, and BACKLOG/DECK_OVERVIEW update conventions
