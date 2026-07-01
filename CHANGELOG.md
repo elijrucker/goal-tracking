@@ -10,6 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [advancedJavaScript > Lab 1] closed
+- [10-hearts] — [advancedJavaScript > You Don't Know JS > Ch. 1] closed
 
 ---
 
@@ -33,11 +34,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Added
 
-- [10-hearts] — [You Don't Know JS: ES6 & Beyond] standalone textbook subtask series added under advancedJavaScript; 8 chapters (Ch. 1 – ES? Now & Future through Ch. 8 – Beyond ES6); marked in progress
+- [10-hearts] — [advancedJavaScript > You Don't Know JS: ES6 & Beyond] standalone textbook subtask series added; 8 chapters (Ch. 1 – ES? Now & Future through Ch. 8 – Beyond ES6); marked in progress
 
 ### Changed
 
-- [10-hearts] — [You Don't Know JS: ES6 & Beyond > Ch. 1] marked in progress
+- [10-hearts] — [advancedJavaScript > You Don't Know JS > Ch. 1] marked in progress
 - [10-hearts] — [advancedJavaScript > Quiz 2] marked in progress
 - [10-hearts] — [advancedJavaScript > Lab 2] marked in progress
 
