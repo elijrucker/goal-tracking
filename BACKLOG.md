@@ -53,6 +53,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] Compilers course
 - [ ] Computer Networks course
 - [ ] Multivariable Calculus
+- [ ] Programming Pearls (2nd Ed.) by Jon Bentley — algorithm design and problem-solving; physical copy obtained 2026-06-30
 - [ ] Designing Data-Intensive Applications (2nd Ed.) — [O'Reilly](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/); activate as subtask under 5♣️ CS50W or 10♣️ API Development Project, whichever moves to In Progress first
 - [ ] The Garbage Collection Handbook (2nd Ed.) — [O'Reilly](https://www.oreilly.com/library/view/the-garbage-collection/9781000883688/); systems theory, defer until 8♠️ OS and 9♠️ CS:APP complete
 - [ ] Concurrency: The Works of Leslie Lamport — [ACM](https://dl.acm.org/doi/book/10.1145/3335772); distributed systems theory, advanced

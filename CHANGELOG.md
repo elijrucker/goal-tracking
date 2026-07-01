@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-06-30] — 10-hearts advancedJavaScript progress; YDKJS & cross-cutting reflection notes; A♠️ physical copies obtained; TypeScript backlog cross-reference
+## [2026-06-30] — 10-hearts advancedJavaScript progress; YDKJS & cross-cutting reflection notes; A♠️ & Programming Pearls physical copies obtained; TypeScript backlog cross-reference
 
 ### Completed
 
@@ -16,6 +16,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [BACKLOG] — [TypeScript] 9♦️ cross-reference note added (language-choice fork; revisit before promoting if 9♦️ TypeScript path is taken)
 - [ace-spades] — [Resources] Vol. 4B added
+- [BACKLOG] — Programming Pearls (Bentley, 2nd Ed.) added to Potential Spades Cards; physical copy obtained
 
 ### Changed
 
