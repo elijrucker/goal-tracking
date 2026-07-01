@@ -32,6 +32,7 @@ Work through The Art of Computer Programming (TAOCP) by Donald Knuth. Arguably t
 - The Art of Computer Programming Vol. 2: Seminumerical Algorithms by Donald Knuth (book)
 - The Art of Computer Programming Vol. 3: Sorting and Searching by Donald Knuth (book)
 - The Art of Computer Programming Vol. 4A: Combinatorial Algorithms by Donald Knuth (book)
+- The Art of Computer Programming Vol. 4B: Combinatorial Algorithms by Donald Knuth (book)
 
 ---
 
@@ -61,6 +62,8 @@ Work through The Art of Computer Programming (TAOCP) by Donald Knuth. Arguably t
 ---
 
 ## Progress Notes
+
+- [2026-06-30] Physical copies of Vol. 1, 2, 3, and 4A obtained. Vol. 4B outstanding.
 
 ---
 
