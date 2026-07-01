@@ -12,6 +12,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] GraphQL
 - [ ] TypeScript
   - [Learn OOP in TypeScript (freeCodeCamp)](https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/)
+  - note: 9♦️ Boot.dev backend track includes a language-choice fork where TypeScript is one of two options; if 9♦️ activates and that fork is taken, revisit this backlog item before promoting — may already be substantially covered.
 - [ ] React (deep dive)
 - [ ] Django framework
 - [ ] Terraform / Infrastructure as Code
