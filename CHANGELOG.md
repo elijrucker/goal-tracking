@@ -5,6 +5,29 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-02] — joker-1 LeetCode prerequisite reworded
+
+### Changed
+
+- [joker-1] — [9♣️ - LeetCode Practice] annotation added (demonstrable interview readiness via consistent practice — full 50 Easy/30 Medium quota completion not required by target date; the card's own Target Completion of 2026-12-31 already falls past Joker 1's date, so readiness is the actual signal, not quota completion)
+
+---
+
+## [2026-07-01] — joker-1 AWS prerequisite reworded; target date and dependency review
+
+### Changed
+
+- [joker-1] — [A♦️ - AWS Certified Developer Associate] annotation added (demonstrable active progress via Jack/King path completion certificates satisfies the Essential bar; full certification is valuable but not a hard gate for Joker 1 given existing portfolio strength)
+- [10-hearts] — [advancedJavaScript > You Don't Know JS > Ch. 2] marked in progress
+
+### Notes
+
+- [joker-1] — Target Completion reviewed and confirmed at 2026-09-01 (no change)
+- [ace-diamonds] — Target Completion reviewed and confirmed at 2026-10-31; no longer a blocking dependency for joker-1, date stands as aspirational
+- Mint Mobile renewal and PTO buffer calculation reviewed and confirmed correct as-is
+
+---
+
 ## [2026-06-30] — 10-hearts advancedJavaScript progress; YDKJS & cross-cutting reflection notes; A♠️ & Programming Pearls physical copies obtained; TypeScript backlog cross-reference
 
 ### Completed

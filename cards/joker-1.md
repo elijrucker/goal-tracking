@@ -112,9 +112,9 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 **Essential (must have most of these):**
 
-- [ ] A♦️ - AWS Certified Developer Associate
+- [ ] A♦️ - AWS Certified Developer Associate (demonstrable active progress via Jack/King path completion certificates; full certification is valuable but not a hard gate for Joker 1 given existing portfolio strength)
 - [ ] Q♣️ - Full-Stack Application (portfolio project)
-- [/] 9♣️ - LeetCode Practice (interview readiness)
+- [/] 9♣️ - LeetCode Practice (demonstrable interview readiness via consistent practice — full 50 Easy/30 Medium quota completion not required by target date; the card's own Target Completion of 2026-12-31 already falls past Joker 1's date, so readiness is the actual signal, not quota completion)
 
 **Highly Recommended:**
 

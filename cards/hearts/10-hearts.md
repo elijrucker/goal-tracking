@@ -75,7 +75,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Final Exam (due 08/14 12:00 PM)
       - [/] You Don't Know JS: ES6 & Beyond
         - [x] Ch. 1 – ES? Now & Future
-        - [ ] Ch. 2 – Syntax
+        - [/] Ch. 2 – Syntax
         - [ ] Ch. 3 – Organization
         - [ ] Ch. 4 – Async Flow Control
         - [ ] Ch. 5 – Collections
