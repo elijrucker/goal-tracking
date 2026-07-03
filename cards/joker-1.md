@@ -134,7 +134,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] Narrative voice review (audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums)
+- [/] Narrative voice review (LinkedIn, resumes)
 - [/] Develop resume suite
   - [x] English resume (pending third party review)
   - [x] German resume (pending third party review)
@@ -156,9 +156,10 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 - [ ] Portfolio website — personal domain; defer post-relocation
-- [ ] Review and update social media & community accounts
-  - [ ] Review and update dev.to account; become more active on platform
-  - [ ] Review and update Meetup account; become more active on platform (Software Crafters Berlin, Coding Berlin, Berlin Software Designers)
+- [/] Review and update social media & community accounts (inclusive narrative voice)
+  - [x] LeetCode
+  - [ ] dev.to 
+  - [ ] Meetup(Software Crafters Berlin, Coding Berlin, Berlin Software Designers)
 
 ## Subtasks - Job Search & Preparation
 

@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-03] — joker-1 social media subtask restructured; LeetCode account closed
+
+### Added
+
+- [joker-1] — [Review and update social media & community accounts > LeetCode] added
+
+### Changed
+
+- [joker-1] — [Review and update social media & community accounts] marked in progress (inclusive narrative voice)
+- [joker-1] — [Review and update social media & community accounts > dev.to, Meetup] refactored (labels simplified; "Review and update X account; become more active on platform" phrasing dropped)
+- [joker-1] — [Narrative voice review] updated annotation: 'audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums' → 'LinkedIn, resumes'
+
+### Completed
+
+- [joker-1] — [Review and update social media & community accounts > LeetCode] closed
+
+---
+
 ## [2026-07-02] — joker-1 LeetCode prerequisite reworded
 
 ### Changed

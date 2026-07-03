@@ -63,6 +63,12 @@ When an action applies to a consecutive range of subtasks, use an en dash (`–`
 
 When a single day's header covers multiple events, list them in descending order of significance: major milestones and status transitions first, routine progress updates last. Example: `Post-Semester Retro; Status Transitions; joker-2 apparel closed`.
 
+## Subsection order (established 2026-07-03)
+
+Within a single entry, `###` subsections (`Added`/`Changed`/`Completed`/`Removed`/`Notes`/`Process`) are ordered chronologically by when the changes happened during the session — earliest at the top, most recent at the bottom. Not a fixed Added→Changed→Completed sequence.
+
+This mirrors the file-level convention at a smaller scale: entries themselves run reverse-chronological (newest date first), but the content inside a single entry runs chronological (oldest action first). Documented in CLAUDE.md's Changelog Conventions section.
+
 ## Sections
 
 Valid sections per CLAUDE.md: `Added`, `Changed`, `Completed`, `Removed`, `Notes`, and `Process`.

@@ -51,6 +51,8 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 **Annotation update entries** — Use the format `- [card] — [subtask] annotation updated (current annotation)`. The parenthetical reflects the annotation's current state after the update, not a before/after diff. Example: `- [joker-1] — [Optimize Github profile] annotation updated (pinned repositories, repository descriptions)`.
 
+**Subsection order** — Within a single entry, `###` subsections (`Added`/`Changed`/`Completed`/`Removed`/`Notes`/`Process`) are ordered chronologically by when the changes occurred during the session — earliest change at the top, most recent at the bottom — not by a fixed Added→Changed→Completed sequence. This mirrors the entry-header convention at the file level: entries themselves run reverse-chronological (newest date first), but the content within a single entry runs chronological (oldest action first).
+
 ## Standing Decisions
 
 Cross-cutting decisions that apply across cards and sessions, not tied to any single card's progress.
