@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-03] — joker-1 social media subtask restructured; LeetCode account closed; 09-clubs LeetCode guide progress reset
+## [2026-07-03] — joker-1 social media subtask restructured; 09-clubs LeetCode guide progress reset
 
 ### Added
 
@@ -13,10 +13,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [joker-1] — [Review and update social media & community accounts] marked in progress (inclusive narrative voice)
-- [joker-1] — [Review and update social media & community accounts > dev.to, Meetup] refactored (labels simplified; "Review and update X account; become more active on platform" phrasing dropped)
-- [joker-1] — [Narrative voice review] updated annotation: 'audit LinkedIn, portfolio projects, resumes, and all other social media profiles for geo-consistency and international legibility, and voice consistency across mediums' → 'LinkedIn, resumes'
-- [09-clubs] — [Complete The LeetCode Beginner's Guide] updated annotation: '2236.Root Equals Sum of Children' → '2026-07-03; inofficial progress reset, starting from beginning of guide'
+- [joker-1] — [Review and update social media & community accounts] marked in progress
+- [joker-1] — [Review and update social media & community accounts > dev.to, Meetup] refactored (multiple labels simplified)
+- [joker-1] — [Narrative voice review] updated annotation: (LinkedIn German profile, resumes)
+- [09-clubs] — [Complete The LeetCode Beginner's Guide] updated annotation: (2026-07-03; inofficial progress reset, starting from beginning of guide)
 - [09-clubs] — [Complete 30 Days of JavaScript Study Plan] marked not started
 
 ### Completed
