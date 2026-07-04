@@ -77,6 +77,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
         - [x] Ch. 1 – ES? Now & Future
         - [/] Ch. 2 – Syntax
         - [ ] Ch. 3 – Organization
+        - [ ] Destructuring re-review (Target: week of 2026-07-06/07) — Ch. 2 first pass hit retention limit on peripheral variations (Not Just Declarations, Destructuring Parameters); revisit once distance has passed rather than immediately
         - [ ] Ch. 4 – Async Flow Control
         - [ ] Ch. 5 – Collections
         - [ ] Ch. 6 – API Additions
@@ -135,6 +136,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-07-04] [advancedJavaScript > YDKJS > Ch. 2 > Destructuring] Noted retention limit: core destructuring concept solidified, but peripheral variations (Not Just Declarations, Destructuring Parameters) didn't stick on first pass — likely information-density overload rather than a comprehension failure. Adopted middle-ground approach going forward: skim-and-flag for concepts with no near-term practical application (course scope or otherwise), reserving full Socratic depth for material likely to recur.
+- [2026-07-01] [advancedJavaScript > YDKJS > Ch. 2] Reflection: distinguished definitional knowledge of let/var scope rules from operational understanding of their consequences (per-iteration bindings, closures, memory) — worked through the classic loop-closure example (funcs[i] array) to close this gap. Definitional recall ("let is block-scoped") doesn't automatically transfer to tracing runtime behavior; the two are separate competencies worth checking independently. Connects to idiomatic-fluency gap (2026-06-30): chained-operation syntax (funcs[3]()) required conscious decomposition (indexing + invoking) rather than being parsed fluently at a glance — same gap manifesting at sentence-level syntax, not just pattern-choice level (map vs. for-loop).
 - [2026-06-30] [advancedJavaScript > You Don't Know JS] Ch. 1 complete. Pacing note: chapter reads dense due to conceptual front-loading (transpiling/polyfills, TC39, spec-vs-runtime) rather than actual difficulty — book assumes a working-dev audience transitioning from ES5, not first-time JS learners. C#/Python background covers the assumed baseline. Plan: let course carry syntax fluency, let book carry depth/vocabulary; textbook may run behind course pace without being a problem.
 - [2026-06-30] [Cross-cutting] Identified idiomatic-fluency gap as distinct from syntax-fluency gap — applies across languages (JS .map/.reduce/.filter vs. for-loops; Python "Pythonic" idioms vs. syntactically-correct-but-non-idiomatic code). Syntax recall is solid across active languages; idiom selection lags because it's acquired through reading others' code, not writing your own from theory. Practical implication: prioritize code-reading exposure (7♣️ projects, A♣️ open source) over additional theory cards to close this specific gap.
 - [2026-06-12] Calculated current unit count after Spring 26 final grades posted, updating PROGRESS (35/63) → (48/63)

@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-04] — 10-hearts YDKJS Ch. 2 reflection notes; destructuring re-review subtask scheduled
+
+### Notes
+
+- [10-hearts] — [advancedJavaScript > YDKJS > Ch. 2] reflection note added to Progress Notes (let/var definitional vs. operational understanding gap closed via loop-closure example; connects to idiomatic-fluency gap, chained-syntax decomposition)
+- [10-hearts] — [advancedJavaScript > YDKJS > Ch. 2 > Destructuring] retention-limit note added to Progress Notes (core concept solidified, peripheral variations didn't stick; adopted skim-and-flag approach for low-recurrence material)
+
+### Added
+
+- [10-hearts] — [advancedJavaScript > YDKJS > Destructuring re-review] added (Target: week of 2026-07-06/07; spaced re-review of Ch. 2 peripheral variations that didn't stick on first pass)
+
+---
+
 ## [2026-07-03] — joker-1 social media subtask restructured; 09-clubs LeetCode guide progress reset
 
 ### Added
