@@ -134,7 +134,6 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [x] Narrative voice review
 - [/] Develop resume suite
   - [x] English resume (pending third party review)
   - [x] German resume (pending third party review)

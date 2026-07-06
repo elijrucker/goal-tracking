@@ -11,6 +11,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Narrative voice review] closed
 
+### Changed
+
+- [joker-1] — [Narrative voice review] pruned closed subtask entry from dynamic goal
+
 ---
 
 ## [2026-07-05] — 10-hearts advancedJavaScript course dropped (retake Fall 2026); joker-1 A♣️ annotation; session reflection notes
