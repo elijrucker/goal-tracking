@@ -14,6 +14,8 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [joker-1] — [Narrative voice review] pruned closed subtask entry from dynamic goal
+- [joker-1] — [Develop resume suite > English resume] annotation updated (third party review complete and implemented)
+- [joker-1] — [Develop resume suite] annotation added (German resume feedback cycle)
 
 ---
 

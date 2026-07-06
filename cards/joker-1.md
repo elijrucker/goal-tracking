@@ -134,8 +134,8 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] Develop resume suite
-  - [x] English resume (pending third party review)
+- [/] Develop resume suite (German resume feedback cycle)
+  - [x] English resume (third party review complete and implemented)
   - [x] German resume (pending third party review)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
