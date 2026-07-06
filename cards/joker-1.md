@@ -121,7 +121,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [/] 10♥️ - Complete Associate's Degree
 - [ ] Q♦️ - CS50M (mobile development breadth)
 - [ ] K♣️ - Testing/TDD Milestone (professional practices)
-- [ ] A♣️ - Open Source Contribution (community collaboration and real-world engineering experience — valuable but not a hard prerequisite)
+- [ ] A♣️ - Open Source Contribution (community collaboration and real-world engineering experience — recommended but not a hard gate on Joker 1; becomes increasingly valuable for senior roles post-entry-level)
       _(Prioritize open source projects with AWS integration — maximizes overlap with the certification track)_
 
 **Supporting:**
@@ -186,6 +186,8 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Progress Notes
 
+- [2026-07-05] Environment agnosticism identified as a professional signal: the ability to operate across hardware, OS, and tooling without friction, valued increasingly at senior levels.
+- [2026-07-05] Environment agnosticism enables intentional environment selection — choosing an environment based on genuine upside rather than dependency. Berlin goal (this card) is the primary example: relocation is a deliberate choice made possible by not being tied to any one environment, not a fallback constraint.
 - [2026-06-25] English resume template complete (eRucker_Resume_English.docx). Structured as peer document to German hybrid: Quereinsteiger subtitle, Work Experience bullets sourced from English LinkedIn profile (2-4-6 progression), Education, Skills, Projects, Appendix (full cert list, extended projects, skills pool placeholder).
   Standing decision: English resume is ATS-optimized (pipe-separated skills); German hybrid is human-reader-optimized (bullet formatting). Both submitted together per application — English covers ATS parsing, German covers native reviewer. Skills pool frozen on both versions pending LinkedIn retag subtask completion.
   Phone number handling: English resume retains both +1 (US) and +49 (DE) as placeholders; US number to be removed at submission for Berlin applications — German number alone is the stronger signal in that context. German hybrid defaults to German number only.

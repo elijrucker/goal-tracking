@@ -5,6 +5,32 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-05] — 10-hearts advancedJavaScript course dropped (retake Fall 2026); joker-1 A♣️ annotation; session reflection notes
+
+### Changed
+
+- [10-hearts] — [advancedJavaScript] status updated (dropped Summer 2026; flagged for retake Fall 2026; textbook reading continues independently)
+- [10-hearts] — [advancedJavaScript > You Don't Know JS] annotation added (independent reading, outside course context)
+- [joker-1] — [A♣️ - Open Source Contribution] annotation updated (recommended but not a hard gate on Joker 1; becomes increasingly valuable for senior roles post-entry-level)
+
+### Removed
+
+- [10-hearts] — [advancedJavaScript > Lab/Quiz/Project/Exam series] removed (course dropped Summer 2026)
+
+### Notes
+
+- [10-hearts] — [advancedJavaScript] drop decision rationale added to Progress Notes (three parallel condensed summer courses exceeded available bandwidth; deferred to Fall 2026 for proper coverage)
+- [10-hearts] — [advancedJavaScript > YDKJS] course/textbook calibration note added to Progress Notes (YDKJS significantly more advanced than course; course operates at ES6 baseline)
+- [10-hearts] — [advancedJavaScript > YDKJS] curriculum lag note added to Progress Notes (course material formalized circa 2015-2016; "modern" means ES6-era, not 2026-modern)
+- [10-hearts] — [advancedJavaScript > YDKJS] abstraction layer model note added to Progress Notes (callbacks → Promises → async/await as layered abstractions)
+- [10-hearts] — [Cross-cutting] mixed Socratic learning approach note added to Progress Notes (Socratic for concept work, direct for contextual/professional observations with comprehension check after)
+- [10-hearts] — [Cross-cutting] study surface ratio note added to Progress Notes (lecture videos as visible tip of the iceberg relative to textbook/review/lab time)
+- [10-hearts] — [advancedJavaScript] withdrawal reflection note added to Progress Notes (deliberate load management vs. pattern repeat; hubris/self-modeling identified as ongoing growth area)
+- [joker-1] — environment agnosticism note added to Progress Notes (professional signal; ability to operate across hardware/OS/tooling without friction)
+- [joker-1] — intentional environment selection note added to Progress Notes (Berlin goal as primary example of deliberate environment choice over dependency)
+
+---
+
 ## [2026-07-04] — 10-hearts YDKJS Ch. 2 reflection notes; destructuring re-review subtask scheduled
 
 ### Notes

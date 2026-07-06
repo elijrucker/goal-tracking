@@ -44,36 +44,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] Complete remaining required courses
   - [/] Summer 26
     - [x] jobSearchPrep
-    - [/] advancedJavaScript (06/22–08/14)
-      - [x] Lab 1
-      - [/] Lab 2 (due 06/28)
-      - [x] Quiz 1 - JS Fundamentals
-      - [/] Quiz 2 - JS Variables & Constants (due 06/28)
-      - [ ] Lab 3 (due 07/01)
-      - [ ] Quiz 3 - DHTML (due 07/01)
-      - [ ] Lab 4 (due 07/05)
-      - [ ] Lab 5 (due 07/05)
-      - [ ] Quiz 4 - Event Handling (due 07/05)
-      - [ ] Quiz 5 - JS Data (due 07/08)
-      - [ ] Lab 6 (due 07/12)
-      - [ ] Project 1 (due 07/12)
-      - [ ] Project 2 (due 07/12)
-      - [ ] Project 2 Set Up (due 07/15; verify — due date listed after Project 2 submission, may be Brightspace anomaly)
-      - [ ] Quiz 6 - XMLHttpRequest (due 07/15)
-      - [ ] Lab 7 (due 07/19)
-      - [ ] Midterm Exam (due 07/19)
-      - [ ] Quiz 7 - Arrays (due 07/19)
-      - [ ] Lab 8 (due 07/22)
-      - [ ] Quiz 8 - Object Oriented JS (due 07/22)
-      - [ ] Lab 9 (due 07/26)
-      - [ ] Project 3 (due 07/26)
-      - [ ] Quiz 9 - Promises (due 07/26)
-      - [ ] Lab 10 (due 07/29)
-      - [ ] Quiz 10 - NodeJS (due 07/29)
-      - [ ] Lab 11 (due 08/02)
-      - [ ] Project 4 (due 08/14 12:00 PM)
-      - [ ] Final Exam (due 08/14 12:00 PM)
-      - [/] You Don't Know JS: ES6 & Beyond
+    - [-] advancedJavaScript (dropped Summer 2026 — flagged for retake Fall 2026; textbook reading continues independently)
+      - [/] You Don't Know JS: ES6 & Beyond (independent reading, outside course context)
         - [x] Ch. 1 – ES? Now & Future
         - [/] Ch. 2 – Syntax
         - [ ] Ch. 3 – Organization
@@ -136,6 +108,13 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-07-05] [advancedJavaScript] Drop decision rationale: three parallel condensed summer courses (advancedJavaScript, introPhilosophy, technicalReporting) exceeded available bandwidth. advancedJavaScript deferred to Fall 2026 for proper coverage; textbook reading (YDKJS: ES6 & Beyond) continues independently of the course.
+- [2026-07-05] [advancedJavaScript > YDKJS] Course/textbook calibration: YDKJS: ES6 & Beyond is significantly more advanced than the course itself — the course operates at an ES6 baseline, not current modern JS.
+- [2026-07-05] [advancedJavaScript > YDKJS] Curriculum lag: course material traced to circa 2015-2016 formalization — "modern" in course context means ES6-era, not 2026-modern.
+- [2026-07-05] [advancedJavaScript > YDKJS] Abstraction layer model: callbacks → Promises → async/await understood as layered abstractions building on one another, not isolated concepts.
+- [2026-07-05] [Cross-cutting] Mixed Socratic learning approach confirmed: Socratic method for concept work, direct explanation for contextual/professional observations, with a comprehension check following the direct explanation.
+- [2026-07-05] [Cross-cutting] Study surface ratio: 15-minute lecture videos are the visible tip of the iceberg — textbook reading, review, and lab work constitute the majority of actual time investment.
+- [2026-07-05] [advancedJavaScript] Withdrawal reflection: decision was deliberate load management, not a pattern repeat. Previous withdrawals occurred under standard semester pacing; this instance compounds condensed summer cycle, increased work demands, and parallel personal projects (Joker 1). Hubris — ambition running ahead of accurate self-modeling — identified as ongoing growth area. Recognizing limits is accurate load modeling, not failure.
 - [2026-07-04] [advancedJavaScript > YDKJS > Ch. 2 > Destructuring] Noted retention limit: core destructuring concept solidified, but peripheral variations (Not Just Declarations, Destructuring Parameters) didn't stick on first pass — likely information-density overload rather than a comprehension failure. Adopted middle-ground approach going forward: skim-and-flag for concepts with no near-term practical application (course scope or otherwise), reserving full Socratic depth for material likely to recur.
 - [2026-07-01] [advancedJavaScript > YDKJS > Ch. 2] Reflection: distinguished definitional knowledge of let/var scope rules from operational understanding of their consequences (per-iteration bindings, closures, memory) — worked through the classic loop-closure example (funcs[i] array) to close this gap. Definitional recall ("let is block-scoped") doesn't automatically transfer to tracing runtime behavior; the two are separate competencies worth checking independently. Connects to idiomatic-fluency gap (2026-06-30): chained-operation syntax (funcs[3]()) required conscious decomposition (indexing + invoking) rather than being parsed fluently at a glance — same gap manifesting at sentence-level syntax, not just pattern-choice level (map vs. for-loop).
 - [2026-06-30] [advancedJavaScript > You Don't Know JS] Ch. 1 complete. Pacing note: chapter reads dense due to conceptual front-loading (transpiling/polyfills, TC39, spec-vs-runtime) rather than actual difficulty — book assumes a working-dev audience transitioning from ES5, not first-time JS learners. C#/Python background covers the assumed baseline. Plan: let course carry syntax fluency, let book carry depth/vocabulary; textbook may run behind course pace without being a problem.
