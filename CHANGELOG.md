@@ -12,10 +12,13 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [advancedJavaScript] status updated (dropped Summer 2026; flagged for retake Fall 2026; textbook reading continues independently)
 - [10-hearts] — [advancedJavaScript > You Don't Know JS] annotation added (independent reading, outside course context)
 - [joker-1] — [A♣️ - Open Source Contribution] annotation updated (recommended but not a hard gate on Joker 1; becomes increasingly valuable for senior roles post-entry-level)
+- [10-hearts] — [Fulfill math elective requirement] deferred to inter-semester window (08/14–08/31; minimizes competing load with introPhilosophy/technicalReporting)
 
 ### Removed
 
 - [10-hearts] — [advancedJavaScript > Lab/Quiz/Project/Exam series] removed (course dropped Summer 2026)
+- [10-hearts] — [advancedJavaScript] subtask wrapper removed; [You Don't Know JS] promoted to a top-level Summer 26 subtask series, alongside jobSearchPrep/introPhilosophy/technicalReporting
+- [10-hearts] — [Fulfill math elective requirement > Confirm CLEP College Algebra eligibility] closed subtask pruned (eligibility confirmed via Franklin University/MATC email correspondence, retained externally)
 
 ### Notes
 
@@ -26,8 +29,13 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Cross-cutting] mixed Socratic learning approach note added to Progress Notes (Socratic for concept work, direct for contextual/professional observations with comprehension check after)
 - [10-hearts] — [Cross-cutting] study surface ratio note added to Progress Notes (lecture videos as visible tip of the iceberg relative to textbook/review/lab time)
 - [10-hearts] — [advancedJavaScript] withdrawal reflection note added to Progress Notes (deliberate load management vs. pattern repeat; hubris/self-modeling identified as ongoing growth area)
+- [10-hearts] — [Fulfill math elective requirement] eligibility-confirmation note added to Progress Notes (Franklin University/MATC email correspondence retained externally, ahead of subtask pruning)
 - [joker-1] — environment agnosticism note added to Progress Notes (professional signal; ability to operate across hardware/OS/tooling without friction)
 - [joker-1] — intentional environment selection note added to Progress Notes (Berlin goal as primary example of deliberate environment choice over dependency)
+
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript] added (placeholder; annotation notes course sign-up still outstanding)
 
 ---
 
