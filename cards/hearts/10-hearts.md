@@ -55,13 +55,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Ch. 7 – Meta Programming
       - [ ] Ch. 8 – Beyond ES6
     - [/] introPhilosophy (06/22–08/14)
-      - [/] Module 1 – Introduction to Philosophy (due 07/06)
-        - [ ] Read "Why Philosophy? Five Views" (Norton xxvii)
-        - [ ] Read "A Brief Guide to Logic and Argumentation, sec. 1–4" (Norton xxxiii–xlii)
-        - [ ] Read "Some Guidelines for Writing Philosophy Papers" (Norton li)
-        - [ ] Quiz (due 07/06)
-        - [ ] Discussion Post + 2 replies (due 07/06)
-        - [ ] Journal Entry (due 07/06)
+      - [x] Module 1 – Introduction to Philosophy
       - [ ] Module 2 – Applied Ethics and Ethical Theory (due 07/20)
         - [ ] Read Singer, "The Life You Can Save" (Blackboard PDF)
         - [ ] Read Mill, "Utilitarianism" (Norton)
