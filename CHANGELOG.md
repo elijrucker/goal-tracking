@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-07] — Task approach calibration; three-tier to-do list restructured
+
+### Notes
+
+- [System] — Claude Academy stall root-caused to insufficient cold-recall Python fluency for the "Building with the Claude API" module, not motivation
+- [System] — Single unresolved blocker (narrative voice review) identified as compressing perceived progress across multiple downstream goals simultaneously; resolving one blocker cleared several items in one pass
+- [System] — Three-tier to-do list Tier 2 restructured into named resource slots (Terminal, Screen, Reading, Daily Review); slots naturally cap concurrent active goals by context requirement
+- [System] — Python Crash Course promoted to Tier 2 Terminal slot (top priority within slot); Claude Academy demoted to Tier 3, gated on Python Crash Course completion
+- [System] — Tier 3 retained as unstructured backlog/holding bin by design; no further organization applied, to avoid unnecessary overhead
+- [System] — Physical pre-relocation tasks (luggage, tote, toolbox, workbench, e-waste) added to bottom of Tier 3
+- [System] — Standing principle reinforced: the three-tier to-do list functions as a daily-resolution layer between the deck (macro/strategic) and active work sessions (micro/execution); the deck prescribes lanes and unlocks, the list answers "what do I work on today"
+
+---
+
 ## [2026-07-06] — joker-1 narrative voice review closed; 10-hearts introPhilosophy module 1 closed
 
 ### Completed

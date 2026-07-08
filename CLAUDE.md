@@ -14,6 +14,7 @@ A 52-card deck goal tracking system. Each card is a markdown file representing a
 - `PROGRESS.md` — Completion counts, suit/tier breakdowns, milestones checklist
 - `CHANGELOG.md` — Chronological log of all updates (keep-a-changelog style with Added/Changed/Completed/Removed/Notes sections)
 - `BACKLOG.md` / `RESOURCES.md` / `GOALS_TLDR.md` — Supporting reference docs
+- `WORKFLOW.md` — Describes the deck's relationship to the external daily to-do list (deck = macro/strategic, list = micro/daily-resolution); the list itself is not tracked in this repo
 
 ## Card File Conventions
 
