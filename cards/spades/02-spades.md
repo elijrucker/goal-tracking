@@ -52,7 +52,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 - [ ] Week 4: Assignments
 - [x] Week 5: Data Structures — Lecture
 - [ ] Week 5: Assignments
-- [/] Week 6: Python — Lecture (2026-06-27; Dictionaries)
+- [x] Week 6: Python — Lecture
 - [ ] Week 6: Assignments
 - [ ] Week 7: SQL — Lecture
 - [ ] Week 7: Assignments

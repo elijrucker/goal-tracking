@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-08] — 03-diamonds progress; joker-1 update
+## [2026-07-08] — 03-diamonds progress; 02-spades progress; joker-1 update
 
 ### Completed
 
 - [03-diamonds] — [Ch. 5: if Statements] closed
+- [02-spades] — [Week 6: Python — Lecture] closed
 
 ### Changed
 
