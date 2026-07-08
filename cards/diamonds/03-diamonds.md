@@ -47,7 +47,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 - [x] Ch. 3: Introducing Lists
 - [/] Try It Yourself — Ch. 1–3 (2026-06-15; Container environment configured, and exercise-ready)
 - [x] Ch. 4: Working with Lists
-- [ ] Ch. 5: if Statements
+- [x] Ch. 5: if Statements
 - [ ] Ch. 6: Dictionaries
 - [ ] Try It Yourself — Ch. 4–6
 - [ ] Ch. 7: User Input and while Loops

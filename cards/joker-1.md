@@ -134,8 +134,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] Develop resume suite (German resume feedback cycle)
-  - [x] English resume (third party review complete and implemented)
+- [/] Develop resume suite
   - [x] German resume (pending third party review)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
@@ -157,7 +156,7 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 - [ ] Portfolio website — personal domain; defer post-relocation
 - [/] Review and update social media & community accounts (inclusive narrative voice)
   - [x] LeetCode
-  - [ ] dev.to 
+  - [ ] dev.to
   - [ ] Meetup(Software Crafters Berlin, Coding Berlin, Berlin Software Designers)
 
 ## Subtasks - Job Search & Preparation

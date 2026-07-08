@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-08] — 03-diamonds progress; joker-1 update
+
+### Completed
+
+- [03-diamonds] — [Ch. 5: if Statements] closed
+
+### Changed
+
+- [joker-1] — [Develop resume suite] pruned subtask series of closed subtask
+
+---
+
 ## [2026-07-07] — Task approach calibration; three-tier to-do list restructured
 
 ### Notes
