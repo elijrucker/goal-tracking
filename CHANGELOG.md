@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [joker-1] — [Develop resume suite] pruned subtask series of closed subtask
+- [02-spades] — [Week 7: SQL — Lecture] marked in progress; annotation added ('Shows')
 
 ---
 
