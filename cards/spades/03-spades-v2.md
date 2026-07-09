@@ -41,7 +41,7 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
 ## Subtasks
 
 - [/] Read The Mythical Man-Month (Fred Brooks, 20th Anniversary Ed.)
-  - [ ] Ch. 1 — The Tar Pit
+  - [x] Ch. 1 — The Tar Pit
   - [ ] Ch. 2 — The Mythical Man-Month
   - [ ] Ch. 3 — The Surgical Team
   - [ ] Ch. 4 — Aristocracy, Democracy, and System Design

@@ -43,7 +43,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Subtasks
 
-- [/] Complete The LeetCode Beginner's Guide (2026-07-03; inofficial progress reset, starting from beginning of guide)
+- [/] Complete The LeetCode Beginner's Guide (2026-07-09; working through problem 2236)
 - [ ] Complete 30 Days of JavaScript Study Plan
 - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
 - [ ] Complete Shell-specific problems

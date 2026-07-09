@@ -11,11 +11,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [03-diamonds] — [Ch. 5: if Statements] closed
 - [02-spades] — [Week 6: Python — Lecture] closed
+- [03-spades-v2] — [Ch. 1 — The Tar Pit] closed
 
 ### Changed
 
 - [joker-1] — [Develop resume suite] pruned subtask series of closed subtask
 - [02-spades] — [Week 7: SQL — Lecture] marked in progress; annotation added ('Shows')
+  subtask
+- [09-clubs] — [Complete The LeetCode Beginner's Guide] annotation updated (2026-07-09; working through problem 2236)
 
 ---
 
