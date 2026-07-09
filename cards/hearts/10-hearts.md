@@ -78,7 +78,15 @@ Complete the Associate's degree currently in progress. Expected completion withi
         - [ ] Discussion Post + 2 replies (due 08/17)
         - [ ] Journal Entry (due 08/17)
         - [ ] Comprehensive Exam (due 08/17)
-    - [ ] technicalReporting (07/06–08/14)
+    - [/] technicalReporting (07/06–08/14)
+      - [x] FIVE Technical Terms mini-assignment  (terms: IaaS, Runtime Environment, HTTPS,
+        IDE, CLI)
+      - [ ] My Technical Self (due 07/14)
+      - [ ] Information Pages – Two Terms
+        - [ ] Term 1 (due 07/21)
+        - [ ] Term 2 (due 07/28)
+      - [ ] Course Proposal (due 08/04)
+      - [ ] Instruction Manual (due 08/14)
 
 - [/] Fulfill math elective requirement (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
   - [ ] Complete algebra review for CLEP:

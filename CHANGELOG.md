@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-09] — 10-hearts technicalReporting subtask expanded; FIVE Technical Terms closed
+
+### Added
+
+- [10-hearts] — [Summer 26 > technicalReporting] expanded into subtask structure (FIVE Technical Terms mini-assignment, My Technical Self, Information Pages – Two Terms > Term 1/Term 2, Course Proposal, Instruction Manual); marked in progress
+
+### Completed
+
+- [10-hearts] — [Summer 26 > technicalReporting > FIVE Technical Terms mini-assignment] closed
+
+---
+
 ## [2026-07-08] — 03-diamonds progress; 02-spades progress; joker-1 update
 
 ### Completed
