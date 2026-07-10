@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-10] — 02-spades week 7 lecture closed, added artifical intelligence lecture subtask
+
+### Completed
+
+- [02-spades] — [Week 7: SQL — Lecture] closed
+
+### Added
+
+- [02-spades] — [Artifical Intelligence — Lecture]
+
+---
+
 ## [2026-07-09] — 10-hearts technicalReporting subtask expanded; FIVE Technical Terms closed; 02-spades week 7 lecture progress; 03-diamonds ch. 6 progress
 
 ### Added

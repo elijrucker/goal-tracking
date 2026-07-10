@@ -54,8 +54,9 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 - [ ] Week 5: Assignments
 - [x] Week 6: Python — Lecture
 - [ ] Week 6: Assignments
-- [/] Week 7: SQL — Lecture ('Querying')
+- [x] Week 7: SQL — Lecture
 - [ ] Week 7: Assignments
+- [ ] Artifical Intelligence — Lecture
 - [ ] Week 8: HTML, CSS, JavaScript — Lecture
 - [ ] Week 8: Assignments
 - [ ] Week 9: Flask — Lecture
