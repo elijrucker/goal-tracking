@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-09] — 10-hearts technicalReporting subtask expanded; FIVE Technical Terms closed
+## [2026-07-09] — 10-hearts technicalReporting subtask expanded; FIVE Technical Terms closed; 02-spades week 7 lecture progress; 03-diamonds ch. 6 progress
 
 ### Added
 
@@ -14,6 +14,11 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Summer 26 > technicalReporting > FIVE Technical Terms mini-assignment] closed
+
+### Changed
+
+- [02-spades] — [Week 7: SQL — Lecture] annotation updated ('Querying')
+- [03-diamonds] — [Ch. 6: Dictionaries] annotation updated ('Dictionary Loops')
 
 ---
 
