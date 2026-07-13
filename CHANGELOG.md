@@ -5,7 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-10] — 02-spades week 7 lecture closed, added artifical intelligence lecture subtask
+## [2026-07-12] — 02-spades week 8 lecture update; removed artifical intelligence lecture subtask
+
+### Changed
+
+- [02-spades] — [Week 8: HTML, CSS, JavaScript — Lecture] marked in progress; annotation added (2026-07-12; HTML)
+
+### Removed
+
+- [02-spades] — [Artifical Intelligence — Lecture] removed (duplicate of subtask 'AI Lecture (standalone)')
+
+---
+
+## [2026-07-10] — 02-spades week 7 lecture closed; added artifical intelligence lecture subtask
 
 ### Completed
 
