@@ -31,6 +31,12 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 - **Prerequisites**: Reference other cards that must be completed first
 - **Unlocks**: Cards that become available after this one is completed
 
+### Subtask Tree Retention
+
+- **Static cards** (status `Complete`) retain their full subtask tree permanently, as a record of how the goal was completed.
+- **Dynamic cards** — cards with open-ended, recurring subtask groups rather than a fixed linear curriculum (e.g., joker-1, 10-hearts) — prune closed subtask entries from the tree once they've been logged in CHANGELOG.md, to keep the file navigable. Course/book cards with a bounded curriculum are not dynamic in this sense and retain their full checklist regardless of status.
+- Because dynamic cards don't hold a full history in-file, PROGRESS.md's On the Board table may track them by a different signal than a raw subtask fraction (e.g., joker-1 tracks Prerequisite completion instead — see its Prerequisites section).
+
 ### Suit Domains
 
 - ♦️ Diamonds = Tools, Platforms & Certifications
