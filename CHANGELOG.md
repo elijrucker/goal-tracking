@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-14] — technicalReporting dropped for Summer 26; staged for Fall 26 retake
+
+### Removed
+
+- [10-hearts] — [Summer 26 > technicalReporting] entire subtask tree removed (course dropped)
+
+### Added
+
+- [10-hearts] — [Fall 26] technicalReporting retake added (still need to sign up for the course)
+
+---
+
 ## [2026-07-13] — joker-1 Prerequisites merged into single series; PROGRESS.md tracking convention updated for dynamic cards
 
 ### Changed
