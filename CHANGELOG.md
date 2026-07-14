@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-14] — technicalReporting dropped for Summer 26; staged for Fall 26 retake
+## [2026-07-14] — technicalReporting dropped for Summer 26, staged for Fall 26 retake; joker-1 visa path decision logged
 
 ### Removed
 
@@ -14,6 +14,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [10-hearts] — [Fall 26] technicalReporting retake added (still need to sign up for the course)
+
+### Notes
+
+- [joker-1] — [Progress Notes] added note (2026-07-14; visa path decided — D-visa via German consulate preferred over visa-free entry + on-the-ground Blue Card application, avoids employment gap from Ausländerbehörde backlog; corrected leftover US H-1B-era instinct to minimize visa discussion with employers, which doesn't apply under Germany's routine Blue Card sponsorship process)
 
 ---
 
