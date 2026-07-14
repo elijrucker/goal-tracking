@@ -133,8 +133,6 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [x] Develop resume suite
-  - [x] German resume - hybrid (confirmed final via native-speaker review; no revisions required)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101

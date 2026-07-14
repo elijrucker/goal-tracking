@@ -35,6 +35,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Progress Notes] added 2 notes (2026-07-14; German portfolio gate closure; cover letters drafted for first application batch of three with relocation language anchored to EU Blue Card / D-visa mechanism, and target employer list expanded — four new target employers identified for the next application batch)
 - [joker-1] — [Progress Notes] added note (2026-07-14; Java/Kotlin identified as highest-leverage skill gap across active and queued applications — 4 of 7 vetted postings, more than any other language; prioritization session flagged to sequence against Python Crash Course, AWS cert prep, and MATC scheduling — not yet acted on)
 
+### Removed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Develop resume suite] subtask series pruned (closed and logged above per dynamic card retention rules)
+
 ---
 
 ## [2026-07-13] — joker-1 Prerequisites merged into single series; PROGRESS.md tracking convention updated for dynamic cards
