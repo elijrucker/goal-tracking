@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-14] — joker-1 Prerequisites reframed as accelerants; technicalReporting dropped for Summer 26, staged for Fall 26 retake; joker-1 visa path decision logged
+## [2026-07-14] — joker-1 resume suite closed, German portfolio gate cleared; Prerequisites reframed as accelerants; technicalReporting dropped for Summer 26, staged for Fall 26 retake; joker-1 visa path decision logged
 
 ### Removed
 
@@ -24,6 +24,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [CLAUDE] — [Standing Decisions] added: Prerequisite/accelerant terminology convention — optional scaffolding on Prerequisites entries described as supporting goals or accelerants rather than gating requirements; genuine hard dependencies (visa, degree requirements tied to a specific posting, curriculum ordering) keep prerequisite/requirement language
 - [joker-1] — [Prerequisites] refactored: reframed from gating language to accelerant/supporting-goal framing; section header left as `## Prerequisites` (canonical, shared structure) with a clarifying rationale note added at the top; subsection labels renamed ("Parallel to active job search" → "Accelerants", "Supporting" → "Supporting goals"); per-item qualifiers added to Full-Stack App, CS50M, Testing/TDD Milestone, and Associate's Degree clarifying they speed completion rather than gate it
+- [joker-1] — [Profile, Portfolio & Credentials > Develop resume suite > German resume - hybrid] annotation updated (confirmed final via native-speaker review; no revisions required)
+
+### Completed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Develop resume suite] closed — German hybrid finalized (English resume closed in a prior revision); German portfolio gate (LinkedIn + CV + resume + cover letter suite) now fully closed
+
+### Notes
+
+- [joker-1] — [Progress Notes] added 2 notes (2026-07-14; German portfolio gate closure; cover letters drafted for first application batch of three with relocation language anchored to EU Blue Card / D-visa mechanism, and target employer list expanded — four new target employers identified for the next application batch)
+- [joker-1] — [Progress Notes] added note (2026-07-14; Java/Kotlin identified as highest-leverage skill gap across active and queued applications — 4 of 7 vetted postings, more than any other language; prioritization session flagged to sequence against Python Crash Course, AWS cert prep, and MATC scheduling — not yet acted on)
 
 ---
 

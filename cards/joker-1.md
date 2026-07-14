@@ -133,8 +133,8 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] Develop resume suite
-  - [x] German resume (pending third party review)
+- [x] Develop resume suite
+  - [x] German resume - hybrid (confirmed final via native-speaker review; no revisions required)
 - [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
   - [x] Claude 101
   - [x] Claude Code 101
@@ -183,6 +183,9 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-07-14] Java/Kotlin identified as highest-leverage skill gap: appears in 4 of 7 vetted postings (active: Televic Rail, DB Systel; queued: N26, Zalando, Delivery Hero) — more than any other language — and aligns with upcoming MATC coursework. Worth a dedicated prioritization session to sequence against Python Crash Course, AWS cert prep, and MATC scheduling; not yet acted on.
+- [2026-07-14] [Profile, Portfolio & Credentials > Develop resume suite] German Lebenslauf confirmed final by native-speaker review; no revisions required. German portfolio gate (LinkedIn + CV + resume + cover letter suite) is now fully closed.
+- [2026-07-14] Cover letters drafted this session for the three active applications, relocation language in each anchored to the EU Blue Card / D-visa mechanism rather than specific dates. Target employer list also expanded — confirmed live leads (junior-level roles or established graduate pipelines) for the next application batch.
 - [2026-07-14] [Job Search & Preparation > Research visa requirements] Visa path decided: D-visa via German consulate (not visa-free entry followed by an on-the-ground Blue Card application) once an offer is in hand. The D-visa authorizes work immediately on arrival while the Blue Card is processed in parallel at the Ausländerbehörde; visa-free entry risks an open-ended employment gap given Berlin's appointment backlog, since work isn't authorized until the Blue Card itself is issued. Trades a predictable 4-6 week pre-departure wait for zero gap post-arrival. Also corrected a leftover US H-1B-lottery instinct to minimize visa discussion with employers — doesn't apply in Germany, where Blue Card sponsorship is routine and non-discretionary; stating the path plainly reads as competent.
 - [2026-07-05] Environment agnosticism identified as a professional signal: the ability to operate across hardware, OS, and tooling without friction, valued increasingly at senior levels.
 - [2026-07-05] Environment agnosticism enables intentional environment selection — choosing an environment based on genuine upside rather than dependency. Berlin goal (this card) is the primary example: relocation is a deliberate choice made possible by not being tied to any one environment, not a fallback constraint.
