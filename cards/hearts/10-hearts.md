@@ -56,12 +56,12 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Ch. 8 – Beyond ES6
     - [/] introPhilosophy (06/22–08/14)
       - [x] Module 1 – Introduction to Philosophy
-      - [ ] Module 2 – Applied Ethics and Ethical Theory (due 07/20)
-        - [ ] Read Singer, "The Life You Can Save" (Blackboard PDF)
-        - [ ] Read Mill, "Utilitarianism" (Norton)
+      - [/] Module 2 – Applied Ethics and Ethical Theory (due 07/20)
+        - [x] Read Singer, "The Life You Can Save"
+        - [/] Read Mill, "Utilitarianism" (Norton)
         - [ ] Read Ross, "What Makes Right Acts Right?" (Blackboard PDF)
         - [ ] Quiz (due 07/20)
-        - [ ] Discussion Post + 2 replies (due 07/20)
+        - [/] Discussion Post + 2 replies (Discussion posted, replies due 07/20)
         - [ ] Journal Entry (due 07/20)
       - [ ] Module 3 – Epistemology (due 08/03)
         - [ ] Read Descartes, "Meditation I" (Norton)
@@ -90,7 +90,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] [Auxiliary] Complete statistics review for DSST Principles of Statistics
   - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
 - [ ] Fall 26
-  - [ ] advancedJavaScript (retake — still need to sign up for the course)
+  - [ ] advancedJavaScript (retake - still need to sign up for the course)
   - [ ] technicalReporting (retake - still need to sign up for the course)
   - [ ] javaProgramming (08/31–12/18)
   - [ ] phpWebMySQL (08/31–12/18)

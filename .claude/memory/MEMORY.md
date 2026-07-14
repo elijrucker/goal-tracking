@@ -11,3 +11,4 @@
 - [Card Completion Audit](project_card_completion_audit.md) — Full codebase audit checklist triggered on every card completion; covers Summary, suit/tier tables, On the Board, DECK_OVERVIEW, and recently modified cards
 - [Status Change Workflow](project_status_change_workflow.md) — All card file, PROGRESS.md (Summary, suit row, Total row, Color Tier, On the Board), and CHANGELOG.md changes required on any card status transition
 - [Card Priority](project_card_priority.md) — No formal priority ordering; organic daily rotation is a standing design decision, not an open question
+- [Hyphens Not Em Dashes](feedback_hyphens_not_em_dashes.md) — Default to hyphens in prose; keep em dashes only in documented schema separators

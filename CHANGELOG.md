@@ -19,10 +19,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-07-13] — joker-1 Prerequisites merged into single series; PROGRESS.md tracking convention updated for dynamic cards
 
+### Completed
+
+- [10-hearts] — [introPhilosophy > Module 2 > Read Singer] closed
+
 ### Changed
 
 - [joker-1] — [Prerequisites] Essential and Highly Recommended series merged into a single series; framing updated to reflect parallel job-search timeline (completion increases hireability but is no longer treated as a hard gate before applying)
 - [PROGRESS] — 🃏1 On the Board row switched from subtask fraction to Prerequisite completion (0/7); footnote added explaining the change
+- [10-hearts] — [Summer 26 > introPhilosophy > Module 2] marked in progress
+- [10-hearts] — [introPhilosophy > Module 2 > Read Mill] marked in progress
+- [10-hearts] — [introPhilosophy > Module 2 > Discussion Post + 2 replies] marked in progress; annotation updated (Discussion posted, replies due 07/20)
+
 
 ### Added
 
