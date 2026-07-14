@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-14] — technicalReporting dropped for Summer 26, staged for Fall 26 retake; joker-1 visa path decision logged
+## [2026-07-14] — joker-1 Prerequisites reframed as accelerants; technicalReporting dropped for Summer 26, staged for Fall 26 retake; joker-1 visa path decision logged
 
 ### Removed
 
@@ -18,6 +18,12 @@ Format: [YYYY-MM-DD] — Description of change
 ### Notes
 
 - [joker-1] — [Progress Notes] added note (2026-07-14; visa path decided — D-visa via German consulate preferred over visa-free entry + on-the-ground Blue Card application, avoids employment gap from Ausländerbehörde backlog; corrected leftover US H-1B-era instinct to minimize visa discussion with employers, which doesn't apply under Germany's routine Blue Card sponsorship process)
+- [BACKLOG] / [CARD_TEMPLATE] — reviewed for prerequisite/requirement language per terminology sweep; no changes made. Existing instances describe genuine sequential dependencies (e.g., a backlog item gated on Joker 1 relocation actually happening) or the canonical `## Prerequisites` section name shared by all 54 cards, not optional scaffolding — out of scope for the reframe below.
+
+### Changed
+
+- [CLAUDE] — [Standing Decisions] added: Prerequisite/accelerant terminology convention — optional scaffolding on Prerequisites entries described as supporting goals or accelerants rather than gating requirements; genuine hard dependencies (visa, degree requirements tied to a specific posting, curriculum ordering) keep prerequisite/requirement language
+- [joker-1] — [Prerequisites] refactored: reframed from gating language to accelerant/supporting-goal framing; section header left as `## Prerequisites` (canonical, shared structure) with a clarifying rationale note added at the top; subsection labels renamed ("Parallel to active job search" → "Accelerants", "Supporting" → "Supporting goals"); per-item qualifiers added to Full-Stack App, CS50M, Testing/TDD Milestone, and Associate's Degree clarifying they speed completion rather than gate it
 
 ---
 

@@ -110,18 +110,20 @@ _Global Distributed (UTC+1 compatible) — Direct Company Careers Pages_
 
 ## Prerequisites
 
-**Parallel to active job search (completion increases hireability rather than gating application):**
+_These are accelerants, not gates: the core goal (job offer) is achievable without them — they make the process faster and the case stronger, not possible. Genuine hard dependencies (e.g., visa requirements) live in Subtasks, not here._
+
+**Accelerants (supporting goals that increase hireability and speed completion, not gates on applying):**
 
 - [ ] A♦️ - AWS Certified Developer Associate (demonstrable active progress via Jack/King path completion certificates; full certification is valuable but not a hard gate for Joker 1 given existing portfolio strength)
-- [ ] Q♣️ - Full-Stack Application (portfolio project)
+- [ ] Q♣️ - Full-Stack Application (portfolio project — supporting goal, not a gate)
 - [/] 9♣️ - LeetCode Practice (demonstrable interview readiness via consistent practice — full 50 Easy/30 Medium quota completion not required by target date; the card's own Target Completion of 2026-12-31 already falls past Joker 1's date, so readiness is the actual signal, not quota completion)
-- [/] 10♥️ - Complete Associate's Degree
-- [ ] Q♦️ - CS50M (mobile development breadth)
-- [ ] K♣️ - Testing/TDD Milestone (professional practices)
+- [/] 10♥️ - Complete Associate's Degree (supporting goal — IT specialist visa exception already satisfied via Verisk tenure per visa research, so this is not a gating requirement)
+- [ ] Q♦️ - CS50M (mobile development breadth — supporting goal, not a gate)
+- [ ] K♣️ - Testing/TDD Milestone (professional practices — supporting goal, not a gate)
 - [ ] A♣️ - Open Source Contribution (community collaboration and real-world engineering experience — recommended but not a hard gate on Joker 1; becomes increasingly valuable for senior roles post-entry-level)
       _(Prioritize open source projects with AWS integration — maximizes overlap with the certification track)_
 
-**Supporting:**
+**Supporting goals (broader foundation):**
 
 - Multiple completed Diamonds cards (tool proficiency)
 - Multiple completed Clubs cards (practical experience)
