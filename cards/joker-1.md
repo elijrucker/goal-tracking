@@ -147,7 +147,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [x] 52-card goal tracker (live, documented)
   - [x] Self-hosted Linux infrastructure
-  - [ ] Project 3
+  - [ ] Java CLI copy tool (`cp` reimplementation); verbose-by-default design inverts `cp`'s silent default (`-q` opts out to original silence); `Copyable` interface (`File`/`Directory`) demonstrates polymorphism, dynamic dispatch, and the Composite pattern; containerized
 - [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 - [ ] Portfolio website — personal domain; defer post-relocation

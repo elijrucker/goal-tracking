@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-15] — joker-1 Project 3 scoped
+
+### Added
+
+- [joker-1] — [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects are live and documented > Project 3] added annotation (Java CLI copy tool, `cp` reimplementation; verbose-by-default design inverting `cp`'s silent default with `-q` opt-out; `Copyable` interface over `File`/`Directory` demonstrating polymorphism, dynamic dispatch, and the Composite pattern; containerized)
+- [BACKLOG] — Basic REST API tool (breakout project) added under Potential Clubs Cards; second Java/Kotlin portfolio breakout project, follows Project 3, scope TBD on activation
+
+### Notes
+
+- [System] — Project 3 (joker-1) temporarily occupies Tier 2 Terminal slot, displacing 3♦️ Python Crash Course, given expected time investment
+
+---
+
 ## [2026-07-14] — joker-1 resume suite closed, German portfolio gate cleared; Prerequisites reframed as accelerants; technicalReporting dropped for Summer 26, staged for Fall 26 retake; joker-1 visa path decision logged
 
 ### Removed
