@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-15] — joker-1 Project 3 scoped
+## [2026-07-15] — joker-1 Project 3 scoped; 02-spades week 8 lecture closed, week 9 lecture in progress
 
 ### Added
 
@@ -15,6 +15,14 @@ Format: [YYYY-MM-DD] — Description of change
 ### Notes
 
 - [System] — Project 3 (joker-1) temporarily occupies Tier 2 Terminal slot, displacing 3♦️ Python Crash Course, given expected time investment
+
+### Completed
+
+- [02-spades] — [Week 8: HTML, CSS, JavaScript — Lecture] closed
+
+### Changed
+
+- [02-spades] — [Week 9: Flask — Lecture] marked in progress
 
 ---
 
