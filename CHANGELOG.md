@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-17] — BACKLOG audit: 7 redundant/stale entries pruned; EU relocation logistics promoted to joker-1; React Native breakout & CI/CD deep dive added
+## [2026-07-17] — REFLECTIONS.md established; BACKLOG audit: 7 redundant/stale entries pruned; EU relocation logistics promoted to joker-1; React Native breakout & CI/CD deep dive added
 
 ### Added
 
 - [BACKLOG] — Build a mobile app (React Native) entry expanded under Potential Clubs Cards; candidate JS breakout/portfolio project (Expo, Neon Postgres + Drizzle, Clerk, NativeWind, Zustand, Sentry), parallel to advancedJavaScript rather than reinforcing it; revisit once advancedJavaScript is rebuilt out for Fall 26
 - [BACKLOG] — CI/CD Pipeline Deep Dive: GitHub Actions + Docker added under Potential Diamonds Cards; builds on existing Docker fundamentals (ejr-homeserver), distinct from 7♦️'s Bitbucket/Bamboo/Octopus scope
+- [System] — REFLECTIONS.md created; standing log for cross-cutting, system-level, and product-level insights that don't map to a single card's lifecycle, distinct from each card's own Reflection & Lessons Learned section. CLAUDE.md's Repo Layout updated to reference the new file.
 
 ### Removed
 
