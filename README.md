@@ -2,6 +2,8 @@
 
 A self-directed agile goal tracking system built around a 52-card deck metaphor, applying personal kanban and kaizen principles to long-term personal and professional development. Utilizing Markdown for legibility and Git for version control and incremental progress tracking, each suit maps to one of the following domains: engineering tools, applied practice, computer science theory, and personal development. Card values indicate difficulty and prerequisite relationships. Progress is tracked via a structured changelog and progress file hosted on GitHub.
 
+> This repository is shared publicly for portfolio and case-study purposes. No license is granted for reuse, modification, or redistribution — all rights reserved.
+
 ## System Overview
 
 ### Suit Organization

@@ -28,6 +28,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [BACKLOG] — Pre-Calculus Foundations annotation updated (bridges from the algebra review handled under 10♥️'s math elective subtask, rather than the removed Spades Algebra Review backlog entry, to freeCodeCamp College Calculus / 10♠️ MIT Single Variable Calculus)
 - [joker-1] — [Subtasks - Relocation Logistics] merged in BACKLOG's EU relocation logistics entry; added Secure housing in Berlin and Set up EU/German banking; visa left off the list as already resolved under Job Search & Preparation (D-visa/EU Blue Card path decided 2026-07-14)
+- [README] — Added explicit rights notice (no license granted; all rights reserved)
+- [System] — `.claude/memory/` untracked from git and excluded via `.gitignore`; internal AI-assistant workflow notes kept local only rather than published in the public repo. Files remain on disk; not removed from existing git history.
 
 ---
 

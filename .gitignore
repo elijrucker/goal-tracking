@@ -1,4 +1,2 @@
-# Ignore all Claude Code config except memory convention files
+# Ignore all Claude Code config, including memory
 .claude/*
-!.claude/memory/
-!.claude/memory/*.md
