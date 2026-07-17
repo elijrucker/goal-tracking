@@ -176,6 +176,8 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 - [/] Declutter and liquidate physical possessions prior to relocation
 - [/] Minimize US financial footprint
+- [ ] Secure housing in Berlin
+- [ ] Set up EU/German banking
 
 ---
 

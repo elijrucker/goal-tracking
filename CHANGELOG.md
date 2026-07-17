@@ -5,6 +5,31 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-17] — BACKLOG audit: 7 redundant/stale entries pruned; EU relocation logistics promoted to joker-1; React Native breakout & CI/CD deep dive added
+
+### Added
+
+- [BACKLOG] — Build a mobile app (React Native) entry expanded under Potential Clubs Cards; candidate JS breakout/portfolio project (Expo, Neon Postgres + Drizzle, Clerk, NativeWind, Zustand, Sentry), parallel to advancedJavaScript rather than reinforcing it; revisit once advancedJavaScript is rebuilt out for Fall 26
+- [BACKLOG] — CI/CD Pipeline Deep Dive: GitHub Actions + Docker added under Potential Diamonds Cards; builds on existing Docker fundamentals (ejr-homeserver), distinct from 7♦️'s Bitbucket/Bamboo/Octopus scope
+
+### Removed
+
+- [BACKLOG] — Build a CLI tool removed from Potential Clubs Cards; redundant with joker-1's Java CLI copy tool (Project 3, scoped 2026-07-15), which already fulfills this idea
+- [BACKLOG] — Build a personal portfolio website removed from Potential Clubs Cards; stale — already tracked as a joker-1 subtask and as a suggested project under 7♣️ Intermediate Web Projects
+- [BACKLOG] — Contribute tests to an open source project removed from Potential Clubs Cards; scope already covered by K♣️ Testing/TDD Milestone and A♣️ Open Source Contribution combined
+- [BACKLOG] — Refactor an existing project using TDD removed from Potential Clubs Cards; duplicates existing K♣️ Testing/TDD Milestone subtasks (retroactive unit tests, strict TDD feature build)
+- [BACKLOG] — Additional language (German - useful for Berlin) removed from Potential Hearts Cards; vague entry predating full German credential tracking, superseded by the scoped Goethe-Zertifikat C2 entry and joker-1's confirmed German C1 status
+- [BACKLOG] — Minimize tax implications as a US citizen pre-relocation removed from Potential Hearts Cards; no action items distinct from the retained Cross-border tax optimization as a US citizen in the EU entry
+- [BACKLOG] — EU relocation logistics (visa, housing, banking) removed from Potential Hearts Cards; promoted into joker-1's Subtasks - Relocation Logistics (see Changed) with the visa item struck, since visa strategy is already resolved elsewhere on the card
+- [BACKLOG] — Algebra Review (ACCUPLACER prep) removed from Potential Spades Cards; ACCUPLACER no longer needed now that CLEP is being used to test out of the course it would have placed into, and the underlying algebra review is already handled under 10♥️'s math elective subtask
+
+### Changed
+
+- [BACKLOG] — Pre-Calculus Foundations annotation updated (bridges from the algebra review handled under 10♥️'s math elective subtask, rather than the removed Spades Algebra Review backlog entry, to freeCodeCamp College Calculus / 10♠️ MIT Single Variable Calculus)
+- [joker-1] — [Subtasks - Relocation Logistics] merged in BACKLOG's EU relocation logistics entry; added Secure housing in Berlin and Set up EU/German banking; visa left off the list as already resolved under Job Search & Preparation (D-visa/EU Blue Card path decided 2026-07-14)
+
+---
+
 ## [2026-07-15] — joker-1 Project 3 scoped; 02-spades week 8 lecture closed, week 9 lecture in progress
 
 ### Added
