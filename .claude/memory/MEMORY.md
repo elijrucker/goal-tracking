@@ -12,3 +12,4 @@
 - [Status Change Workflow](project_status_change_workflow.md) — All card file, PROGRESS.md (Summary, suit row, Total row, Color Tier, On the Board), and CHANGELOG.md changes required on any card status transition
 - [Card Priority](project_card_priority.md) — No formal priority ordering; organic daily rotation is a standing design decision, not an open question
 - [Hyphens Not Em Dashes](feedback_hyphens_not_em_dashes.md) — Default to hyphens in prose; keep em dashes only in documented schema separators
+- [Commit/Push Cadence](feedback_commit_push_cadence.md) — Let commits accumulate locally through the day on personal projects; don't push after every commit
