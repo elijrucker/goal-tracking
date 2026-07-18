@@ -143,7 +143,6 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
   - [x] 52-card goal tracker (live, documented)
   - [x] Self-hosted Linux infrastructure
   - [ ] Java CLI copy tool (`cp` reimplementation); verbose-by-default design inverts `cp`'s silent default (`-q` opts out to original silence); `Copyable` interface (`File`/`Directory`) demonstrates polymorphism, dynamic dispatch, and the Composite pattern; containerized
-- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 - [ ] Portfolio website — personal domain; defer post-relocation
 - [/] Review and update social media & community accounts (inclusive narrative voice)
@@ -173,6 +172,21 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 - [/] Minimize US financial footprint
 - [ ] Secure housing in Berlin
 - [ ] Set up EU/German banking
+
+## Subtasks - Reading & Writing
+
+- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
+- [ ] Schreiben Lernen (A Writing Guide for Learners of German, 2nd ed., Dykstra-Pruim & Redmann)
+  - [ ] Ch. 1 — Personen beschreiben
+  - [ ] Ch. 2 — Autobiografisches Schreiben
+  - [ ] Ch. 3 — Briefe schreiben
+  - [ ] Ch. 4 — Berichte schreiben
+  - [ ] Ch. 5 — Rezensionen schreiben
+  - [ ] Ch. 6 — Meinungen äußern
+  - [ ] Ch. 7 — Kreatives Schreiben
+  - [ ] Ch. 8 — Literatur interpretieren
+  - [ ] Ch. 9 — Filme interpretieren
+  - [ ] Ch. 10 — Kunst interpretieren
 
 ---
 

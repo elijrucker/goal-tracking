@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-18] — joker-1 Reading & Writing subtask group added; Schreiben Lernen series added
+
+### Changed
+
+- [joker-1] — [Subtasks] new subtask group "Reading & Writing" added; "Read 'Writing for Developers'" relocated here from Profile, Portfolio & Credentials to consolidate reading/writing goals not directly tied to CS tools or methods
+
+### Added
+
+- [joker-1] — Schreiben Lernen (A Writing Guide for Learners of German, 2nd ed., Dykstra-Pruim & Redmann) subtask series added; 10 chapters, genre-based writing practice; added in anticipation of extended written communication requirements during the Berlin job search and visa process.
+
+---
+
 ## [2026-07-17] — REFLECTIONS.md established; BACKLOG audit: 7 redundant/stale entries pruned; EU relocation logistics promoted to joker-1; React Native breakout & CI/CD deep dive added
 
 ### Added
