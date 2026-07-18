@@ -686,7 +686,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [joker-1] — [Goal Description] reframed: expanded from strictly Berlin-based role to any software developer role enabling Berlin relocation; global distributed roles with UTC+1 timezone compatibility added as co-equal search lane
-- [joker-1] — [Resources > Job Boards] global distributed companies added as direct careers page references (Canonical, Mozilla, Automattic, GitLab, Elastic, Fastly)
+- [joker-1] — [Resources > Job Boards] global distributed companies added as direct careers page references (tracked privately)
 - [03-diamonds] — [Target Completion] set: 2026-07-01
 - [03-diamonds] — subtasks expanded to chapter-level granularity with batched Try It Yourself sessions (Ch. 1–3, 4–6, 7–9, 10, 11)
 - [03-diamonds] — [Part 1] flashcard annotation added (Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-06-08)
