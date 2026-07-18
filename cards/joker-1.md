@@ -35,71 +35,9 @@ This wildcard goal ties together multiple threads:
 
 ## Resources
 
-**Writing & Communication:**
+Full resource list maintained in [RESOURCES.md](../RESOURCES.md#joker-1-software-developer-job-offer-in-berlin) — kept off this card to reduce file weight (exception to the deck-wide convention of duplicating resources on-card, given this card's volume of job-board and relocation links).
 
-- [Writing for Developers](https://eatonphil.com/2025-writing-for-developers.html) - Phil Eaton's Software Internals Book Club — technical writing: documentation, technical prose, and professional correspondence
-
-**Job Boards:**
-
-_Tier 1 — German Market Dominants_
-
-- [StepStone](https://www.stepstone.de) - Dominant private portal for specialist roles
-- [XING](https://www.xing.com) - Native German LinkedIn equivalent; useful for professional networking
-- [Indeed Germany](https://www.indeed.de) - Aggregates listings from dozens of sources including smaller companies
-- [LinkedIn Jobs](https://www.linkedin.com/jobs/) - Filter: Berlin + backend/software developer
-
-_Tier 2 — Berlin & German Tech Specific_
-
-- [Berlin Startup Jobs](https://berlinstartupjobs.com) - Leading platform for Berlin tech jobs specifically
-- [German Dev Jobs](https://germantechjobs.de/en) - Developer-focused; includes salary brackets and company culture insights
-- [WeAreDevelopers](https://www.wearedevelopers.com/jobs) - Developer-specific, Berlin-filterable, salary transparency
-- [Built In Berlin](https://builtin.com/eu/germany/berlin) - Premium tech employer focus, curated listings
-- [TrueUp](https://trueup.io/berlin) - Berlin tech aggregator, startup and scale-up focused
-
-_Tier 3 — European & International with Berlin Coverage_
-
-- [Wellfound](https://wellfound.com/role/l/software-engineer/berlin) - Startup equity plays, single profile application
-- [EuroTechJobs](https://www.eurotechjobs.com) - Europe-wide tech, Python/backend filters available
-- [Glassdoor](https://www.glassdoor.com) - Filter Berlin + software developer; also useful for company reviews and salary benchmarking
-- [Arbeitnow](https://www.arbeitnow.com) - English-speaking jobs in Germany, relocation support flagged
-- [Hisignal](https://hisignal.io) - AI matching for Berlin tech roles including exclusive off-board opportunities
-- [Handpicked Berlin](https://www.handpickedberlin.com/jobs) - Community-curated, Berlin tech scene focused
-- [Stack Overflow Jobs](https://stackoverflow.com/jobs) - Developer-focused, global but filterable
-
-_Tier 4 — German General Boards_
-
-- [Stellenanzeigen.de](https://www.stellenanzeigen.de) - 3.2M monthly visitors; broad Berlin reach
-- [JobNinja](https://www.jobninja.com) - AI-driven distribution, 2.2M monthly visits
-- [Monster Germany](https://www.monster.de) - Legacy platform, lower signal but still active
-- [BA Jobsuche](https://www.arbeitsagentur.de/jobsuche/) - Official German Federal Employment Agency job board
-
-_Bonus — Community & Niche_
-
-- [Awesome Visa-Sponsored Jobs](https://github.com/Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs) - Community-maintained daily list; useful for companies known to hire internationally
-- [Python.org Jobs](https://www.python.org/jobs/) - Python-specific global listings, some Berlin roles
-- [AngelList](https://angel.co/jobs) - Startup equity, global
-
-_Global Distributed (UTC+1 compatible)_
-
-- Global distributed companies (UTC+1-compatible) — tracked privately.
-
-**Visa/Relocation Resources:**
-
-- [Make it in Germany](https://www.make-it-in-germany.com) - Official German visa information
-- [EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card) - Highly skilled worker visa
-- [Berlin.de Expat Guide](https://www.berlin.de/willkommen-in-berlin/en/)
-
-**Networking:**
-
-- Berlin tech meetups and conferences
-- LinkedIn networking with Berlin-based developers
-- Tech communities (Berlin Tech Workers, etc.)
-
-**Community & Visibility:**
-
-- [dev.to](https://dev.to) - Primary technical blogging platform; cross-post to Medium
-- [Stack Overflow](https://stackoverflow.com) - Establish presence in Python, Linux, Docker, AWS tags
-- [Medium](https://medium.com) - Cross-posting destination for dev.to content (minimal refactor)
+**Categories tracked:** Writing & Communication · Job Boards (Tiers 1–4 + bonus + global distributed) · Visa/Relocation · Networking · Community & Visibility
 
 ---
 

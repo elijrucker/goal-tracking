@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-18] — joker-1 Reading & Writing subtask group added; Schreiben Lernen series added
+## [2026-07-18] — joker-1 Resources relocated to RESOURCES.md; Reading & Writing subtask group added; Schreiben Lernen series added
 
 ### Changed
 
 - [joker-1] — [Subtasks] new subtask group "Reading & Writing" added; "Read 'Writing for Developers'" relocated here from Profile, Portfolio & Credentials to consolidate reading/writing goals not directly tied to CS tools or methods
+- [joker-1] / [RESOURCES] — [Resources] full resource list (Writing & Communication, Job Boards by tier, Visa/Relocation, Networking, Community & Visibility) moved from the card into RESOURCES.md; card now holds a short pointer and category summary in its place. Deliberate exception to the deck-wide convention of duplicating resources on-card, made given this card's volume of job-board and relocation links.
 
 ### Added
 
