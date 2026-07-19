@@ -5,6 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-19] — 02-spades Week 10 Lecture closed
+
+### Completed
+
+- [02-spades] — [Week 10: The End — Lecture] closed
+
+### Changed
+
+- [02-spades] — [AI Lecture] marked in progress
+
 ## [2026-07-18] — joker-1 Resources relocated to RESOURCES.md; Reading & Writing subtask group added; Schreiben Lernen series added; 02-spades Week 9 Lecture closed; joker-1 targeted application process begun
 
 ### Changed

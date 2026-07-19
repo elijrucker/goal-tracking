@@ -37,17 +37,17 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 ### On the Board
 
-| Card | Goal                             | Status      | Subtask Progress |
-| ---- | -------------------------------- | ----------- | ---------------- |
-| 2♠️  | CS50x                            | In Progress | 10/23             |
-| 3♠️  | The Mythical Man-Month (V2)      | In Progress | 1/19             |
-| 3♦️  | Python Crash Course              | In Progress | 5/20             |
-| 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6              |
-| 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units      |
-| J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4              |
-| 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites* |
-| 2♥️  | Index Investing Fundamentals     | In Progress | 0/13             |
-| 9♣️  | LeetCode Practice                | In Progress | 0/9              |
+| Card | Goal                             | Status      | Subtask Progress    |
+| ---- | -------------------------------- | ----------- | ------------------- |
+| 2♠️  | CS50x                            | In Progress | 11/23               |
+| 3♠️  | The Mythical Man-Month (V2)      | In Progress | 1/19                |
+| 3♦️  | Python Crash Course              | In Progress | 5/20                |
+| 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6                 |
+| 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units         |
+| J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4                 |
+| 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
+| 2♥️  | Index Investing Fundamentals     | In Progress | 0/13                |
+| 9♣️  | LeetCode Practice                | In Progress | 0/9                 |
 
 \* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, LeetCode Practice, Associate's
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.

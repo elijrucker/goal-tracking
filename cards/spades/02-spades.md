@@ -60,9 +60,9 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 - [ ] Week 8: Assignments
 - [x] Week 9: Flask — Lecture
 - [ ] Week 9: Assignments
-- [/] Week 10: The End — Lecture
+- [x] Week 10: The End — Lecture
 - [ ] Week 10: Assignments
-- [ ] AI Lecture (standalone)
+- [/] AI Lecture (standalone)
 
 ---
 
