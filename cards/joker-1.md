@@ -99,7 +99,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 **Execution**
 
-- [ ] Apply to target companies in Berlin
+- [/] Apply to target companies in Berlin (Batch 1 applications; cover letter and resume review)
 - [ ] Pass technical interviews
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process

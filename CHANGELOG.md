@@ -5,16 +5,22 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-18] — joker-1 Resources relocated to RESOURCES.md; Reading & Writing subtask group added; Schreiben Lernen series added
+## [2026-07-18] — joker-1 Resources relocated to RESOURCES.md; Reading & Writing subtask group added; Schreiben Lernen series added; 02-spades Week 9 Lecture closed; joker-1 targeted application process begun
 
 ### Changed
 
 - [joker-1] — [Subtasks] new subtask group "Reading & Writing" added; "Read 'Writing for Developers'" relocated here from Profile, Portfolio & Credentials to consolidate reading/writing goals not directly tied to CS tools or methods
 - [joker-1] / [RESOURCES] — [Resources] full resource list (Writing & Communication, Job Boards by tier, Visa/Relocation, Networking, Community & Visibility) moved from the card into RESOURCES.md; card now holds a short pointer and category summary in its place. Deliberate exception to the deck-wide convention of duplicating resources on-card, made given this card's volume of job-board and relocation links.
+- [02-spades] — [Week 10: The End — Lecture] marked in progress
+- [joker-1] — [Apply to target companies in Berlin] marked in progress; annotation added (Batch 1 applications; cover letter and resume review)
 
 ### Added
 
 - [joker-1] — Schreiben Lernen (A Writing Guide for Learners of German, 2nd ed., Dykstra-Pruim & Redmann) subtask series added; 10 chapters, genre-based writing practice; added in anticipation of extended written communication requirements during the Berlin job search and visa process.
+
+### Completed
+
+- [02-spades] — [Week 9: Flask — Lecture] closed
 
 ---
 
@@ -116,7 +122,6 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Summer 26 > introPhilosophy > Module 2] marked in progress
 - [10-hearts] — [introPhilosophy > Module 2 > Read Mill] marked in progress
 - [10-hearts] — [introPhilosophy > Module 2 > Discussion Post + 2 replies] marked in progress; annotation updated (Discussion posted, replies due 07/20)
-
 
 ### Added
 
