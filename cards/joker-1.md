@@ -130,6 +130,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-07-20] Researched salary negotiation benchmarks ahead of offer stage: German tax bracket structure (progressive formula, not fixed brackets), EU Blue Card salary thresholds (standard vs. shortage-occupation), Berlin entry-level market salary bands, and typical junior-to-mid promotion timeline. Established personal negotiation floor and aspirational target for use once an offer is extended.
 - [2026-07-14] Java/Kotlin identified as highest-leverage skill gap: appears in 4 of 7 vetted postings — more than any other language — and aligns with upcoming MATC coursework. Worth a dedicated prioritization session to sequence against Python Crash Course, AWS cert prep, and MATC scheduling; not yet acted on. (Employer-specific detail tracked privately.)
 - [2026-07-14] [Profile, Portfolio & Credentials > Develop resume suite] German Lebenslauf confirmed final by native-speaker review; no revisions required. German portfolio gate (LinkedIn + CV + resume + cover letter suite) is now fully closed.
 - [2026-07-14] Cover letters drafted this session for the three active applications, relocation language in each anchored to the EU Blue Card / D-visa mechanism rather than specific dates. Target employer list also expanded — confirmed live leads (junior-level roles or established graduate pipelines) for the next application batch.
