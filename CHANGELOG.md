@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-21] — 02-spades AI Lecture closed; 03-diamonds Ch. 6 closed; 10-hearts CLEP Algebra Review progress
+## [2026-07-21] — 02-spades AI Lecture closed; 03-diamonds Ch. 6 closed; 10-hearts CLEP Algebra Review progress; 10-hearts YDKJS relocated under Fall 26 > advancedJavaScript; Eloquent JavaScript added
 
 ### Completed
 
@@ -18,6 +18,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [CLEP Algebra Review > Modern States] subtask name updated to quote 'Modern States' for CHANGELOG shorthand referencing
 - [10-hearts] — [CLEP Algebra Review] marked in progress
 - [10-hearts] — [CLEP Algebra Review> Modern States] marked in progress; updated annotation (2026-07-21; Review 1.1, Proceed 1.2)
+- [10-hearts] — [You Don't Know JS: ES6 & Beyond] moved from Summer 26 to Fall 26, nested directly under the advancedJavaScript retake line item
+
+### Added
+
+- [10-hearts] — [Complete remaining required courses] added new subtask series [Eloquent JavaScript (4th ed.)], positioned between "Fulfill math elective requirement" and "Fall 26"; read in parallel with Python Crash Course (tracked externally, not in this file); target completion by the start of the Fall 2026 semester
 
 ---
 

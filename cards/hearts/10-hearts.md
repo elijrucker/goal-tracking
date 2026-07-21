@@ -41,19 +41,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
-- [/] Complete remaining required courses
+- [/] **Complete remaining required courses**
   - [/] Summer 26
     - [x] jobSearchPrep
-    - [/] You Don't Know JS: ES6 & Beyond (independent reading, outside course context; advancedJavaScript course dropped Summer 2026, flagged for retake Fall 2026)
-      - [x] Ch. 1 – ES? Now & Future
-      - [/] Ch. 2 – Syntax
-      - [ ] Ch. 3 – Organization
-      - [ ] Destructuring re-review (Target: week of 2026-07-06/07) — Ch. 2 first pass hit retention limit on peripheral variations (Not Just Declarations, Destructuring Parameters); revisit once distance has passed rather than immediately
-      - [ ] Ch. 4 – Async Flow Control
-      - [ ] Ch. 5 – Collections
-      - [ ] Ch. 6 – API Additions
-      - [ ] Ch. 7 – Meta Programming
-      - [ ] Ch. 8 – Beyond ES6
     - [/] introPhilosophy (06/22–08/14)
       - [x] Module 1 – Introduction to Philosophy
       - [x] Module 2 – Applied Ethics and Ethical Theory
@@ -73,7 +63,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
         - [ ] Journal Entry (due 08/17)
         - [ ] Comprehensive Exam (due 08/17)
 
-- [/] Fulfill math elective requirement (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
+- [/] **Fulfill math elective requirement** (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
   - [/] CLEP Algebra Review:
     - [/] 'Modern States' free CLEP College Algebra course (2026-07-21; Review 1.1, Proceed 1.2)
     - [ ] ALEKS diagnostic to identify specific gaps
@@ -82,8 +72,42 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] Pass CLEP College Algebra (target score: 50+)
   - [ ] [Auxiliary] Complete statistics review for DSST Principles of Statistics
   - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
-- [ ] Fall 26
+
+- [ ] **Eloquent JavaScript (4th ed.)** (independent reading, in parallel with Python Crash Course [tracked externally, not in this file]; target completion: start of Fall 2026 semester)
+  - [ ] Ch. 1 – Values, Types, and Operators
+  - [ ] Ch. 2 – Program Structure
+  - [ ] Ch. 3 – Functions
+  - [ ] Ch. 4 – Data Structures: Objects and Arrays
+  - [ ] Ch. 5 – Higher-Order Functions
+  - [ ] Ch. 6 – The Secret Life of Objects
+  - [ ] Ch. 7 – Project: A Robot
+  - [ ] Ch. 8 – Bugs and Errors
+  - [ ] Ch. 9 – Regular Expressions
+  - [ ] Ch. 10 – Modules
+  - [ ] Ch. 11 – Asynchronous Programming
+  - [ ] Ch. 12 – Project: A Programming Language
+  - [ ] Ch. 13 – JavaScript and the Browser
+  - [ ] Ch. 14 – The Document Object Model
+  - [ ] Ch. 15 – Handling Events
+  - [ ] Ch. 16 – Project: A Platform Game
+  - [ ] Ch. 17 – Drawing on Canvas
+  - [ ] Ch. 18 – HTTP and Forms
+  - [ ] Ch. 19 – Project: A Pixel Art Editor
+  - [ ] Ch. 20 – Node.js
+  - [ ] Ch. 21 – Project: Skill-Sharing Website
+  - [ ] Ch. 22 – JavaScript and Performance
+
+- [ ] **Fall 26**
   - [ ] advancedJavaScript (08/31-12/18)
+  - [ ] You Don't Know JS: ES6 & Beyond (independent reading, outside course context; advancedJavaScript course dropped Summer 2026, flagged for retake Fall 2026)
+    - [ ] Ch. 1 – ES? Now & Future
+    - [ ] Ch. 2 – Syntax
+    - [ ] Ch. 3 – Organization
+    - [ ] Ch. 4 – Async Flow Control
+    - [ ] Ch. 5 – Collections
+    - [ ] Ch. 6 – API Additions
+    - [ ] Ch. 7 – Meta Programming
+    - [ ] Ch. 8 – Beyond ES6
   - [ ] technicalReporting (08/31-12/18)
   - [ ] javaProgramming (08/31–12/18)
   - [ ] phpWebMySQL (08/31–12/18)
