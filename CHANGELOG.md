@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-20] — 10-hearts introPhilosophy Module 2 closed
+## [2026-07-20] — 10-hearts introPhilosophy Module 2 closed; joker-1 salary negotiation research logged
 
 ### Completed
 
 - [10-hearts] — [introPhilosophy > Module 2 – Applied Ethics and Ethical Theory] closed
+
+### Changed
+
+- [10-hearts] — [introPhilosophy > Module 2] completed children pruned (dynamic card convention)
+
+### Notes
+
+- [joker-1] — [Progress Notes] added note (2026-07-20; researched salary negotiation benchmarks ahead of offer stage — German tax bracket structure, EU Blue Card salary thresholds, Berlin entry-level market salary bands, and typical junior-to-mid promotion timeline; personal negotiation floor and aspirational target established for use once an offer is extended)
 
 ---
 
