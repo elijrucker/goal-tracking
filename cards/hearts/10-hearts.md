@@ -56,13 +56,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Ch. 8 – Beyond ES6
     - [/] introPhilosophy (06/22–08/14)
       - [x] Module 1 – Introduction to Philosophy
-      - [/] Module 2 – Applied Ethics and Ethical Theory (due 07/20)
-        - [x] Read Singer, "The Life You Can Save"
-        - [/] Read Mill, "Utilitarianism" (Norton)
-        - [ ] Read Ross, "What Makes Right Acts Right?" (Blackboard PDF)
-        - [ ] Quiz (due 07/20)
-        - [/] Discussion Post + 2 replies (Discussion posted, replies due 07/20)
-        - [ ] Journal Entry (due 07/20)
+      - [x] Module 2 – Applied Ethics and Ethical Theory
       - [ ] Module 3 – Epistemology (due 08/03)
         - [ ] Read Descartes, "Meditation I" (Norton)
         - [ ] Read Moore, "Proof of an External World" (Norton)
@@ -78,7 +72,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
         - [ ] Discussion Post + 2 replies (due 08/17)
         - [ ] Journal Entry (due 08/17)
         - [ ] Comprehensive Exam (due 08/17)
-
 
 - [/] Fulfill math elective requirement (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
   - [ ] Complete algebra review for CLEP:
