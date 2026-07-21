@@ -13,7 +13,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-20] — 10-hearts introPhilosophy Module 2 closed; joker-1 salary negotiation research logged
+## [2026-07-20] — 10-hearts introPhilosophy Module 2 closed; joker-1 salary negotiation research logged; 10-hearts Fall 26 course signup annotations updated
 
 ### Completed
 
@@ -22,6 +22,8 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [introPhilosophy > Module 2] completed children pruned (dynamic card convention)
+- [10-hearts] — [Fall 26 > advancedJavaScript] updated annotation (08/31-12/18)
+- [10-hearts] — [Fall 26 > technicalReporting] updated annotation (08/31-12/18)
 
 ### Notes
 

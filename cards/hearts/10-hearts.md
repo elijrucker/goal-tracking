@@ -83,8 +83,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] [Auxiliary] Complete statistics review for DSST Principles of Statistics
   - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
 - [ ] Fall 26
-  - [ ] advancedJavaScript (retake - still need to sign up for the course)
-  - [ ] technicalReporting (retake - still need to sign up for the course)
+  - [ ] advancedJavaScript (08/31-12/18)
+  - [ ] technicalReporting (08/31-12/18)
   - [ ] javaProgramming (08/31–12/18)
   - [ ] phpWebMySQL (08/31–12/18)
 - [/] Maintain satisfactory GPA
