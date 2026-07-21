@@ -5,12 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-21] — 02-spades AI Lecture closed; 03-diamonds Ch. 6 closed
+## [2026-07-21] — 02-spades AI Lecture closed; 03-diamonds Ch. 6 closed; 10-hearts CLEP Algebra Review progress
 
 ### Completed
 
 - [02-spades] — [AI Lecture] closed
 - [03-diamonds] — [Ch. 6: Dictionaries] closed
+
+### Changed
+
+- [10-hearts] — [CLEP Algebra Review] renamed from [Complete algebra review for CLEP]
+- [10-hearts] — [CLEP Algebra Review > Modern States] subtask name updated to quote 'Modern States' for CHANGELOG shorthand referencing
+- [10-hearts] — [CLEP Algebra Review] marked in progress
+- [10-hearts] — [CLEP Algebra Review> Modern States] marked in progress; updated annotation (2026-07-21; Review 1.1, Proceed 1.2)
 
 ---
 

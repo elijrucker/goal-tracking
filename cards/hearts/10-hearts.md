@@ -74,8 +74,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
         - [ ] Comprehensive Exam (due 08/17)
 
 - [/] Fulfill math elective requirement (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
-  - [ ] Complete algebra review for CLEP:
-    - [ ] Modern States free CLEP College Algebra course (2026-06-19; registered, begin ch.1)
+  - [/] CLEP Algebra Review:
+    - [/] 'Modern States' free CLEP College Algebra course (2026-07-21; Review 1.1, Proceed 1.2)
     - [ ] ALEKS diagnostic to identify specific gaps
     - [ ] Professor Leonard College Algebra (YouTube) for conceptual depth
     - [ ] Official CLEP College Algebra practice exam (timed)
