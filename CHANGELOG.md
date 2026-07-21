@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-21] — 02-spades AI Lecture closed
+## [2026-07-21] — 02-spades AI Lecture closed; 03-diamonds Ch. 6 closed
 
 ### Completed
 
 - [02-spades] — [AI Lecture] closed
+- [03-diamonds] — [Ch. 6: Dictionaries] closed
 
 ---
 
