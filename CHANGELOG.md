@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-21] — 02-spades AI Lecture closed
+
+### Completed
+
+- [02-spades] — [AI Lecture] closed
+
+---
+
 ## [2026-07-20] — 10-hearts introPhilosophy Module 2 closed; joker-1 salary negotiation research logged
 
 ### Completed
