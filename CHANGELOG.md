@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-26] — 03-diamonds progress
+
+### Completed
+
+- [03-diamonds] — [Ch. 7: User Input and while Loops] closed
+
+### Changed
+
+- [03-diamonds] — [Ch. 8: Functions] marked in progress
+
+---
+
 ## [2026-07-25] — 03-spades-v2 progress
 
 ### Completed

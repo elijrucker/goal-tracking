@@ -50,8 +50,8 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 - [x] Ch. 5: if Statements
 - [x] Ch. 6: Dictionaries
 - [ ] Try It Yourself — Ch. 4–6
-- [ ] Ch. 7: User Input and while Loops
-- [ ] Ch. 8: Functions
+- [x] Ch. 7: User Input and while Loops
+- [/] Ch. 8: Functions
 - [ ] Ch. 9: Classes
 - [ ] Try It Yourself — Ch. 7–9
 - [ ] Ch. 10: Files and Exceptions
