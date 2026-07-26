@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-26] — 03-diamonds progress
+## [2026-07-26] — 03-diamonds progress; 02-spades notes update
 
 ### Completed
 
@@ -14,6 +14,11 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [03-diamonds] — [Ch. 8: Functions] marked in progress
+
+### Notes
+
+- [02-spades] — [Progress Notes] added note (2026-06-19; Python syntax vs. design discipline realization; transferable principles across Python/Java/JavaScript)
+- [02-spades] — [Goal Description] added completion criteria and free certificate details (cs50.harvard.edu Gradebook; 70%+ threshold)
 
 ---
 

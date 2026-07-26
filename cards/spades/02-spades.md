@@ -24,6 +24,8 @@
 
 Complete Harvard's CS50x - Introduction to Computer Science. One of the most respected introductory CS courses in the world. Already in progress. Covers a broad range of CS fundamentals including C, Python, SQL, data structures, algorithms, and web basics. A prerequisite for CS50 AI and CS50 Cybersecurity.
 
+Completion requires 70%+ on all problem sets, labs, and the final project — triggers a free CS50 Certificate (Harvard-issued) automatically via cs50.harvard.edu Gradebook. No payment required. Paid edX verified certificate ($199) adds LinkedIn verification badge only.
+
 ---
 
 ## Resources
@@ -68,6 +70,7 @@ Complete Harvard's CS50x - Introduction to Computer Science. One of the most res
 
 ## Progress Notes
 
+- [2026-06-19] Realized mid-Lecture 6 (Python) that initial struggle with Python syntax was actually a struggle with design discipline, not syntax itself. Python enforces indentation as semantic structure rather than stylistic convention, making clean code a language requirement rather than a best practice. Real transferable skill across Python, Java, and JavaScript is underlying design discipline (pragmatism, cleanliness, structure) — not syntax. Building broad foundational literacy across all three languages now; syntax specialization deferred until job requirements demand it.
 - [2026-06-01] Target set: complete all remaining lectures by 2026-07-06 at a pace of one lecture per week. Addressing tendency to let gaps stretch between lectures.
 - Week 4: Memory lecture started, assignments not yet begun (2026-03-19)
 - Lectures for Week 0 - Week 3 watched (2026-03-17)
