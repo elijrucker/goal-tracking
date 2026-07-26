@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-26] — 03-diamonds progress; 02-spades notes update
+## [2026-07-26] — 02-spades subtask refactor; 03-diamonds progress; 02-spades notes update
 
 ### Completed
 
@@ -14,6 +14,8 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [03-diamonds] — [Ch. 8: Functions] marked in progress
+- [02-spades] — subtasks refactored: each week's single "Assignments" line replaced with a Tutor Session (CS50.ai) step plus one line per individual problem set assignment (per cs50.harvard.edu/x/psets/); Lecture rows retained as-is; 52 subtasks total
+- [02-spades] — subtasks nested: each week grouped under a parent checkbox (Lecture, Tutor Session, and assignments as children), matching the pattern used in 03-spades-v2; AI Lecture remains standalone
 
 ### Notes
 

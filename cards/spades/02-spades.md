@@ -42,28 +42,68 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
 
 ## Subtasks
 
-- [x] Week 0: Scratch — Lecture
-- [ ] Week 0: Assignments
-- [x] Week 1: C — Lecture
-- [ ] Week 1: Assignments
-- [x] Week 2: Arrays — Lecture
-- [ ] Week 2: Assignments
-- [x] Week 3: Algorithms — Lecture
-- [ ] Week 3: Assignments
-- [x] Week 4: Memory — Lecture
-- [ ] Week 4: Assignments
-- [x] Week 5: Data Structures — Lecture
-- [ ] Week 5: Assignments
-- [x] Week 6: Python — Lecture
-- [ ] Week 6: Assignments
-- [x] Week 7: SQL — Lecture
-- [ ] Week 7: Assignments
-- [x] Week 8: HTML, CSS, JavaScript — Lecture
-- [ ] Week 8: Assignments
-- [x] Week 9: Flask — Lecture
-- [ ] Week 9: Assignments
-- [x] Week 10: The End — Lecture
-- [ ] Week 10: Assignments
+- [/] Week 0: Scratch
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Starting from Scratch
+- [/] Week 1: C
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Hello, World
+  - [ ] Hello, It's Me
+  - [ ] Mario (Less or More Comfortable)
+  - [ ] Cash or Credit
+- [/] Week 2: Arrays
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Scrabble
+  - [ ] Readability
+  - [ ] Caesar or Substitution
+- [/] Week 3: Algorithms
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Sort
+  - [ ] Plurality
+  - [ ] Runoff or Tideman
+- [/] Week 4: Memory
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Volume
+  - [ ] Filter (Less or More Comfortable)
+  - [ ] Recover
+- [/] Week 5: Data Structures
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Inheritance
+  - [ ] Speller
+- [/] Week 6: Python
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Hello
+  - [ ] Mario (Less or More Comfortable)
+  - [ ] Cash or Credit
+  - [ ] Readability
+  - [ ] DNA
+- [/] Week 7: SQL
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Songs
+  - [ ] Movies
+  - [ ] Fiftyville
+- [/] Week 8: HTML, CSS, JavaScript
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Trivia
+  - [ ] Homepage
+- [/] Week 9: Flask
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Birthdays
+  - [ ] Finance
+- [/] Week 10: The End
+  - [x] Lecture
+  - [ ] Tutor Session (CS50.ai)
+  - [ ] Final Project
 - [x] AI Lecture
 
 ---
