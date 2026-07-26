@@ -10,6 +10,12 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [03-diamonds] — [Ch. 7: User Input and while Loops] closed
+- [02-spades] — [Week 0: Scratch] closed
+- [02-spades] — [Week 0: Scratch > Tutor Session (CS50.ai)] closed
+- [02-spades] — [Week 0: Scratch > Starting from Scratch] closed
+- [02-spades] — [Week 1: C > Tutor Session (CS50.ai)] closed
+- [02-spades] — [Week 1: C > Hello, It's Me] closed
+- [02-spades] — [Week 1: C > Hello, World] closed (satisfied via the same submission as Hello, It's Me)
 
 ### Changed
 
@@ -22,6 +28,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [02-spades] — [Progress Notes] added note (2026-06-19; Python syntax vs. design discipline realization; transferable principles across Python/Java/JavaScript)
 - [02-spades] — [Goal Description] added completion criteria and free certificate details (cs50.harvard.edu Gradebook; 70%+ threshold)
+- [02-spades] — [Progress Notes] added note (2026-07-26; Week 0 completed before official tracking began; current progress reflected including Week 1)
 
 ---
 

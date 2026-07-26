@@ -42,15 +42,15 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
 
 ## Subtasks
 
-- [/] Week 0: Scratch
+- [x] Week 0: Scratch
   - [x] Lecture
-  - [ ] Tutor Session (CS50.ai)
-  - [ ] Starting from Scratch
+  - [x] Tutor Session (CS50.ai)
+  - [x] Starting from Scratch
 - [/] Week 1: C
   - [x] Lecture
-  - [ ] Tutor Session (CS50.ai)
-  - [ ] Hello, World
-  - [ ] Hello, It's Me
+  - [x] Tutor Session (CS50.ai)
+  - [x] Hello, World
+  - [x] Hello, It's Me
   - [ ] Mario (Less or More Comfortable)
   - [ ] Cash or Credit
 - [/] Week 2: Arrays
@@ -110,6 +110,7 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
 
 ## Progress Notes
 
+- [2026-07-26] Week 0 was completed before official tracking began; subtask series updated to reflect actual current progress, including Week 1 (Tutor Session, Hello, World, and Hello, It's Me completed — Hello, World was satisfied as part of the same submission as Hello, It's Me).
 - [2026-06-19] Realized mid-Lecture 6 (Python) that initial struggle with Python syntax was actually a struggle with design discipline, not syntax itself. Python enforces indentation as semantic structure rather than stylistic convention, making clean code a language requirement rather than a best practice. Real transferable skill across Python, Java, and JavaScript is underlying design discipline (pragmatism, cleanliness, structure) — not syntax. Building broad foundational literacy across all three languages now; syntax specialization deferred until job requirements demand it.
 - [2026-06-01] Target set: complete all remaining lectures by 2026-07-06 at a pace of one lecture per week. Addressing tendency to let gaps stretch between lectures.
 - Week 4: Memory lecture started, assignments not yet begun (2026-03-19)
