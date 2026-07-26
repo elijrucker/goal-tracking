@@ -19,6 +19,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [CLEP Algebra Review] marked in progress
 - [10-hearts] — [CLEP Algebra Review> Modern States] marked in progress; updated annotation (2026-07-21; Review 1.1, Proceed 1.2)
 - [10-hearts] — [You Don't Know JS: ES6 & Beyond] moved from Summer 26 to Fall 26, nested directly under the advancedJavaScript retake line item
+- [03-spades-v2] — [Ch. 2 — The Mythical Man-Month] marked in progress
 
 ### Added
 
