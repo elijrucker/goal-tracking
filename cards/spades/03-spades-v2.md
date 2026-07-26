@@ -42,9 +42,9 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
 
 - [/] Read The Mythical Man-Month (Fred Brooks, 20th Anniversary Ed.)
   - [x] Ch. 1 — The Tar Pit
-  - [/] Ch. 2 — The Mythical Man-Month
-  - [ ] Ch. 3 — The Surgical Team
-  - [ ] Ch. 4 — Aristocracy, Democracy, and System Design
+  - [x] Ch. 2 — The Mythical Man-Month
+  - [x] Ch. 3 — The Surgical Team
+  - [/] Ch. 4 — Aristocracy, Democracy, and System Design
   - [ ] Ch. 5 — The Second-System Effect
   - [ ] Ch. 6 — Passing the Word
   - [ ] Ch. 7 — Why Did the Tower of Babel Fail?

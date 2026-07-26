@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-25] — 03-spades-v2 progress
+
+### Completed
+
+- [03-spades-v2] — [Ch. 2 — The Mythical Man-Month] closed
+- [03-spades-v2] — [Ch. 3 — The Surgical Team] closed
+
+### Changed
+
+- [03-spades-v2] — [Ch. 4 — Aristocracy, Democracy, and System Design] marked in progress
+
+---
+
 ## [2026-07-21] — 02-spades AI Lecture closed; 03-diamonds Ch. 6 closed; 10-hearts CLEP Algebra Review progress; 10-hearts YDKJS relocated under Fall 26 > advancedJavaScript; Eloquent JavaScript added
 
 ### Completed
