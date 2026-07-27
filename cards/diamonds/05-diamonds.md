@@ -31,6 +31,7 @@ Build or source an Anki deck for Python and establish a consistent spaced repeti
 - [Anki](https://apps.ankiweb.net) - Spaced repetition flashcard platform
 - [AnkiWeb](https://ankiweb.net/shared/decks/python) - Search for shared Python decks
 - Fluent Python by Luciano Ramalho, 2nd Edition (O'Reilly, 2022) (book)
+- [Python for Everybody (py4e.com)](https://www.py4e.com/) - Supplemental Python curriculum resource; timing for inclusion not yet decided
 
 ---
 

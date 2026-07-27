@@ -29,7 +29,7 @@ Complete a focused algorithms course or resource using Python as the implementat
 ## Resources
 
 - TBD - Select resource after completing Python Crash Course
-- Options: Grokking Algorithms (book), CS50P, Python-specific algorithms course
+- Options: Grokking Algorithms (book), CS50P, [Python for Everybody (py4e.com)](https://www.py4e.com/), Python-specific algorithms course
 
 ---
 

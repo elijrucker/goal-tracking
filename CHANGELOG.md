@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-27] — 03-spades-v2 progress; 02-spades extra-curricular resource added
+## [2026-07-27] — 03-spades-v2 progress; 02-spades extra-curricular resource added; py4e.com added to Python-specific cards
 
 ### Completed
 
@@ -14,6 +14,9 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [02-spades] — [Resources] added "Learn C Programming and OOP with Dr. Chuck" (extra-curricular prep for the C-based weeks, Weeks 1-5)
+- [03-diamonds] — [Resources] added Python for Everybody (py4e.com); timing for inclusion in curriculum not yet decided
+- [05-diamonds] — [Resources] added Python for Everybody (py4e.com); timing for inclusion in curriculum not yet decided
+- [06-clubs] — [Resources] added Python for Everybody (py4e.com) to resource options list
 
 ### Notes
 

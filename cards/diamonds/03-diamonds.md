@@ -29,6 +29,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 ## Resources
 
 - Python Crash Course by Eric Matthes (book)
+- [Python for Everybody (py4e.com)](https://www.py4e.com/) - Supplemental Python curriculum resource; timing for inclusion not yet decided
 
 ---
 
