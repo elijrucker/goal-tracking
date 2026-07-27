@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-27] — 03-spades-v2 progress
+
+### Completed
+
+- [03-spades-v2] — [Ch. 4 — Aristocracy, Democracy, and System Design] closed
+
+---
+
 ## [2026-07-26] — 02-spades Week 0 closed; 02-spades subtask refactor; 03-diamonds progress; 02-spades notes update
 
 ### Completed
