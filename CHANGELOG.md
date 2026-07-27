@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-27] — 03-spades-v2 progress
+## [2026-07-27] — 03-spades-v2 progress; 02-spades extra-curricular resource added
 
 ### Completed
 
 - [03-spades-v2] — [Ch. 4 — Aristocracy, Democracy, and System Design] closed
+
+### Added
+
+- [02-spades] — [Resources] added "Learn C Programming and OOP with Dr. Chuck" (extra-curricular prep for the C-based weeks, Weeks 1-5)
+
+### Notes
+
+- [02-spades] — [Progress Notes] added note (2026-07-27; elected to use Dr. Chuck C/OOP video as extra-curricular prep for Weeks 1-5)
 
 ---
 

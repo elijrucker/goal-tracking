@@ -31,6 +31,7 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
 ## Resources
 
 - [CS50x - Introduction to Computer Science](https://cs50.harvard.edu/x/) - Harvard/edX course (in progress)
+- [Learn C Programming and OOP with Dr. Chuck](https://www.youtube.com/watch?v=PaPN51Mm5qQ) - Extra-curricular prep for the C-based weeks (Weeks 1-5)
 
 ---
 
@@ -110,6 +111,7 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
 
 ## Progress Notes
 
+- [2026-07-27] Elected to use "Learn C Programming and OOP with Dr. Chuck" as extra-curricular prep material for the C-based weeks (Weeks 1-5). Initially considered this outside the scope of CS50x itself, but reconsidered: understanding C deeply translates into more effective use of higher-level languages, tools, and systems built on top of it, making it worth the extra time beyond what the course strictly requires.
 - [2026-07-26] Week 0 was completed before official tracking began; subtask series updated to reflect actual current progress, including Week 1 (Tutor Session, Hello, World, and Hello, It's Me completed — Hello, World was satisfied as part of the same submission as Hello, It's Me).
 - [2026-06-19] Realized mid-Lecture 6 (Python) that initial struggle with Python syntax was actually a struggle with design discipline, not syntax itself. Python enforces indentation as semantic structure rather than stylistic convention, making clean code a language requirement rather than a best practice. Real transferable skill across Python, Java, and JavaScript is underlying design discipline (pragmatism, cleanliness, structure) — not syntax. Building broad foundational literacy across all three languages now; syntax specialization deferred until job requirements demand it.
 - [2026-06-01] Target set: complete all remaining lectures by 2026-07-06 at a pace of one lecture per week. Addressing tendency to let gaps stretch between lectures.
