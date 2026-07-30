@@ -24,6 +24,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [02-spades] — [Progress Notes] 2026-07-29 note removed; overlapped the 2026-07-27 note (both covered electing to use the Dr. Chuck resource) and is now superseded by the dedicated subtask annotation
+- [joker-1] — [Review and update social media & community accounts] subtask series pruned (closed and logged above per dynamic card retention rules)
 
 ---
 

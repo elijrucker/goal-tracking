@@ -83,10 +83,6 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
   - [ ] Java CLI copy tool (`cp` reimplementation); verbose-by-default design inverts `cp`'s silent default (`-q` opts out to original silence); `Copyable` interface (`File`/`Directory`) demonstrates polymorphism, dynamic dispatch, and the Composite pattern; containerized
 - [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
 - [ ] Portfolio website — personal domain; defer post-relocation
-- [x] Review and update social media & community accounts (inclusive narrative voice)
-  - [x] LeetCode
-  - [x] dev.to
-  - [x] Meetup(Software Crafters Berlin, Coding Berlin, Berlin Software Designers)
 
 ## Subtasks - Job Search & Preparation
 
