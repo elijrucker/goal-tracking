@@ -5,11 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-30] — joker-1 dev.to subtask closed; 02-spades C deep dive subtask added
+## [2026-07-30] — joker-1 social media & community accounts series closed; 02-spades C deep dive subtask added
 
 ### Completed
 
 - [joker-1] — [Review and update social media & community accounts > dev.to] closed
+- [joker-1] — [Review and update social media & community accounts > Meetup] closed
+- [joker-1] — [Review and update social media & community accounts] series closed — LeetCode, dev.to, and Meetup all complete
 
 ### Added
 
