@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-07-30] — joker-1 social media & community accounts series closed; 02-spades C deep dive subtask added
+## [2026-07-30] — joker-1 social media & community accounts series closed; 02-spades C deep dive subtask added; Dr. Chuck curriculum section added to RESOURCES.md
 
 ### Completed
 
@@ -16,6 +16,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [02-spades] — [Subtasks] standalone subtask added for the Dr. Chuck C/OOP deep dive (placed after Week 5, supporting Weeks 1-5); carries an inline annotation to be updated in place as status changes
+- [RESOURCES] — [General Reference] new "Dr. Chuck Curriculum (cc4e / py4e / dj4e)" section added, covering cc4e.com (2♠️), py4e.com (3♦️), and dj4e.com (Clubs suit candidate); wa4e.com and pg4e.com omitted as already covered under 10♥️
 
 ### Changed
 

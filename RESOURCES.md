@@ -357,6 +357,14 @@ _Global Distributed (UTC+1 compatible)_
 
 ## General Reference
 
+### Dr. Chuck Curriculum (cc4e / py4e / dj4e)
+
+- [C Programming for Everybody](https://www.cc4e.com) — supplemental systems depth; referenced on 2♠️
+- [Python for Everybody](https://www.py4e.com) — supplemental to 3♦️ (Python Crash Course)
+- [Django for Everybody](https://www.dj4e.com) — backend/web framework; Clubs suit candidate
+
+PHP (wa4e.com) and PostgreSQL (pg4e.com) omitted — covered under 10♥️.
+
 ### Learning Platforms
 
 - [MIT OpenCourseWare](https://ocw.mit.edu) - Free university courses
