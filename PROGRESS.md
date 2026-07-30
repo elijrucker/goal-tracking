@@ -41,7 +41,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ---- | -------------------------------- | ----------- | ------------------- |
 | 2♠️  | CS50x                            | In Progress | 18/64               |
 | 3♠️  | The Mythical Man-Month (V2)      | In Progress | 1/19                |
-| 3♦️  | Python Crash Course              | In Progress | 5/20                |
+| 3♦️  | Python Crash Course              | In Progress | 7/21                |
 | 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6                 |
 | 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units         |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/4                 |

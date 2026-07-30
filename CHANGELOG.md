@@ -17,10 +17,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [02-spades] — [Subtasks] standalone subtask added for the Dr. Chuck C/OOP deep dive (placed after Week 5, supporting Weeks 1-5); carries an inline annotation to be updated in place as status changes
 - [RESOURCES] — [General Reference] new "Dr. Chuck Curriculum (cc4e / py4e / dj4e)" section added, covering cc4e.com (2♠️), py4e.com (3♦️), and dj4e.com (Clubs suit candidate); wa4e.com and pg4e.com omitted as already covered under 10♥️
+- [03-diamonds] — [Subtasks > Wrap-up] Python for Everybody (py4e.com) added as a practical fluency deep dive subtask
 
 ### Changed
 
 - [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-07-29; Ch. 1 reading)
+- [03-diamonds] — [Resources] py4e.com entry reworded to reflect its new subtask association (previously flagged as timing-undecided)
+- [RESOURCES] — [General Reference > Dr. Chuck Curriculum] py4e.com entry updated to reflect its subtask association on 3♦️
 
 ### Removed
 
