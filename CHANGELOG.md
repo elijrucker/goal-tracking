@@ -5,6 +5,26 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-07-30] — joker-1 dev.to subtask closed; 02-spades C deep dive subtask added
+
+### Completed
+
+- [joker-1] — [Review and update social media & community accounts > dev.to] closed
+
+### Added
+
+- [02-spades] — [Subtasks] standalone subtask added for the Dr. Chuck C/OOP deep dive (placed after Week 5, supporting Weeks 1-5); carries an inline annotation to be updated in place as status changes
+
+### Changed
+
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-07-29; Ch. 1 reading)
+
+### Removed
+
+- [02-spades] — [Progress Notes] 2026-07-29 note removed; overlapped the 2026-07-27 note (both covered electing to use the Dr. Chuck resource) and is now superseded by the dedicated subtask annotation
+
+---
+
 ## [2026-07-27] — 03-spades-v2 progress; 02-spades extra-curricular resource added; py4e.com added to Python-specific cards
 
 ### Completed

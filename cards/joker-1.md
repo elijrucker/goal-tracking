@@ -85,7 +85,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 - [ ] Portfolio website — personal domain; defer post-relocation
 - [/] Review and update social media & community accounts (inclusive narrative voice)
   - [x] LeetCode
-  - [ ] dev.to
+  - [x] dev.to
   - [ ] Meetup(Software Crafters Berlin, Coding Berlin, Berlin Software Designers)
 
 ## Subtasks - Job Search & Preparation
