@@ -12,6 +12,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [06-spades] — [Resources] added CS50's Introduction to Artificial Intelligence with Python YouTube lecture series (full course video, alternative to the edX platform link)
 - [BACKLOG] — Foundational CS texts audit: Code Complete, Design Patterns (GoF), and Peopleware added to Clubs backlog (opportunity-cost gap: software construction and engineering-practice canon underrepresented relative to algorithms/systems theory)
 - [REFLECTIONS] — first entry added: Engineering Culture Reading Cluster Planning session reflection, covering the reasoning behind merging 6♠️ CS50 AI and 4♠️ CS50 Cybersecurity into one Green-tier card and the tier-calibration pattern it surfaced
+- [REFLECTIONS] — second entry added: AWS Track Pivot reflection, connecting the DVA→SAA certification pivot to a years-old mentor recommendation and the Brooks architect/builder distinction from Mythical Man-Month; Delayed reflection placeholder also added to the Engineering Culture entry
 
 ### Changed
 
