@@ -1,4 +1,4 @@
-# King of Diamonds - AWS DVA Prep Course
+# King of Diamonds - AWS SAA Prep Course
 
 ## Card Details
 
@@ -22,14 +22,14 @@
 
 ## Goal Description
 
-Complete a comprehensive AWS Certified Developer Associate (DVA-C02) exam preparation course. Acts as review and learning confirmation before sitting the certification exam. Primary options are Stephane Maarek's course (Udemy) or Andrew Brown's FreeCodeCamp course - choose based on learning style and readiness after completing AWS Skill Builder.
+Complete a comprehensive AWS Certified Solutions Architect Associate (SAA-C03) exam preparation course. Acts as review and learning confirmation before sitting the certification exam. Primary options are Stephane Maarek's course (Udemy) or Andrew Brown's FreeCodeCamp course - choose based on learning style and readiness after completing AWS Skill Builder.
 
 ---
 
 ## Resources
 
-- [Stephane Maarek - AWS DVA-C02 (Udemy)](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/) - Primary option
-- [Andrew Brown - DVA-C02 (FreeCodeCamp)](https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/) - Alternative option
+- [Stephane Maarek - AWS SAA-C03 (Udemy)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) - Primary option
+- [Andrew Brown - AWS Solutions Architect Associate (FreeCodeCamp)](https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/) - Alternative option
 
 ---
 
@@ -51,6 +51,7 @@ Complete a comprehensive AWS Certified Developer Associate (DVA-C02) exam prepar
 
 ## Progress Notes
 
+- [2026-08-03] Retitled and rescoped from "AWS DVA Prep Course" to "AWS SAA Prep Course," following A♦️'s target certification pivot from Developer Associate (DVA-C02) to Solutions Architect Associate (SAA-C03). Resources swapped to each instructor's SAA-C03-specific course.
 - [2026-04-27] AWS Cloud Practitioner Essentials (March 2024) establishes base AWS knowledge ahead of DVA prep. 10-hearts c4d course building developer fundamentals that feed directly into this path.
 
 ---
@@ -61,4 +62,4 @@ Complete a comprehensive AWS Certified Developer Associate (DVA-C02) exam prepar
 
 ## Unlocks
 
-- A♦️ - AWS Certified Developer Associate (exam)
+- A♦️ - AWS Certified Solutions Architect Associate (exam)

@@ -38,14 +38,14 @@ Tools and platforms needed for development work, including languages, frameworks
 | **10**    | Kubernetes                        | LinkedIn Learning 9-hour path                       |
 | **Jack**  | AWS Skill Builder Learning Plan   | Official foundational AWS training                  |
 | **Queen** | CS50M                             | React Native/Mobile development                     |
-| **King**  | AWS DVA Prep Course               | Stephane Maarek or Andrew Brown                     |
-| **Ace**   | AWS Certified Developer Associate | The certification exam itself                       |
+| **King**  | AWS SAA Prep Course               | Stephane Maarek or Andrew Brown                     |
+| **Ace**   | AWS Certified Solutions Architect Associate | The certification exam itself             |
 
 ### AWS Certification Path
 
 1. AWS Skill Builder (Jack) → Foundational knowledge
-2. AWS DVA Prep Course (King) → Exam preparation
-3. AWS DVA Certification (Ace) → Validation
+2. AWS SAA Prep Course (King) → Exam preparation
+3. AWS SAA Certification (Ace) → Validation
 
 ## ♣️ Clubs - Applied Practice & Programming
 

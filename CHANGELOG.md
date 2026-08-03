@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-03] — 6♠️ CS50 AI resource added; joker-1/03-spades-v2/10-hearts reflection notes logged
+## [2026-08-03] — AWS track pivoted to Solutions Architect Associate; 6♠️ CS50 AI resource added; joker-1/03-spades-v2/10-hearts reflection notes logged
 
 ### Added
 
 - [06-spades] — [Resources] added CS50's Introduction to Artificial Intelligence with Python YouTube lecture series (full course video, alternative to the edX platform link)
+
+### Changed
+
+- [ace-diamonds] — target certification updated: AWS Certified Developer Associate (DVA-C02) → AWS Certified Solutions Architect Associate (SAA-C03); goal name, description, resources, prerequisite label, and subtask updated
+- [king-diamonds] — retitled/rescoped from "AWS DVA Prep Course" to "AWS SAA Prep Course"; description, resources, and Unlocks reference updated to match
+- [jack-diamonds] — description and Skill Builder resource retargeted from the Developer Learning Plan to the Solutions Architect Learning Plan; Phase 0/Phase 1 progress reset to not-started (that work was pursued under the Developer track's curriculum and doesn't carry over — see card's 2026-08-03 progress note)
+- [RESOURCES] — J♦️/K♦️/A♦️ entries updated to match the Solutions Architect Associate track
+- [DECK_OVERVIEW] / [README] — K♦️/A♦️ goal names updated to match the Solutions Architect Associate track
 
 ### Notes
 

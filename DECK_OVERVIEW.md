@@ -24,8 +24,8 @@
 | 10♦️ | 🟠 ORANGE | Kubernetes |
 | J♦️ | 🟠 ORANGE | AWS Skill Builder Learning Plan |
 | Q♦️ | 🔴 RED | CS50M (React Native/Mobile) |
-| K♦️ | 🔴 RED | AWS DVA Prep Course |
-| A♦️ | 🔴 RED | AWS Certified Developer Associate |
+| K♦️ | 🔴 RED | AWS SAA Prep Course |
+| A♦️ | 🔴 RED | AWS Certified Solutions Architect Associate |
 
 **Diamonds Summary:** 3 Green, 3 Blue, 2 Yellow, 2 Orange, 3 Red
 

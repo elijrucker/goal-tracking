@@ -50,20 +50,20 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 ### J♦️ AWS Skill Builder Learning Plan
 
-- [AWS Skill Builder - Developer Learning Plan](https://skillbuilder.aws/search?la=cta&cta=topbanner&searchText=developer-learning-plan) - Official AWS training
+- [AWS Skill Builder - Solutions Architect Learning Plan](https://skillbuilder.aws/learning-plan/EB6SVX4CTK/aws-solutions-architect-learning-plan-includes-labs/SAJSTUCC44) - Official AWS training
 
 ### Q♦️ CS50M
 
 - [CS50M - Mobile App Development with React Native](https://cs50.harvard.edu/mobile/) - Harvard/edX course
 
-### K♦️ AWS DVA Prep Course
+### K♦️ AWS SAA Prep Course
 
-- [Stephane Maarek - AWS DVA-C02](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/) - Primary option
-- [FreeCodeCamp - Andrew Brown DVA-C02](https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/) - Alternative option
+- [Stephane Maarek - AWS SAA-C03](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) - Primary option
+- [FreeCodeCamp - Andrew Brown SAA-C03](https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/) - Alternative option
 
-### A♦️ AWS Certified Developer Associate
+### A♦️ AWS Certified Solutions Architect Associate
 
-- [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/) - Official certification page
+- [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) - Official certification page
 
 ---
 
