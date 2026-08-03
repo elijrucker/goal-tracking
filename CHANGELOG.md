@@ -33,6 +33,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Process
 
 - [CLAUDE.md] — new Standing Decision added: dated/note-type entry lists run reverse-chronological, newest first, matching CHANGELOG.md's convention
+- [CLAUDE.md] — [When Updating Cards] new step 6 added: for multi-card or larger structural/strategic changes, prompt whether a REFLECTIONS.md entry or card Progress Notes entry is warranted, rather than letting CHANGELOG.md be the only record
 
 ### Notes
 
