@@ -61,6 +61,12 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 **Subsection order** — Within a single entry, `###` subsections (`Added`/`Changed`/`Completed`/`Removed`/`Notes`/`Process`) are ordered chronologically by when the changes occurred during the session — earliest change at the top, most recent at the bottom — not by a fixed Added→Changed→Completed sequence. This mirrors the entry-header convention at the file level: entries themselves run reverse-chronological (newest date first), but the content within a single entry runs chronological (oldest action first).
 
+## System Principles
+
+Cross-cutting rules of thumb for evaluating scope and structure, distinct from the dated, event-motivated calls in Standing Decisions below.
+
+- **Opportunity cost as scope guard** — When evaluating whether to add a subtask to an existing card or spin it into a new backlog entry, the primary criterion is opportunity cost — what is lost by *not* including it, rather than whether it fits. Pure ornamentation has no meaningful opportunity cost for exclusion. This principle applies across all suits.
+
 ## Standing Decisions
 
 Cross-cutting decisions that apply across cards and sessions, not tied to any single card's progress.

@@ -45,6 +45,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [03-spades-v2] — Chapters 1–5 progress note added; agentic surgical team concept derived in-session (dedicated planning session pending)
 
+### Process
+
+- [CLAUDE.md] — Opportunity cost scope guard added as explicit system principle
+
 ---
 
 ## [2026-07-30] — joker-1 social media & community accounts series closed; 02-spades C deep dive subtask added; Dr. Chuck curriculum section added to RESOURCES.md
