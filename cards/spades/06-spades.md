@@ -1,4 +1,4 @@
-# 6 of Spades - CS50 AI
+# 6 of Spades - Engineering Culture & Team Dynamics (Weinberg + Peopleware)
 
 ## Card Details
 
@@ -22,38 +22,34 @@
 
 ## Goal Description
 
-Complete Harvard's CS50 AI - Introduction to Artificial Intelligence with Python. Covers foundational AI concepts including search algorithms, knowledge representation, machine learning, and neural networks. Builds on CS50x foundations and applies AI theory using Python.
+Combined reading track pairing Gerald Weinberg's *The Psychology of Computer Programming* (1971) and DeMarco & Lister's *Peopleware* (1987) — completes the engineering-culture/team-dynamics cluster begun with 03-spades-v2 (The Mythical Man-Month). Continues the reading-companion format (quote → Socratic → reflection), extended with a standing lens: actively screen each book's ideas for applicability to the goal tracking system itself.
 
 ---
 
 ## Resources
 
-- [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Harvard/edX course
-- [CS50's Introduction to Artificial Intelligence with Python](https://www.youtube.com/watch?v=5NgNicANyqM) - Full lecture series on YouTube
+- The Psychology of Computer Programming — Gerald Weinberg (1971)
+- Peopleware: Productive Projects and Teams (3rd Ed.) — Tom DeMarco & Timothy Lister
 
 ---
 
 ## Prerequisites
 
-- [ ] 2♠️ - CS50x
-- [ ] 3♦️ - Python Crash Course
+- [ ] 3♠️ V2 - The Mythical Man-Month (hard sequencing gate; must be complete)
 
 ---
 
 ## Subtasks
 
-- [ ] Search algorithms (BFS, DFS, A*)
-- [ ] Knowledge representation
-- [ ] Uncertainty and probability
-- [ ] Optimization
-- [ ] Machine learning
-- [ ] Neural networks
-- [ ] Natural language processing
-- [ ] Complete all projects
+- [ ] Read The Psychology of Computer Programming (Weinberg)
+- [ ] Read Peopleware (DeMarco & Lister)
+- [ ] Cross-book synthesis reflection with 03-spades-v2 cluster
 
 ---
 
 ## Progress Notes
+
+- [2026-08-03] Card created via Engineering Culture Reading Cluster Planning session. Occupies the Blue slot vacated by merging CS50 Cybersecurity + CS50 AI into 04-spades.md.
 
 ---
 
@@ -63,4 +59,4 @@ Complete Harvard's CS50 AI - Introduction to Artificial Intelligence with Python
 
 ## Unlocks
 
-- Foundation for future AI/ML work
+- Agentic Surgical Team (Clubs backlog) — eligible for promotion to a numbered card once this cluster and hands-on agentic tooling experience are both in place.

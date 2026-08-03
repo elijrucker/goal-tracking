@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-03] — AWS track pivoted to Solutions Architect Associate; 6♠️ CS50 AI resource added; joker-1/03-spades-v2/10-hearts reflection notes logged
+## [2026-08-03] — Spades reading cluster restructured (4♠️/6♠️ merge); AWS track pivoted to Solutions Architect Associate; 6♠️ CS50 AI resource added; joker-1/03-spades-v2/10-hearts reflection notes logged
 
 ### Added
 
 - [06-spades] — [Resources] added CS50's Introduction to Artificial Intelligence with Python YouTube lecture series (full course video, alternative to the edX platform link)
 - [BACKLOG] — Foundational CS texts audit: Code Complete, Design Patterns (GoF), and Peopleware added to Clubs backlog (opportunity-cost gap: software construction and engineering-practice canon underrepresented relative to algorithms/systems theory)
+- [REFLECTIONS] — first entry added: Engineering Culture Reading Cluster Planning session reflection, covering the reasoning behind merging 6♠️ CS50 AI and 4♠️ CS50 Cybersecurity into one Green-tier card and the tier-calibration pattern it surfaced
 
 ### Changed
 
@@ -20,6 +21,17 @@ Format: [YYYY-MM-DD] — Description of change
 - [jack-diamonds] — description and Skill Builder resource retargeted from the Developer Learning Plan to the Solutions Architect Learning Plan; Phase 0/Phase 1 progress reset to not-started (that work was pursued under the Developer track's curriculum and doesn't carry over — see card's 2026-08-03 progress note)
 - [RESOURCES] — J♦️/K♦️/A♦️ entries updated to match the Solutions Architect Associate track
 - [DECK_OVERVIEW] / [README] — K♦️/A♦️ goal names updated to match the Solutions Architect Associate track
+- [04-spades] — merged with the former 06-spades (CS50 AI) into one card, "CS50 Cybersecurity & CS50 AI"; stays Green/Foundational (combined scope still comparable to CS50x, not additive); Resources/Prerequisites/Subtasks/Unlocks combined from both source cards; both were Not Started, zero progress lost
+- [06-spades] — repurposed to a new card, "Engineering Culture & Team Dynamics (Weinberg + Peopleware)", Blue/Moderate, occupying the slot vacated by the 04-spades merge; hard-gated on 03-spades-v2 (Mythical Man-Month) completion
+- [02-spades] — [Unlocks] updated to point to the merged 4♠️ only; [Goal Description] reference to "CS50 AI and CS50 Cybersecurity" updated to "4♠️ CS50 Cybersecurity & CS50 AI"
+- [03-spades-v2] — [Unlocks] updated from "V2 successors TBD" to 6♠️ (Engineering Culture & Team Dynamics)
+- [BACKLOG] — Psychology of Computer Programming and Peopleware marked promoted to 6♠️ (merged, not dropped), matching the existing Mythical Man-Month promotion convention; Agentic Surgical Team prerequisites updated to include 6♠️ completion; Review Log entry added
+- [RESOURCES] / [DECK_OVERVIEW] / [README] — 3♠️/4♠️/6♠️ Spades entries updated to match the restructure; also fixed a separate stale "3♠️ CS Distilled" reference in RESOURCES.md (flagged earlier today) and one in README.md (found during this pass) — both now correctly show 3♠️ V2 (Mythical Man-Month, CS Distilled complete)
+- [05-spades] / [07-spades] — Prerequisites disambiguated from bare "3♠️ - CS Distilled" to "3♠️ V1 - CS Distilled", since "3♠️" alone is now ambiguous between the V1 and V2 cards
+
+### Process
+
+- [CLAUDE.md] — new Standing Decision added: dated/note-type entry lists run reverse-chronological, newest first, matching CHANGELOG.md's convention
 
 ### Notes
 

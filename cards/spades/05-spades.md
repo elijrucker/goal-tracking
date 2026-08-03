@@ -35,7 +35,7 @@ Study discrete mathematics - the mathematical foundation of computer science. To
 
 ## Prerequisites
 
-- [ ] 3♠️ - CS Distilled (helpful context)
+- [ ] 3♠️ V1 - CS Distilled (helpful context)
 
 ---
 

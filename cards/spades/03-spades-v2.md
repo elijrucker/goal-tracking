@@ -81,4 +81,4 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
 
 ## Unlocks
 
-- V2 successors TBD
+- 6♠️ - Engineering Culture & Team Dynamics (Weinberg + Peopleware)

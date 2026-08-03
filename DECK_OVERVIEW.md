@@ -59,9 +59,9 @@
 |------|-------|------|
 | 2♠️ | 🟢 GREEN | CS50x (Introduction to Computer Science) |
 | 3♠️ | 🟢 GREEN | The Mythical Man-Month (V2; CS Distilled complete) |
-| 4♠️ | 🟢 GREEN | CS50 Cybersecurity |
+| 4♠️ | 🟢 GREEN | CS50 Cybersecurity & CS50 AI |
 | 5♠️ | 🔵 BLUE | Discrete Mathematics |
-| 6♠️ | 🔵 BLUE | CS50 AI |
+| 6♠️ | 🔵 BLUE | Engineering Culture & Team Dynamics (Weinberg + Peopleware) |
 | 7♠️ | 🔵 BLUE | Computer Architecture |
 | 8♠️ | 🟡 YELLOW | Operating Systems |
 | 9♠️ | 🟡 YELLOW | Computer Systems: A Programmer's Perspective |

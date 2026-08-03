@@ -82,10 +82,10 @@ Deep computer science theory, mathematics, and foundational knowledge that under
 | Card      | Goal                                                   | Notes                                          |
 | --------- | ------------------------------------------------------ | ---------------------------------------------- |
 | **2**     | CS50x                                                  | Introduction to Computer Science (in progress) |
-| **3**     | CS Distilled                                           | Accessible CS concepts overview                |
-| **4**     | CS50 Cybersecurity                                     | Focused security fundamentals                  |
+| **3**     | The Mythical Man-Month (V2)                            | Software engineering essays (CS Distilled complete) |
+| **4**     | CS50 Cybersecurity & CS50 AI                           | Security fundamentals + AI with Python         |
 | **5**     | Discrete Mathematics                                   | Essential CS math foundation                   |
-| **6**     | CS50 AI                                                | AI fundamentals with Python                    |
+| **6**     | Engineering Culture & Team Dynamics                    | Weinberg + Peopleware                          |
 | **7**     | Computer Architecture                                  | Understanding the hardware layer               |
 | **8**     | Operating Systems                                      | Systems-level course                           |
 | **9**     | Computer Systems: A Programmer's Perspective           | Low-level systems understanding                |
@@ -97,7 +97,7 @@ Deep computer science theory, mathematics, and foundational knowledge that under
 
 ### CS50 Series Prerequisites
 
-- CS50x (2) → CS50 AI (6), CS50 Cybersecurity (4)
+- CS50x (2) → CS50 Cybersecurity & CS50 AI (4)
 
 ### The Legendary Trio
 

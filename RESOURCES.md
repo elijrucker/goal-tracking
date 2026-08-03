@@ -133,21 +133,25 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 - [CS50x - Introduction to Computer Science](https://cs50.harvard.edu/x/) - Harvard/edX course (in progress)
 
-### 3♠️ CS Distilled
+### 3♠️ The Mythical Man-Month (V2)
 
-- Computer Science Distilled by Wladston Ferreira Filho (book)
+- The Mythical Man-Month: Essays on Software Engineering — Fred Brooks (20th Anniversary Edition)
+- Computer Science Distilled by Wladston Ferreira Filho (book) - V1, complete
 
-### 4♠️ CS50 Cybersecurity
+### 4♠️ CS50 Cybersecurity & CS50 AI
 
 - [CS50 Cybersecurity](https://cs50.harvard.edu/cybersecurity/) - Harvard/edX course
+- [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Harvard/edX course
+- [CS50's Introduction to Artificial Intelligence with Python](https://www.youtube.com/watch?v=5NgNicANyqM) - Full lecture series on YouTube
 
 ### 5♠️ Discrete Mathematics
 
 - TBD - Select textbook or course (options: MIT OpenCourseWare, Discrete Mathematics and Its Applications by Rosen)
 
-### 6♠️ CS50 AI
+### 6♠️ Engineering Culture & Team Dynamics (Weinberg + Peopleware)
 
-- [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Harvard/edX course
+- The Psychology of Computer Programming — Gerald Weinberg (1971)
+- Peopleware: Productive Projects and Teams (3rd Ed.) — Tom DeMarco & Timothy Lister
 
 ### 7♠️ Computer Architecture
 

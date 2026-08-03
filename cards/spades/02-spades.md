@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Complete Harvard's CS50x - Introduction to Computer Science. One of the most respected introductory CS courses in the world. Already in progress. Covers a broad range of CS fundamentals including C, Python, SQL, data structures, algorithms, and web basics. A prerequisite for CS50 AI and CS50 Cybersecurity.
+Complete Harvard's CS50x - Introduction to Computer Science. One of the most respected introductory CS courses in the world. Already in progress. Covers a broad range of CS fundamentals including C, Python, SQL, data structures, algorithms, and web basics. A prerequisite for 4♠️ CS50 Cybersecurity & CS50 AI.
 
 Completion requires 70%+ on all problem sets, labs, and the final project — triggers a free CS50 Certificate (Harvard-issued) automatically via cs50.harvard.edu Gradebook. No payment required. Paid edX verified certificate ($199) adds LinkedIn verification badge only.
 
@@ -128,5 +128,4 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
 
 ## Unlocks
 
-- 6♠️ - CS50 AI
-- 4♠️ - CS50 Cybersecurity
+- 4♠️ - CS50 Cybersecurity & CS50 AI

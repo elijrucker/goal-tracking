@@ -36,7 +36,7 @@ Study computer architecture - how computers work at the hardware level. Understa
 ## Prerequisites
 
 - [ ] 2♠️ - CS50x
-- [ ] 3♠️ - CS Distilled
+- [ ] 3♠️ V1 - CS Distilled
 
 ---
 
