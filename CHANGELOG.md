@@ -31,11 +31,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-02] — 03-spades-v2 Ch. 6 closed
+## [2026-08-02] — 03-spades-v2 Ch. 6 closed; 03-diamonds Ch. 8 annotation added
 
 ### Completed
 
 - [03-spades-v2] — [Ch. 6 — Passing the Word] closed
+
+### Changed
+
+- [03-diamonds] — [Ch. 8: Functions] annotation added (2026-08-02; Modifying a List in a Function)
 
 ---
 

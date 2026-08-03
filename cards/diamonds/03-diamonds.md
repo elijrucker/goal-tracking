@@ -52,7 +52,7 @@ _Reading_
 - [x] Ch. 5: if Statements
 - [x] Ch. 6: Dictionaries
 - [x] Ch. 7: User Input and while Loops
-- [/] Ch. 8: Functions
+- [/] Ch. 8: Functions (2026-08-02; Modifying a List in a Function)
 - [ ] Ch. 9: Classes
 - [ ] Ch. 10: Files and Exceptions
 - [ ] Ch. 11: Testing Your Code
