@@ -43,6 +43,14 @@ Format: [YYYY-MM-DD] — Description of change
 - [RESOURCES] — flagged as stale: still shows a "3♠️ CS Distilled" heading with only the CS Distilled book — no entry for 03-spades-v2 (Mythical Man-Month). DECK_OVERVIEW.md checked separately and found accurate (already reflects "V2; CS Distilled complete"). Reconciliation deferred to a dedicated session.
 - Programming Pearls and Psychology of Computer Programming confirmed already present in BACKLOG.md from prior session (2026-08-01 prompt) — not re-added.
 
+### Removed
+
+- [joker-1] — [Profile, Portfolio & Credentials] "Portfolio website" subtask removed — not strictly relevant to the job-offer goal itself and occurs after joker-1 closes
+
+### Changed
+
+- [BACKLOG] — [Personal domain & professional email] merged joker-1's portfolio website subtask in; retitled "Personal domain, professional email & portfolio website" since both share the same domain purchase
+
 ---
 
 ## [2026-08-02] — 03-spades-v2 Ch. 6 closed; 03-diamonds Ch. 8 annotation added
