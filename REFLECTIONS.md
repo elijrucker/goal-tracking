@@ -133,3 +133,44 @@ creep has less impact when it isn't immediate in nature.
 **Delayed reflection (revisit ~2026-08-17):**
 - [Question 1]
 - [Question 2]
+
+### [2026-06-24] — Role Shift Observation
+
+**Note:** Migrated from joker-1's Reflection & Lessons Learned section (2026-08-03).
+Predates REFLECTIONS.md and its full question series, hence the brief, single-note
+format rather than the full template.
+
+**Core insight:** Observed a meaningful shift in how bureaucratic and administrative
+subtasks are being approached. Items previously deferred due to perceived effort are
+resolving significantly faster than anticipated. The primary driver is a redistribution
+of cognitive load: execution is largely handled through Claude, repositioning the role
+from one of direct execution to management and refinement. Time is now spent on
+judgment — what is correct, what needs revision, what to cut — rather than on
+production. This is a higher-leverage pattern and is expected to compound across the
+job search, CV work, and card system as a whole.
+
+### [2026-06-03] — Learning in Public (Feynman Technique)
+
+**Note:** Migrated from joker-1's Reflection & Lessons Learned section (2026-08-03).
+Predates REFLECTIONS.md and its full question series, hence the brief, single-note
+format rather than the full template.
+
+**Core insight:** This project began without documentation or public sharing of any
+kind. Prompts to post on LinkedIn, build a visible portfolio, and document milestones
+were corrective reminders — nudges toward habits that didn't come naturally when
+learning in private. Sharing has intrinsic value beyond visibility: having to describe
+what you've learned forces the kind of precise articulation that reveals what you
+actually understand versus what you only think you do. The Feynman technique, applied.
+
+### [2026-05-21] — Sysadmin Cleanup Discipline
+
+**Note:** Migrated from joker-1's Reflection & Lessons Learned section (2026-08-03).
+Predates REFLECTIONS.md and its full question series, hence the brief, single-note
+format rather than the full template.
+
+**Core insight:** System cleanup is a neglected but critical part of sysadmin work.
+Python was found installed four different ways across multiple config files — a
+direct consequence of incremental addition without intentional removal.
+Container-first development enforces cleanup by design; if the runtime isn't in the
+container spec, it doesn't exist. Every action has consequences — think about the
+exit before the entrance.

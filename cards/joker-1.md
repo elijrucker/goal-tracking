@@ -47,13 +47,13 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 **Accelerants (supporting goals that increase hireability and speed completion, not gates on applying):**
 
-- [ ] A♦️ - AWS Certified Developer Associate (demonstrable active progress via Jack/King path completion certificates; full certification is valuable but not a hard gate for Joker 1 given existing portfolio strength)
-- [ ] Q♣️ - Full-Stack Application (portfolio project — supporting goal, not a gate)
-- [/] 9♣️ - LeetCode Practice (demonstrable interview readiness via consistent practice — full 50 Easy/30 Medium quota completion not required by target date; the card's own Target Completion of 2026-12-31 already falls past Joker 1's date, so readiness is the actual signal, not quota completion)
-- [/] 10♥️ - Complete Associate's Degree (supporting goal — IT specialist visa exception already satisfied via Verisk tenure per visa research, so this is not a gating requirement)
-- [ ] Q♦️ - CS50M (mobile development breadth — supporting goal, not a gate)
-- [ ] K♣️ - Testing/TDD Milestone (professional practices — supporting goal, not a gate)
-- [ ] A♣️ - Open Source Contribution (community collaboration and real-world engineering experience — recommended but not a hard gate on Joker 1; becomes increasingly valuable for senior roles post-entry-level)
+- [ ] A♦️ - AWS Certified Solutions Architect Associate (progress signal: Jack/King path completion certificates)
+- [ ] Q♣️ - Full-Stack Application
+- [/] 9♣️ - LeetCode Practice (readiness over quota — card's own target date falls past Joker 1's)
+- [/] 10♥️ - Complete Associate's Degree (visa exception already satisfied via Verisk tenure)
+- [ ] Q♦️ - CS50M
+- [ ] K♣️ - Testing/TDD Milestone
+- [ ] A♣️ - Open Source Contribution
       _(Prioritize open source projects with AWS integration — maximizes overlap with the certification track)_
 
 **Supporting goals (broader foundation):**
@@ -137,25 +137,13 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Reflection & Lessons Learned
 
-### 2026-06-24 — Role shift observation
-
-Observed a meaningful shift in how bureaucratic and administrative subtasks are being approached. Items previously deferred due to perceived effort are resolving significantly faster than anticipated. The primary driver is a redistribution of cognitive load: execution is largely handled through Claude, repositioning the role from one of direct execution to management and refinement. Time is now spent on judgment — what is correct, what needs revision, what to cut — rather than on production. This is a higher-leverage pattern and is expected to compound across the job search, CV work, and card system as a whole.
-
-### [2026-06-03]
-
-- This project began without documentation or public sharing of any kind. Prompts to post on LinkedIn, build a visible portfolio, and document milestones were corrective reminders — nudges toward habits that didn't come naturally when learning in private. Sharing has intrinsic value beyond visibility: having to describe what you've learned forces the kind of precise articulation that reveals what you actually understand versus what you only think you do. The Feynman technique, applied.
-
-### [2026-05-21]
-
-- System cleanup is a neglected but critical part of sysadmin work. Python was found installed four different ways across multiple config files — a direct consequence of incremental addition without intentional removal. Container-first development enforces cleanup by design; if the runtime isn't in the container spec, it doesn't exist. Every action has consequences — think about the exit before the entrance.
-
 ---
 
 ## Unlocks
 
-- K♥️ - Eastern European Markets Investment ($15K via EU brokerage)
 - EU relocation and residency
 - Career transition from customer support to software development
 - Income increase enabling recalculated investment amounts
 - Access to European tech ecosystem
 - Geographic proximity to Poland (supports Q♥️ Polish language goal)
+- K♥️ - Eastern European Markets Investment

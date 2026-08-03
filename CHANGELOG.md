@@ -76,6 +76,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Execution > Apply to target companies in Berlin] restructured into generic Batch 1-4 children (parent and Batch 1 marked in progress); decoupled from private Tier 1-4 vetting groups — no company names on this file
 - [joker-1] — [Subtasks - Relocation Logistics] resequenced: Set up EU/German banking now listed first, Secure housing in Berlin second — both annotated post-arrival
+- [joker-1] — [Prerequisites > A♦️] accelerant label updated: AWS Certified Developer Associate → AWS Certified Solutions Architect Associate, matching the DVA→SAA pivot logged earlier today
+- [joker-1] — [Prerequisites > Accelerants] trimmed all entries of "not a gate"/"supporting goal" boilerplate, already covered by the section's own title annotation; dropped restated card-level facts (e.g. 9♣️'s target date, generic goal descriptions), keeping only joker-1-specific interpretive notes not derivable from each card itself
+- [joker-1] — [Reflection & Lessons Learned] all three entries (Role shift observation, Learning in Public, Sysadmin Cleanup Discipline) migrated to REFLECTIONS.md — none were actually card-specific to the job search itself, all read as cross-cutting system-level realizations; section left empty, ready for genuinely joker-1-specific reflections
+- [REFLECTIONS] — three entries added (2026-06-24, 2026-06-03, 2026-05-21), migrated from joker-1; each carries a note explaining their brief, single-note format predates REFLECTIONS.md's full template
 
 ### Removed
 
