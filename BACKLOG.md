@@ -37,6 +37,9 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [ ] The Psychology of Computer Programming (Gerald Weinberg) — software craft and human factors in programming; explores the social, psychological, and team dynamics behind how software is actually written
 - [x] The Mythical Man-Month (Fred Brooks) — promoted to 3♠️ V2 (2026-06-22)
 - [ ] Basic REST API tool (breakout project) — second portfolio breakout project, in Kotlin as an introduction to the language. Follows the Java CLI copy tool (Project 3). Scope TBD on activation.
+- [ ] Code Complete (2nd Ed.) — by Steve McConnell; canonical software construction practices, complements 3♣️ Pragmatic Programmer and 4♣️ Clean Code without duplicating either.
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software — by Gamma, Helm, Johnson & Vlissides ("Gang of Four"); canonical OOP design-pattern vocabulary, no current deck coverage; directly relevant to enterprise Java/C# interview prep.
+- [ ] Peopleware — by Tom DeMarco & Timothy Lister; team dynamics and engineering management, pairs with Mythical Man-Month (03-spades-v2) and Psychology of Computer Programming.
 - [ ] Agentic Surgical Team — Goal Tracking System (Clubs, mid-tier) — Apply a Brooks-model surgical team of AI agents to the goal tracking system, with roles mapped to Brooks' definitions (surgeon, copilot, toolsmith, administrator, language lawyer, tester, editor). Role distribution and responsibilities open to adaptation. Agents should address both card execution and system metadata management. Heterogeneous model/prompt configuration required to avoid shared blindspots. Prerequisite: hands-on agentic tooling experience. Review existing backlog and codebase for any related agent team entries before activating; consolidate or reference rather than duplicate. Pending dedicated planning session.
 
 ---

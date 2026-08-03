@@ -10,6 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [06-spades] — [Resources] added CS50's Introduction to Artificial Intelligence with Python YouTube lecture series (full course video, alternative to the edX platform link)
+- [BACKLOG] — Foundational CS texts audit: Code Complete, Design Patterns (GoF), and Peopleware added to Clubs backlog (opportunity-cost gap: software construction and engineering-practice canon underrepresented relative to algorithms/systems theory)
 
 ### Changed
 
@@ -25,6 +26,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Progress Notes] added note (2026-08-03; synthesized the "computer scientist" title reflection and a fortune-cookie perception-shift note into one outcome — beginning, privately, to self-identify as a computer scientist, framed as cumulative rather than a single trigger)
 - [03-spades-v2] / [joker-1] — [Progress Notes] added note (2026-08-03; Mythical Man-Month prompted the realization that writing code is a minor part of software development relative to architecture, planning, and communication — proposed as the dividing line between programmer/developer and computer scientist/software engineer)
 - [10-hearts] / [joker-1] — [Progress Notes] added note (2026-08-03; MATC Introduction to Philosophy identified as the most rewarding course to date, its late placement in the curriculum enabling connections to CS that wouldn't have landed earlier)
+- [RESOURCES] — flagged as stale: still shows a "3♠️ CS Distilled" heading with only the CS Distilled book — no entry for 03-spades-v2 (Mythical Man-Month). DECK_OVERVIEW.md checked separately and found accurate (already reflects "V2; CS Distilled complete"). Reconciliation deferred to a dedicated session.
+- Programming Pearls and Psychology of Computer Programming confirmed already present in BACKLOG.md from prior session (2026-08-01 prompt) — not re-added.
 
 ---
 
