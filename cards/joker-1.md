@@ -77,11 +77,6 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Subtasks - Job Search & Preparation
 
-**Preparation**
-
-- [x] Research Berlin companies and tech scene (expand on portfolio subtask results)
-- [x] Research visa requirements (EU Blue Card confirmed as primary path; IT specialist exception applies; Verisk tenure satisfies 3-year bar; C1 German exceeds B1 threshold for 21-month accelerated permanent residency)
-
 **Execution**
 
 - [/] Apply to target companies in Berlin

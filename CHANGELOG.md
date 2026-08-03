@@ -77,6 +77,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Execution > Apply to target companies in Berlin] restructured into generic Batch 1-4 children (parent and Batch 1 marked in progress); decoupled from private Tier 1-4 vetting groups — no company names on this file
 - [joker-1] — [Subtasks - Relocation Logistics] resequenced: Set up EU/German banking now listed first, Secure housing in Berlin second — both annotated post-arrival
 
+### Removed
+
+- [joker-1] — [Job Search & Preparation] "Preparation" subsection pruned (Research Berlin companies and tech scene, Research visa requirements — both closed and logged in earlier entries above) per dynamic card retention rules
+
 ---
 
 ## [2026-08-02] — 03-spades-v2 Ch. 6 closed; 03-diamonds Ch. 8 annotation added
