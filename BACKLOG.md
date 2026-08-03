@@ -97,6 +97,25 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ---
 
+## Deferred — Reading & Writing
+
+Items removed from joker-1's Subtasks (2026-08-03) — not gating the core job-offer goal, deferred rather than dropped.
+
+- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
+- [ ] Schreiben Lernen (A Writing Guide for Learners of German, 2nd ed., Dykstra-Pruim & Redmann)
+  - [ ] Ch. 1 — Personen beschreiben
+  - [ ] Ch. 2 — Autobiografisches Schreiben
+  - [ ] Ch. 3 — Briefe schreiben
+  - [ ] Ch. 4 — Berichte schreiben
+  - [ ] Ch. 5 — Rezensionen schreiben
+  - [ ] Ch. 6 — Meinungen äußern
+  - [ ] Ch. 7 — Kreatives Schreiben
+  - [ ] Ch. 8 — Literatur interpretieren
+  - [ ] Ch. 9 — Filme interpretieren
+  - [ ] Ch. 10 — Kunst interpretieren
+
+---
+
 ## Wildcard / Joker Ideas
 
 - [ ] (Relocate to a tax-friendly location (currently considering Cyprus or Malta))
@@ -111,6 +130,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 | 2026-06-22 | The Mythical Man-Month  | 1 (3♠️ V2)   | 0       |
 | 2026-07-17 | Full backlog audit for redundancy | 1 (merged into joker-1) | 7 |
 | 2026-08-03 | Reading cluster restructured; Agentic Surgical Team scoped | 1 (6♠️) | 0 (Weinberg, Peopleware — merged, not dropped) |
+| 2026-08-03 | joker-1 planning session: Reading & Writing subtasks deferred | 0 | 0 (Writing for Developers, Schreiben Lernen — deferred, not dropped) |
 
 ---
 

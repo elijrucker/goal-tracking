@@ -58,6 +58,25 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Complete Anthropic Academy courses] annotation updated (in progress: Building with Claude API, 2026-06-18; configure container API dev environment) — dropped the general description clause, now redundant with the remaining child course list
 - [joker-1] — [Ensure 3 strong portfolio projects are live and documented > Java CLI copy tool] description shortened — verbose design details (silent-default inversion, `Copyable` interface, Composite pattern) removed from the card; now tracked in the Claude Project Java/Kotlin
 
+### Completed
+
+- [joker-1] — [Preparation > Research Berlin companies and tech scene] closed — DoD retroactively satisfied by existing Tier 1-4 job board lists
+
+### Removed
+
+- [joker-1] — [Subtasks - Reading & Writing] entire subtask group removed (Writing for Developers, Schreiben Lernen 10 chapters) → moved to BACKLOG.md under new "Deferred — Reading & Writing" section
+- [joker-1] — [Preparation > Prepare for technical interviews] removed — superseded by 9♣️ LeetCode Practice
+- [joker-1] — [Preparation > Network with Berlin-based developers] removed — superseded by the completed social media/community audit subtask
+
+### Added
+
+- [BACKLOG] — new "Deferred — Reading & Writing" section added, holding Writing for Developers and Schreiben Lernen (both deferred from joker-1, not dropped); Review Log entry added
+
+### Changed
+
+- [joker-1] — [Execution > Apply to target companies in Berlin] restructured into generic Batch 1-4 children (parent and Batch 1 marked in progress); decoupled from private Tier 1-4 vetting groups — no company names on this file
+- [joker-1] — [Subtasks - Relocation Logistics] resequenced: Set up EU/German banking now listed first, Secure housing in Berlin second — both annotated post-arrival
+
 ---
 
 ## [2026-08-02] — 03-spades-v2 Ch. 6 closed; 03-diamonds Ch. 8 annotation added

@@ -79,14 +79,16 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 **Preparation**
 
-- [/] Research Berlin companies and tech scene (expand on portfolio subtask results)
-- [/] Prepare for technical interviews (LeetCode, system design)
+- [x] Research Berlin companies and tech scene (expand on portfolio subtask results)
 - [x] Research visa requirements (EU Blue Card confirmed as primary path; IT specialist exception applies; Verisk tenure satisfies 3-year bar; C1 German exceeds B1 threshold for 21-month accelerated permanent residency)
-- [/] Network with Berlin-based developers (LinkedIn, meetups, Berlin Google Developers Group)
 
 **Execution**
 
-- [/] Apply to target companies in Berlin (Batch 1 applications; cover letter and resume review)
+- [/] Apply to target companies in Berlin
+  - [/] Batch 1
+  - [ ] Batch 2
+  - [ ] Batch 3
+  - [ ] Batch 4
 - [ ] Pass technical interviews
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process
@@ -95,28 +97,14 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 - [/] Declutter and liquidate physical possessions prior to relocation
 - [/] Minimize US financial footprint
-- [ ] Secure housing in Berlin
-- [ ] Set up EU/German banking
-
-## Subtasks - Reading & Writing
-
-- [ ] Read "Writing for Developers" — strengthen technical communication for portfolio documentation, cover letters, and professional writing
-- [ ] Schreiben Lernen (A Writing Guide for Learners of German, 2nd ed., Dykstra-Pruim & Redmann)
-  - [ ] Ch. 1 — Personen beschreiben
-  - [ ] Ch. 2 — Autobiografisches Schreiben
-  - [ ] Ch. 3 — Briefe schreiben
-  - [ ] Ch. 4 — Berichte schreiben
-  - [ ] Ch. 5 — Rezensionen schreiben
-  - [ ] Ch. 6 — Meinungen äußern
-  - [ ] Ch. 7 — Kreatives Schreiben
-  - [ ] Ch. 8 — Literatur interpretieren
-  - [ ] Ch. 9 — Filme interpretieren
-  - [ ] Ch. 10 — Kunst interpretieren
+- [ ] Set up EU/German banking (post-arrival — first)
+- [ ] Secure housing in Berlin (post-arrival — second)
 
 ---
 
 ## Progress Notes
 
+- [2026-08-03] Second pruning pass this session: removed Reading & Writing subtasks (→ BACKLOG), closed "Research Berlin companies" (DoD retroactively satisfied by existing Tier 1-4 lists), removed "Prepare for technical interviews" and "Network with Berlin-based developers" as redundant with 9♣️ and the completed social audit respectively, split "Apply to target companies" into generic Batch 1-4 children (effort tracking, decoupled from private tier groupings — no company data), and resequenced Relocation Logistics as banking-then-housing, both gated on physical arrival.
 - [2026-08-03] Trimmed subtasks this session: Portfolio website (moved to BACKLOG, merged into Personal domain & professional email), Establish Stack Overflow presence (moved to BACKLOG, merged into Mentorship & Technical Teaching), plus pruning of already-closed entries under Complete Anthropic Academy courses and Ensure 3 strong portfolio projects are live and documented. Underlying rationale: narrowing joker-1 to subtasks essential for entry-level job applications; "nice to haves" are relegated to the backlog until more pressing, weightier work is resolved.
 - [2026-08-03] Synthesized two prior reflections — the criteria for legitimately claiming the title "computer scientist," and a fortune cookie's claim that today marks "the beginning of a shift in perception" — into a single outcome: beginning, privately, to think of myself as a computer scientist. Consistent with the conclusion that perceptual shifts are cumulative rather than singular, this is a data point in that accumulation, not its cause.
 - [2026-08-03] Reading The Mythical Man-Month (3♠️ V2) prompted a realization: writing code is a comparatively minor component of software development — the bulk of the real work is architecture, planning, and communication, both before code is written and across the ongoing cycle of revision, refactor, and coordination. Proposed as a meaningful line between programmer/developer and computer scientist/software engineer: the latter carries consciousness of full project scope, not just implementation. Filed here as a general progress note since the realization predates the book and extends beyond its specific scope (see also 3♠️ V2).
