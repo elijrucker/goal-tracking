@@ -35,7 +35,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-01] — 03-spades-v2 Ch. 5 closed; Chapters 1-5 progress note added
+## [2026-08-01] — 03-spades-v2 Ch. 5 closed; Chapters 1-5 progress note added; Agentic Surgical Team backlog entry added
 
 ### Completed
 
@@ -44,6 +44,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Notes
 
 - [03-spades-v2] — Chapters 1–5 progress note added; agentic surgical team concept derived in-session (dedicated planning session pending)
+
+### Added
+
+- [BACKLOG] — Agentic Surgical Team (goal tracking system application) added to Clubs backlog; dedicated planning session pending
 
 ### Process
 
