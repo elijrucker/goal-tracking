@@ -5,11 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-03] — 6♠️ CS50 AI resource added
+## [2026-08-03] — 6♠️ CS50 AI resource added; joker-1/03-spades-v2/10-hearts reflection notes logged
 
 ### Added
 
 - [06-spades] — [Resources] added CS50's Introduction to Artificial Intelligence with Python YouTube lecture series (full course video, alternative to the edX platform link)
+
+### Notes
+
+- [joker-1] — [Progress Notes] added note (2026-08-03; synthesized the "computer scientist" title reflection and a fortune-cookie perception-shift note into one outcome — beginning, privately, to self-identify as a computer scientist, framed as cumulative rather than a single trigger)
+- [03-spades-v2] / [joker-1] — [Progress Notes] added note (2026-08-03; Mythical Man-Month prompted the realization that writing code is a minor part of software development relative to architecture, planning, and communication — proposed as the dividing line between programmer/developer and computer scientist/software engineer)
+- [10-hearts] / [joker-1] — [Progress Notes] added note (2026-08-03; MATC Introduction to Philosophy identified as the most rewarding course to date, its late placement in the curriculum enabling connections to CS that wouldn't have landed earlier)
 
 ---
 

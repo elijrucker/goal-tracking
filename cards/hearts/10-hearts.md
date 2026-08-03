@@ -120,6 +120,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-08-03] [introPhilosophy] Of coursework completed so far, Introduction to Philosophy has been the most rewarding and thought-provoking course to date — more so than Introduction to Web Development. Taking it at this point in the academic journey, rather than earlier, allowed it to function as a springboard for drawing connections to computer science (e.g., Socratic questioning, utilitarian frameworks) that wouldn't have landed the same way without prior technical coursework to anchor them. Shares the same undertone as recent notes filed under joker-1 and 3♠️ V2: a cumulative, rather than singular, shift in how software development and the "computer scientist" identity are understood.
 - [2026-07-05] [advancedJavaScript] Drop decision rationale: three parallel condensed summer courses (advancedJavaScript, introPhilosophy, technicalReporting) exceeded available bandwidth. advancedJavaScript deferred to Fall 2026 for proper coverage; textbook reading (YDKJS: ES6 & Beyond) continues independently of the course.
 - [2026-07-05] [advancedJavaScript > YDKJS] Course/textbook calibration: YDKJS: ES6 & Beyond is significantly more advanced than the course itself — the course operates at an ES6 baseline, not current modern JS.
 - [2026-07-05] [advancedJavaScript > YDKJS] Curriculum lag: course material traced to circa 2015-2016 formalization — "modern" in course context means ES6-era, not 2026-modern.

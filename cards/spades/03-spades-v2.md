@@ -65,6 +65,7 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
 
 ## Progress Notes
 
+- [2026-08-03] Reading prompted a realization: writing code is a comparatively minor component of software development as a whole — the bulk of the real work is architecture, planning, and communication, both before a line of code is written and in the ongoing cycle of revision, refactor, and coordination around it. Proposed as a meaningful line between programmer/developer and computer scientist/software engineer: the latter carries a consciousness of full project scope, not just implementation. Also logged under joker-1 as a general progress note, since the realization predates this book and extends beyond its specific scope.
 - [2026-06-22] Card created; reading in progress
 
 ---
