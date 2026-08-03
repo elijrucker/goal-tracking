@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-03] — 6♠️ CS50 AI resource added
+
+### Added
+
+- [06-spades] — [Resources] added CS50's Introduction to Artificial Intelligence with Python YouTube lecture series (full course video, alternative to the edX platform link)
+
+---
+
 ## [2026-07-30] — joker-1 social media & community accounts series closed; 02-spades C deep dive subtask added; Dr. Chuck curriculum section added to RESOURCES.md
 
 ### Completed

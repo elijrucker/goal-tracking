@@ -29,6 +29,7 @@ Complete Harvard's CS50 AI - Introduction to Artificial Intelligence with Python
 ## Resources
 
 - [CS50 AI - Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Harvard/edX course
+- [CS50's Introduction to Artificial Intelligence with Python](https://www.youtube.com/watch?v=5NgNicANyqM) - Full lecture series on YouTube
 
 ---
 
