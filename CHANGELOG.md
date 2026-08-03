@@ -13,6 +13,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-03; Ch. 2)
 - [ace-diamonds] — target certification updated: AWS Certified Developer Associate (DVA-C02) → AWS Certified Solutions Architect Associate (SAA-C03); goal name, description, resources, prerequisite label, and subtask updated
 - [king-diamonds] — retitled/rescoped from "AWS DVA Prep Course" to "AWS SAA Prep Course"; description, resources, and Unlocks reference updated to match
 - [jack-diamonds] — description and Skill Builder resource retargeted from the Developer Learning Plan to the Solutions Architect Learning Plan; Phase 0/Phase 1 progress reset to not-started (that work was pursued under the Developer track's curriculum and doesn't carry over — see card's 2026-08-03 progress note)
