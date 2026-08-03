@@ -42,14 +42,21 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] / [joker-1] — [Progress Notes] added note (2026-08-03; MATC Introduction to Philosophy identified as the most rewarding course to date, its late placement in the curriculum enabling connections to CS that wouldn't have landed earlier)
 - [RESOURCES] — flagged as stale: still shows a "3♠️ CS Distilled" heading with only the CS Distilled book — no entry for 03-spades-v2 (Mythical Man-Month). DECK_OVERVIEW.md checked separately and found accurate (already reflects "V2; CS Distilled complete"). Reconciliation deferred to a dedicated session.
 - Programming Pearls and Psychology of Computer Programming confirmed already present in BACKLOG.md from prior session (2026-08-01 prompt) — not re-added.
+- [joker-1] — [Progress Notes] added note (2026-08-03; summarizing this session's subtask trims — narrowing focus to subtasks essential for entry-level job applications, with "nice to haves" relegated to the backlog until more pressing work is resolved)
 
 ### Removed
 
 - [joker-1] — [Profile, Portfolio & Credentials] "Portfolio website" subtask removed — not strictly relevant to the job-offer goal itself and occurs after joker-1 closes
+- [joker-1] — [Complete Anthropic Academy courses] subtask series pruned of closed entries (Claude 101, Claude Code 101, Cowork, Claude Code in Action — closed and logged in earlier entries above) per dynamic card retention rules
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented] pruned of closed entries (52-card goal tracker, Self-hosted Linux infrastructure — closed and logged in earlier entries above) per dynamic card retention rules
+- [joker-1] — [Profile, Portfolio & Credentials] "Establish Stack Overflow presence" subtask removed — premature given current novice-to-intermediate standing; absorbed into BACKLOG's Mentorship & Technical Teaching entry, which already scoped Stack Overflow contribution and is gated on post-relocation professional experience
 
 ### Changed
 
 - [BACKLOG] — [Personal domain & professional email] merged joker-1's portfolio website subtask in; retitled "Personal domain, professional email & portfolio website" since both share the same domain purchase
+- [BACKLOG] — [Mentorship & Technical Teaching] absorbed joker-1's Stack Overflow presence subtask (Python, Linux, Docker tags; ~1 answer/week)
+- [joker-1] — [Complete Anthropic Academy courses] annotation updated (in progress: Building with Claude API, 2026-06-18; configure container API dev environment) — dropped the general description clause, now redundant with the remaining child course list
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented > Java CLI copy tool] description shortened — verbose design details (silent-default inversion, `Copyable` interface, Composite pattern) removed from the card; now tracked in the Claude Project Java/Kotlin
 
 ---
 

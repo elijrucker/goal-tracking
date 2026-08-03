@@ -66,22 +66,14 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] Complete Anthropic Academy courses — practical AI literacy across Claude tools, APIs, and agent frameworks
-  - [x] Claude 101
-  - [x] Claude Code 101
-  - [x] Cowork
-  - [x] Claude Code in Action
-  - [/] Building with Claude API (2026-06-18; configure container API dev environment)
+- [/] Complete Anthropic Academy courses (in progress: Building with Claude API, 2026-06-18; configure container API dev environment)
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
   - [ ] Introduction to Agent Skills
   - [ ] Introduction to Subagents
   - [ ] Claude with Amazon Bedrock
 - [/] Ensure 3 strong portfolio projects are live and documented
-  - [x] 52-card goal tracker (live, documented)
-  - [x] Self-hosted Linux infrastructure
-  - [ ] Java CLI copy tool (`cp` reimplementation); verbose-by-default design inverts `cp`'s silent default (`-q` opts out to original silence); `Copyable` interface (`File`/`Directory`) demonstrates polymorphism, dynamic dispatch, and the Composite pattern; containerized
-- [ ] Establish Stack Overflow presence in Python, Linux, and Docker tags — one well-written answer per week minimum
+  - [ ] Java CLI copy tool (`cp` reimplementation) — design details tracked in Claude Project Java/Kotlin
 
 ## Subtasks - Job Search & Preparation
 
@@ -125,6 +117,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-08-03] Trimmed subtasks this session: Portfolio website (moved to BACKLOG, merged into Personal domain & professional email), Establish Stack Overflow presence (moved to BACKLOG, merged into Mentorship & Technical Teaching), plus pruning of already-closed entries under Complete Anthropic Academy courses and Ensure 3 strong portfolio projects are live and documented. Underlying rationale: narrowing joker-1 to subtasks essential for entry-level job applications; "nice to haves" are relegated to the backlog until more pressing, weightier work is resolved.
 - [2026-08-03] Synthesized two prior reflections — the criteria for legitimately claiming the title "computer scientist," and a fortune cookie's claim that today marks "the beginning of a shift in perception" — into a single outcome: beginning, privately, to think of myself as a computer scientist. Consistent with the conclusion that perceptual shifts are cumulative rather than singular, this is a data point in that accumulation, not its cause.
 - [2026-08-03] Reading The Mythical Man-Month (3♠️ V2) prompted a realization: writing code is a comparatively minor component of software development — the bulk of the real work is architecture, planning, and communication, both before code is written and across the ongoing cycle of revision, refactor, and coordination. Proposed as a meaningful line between programmer/developer and computer scientist/software engineer: the latter carries consciousness of full project scope, not just implementation. Filed here as a general progress note since the realization predates the book and extends beyond its specific scope (see also 3♠️ V2).
 - [2026-08-03] Reflecting on coursework completed so far, MATC's Introduction to Philosophy (10♥️) has been the most rewarding and thought-provoking course to date — more so than Introduction to Web Development. Taking it at this point in the academic journey, rather than earlier, let it function as a springboard for drawing connections to computer science (e.g., Socratic questioning, utilitarian frameworks) that wouldn't have landed the same way without prior technical coursework to anchor them. Shares the same undertone as the two notes above: a cumulative, not singular, shift in how software development and the "computer scientist" identity are understood.
