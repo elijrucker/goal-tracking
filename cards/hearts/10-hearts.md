@@ -47,13 +47,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] introPhilosophy (06/22–08/14)
       - [x] Module 1 – Introduction to Philosophy
       - [x] Module 2 – Applied Ethics and Ethical Theory
-      - [ ] Module 3 – Epistemology (due 08/03)
-        - [ ] Read Descartes, "Meditation I" (Norton)
-        - [ ] Read Moore, "Proof of an External World" (Norton)
-        - [ ] Read Vogel, "Skepticism and Inference to the Best Explanation" (Norton)
-        - [ ] Quiz (due 08/03)
-        - [ ] Discussion Post + 2 replies (due 08/03)
-        - [ ] Journal Entry (due 08/03)
+      - [x] Module 3 – Epistemology
       - [ ] Module 4 – Metaphysics / Exam Week (due 08/17)
         - [ ] Read Nagel, "What is it Like to be a Bat?" (Norton p. 356)
         - [ ] Read Churchland, "Are Mental States Irreducible?" (Norton p. 377)

@@ -13,6 +13,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [BACKLOG] — Foundational CS texts audit: Code Complete, Design Patterns (GoF), and Peopleware added to Clubs backlog (opportunity-cost gap: software construction and engineering-practice canon underrepresented relative to algorithms/systems theory)
 - [REFLECTIONS] — first entry added: Engineering Culture Reading Cluster Planning session reflection, covering the reasoning behind merging 6♠️ CS50 AI and 4♠️ CS50 Cybersecurity into one Green-tier card and the tier-calibration pattern it surfaced
 - [REFLECTIONS] — second entry added: AWS Track Pivot reflection, connecting the DVA→SAA certification pivot to a years-old mentor recommendation and the Brooks architect/builder distinction from Mythical Man-Month; Delayed reflection placeholder also added to the Engineering Culture entry
+- [BACKLOG] — new "Deferred — Reading & Writing" section added, holding Writing for Developers and Schreiben Lernen (both deferred from joker-1, not dropped); Review Log entry added
 
 ### Changed
 
@@ -29,6 +30,16 @@ Format: [YYYY-MM-DD] — Description of change
 - [BACKLOG] — Psychology of Computer Programming and Peopleware marked promoted to 6♠️ (merged, not dropped), matching the existing Mythical Man-Month promotion convention; Agentic Surgical Team prerequisites updated to include 6♠️ completion; Review Log entry added
 - [RESOURCES] / [DECK_OVERVIEW] / [README] — 3♠️/4♠️/6♠️ Spades entries updated to match the restructure; also fixed a separate stale "3♠️ CS Distilled" reference in RESOURCES.md (flagged earlier today) and one in README.md (found during this pass) — both now correctly show 3♠️ V2 (Mythical Man-Month, CS Distilled complete)
 - [05-spades] / [07-spades] — Prerequisites disambiguated from bare "3♠️ - CS Distilled" to "3♠️ V1 - CS Distilled", since "3♠️" alone is now ambiguous between the V1 and V2 cards
+- [BACKLOG] — [Personal domain & professional email] merged joker-1's portfolio website subtask in; retitled "Personal domain, professional email & portfolio website" since both share the same domain purchase
+- [BACKLOG] — [Mentorship & Technical Teaching] absorbed joker-1's Stack Overflow presence subtask (Python, Linux, Docker tags; ~1 answer/week)
+- [joker-1] — [Complete Anthropic Academy courses] annotation updated (in progress: Building with Claude API, 2026-06-18; configure container API dev environment) — dropped the general description clause, now redundant with the remaining child course list
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented > Java CLI copy tool] description shortened — verbose design details (silent-default inversion, `Copyable` interface, Composite pattern) removed from the card; now tracked in the Claude Project Java/Kotlin
+- [joker-1] — [Execution > Apply to target companies in Berlin] restructured into generic Batch 1-4 children (parent and Batch 1 marked in progress); decoupled from private Tier 1-4 vetting groups — no company names on this file
+- [joker-1] — [Subtasks - Relocation Logistics] resequenced: Set up EU/German banking now listed first, Secure housing in Berlin second — both annotated post-arrival
+- [joker-1] — [Prerequisites > A♦️] accelerant label updated: AWS Certified Developer Associate → AWS Certified Solutions Architect Associate, matching the DVA→SAA pivot logged earlier today
+- [joker-1] — [Prerequisites > Accelerants] trimmed all entries of "not a gate"/"supporting goal" boilerplate, already covered by the section's own title annotation; dropped restated card-level facts (e.g. 9♣️'s target date, generic goal descriptions), keeping only joker-1-specific interpretive notes not derivable from each card itself
+- [joker-1] — [Reflection & Lessons Learned] all three entries (Role shift observation, Learning in Public, Sysadmin Cleanup Discipline) migrated to REFLECTIONS.md — none were actually card-specific to the job search itself, all read as cross-cutting system-level realizations; section left empty, ready for genuinely joker-1-specific reflections
+- [REFLECTIONS] — three entries added (2026-06-24, 2026-06-03, 2026-05-21), migrated from joker-1; each carries a note explaining their brief, single-note format predates REFLECTIONS.md's full template
 
 ### Process
 
@@ -44,45 +55,20 @@ Format: [YYYY-MM-DD] — Description of change
 - Programming Pearls and Psychology of Computer Programming confirmed already present in BACKLOG.md from prior session (2026-08-01 prompt) — not re-added.
 - [joker-1] — [Progress Notes] added note (2026-08-03; summarizing this session's subtask trims — narrowing focus to subtasks essential for entry-level job applications, with "nice to haves" relegated to the backlog until more pressing work is resolved)
 
+### Completed
+
+- [joker-1] — [Preparation > Research Berlin companies and tech scene] closed — DoD retroactively satisfied by existing Tier 1-4 job board lists
+- [10-hearts] — [introPhilosophy > Module 3 – Epistemology] closed
+
 ### Removed
 
 - [joker-1] — [Profile, Portfolio & Credentials] "Portfolio website" subtask removed — not strictly relevant to the job-offer goal itself and occurs after joker-1 closes
 - [joker-1] — [Complete Anthropic Academy courses] subtask series pruned of closed entries (Claude 101, Claude Code 101, Cowork, Claude Code in Action — closed and logged in earlier entries above) per dynamic card retention rules
 - [joker-1] — [Ensure 3 strong portfolio projects are live and documented] pruned of closed entries (52-card goal tracker, Self-hosted Linux infrastructure — closed and logged in earlier entries above) per dynamic card retention rules
 - [joker-1] — [Profile, Portfolio & Credentials] "Establish Stack Overflow presence" subtask removed — premature given current novice-to-intermediate standing; absorbed into BACKLOG's Mentorship & Technical Teaching entry, which already scoped Stack Overflow contribution and is gated on post-relocation professional experience
-
-### Changed
-
-- [BACKLOG] — [Personal domain & professional email] merged joker-1's portfolio website subtask in; retitled "Personal domain, professional email & portfolio website" since both share the same domain purchase
-- [BACKLOG] — [Mentorship & Technical Teaching] absorbed joker-1's Stack Overflow presence subtask (Python, Linux, Docker tags; ~1 answer/week)
-- [joker-1] — [Complete Anthropic Academy courses] annotation updated (in progress: Building with Claude API, 2026-06-18; configure container API dev environment) — dropped the general description clause, now redundant with the remaining child course list
-- [joker-1] — [Ensure 3 strong portfolio projects are live and documented > Java CLI copy tool] description shortened — verbose design details (silent-default inversion, `Copyable` interface, Composite pattern) removed from the card; now tracked in the Claude Project Java/Kotlin
-
-### Completed
-
-- [joker-1] — [Preparation > Research Berlin companies and tech scene] closed — DoD retroactively satisfied by existing Tier 1-4 job board lists
-
-### Removed
-
 - [joker-1] — [Subtasks - Reading & Writing] entire subtask group removed (Writing for Developers, Schreiben Lernen 10 chapters) → moved to BACKLOG.md under new "Deferred — Reading & Writing" section
 - [joker-1] — [Preparation > Prepare for technical interviews] removed — superseded by 9♣️ LeetCode Practice
 - [joker-1] — [Preparation > Network with Berlin-based developers] removed — superseded by the completed social media/community audit subtask
-
-### Added
-
-- [BACKLOG] — new "Deferred — Reading & Writing" section added, holding Writing for Developers and Schreiben Lernen (both deferred from joker-1, not dropped); Review Log entry added
-
-### Changed
-
-- [joker-1] — [Execution > Apply to target companies in Berlin] restructured into generic Batch 1-4 children (parent and Batch 1 marked in progress); decoupled from private Tier 1-4 vetting groups — no company names on this file
-- [joker-1] — [Subtasks - Relocation Logistics] resequenced: Set up EU/German banking now listed first, Secure housing in Berlin second — both annotated post-arrival
-- [joker-1] — [Prerequisites > A♦️] accelerant label updated: AWS Certified Developer Associate → AWS Certified Solutions Architect Associate, matching the DVA→SAA pivot logged earlier today
-- [joker-1] — [Prerequisites > Accelerants] trimmed all entries of "not a gate"/"supporting goal" boilerplate, already covered by the section's own title annotation; dropped restated card-level facts (e.g. 9♣️'s target date, generic goal descriptions), keeping only joker-1-specific interpretive notes not derivable from each card itself
-- [joker-1] — [Reflection & Lessons Learned] all three entries (Role shift observation, Learning in Public, Sysadmin Cleanup Discipline) migrated to REFLECTIONS.md — none were actually card-specific to the job search itself, all read as cross-cutting system-level realizations; section left empty, ready for genuinely joker-1-specific reflections
-- [REFLECTIONS] — three entries added (2026-06-24, 2026-06-03, 2026-05-21), migrated from joker-1; each carries a note explaining their brief, single-note format predates REFLECTIONS.md's full template
-
-### Removed
-
 - [joker-1] — [Job Search & Preparation] "Preparation" subsection pruned (Research Berlin companies and tech scene, Research visa requirements — both closed and logged in earlier entries above) per dynamic card retention rules
 
 ---
