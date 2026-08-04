@@ -12,10 +12,12 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — ['Modern States' free CLEP College Algebra course] annotation updated (2026-08-04; 1.2)
 - [10-hearts] — [Resources] vague "Current institution - track via academic portal" entry folded into the MATC link line, removing the redundant standalone line
 - [10-hearts] — [Progress Notes] 2026-02-13 deck-initialization entries merged into one line; 2026-03-18 GPA-retake entry reformatted to a leading `[YYYY-MM-DD]` bracket for consistency with the rest of the section
+- [10-hearts] — [Status] Target Completion updated: End of 2026 → Spring 2027
+- [10-hearts] — [Spring 27 > db_prog] Project 4/wk16 detail dropped from the subtask line
 
 ### Added
 
-- [10-hearts] — [Fall 26] db_prog remainder (Project 4, wk16) re-added — deferred from Spring 26 per the 2026-05-14 Progress Note but missing from the tracked Subtasks tree; confirmed still outstanding
+- [10-hearts] — [Spring 27] new block added: db_prog remainder (deferred Spring 26 course, previously untracked — see 2026-05-14 note), advancedJava, cSharp
 
 ### Process
 

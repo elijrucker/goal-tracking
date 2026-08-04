@@ -14,7 +14,7 @@
 
 - **Current Status**: In Progress (Units Completed 49/63)
 - **Start Date**: 2023-09-01
-- **Target Completion**: End of 2026
+- **Target Completion**: Spring 2027
 - **Completion Date**:
 - **Time Invested**: ~1225 hrs
 
@@ -104,9 +104,11 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] technicalReporting (08/31-12/18)
   - [ ] javaProgramming (08/31–12/18)
   - [ ] phpWebMySQL (08/31–12/18)
-  - [ ] db_prog remainder (deferred from Spring 26)
-    - [ ] Project 4
-    - [ ] wk16
+
+- [ ] **Spring 27**
+  - [ ] db_prog
+  - [ ] advancedJava
+  - [ ] cSharp
 - [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
 - [ ] Confirm transfer credits toward Bachelor's program
@@ -116,7 +118,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
-- [2026-08-04] [db_prog] Deferred Spring 26 remainder (Project 4, wk16) confirmed still outstanding — re-added under Fall 26 after a lean-refactor pass found it referenced in the 2026-05-14 note but missing from the tracked Subtasks tree.
+- [2026-08-04] [Spring 27] advancedJava and cSharp added alongside db_prog, rounding out the Spring 27 course list.
+- [2026-08-04] [db_prog] Deferred Spring 26 remainder confirmed still outstanding — re-added, found via a lean-refactor pass after it turned up referenced in the 2026-05-14 note but missing from the tracked Subtasks tree. Placed under a new Spring 27 block rather than Fall 26, which is already a full 4-course load (advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL) without it; Project 4/wk16 detail dropped from the subtask line as unnecessary granularity for a not-yet-current semester. Target Completion updated (End of 2026 → Spring 2027) to match.
 - [2026-08-03] [introPhilosophy] Of coursework completed so far, Introduction to Philosophy has been the most rewarding and thought-provoking course to date — more so than Introduction to Web Development. Taking it at this point in the academic journey, rather than earlier, allowed it to function as a springboard for drawing connections to computer science (e.g., Socratic questioning, utilitarian frameworks) that wouldn't have landed the same way without prior technical coursework to anchor them. Shares the same undertone as recent notes filed under joker-1 and 3♠️ V2: a cumulative, rather than singular, shift in how software development and the "computer scientist" identity are understood.
 - [2026-07-05] [advancedJavaScript] Drop decision rationale: three parallel condensed summer courses (advancedJavaScript, introPhilosophy, technicalReporting) exceeded available bandwidth. advancedJavaScript deferred to Fall 2026 for proper coverage; textbook reading (YDKJS: ES6 & Beyond) continues independently of the course.
 - [2026-07-05] [advancedJavaScript > YDKJS] Course/textbook calibration: YDKJS: ES6 & Beyond is significantly more advanced than the course itself — the course operates at an ES6 baseline, not current modern JS.
