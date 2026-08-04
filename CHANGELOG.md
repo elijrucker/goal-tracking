@@ -5,11 +5,21 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-04] — 10-hearts CLEP progress annotation updated
+## [2026-08-04] — 10-hearts CLEP progress annotation updated; lean-refactor pass
 
 ### Changed
 
 - [10-hearts] — ['Modern States' free CLEP College Algebra course] annotation updated (2026-08-04; 1.2)
+- [10-hearts] — [Resources] vague "Current institution - track via academic portal" entry folded into the MATC link line, removing the redundant standalone line
+- [10-hearts] — [Progress Notes] 2026-02-13 deck-initialization entries merged into one line; 2026-03-18 GPA-retake entry reformatted to a leading `[YYYY-MM-DD]` bracket for consistency with the rest of the section
+
+### Added
+
+- [10-hearts] — [Fall 26] db_prog remainder (Project 4, wk16) re-added — deferred from Spring 26 per the 2026-05-14 Progress Note but missing from the tracked Subtasks tree; confirmed still outstanding
+
+### Process
+
+- First application of the new standing lean-refactor practice: every card touched now gets a whole-file bloat/consistency check, not just the requested edit (see [10-hearts] db_prog finding above)
 
 ---
 

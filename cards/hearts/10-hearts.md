@@ -28,8 +28,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Resources
 
-- Current institution - track via academic portal
-- [MATC-myMadisonCollege] https://cs.madisoncollege.edu/psc/CSPRD92/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL
+- [MATC-myMadisonCollege] https://cs.madisoncollege.edu/psc/CSPRD92/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL - academic portal, track progress here
 
 ---
 
@@ -105,6 +104,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] technicalReporting (08/31-12/18)
   - [ ] javaProgramming (08/31–12/18)
   - [ ] phpWebMySQL (08/31–12/18)
+  - [ ] db_prog remainder (deferred from Spring 26)
+    - [ ] Project 4
+    - [ ] wk16
 - [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
 - [ ] Confirm transfer credits toward Bachelor's program
@@ -114,6 +116,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-08-04] [db_prog] Deferred Spring 26 remainder (Project 4, wk16) confirmed still outstanding — re-added under Fall 26 after a lean-refactor pass found it referenced in the 2026-05-14 note but missing from the tracked Subtasks tree.
 - [2026-08-03] [introPhilosophy] Of coursework completed so far, Introduction to Philosophy has been the most rewarding and thought-provoking course to date — more so than Introduction to Web Development. Taking it at this point in the academic journey, rather than earlier, allowed it to function as a springboard for drawing connections to computer science (e.g., Socratic questioning, utilitarian frameworks) that wouldn't have landed the same way without prior technical coursework to anchor them. Shares the same undertone as recent notes filed under joker-1 and 3♠️ V2: a cumulative, rather than singular, shift in how software development and the "computer scientist" identity are understood.
 - [2026-07-05] [advancedJavaScript] Drop decision rationale: three parallel condensed summer courses (advancedJavaScript, introPhilosophy, technicalReporting) exceeded available bandwidth. advancedJavaScript deferred to Fall 2026 for proper coverage; textbook reading (YDKJS: ES6 & Beyond) continues independently of the course.
 - [2026-07-05] [advancedJavaScript > YDKJS] Course/textbook calibration: YDKJS: ES6 & Beyond is significantly more advanced than the course itself — the course operates at an ES6 baseline, not current modern JS.
@@ -132,9 +135,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [2026-06-02] Revised math elective subtask list: scoped to Franklin B.S. CS (MATH 160 + MATH 215); Precalculus/Calculus removed; CLEP prep sequence updated; advisory items reset to not started
 - [2026-05-18] Units (35/63) do not yet reflect Spring 26 final grades — to be updated once posted
 - [2026-05-14] db_prog incomplete; Project 4 and wk16 deferred to Fall 26
-- [2026-02-13] In progress at deck initialization
-- [2026-02-13] Expected completion within ~1 year
-- Actively retaking select courses to improve cumulative GPA (ongoing, noted 2026-03-18)
+- [2026-03-18] Actively retaking select courses to improve cumulative GPA (ongoing)
+- [2026-02-13] In progress at deck initialization; expected completion within ~1 year
 
 ---
 
