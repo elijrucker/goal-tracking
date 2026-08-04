@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-04] — 10-hearts CLEP progress annotation updated
+
+### Changed
+
+- [10-hearts] — ['Modern States' free CLEP College Algebra course] annotation updated (2026-08-04; 1.2)
+
+---
+
 ## [2026-08-03] — Spades reading cluster restructured (4♠️/6♠️ merge); AWS track pivoted to Solutions Architect Associate; 6♠️ CS50 AI resource added; joker-1/03-spades-v2/10-hearts reflection notes logged
 
 ### Added
