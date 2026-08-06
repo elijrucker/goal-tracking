@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-05] — 03-diamonds subtask restructure; 3♠️ V2 Ch. 7 complete; 10-hearts CLEP annotation update; 7♥️ gym session logged
+
+### Changed
+
+- [03-spades-v2] — [Subtasks] Ch. 7 — Why Did the Tower of Babel Fail? marked complete
+- [03-spades-v2] — [Progress Notes] added note (2026-08-05; Ch. 7 complete, chapter 7 review and all previous chapter reviews completed in dedicated session)
+- [10-hearts] — ['Modern States' free CLEP College Algebra course] annotation updated (2026-08-05; 1.2 review pending)
+- [03-diamonds] — [Subtasks] restructured into four top-level groupings (Part 1: Basics, Part 1: Cumulative review, Part 2: Projects, Review and consolidate key concepts); existing chapter/exercise/project detail nested underneath rather than dropped — Try It Yourself exercises now nest under Cumulative review, py4e.com nests under Review and consolidate key concepts
+- [03-diamonds] — [Progress Notes] added note (2026-08-05; flashcard review approach revised — holding all flashcards until Part 1 complete and circling back for consolidation)
+- [07-hearts] — [Maintain habits established in first milestone] marked in progress; annotated with most recent gym session (2026-08-05, 17:00–18:15)
+- [PROGRESS] — On the Board counts synced for 3♠️ V2 and 3♦️ to match today's subtask edits
+
+---
+
 ## [2026-08-04] — 10-hearts CLEP progress annotation updated; lean-refactor pass
 
 ### Changed

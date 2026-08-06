@@ -41,45 +41,39 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Subtasks
 
-**Part 1: Basics** _(Flashcard Set 1: Concepts & Vocabulary — reviewed 2026-06-08)_
+- [ ] **Part 1: Basics** (Ch. 1–11 reading; Flashcard Set 1: Concepts & Vocabulary reviewed 2026-06-08)
+  - [x] Ch. 1: Getting Started
+  - [x] Ch. 2: Variables and Simple Data Types
+  - [x] Ch. 3: Introducing Lists
+  - [x] Ch. 4: Working with Lists
+  - [x] Ch. 5: if Statements
+  - [x] Ch. 6: Dictionaries
+  - [x] Ch. 7: User Input and while Loops
+  - [/] Ch. 8: Functions (2026-08-02; Modifying a List in a Function)
+  - [ ] Ch. 9: Classes
+  - [ ] Ch. 10: Files and Exceptions
+  - [ ] Ch. 11: Testing Your Code
 
-_Reading_
+- [ ] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)
+  - [/] Try It Yourself Ch. 1–3 (2026-06-15; Container environment configured, and exercise-ready)
+  - [ ] Try It Yourself Ch. 4–6
+  - [ ] Try It Yourself Ch. 7–9
+  - [ ] Try It Yourself Ch. 10
+  - [ ] Try It Yourself Ch. 11
 
-- [x] Ch. 1: Getting Started
-- [x] Ch. 2: Variables and Simple Data Types
-- [x] Ch. 3: Introducing Lists
-- [x] Ch. 4: Working with Lists
-- [x] Ch. 5: if Statements
-- [x] Ch. 6: Dictionaries
-- [x] Ch. 7: User Input and while Loops
-- [/] Ch. 8: Functions (2026-08-02; Modifying a List in a Function)
-- [ ] Ch. 9: Classes
-- [ ] Ch. 10: Files and Exceptions
-- [ ] Ch. 11: Testing Your Code
+- [ ] **Part 2: Projects** (complete at least one project)
+  - [ ] Project 1 — Alien Invasion (Ch. 12–14) _(Pygame requires display; X11 forwarding or run locally)_
+  - [ ] Project 2 — Data Visualization (Ch. 15–17)
+  - [ ] Project 3 — Web Applications (Ch. 18–20)
 
-_Try It Yourself (exercises, post-reading)_
-
-- [/] Ch. 1–3 (2026-06-15; Container environment configured, and exercise-ready)
-- [ ] Ch. 4–6
-- [ ] Ch. 7–9
-- [ ] Ch. 10
-- [ ] Ch. 11
-
-**Part 2: Projects**
-
-- [ ] Project 1 — Alien Invasion (Ch. 12–14) _(Pygame requires display; X11 forwarding or run locally)_
-- [ ] Project 2 — Data Visualization (Ch. 15–17)
-- [ ] Project 3 — Web Applications (Ch. 18–20)
-
-**Wrap-up**
-
-- [ ] Python for Everybody (py4e.com) — Dr. Chuck; practical fluency deep dive
 - [ ] Review and consolidate key concepts
+  - [ ] Python for Everybody (py4e.com) — Dr. Chuck; practical fluency deep dive
 
 ---
 
 ## Progress Notes
 
+- [2026-08-05] Flashcard review approach revised — holding all flashcards until Part 1 complete and circling back for consolidation.
 - [2026-07-26] Restructured Part 1 subtasks: reading now runs Ch. 1–11 straight through, with Try It Yourself exercises grouped separately to circle back to afterward. Prompted by recognizing most of Part 1's content is review of concepts already covered via MATC (10♥️) or CS50x (2♠️), so a reading-first pass is lower-friction than alternating chapter-by-chapter.
 - [2026-06-09] Habit anchoring experiment in progress: post-gym unpacking as trigger for Python reading sessions. Gym cadence 5+x/week — sufficient to support Part 1 target of June 30.
 - [2026-06-01] Target set: complete Part 1 (Basics) by 2026-06-30. One month target, not considered a stretch goal. Revisit pace as summer courses ramp up.
