@@ -78,6 +78,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 
 ## Potential Hearts Cards (Personal Development)
 
+- [ ] General Investment Literacy (Hearts, tier TBD) — Broader market literacy beyond index/passive investing, held separately since it doesn't share 02-hearts' passive-investing thesis and TA/Shiller's behavioral framing actively sit outside classical EMH. Resources: technical analysis (IG Academy, ~4-5 hrs), options income strategies (OIC, ~5-10 hrs), futures (CME Institute, ~3-6 hrs), forex (BabyPips, ~6-8 hrs), broad financial markets survey (Yale/Shiller, Coursera, audit-free, no stated hour count). Removed from 02-hearts (2026-08-09). Candidate for its own card once general (non-index) market literacy becomes a stated goal in its own right.
 - [ ] Goethe-Zertifikat C2 (Hearts, mid-to-high tier) — German language certification deferred from joker-1. Scope: Complete "Schreiben Lernen" (writing guide), Complete "Mit Erfolg zum Goethe-Zertifikat C2: GDS" (exam prep guide), pass the Goethe-Zertifikat C2 exam. Best pursued post-relocation to Berlin where immersion accelerates preparation. Prerequisite: Joker 1 (Berlin job offer and relocation). Suggested activation: Post-relocation (2027+).
 
 

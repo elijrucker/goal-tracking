@@ -5,6 +5,28 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-09] — 02-hearts scope narrowed; General Investment Literacy backlog candidate added
+
+### Changed
+
+- [02-hearts] Removed Technical Analysis, Options, Futures, Forex, and Global Markets Context (Yale/Shiller) resources/subtasks — scope creep unrelated to the card's passive/index investing thesis (TA and Shiller's behavioral framing in particular sit outside classical EMH). ~18-29+ hrs of content removed.
+- [02-hearts] Added 3♥️ - Four Pillars of Investing to Unlocks.
+- [02-hearts] Set Target Completion to 2026-12-15, based on total subtask hour estimate against observed low-priority cadence. Time estimates logged in Progress Notes rather than a new card field (CARD_TEMPLATE.md unchanged).
+
+### Added
+
+- [BACKLOG] Added "General Investment Literacy" Hearts candidate — holds all five removed 02-hearts resources pending a proper home.
+
+---
+
+## [2026-08-08] — 02-hearts progress
+
+### Changed
+
+- [02-hearts] — [Read The Little Book of Common Sense Investing] annotation updated (2026-08-08; Ch. 4)
+
+---
+
 ## [2026-08-05] — 03-diamonds subtask restructure; 3♠️ V2 Ch. 7 complete; 10-hearts CLEP annotation update; 7♥️ gym session logged
 
 ### Changed

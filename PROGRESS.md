@@ -46,7 +46,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units         |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/11                |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
-| 2♥️  | Index Investing Fundamentals     | In Progress | 0/13                |
+| 2♥️  | Index Investing Fundamentals     | In Progress | 0/8                 |
 | 9♣️  | LeetCode Practice                | In Progress | 0/9                 |
 
 \* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, LeetCode Practice, Associate's
