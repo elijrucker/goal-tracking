@@ -22,6 +22,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [CLAUDE.md] — [Subtask Tree Retention] new Standing Decision added: on dynamic cards, Reflection & Lessons Learned moves before Completion Notes and accumulates via dated sub-entries (one per reflection-worthy session) rather than a single static block, since reflections build throughout a dynamic card's active life rather than once at the end; [CARD_TEMPLATE] cross-referencing note added
 - [09-clubs], [joker-1], [10-hearts] — [Reflection & Lessons Learned] section moved before [Completion Notes] to match the new dynamic-card convention
 - [09-clubs] — [Complete The LeetCode Beginner's Guide] annotation added (2026-08-10; Beginner's Guide, 1480)
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-10; Ch. 3 5:34:30)
 
 ---
 
