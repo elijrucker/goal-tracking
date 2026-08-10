@@ -48,7 +48,7 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
   - [x] Ch. 5 — The Second-System Effect
   - [x] Ch. 6 — Passing the Word
   - [x] Ch. 7 — Why Did the Tower of Babel Fail?
-  - [ ] Ch. 8 — Calling the Shot
+  - [x] Ch. 8 — Calling the Shot
   - [ ] Ch. 9 — Ten Pounds in a Five-Pound Sack
   - [ ] Ch. 10 — The Documentary Hypothesis
   - [ ] Ch. 11 — Plan to Throw One Away

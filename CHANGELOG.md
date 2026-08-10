@@ -7,6 +7,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-08-09] — 02-hearts scope narrowed; General Investment Literacy backlog candidate added
 
+### Completed
+
+- [03-spades-v2] — [Ch. 8 — Calling the Shot] marked completete
+
 ### Changed
 
 - [02-hearts] Removed Technical Analysis, Options, Futures, Forex, and Global Markets Context (Yale/Shiller) resources/subtasks — scope creep unrelated to the card's passive/index investing thesis (TA and Shiller's behavioral framing in particular sit outside classical EMH). ~18-29+ hrs of content removed.
@@ -31,7 +35,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [03-spades-v2] — [Subtasks] Ch. 7 — Why Did the Tower of Babel Fail? marked complete
+- [03-spades-v2] — [Ch. 7 — Why Did the Tower of Babel Fail?] marked complete
 - [03-spades-v2] — [Progress Notes] added note (2026-08-05; Ch. 7 complete, chapter 7 review and all previous chapter reviews completed in dedicated session)
 - [10-hearts] — ['Modern States' free CLEP College Algebra course] annotation updated (2026-08-05; 1.2 review pending)
 - [03-diamonds] — [Subtasks] restructured into four top-level groupings (Part 1: Basics, Part 1: Cumulative review, Part 2: Projects, Review and consolidate key concepts); existing chapter/exercise/project detail nested underneath rather than dropped — Try It Yourself exercises now nest under Cumulative review, py4e.com nests under Review and consolidate key concepts
