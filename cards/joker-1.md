@@ -131,11 +131,11 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ---
 
-## Completion Notes
+## Reflection & Lessons Learned
 
 ---
 
-## Reflection & Lessons Learned
+## Completion Notes
 
 ---
 

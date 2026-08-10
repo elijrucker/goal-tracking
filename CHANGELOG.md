@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-10] — 7♥️ metric recalibration (body fat % via Navy Method); 9♣️ renamed to Interview Prep & Algorithmic Practice; Coding Interview University resource added
+## [2026-08-10] — Dynamic-card section-order convention added (CLAUDE.md/CARD_TEMPLATE.md); 7♥️ metric recalibration (body fat % via Navy Method); 9♣️ first LeetCode problem solved & renamed to Interview Prep & Algorithmic Practice; Coding Interview University resource added
 
 ### Added
 
@@ -17,6 +17,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [RESOURCES] Renamed section header 9♣️ from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" to match.
 - [07-hearts] — [Progress Notes] added note (2026-08-10; weight plateaued post-5♥️ due to body recomposition; recalibrated 7♥️/J♥️ primary metric from scale weight to body fat % via Navy Method, with weight retained as a secondary measure; added parallel circumference tracking layer for muscle-mass trends; blocked pending baseline measurements)
 - [REFLECTIONS] — new entry added: Scale Weight and BMI Both Fail Under Body Recomposition, covering why BMI re-derives the scale's own limitation rather than resolving it, and the general pattern of a composite metric decoupling from its goal once an intervention changes the mix of what's being measured
+- [09-clubs] — [Complete The LeetCode Beginner's Guide > 2236. Root Equals Sum of Children] closed (2026-08-10; first accepted solution, guided/tutor session)
+- [09-clubs] — [Reflection & Lessons Learned] section restored (was missing between Completion Notes and Unlocks) and first entry added (2026-08-10; 2236. Root Equals Sum of Children — declarative vs. operational reasoning gap between understanding tree logic and coding it)
+- [CLAUDE.md] — [Subtask Tree Retention] new Standing Decision added: on dynamic cards, Reflection & Lessons Learned moves before Completion Notes and accumulates via dated sub-entries (one per reflection-worthy session) rather than a single static block, since reflections build throughout a dynamic card's active life rather than once at the end; [CARD_TEMPLATE] cross-referencing note added
+- [09-clubs], [joker-1], [10-hearts] — [Reflection & Lessons Learned] section moved before [Completion Notes] to match the new dynamic-card convention
+- [09-clubs] — [Complete The LeetCode Beginner's Guide] annotation added (2026-08-10; Beginner's Guide, 1480)
 
 ---
 

@@ -43,7 +43,8 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Subtasks
 
-- [/] Complete The LeetCode Beginner's Guide (2026-07-08; working through problem 2236)
+- [/] Complete The LeetCode Beginner's Guide (2026-08-10; Beginner's Guide, 1480)
+  - [x] 2236. Root Equals Sum of Children
 - [ ] Complete 30 Days of JavaScript Study Plan
 - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
 - [ ] Complete Shell-specific problems
@@ -63,6 +64,19 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [2026-05-15] Added subtask [Complete 30 Days of JavaScript Study Plan]; study plan was started prior to deck initialization, completing study plan will reinforce disciplined task and project follow-through habits
 - [2026-05-14] Transitioned to In Progress — weekly LeetCode practice ongoing, building toward consistent daily cadence
 - [2026-04-27] Already have an active LeetCode account and practicing on a weekly basis. Effort is not yet consistent enough to warrant "In Progress" status — marking Preparing until a regular cadence is established.
+
+---
+
+## Reflection & Lessons Learned
+
+### [2026-08-10] — 2236. Root Equals Sum of Children
+
+- **What surprised you?** First hands-on LeetCode problem (guided/tutor session; accepted, 309/309 testcases, 0ms runtime) surfaced the gap between understanding tree logic conceptually (via CS Distilled/CS50x) and expressing it in working Python — knowing something and being able to code it are two different skills.
+- **What would you do differently?** Nothing to flag yet — first problem, no missteps identified in this session.
+- **One thing that worked well:** Breaking the problem into components already understood individually (tree traversal via dot notation, sum comparison) rather than tackling it as one unit; doubled as Python syntax practice, not just tree logic.
+- **One thing harder than expected:** Switching from declarative reasoning ("how the values relate") to operational reasoning ("the exact sequence of steps").
+- **Patterns noticed:** Too early to identify a pattern from a single problem.
+- **Insights for similar future work:** Expect the declarative-to-operational reasoning shift to resurface on each new problem type until it becomes automatic — treat it as a distinct skill from the underlying CS theory, not a symptom of weak theory.
 
 ---
 

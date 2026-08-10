@@ -21,7 +21,7 @@ A 52-card deck goal tracking system. Each card is a markdown file representing a
 
 Card filenames: `{value}-{suit}.md` (e.g., `02-spades.md`, `king-hearts.md`, `ace-diamonds.md`). Face cards use full names (`jack`, `queen`, `king`, `ace`).
 
-Every card has these sections in order: **Card Details → Status → Goal Description → Resources → Prerequisites → Subtasks → Progress Notes → Completion Notes → Reflection & Lessons Learned → Unlocks**. Do not add, remove, or reorder sections.
+Every card has these sections in order: **Card Details → Status → Goal Description → Resources → Prerequisites → Subtasks → Progress Notes → Completion Notes → Reflection & Lessons Learned → Unlocks**. Do not add, remove, or reorder sections — except for the dynamic-card Reflection & Lessons Learned placement documented under Subtask Tree Retention below.
 
 ### Key Fields
 
@@ -37,6 +37,7 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 - **Static cards** (status `Complete`) retain their full subtask tree permanently, as a record of how the goal was completed.
 - **Dynamic cards** — cards with open-ended, recurring subtask groups rather than a fixed linear curriculum (e.g., joker-1, 10-hearts) — prune closed subtask entries from the tree once they've been logged in CHANGELOG.md, to keep the file navigable. Course/book cards with a bounded curriculum are not dynamic in this sense and retain their full checklist regardless of status.
 - Because dynamic cards don't hold a full history in-file, PROGRESS.md's On the Board table may track them by a different signal than a raw subtask fraction (e.g., joker-1 tracks Prerequisite completion instead — see its Prerequisites section).
+- **[2026-08-10] Dynamic-card section order** — On dynamic cards (currently 09-clubs, joker-1, 10-hearts), Reflection & Lessons Learned moves before Completion Notes: **Progress Notes → Reflection & Lessons Learned → Completion Notes → Unlocks**. Reflections on a dynamic card accumulate throughout its active life (one dated sub-entry per reflection-worthy session, newest first, per the file-wide dated-entry order) rather than being written once at the end, so the section reads oddly wedged after the one-time terminal Completion Notes. Bounded cards (course/book curricula) keep the original order, since their Reflection block is typically filled once, near completion.
 
 ### Suit Domains
 

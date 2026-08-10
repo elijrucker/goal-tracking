@@ -143,11 +143,11 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ---
 
-## Completion Notes
+## Reflection & Lessons Learned
 
 ---
 
-## Reflection & Lessons Learned
+## Completion Notes
 
 ---
 

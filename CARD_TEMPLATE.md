@@ -70,6 +70,8 @@
 - **Patterns noticed (if applicable):**
 - **Insights for similar future work:**
 
+> On dynamic cards (see CLAUDE.md's Subtask Tree Retention), this section moves before Completion Notes and holds one dated sub-entry (`### [YYYY-MM-DD] — Title`) per reflection-worthy session instead of a single static block.
+
 ---
 
 ## Unlocks
