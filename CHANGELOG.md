@@ -29,6 +29,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [02-hearts] Removed Technical Analysis, Options, Futures, Forex, and Global Markets Context (Yale/Shiller) resources/subtasks — scope creep unrelated to the card's passive/index investing thesis (TA and Shiller's behavioral framing in particular sit outside classical EMH). ~18-29+ hrs of content removed.
 - [02-hearts] Added 3♥️ - Four Pillars of Investing to Unlocks.
 - [02-hearts] Set Target Completion to 2026-12-15, based on total subtask hour estimate against observed low-priority cadence. Time estimates logged in Progress Notes rather than a new card field (CARD_TEMPLATE.md unchanged).
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-09; Ch. 3)
 
 ### Added
 
