@@ -40,7 +40,7 @@ Second milestone on the 75 lb total weight loss journey - the halfway point. Rea
 
 ## Subtasks
 
-- [/] Maintain habits established in first milestone (gym session: 2026-08-05, 17:00–18:15)
+- [/] Maintain habits established in first milestone (gym session: 2026-08-07, 17:00–18:15)
 - [ ] Adjust dietary/exercise approach if progress stalls
 - [ ] Reach -35 lbs milestone
 - [ ] Reach -40 lbs milestone
@@ -50,6 +50,8 @@ Second milestone on the 75 lb total weight loss journey - the halfway point. Rea
 ---
 
 ## Progress Notes
+
+- [2026-08-10] Following completion of 5♥️, weight plateaued on the scale (~285–291 lb range) despite continued visible and tactile change (looser waistband fit, clothing sizing down) — attributed to body recomposition (simultaneous fat loss and muscle gain from newly added resistance training), which scale weight alone can't distinguish. Evaluated BMI as a possible secondary metric and determined it shares the same core limitation as the scale (derived from only weight and height), so it would not resolve the signal problem. Decided instead to recalibrate 7♥️ (and J♥️) to use body fat % via the Navy Method (neck + waist + height) as the primary metric, with weight retained as a secondary/expected-byproduct measure rather than the strict gate. Added a parallel, non-formula tracking layer (chest, bicep, shoulder, thigh circumference) to capture muscle-mass trends without skewing the Navy Method calculation. Cadence set at weekly for Navy Method inputs, biweekly for the full parallel measurement set. Blocked pending baseline: neck/waist/chest/bicep/shoulder/thigh measurements not yet taken (tape measure sourced; measurement session pending). Once baseline is established, still outstanding: (1) formal card update reflecting the new metric structure, (2) numeric target thresholds for 7♥️/J♥️ derived from baseline + a healthy body-fat-% reference range, (3) decision on whether the 2-week maintenance-hold protocol from 5♥️ carries over unchanged or needs adjustment for a slower-moving metric, (4) formal subtasks for the weekly/biweekly tracking cadence.
 
 ---
 

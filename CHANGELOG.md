@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-10] — 9♣️ renamed to Interview Prep & Algorithmic Practice; Coding Interview University resource added
+## [2026-08-10] — 7♥️ metric recalibration (body fat % via Navy Method); 9♣️ renamed to Interview Prep & Algorithmic Practice; Coding Interview University resource added
 
 ### Added
 
@@ -15,6 +15,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [09-clubs] Renamed card from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" — the added Coding Interview University resource broadened the card's scope beyond LeetCode specifically. Updated all references: [DECK_OVERVIEW], [PROGRESS], [README], [joker-1] (Subtasks), [06-clubs] and [08-clubs] (Unlocks). Historical CHANGELOG.md entries predating the rename left as-is.
 - [RESOURCES] Renamed section header 9♣️ from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" to match.
+- [07-hearts] — [Progress Notes] added note (2026-08-10; weight plateaued post-5♥️ due to body recomposition; recalibrated 7♥️/J♥️ primary metric from scale weight to body fat % via Navy Method, with weight retained as a secondary measure; added parallel circumference tracking layer for muscle-mass trends; blocked pending baseline measurements)
+- [REFLECTIONS] — new entry added: Scale Weight and BMI Both Fail Under Body Recomposition, covering why BMI re-derives the scale's own limitation rather than resolving it, and the general pattern of a composite metric decoupling from its goal once an intervention changes the mix of what's being measured
 
 ---
 

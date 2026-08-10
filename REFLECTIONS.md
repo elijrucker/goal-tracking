@@ -40,6 +40,48 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-10] — Scale Weight and BMI Both Fail Under Body Recomposition
+
+**Context:** Following completion of 5♥️, weight plateaued on the scale (~285–291 lb
+range) despite continued visible and tactile change — looser waistband fit, clothing
+sizing down. Resistance training had been newly added, so the plateau was investigated
+rather than treated as a stall, and traced to body recomposition (simultaneous fat loss
+and muscle gain).
+
+**What surprised me:** BMI was evaluated as a candidate secondary metric to disambiguate
+the plateau, on the assumption it might carry more signal than the scale alone. It
+doesn't — BMI is derived from only weight and height, the same two inputs the scale
+problem was already built on, so it inherits the exact limitation it was being considered
+to fix. A metric can look like a independent second opinion while actually being a
+re-derivation of the same underlying number.
+
+**Core insight:** Scale weight (and BMI, by extension) measures mass, not composition.
+Under simultaneous fat loss and muscle gain, mass can plateau or even hold steady while
+the underlying composition is still moving in the intended direction — the metric and the
+goal quietly decouple. Any goal framed in terms of a composite/aggregate number (weight,
+BMI, or similar) needs a composition-aware metric as soon as the intervention changes the
+mix of what's being gained and lost, not just the total.
+
+**What this unlocks:** 7♥️ and J♥️ recalibrated to use body fat % via the Navy Method
+(neck + waist + height) as the primary metric, with scale weight retained as a secondary,
+expected-byproduct measure rather than the strict gate. A parallel, non-formula tracking
+layer (chest, bicep, shoulder, thigh circumference) was added to capture muscle-mass
+trends without skewing the Navy Method calculation itself. Full detail in 7♥️'s Progress
+Notes (2026-08-10).
+
+**Insight for future similar work:** When a tracked metric plateaus despite other
+qualitative signals still moving (fit, appearance, tactile change), check whether the
+metric is structurally capable of representing the thing actually being optimized for
+before concluding the goal itself has stalled. This applies beyond weight/body-composition
+goals — any time an intervention changes the composition of what's being measured rather
+than just its magnitude, the original metric is a candidate for the same failure mode.
+
+**Delayed reflection (revisit ~2026-08-24, once baseline measurements are taken):**
+- Does the Navy Method estimate track directionally with the qualitative signals (fit,
+  appearance) that the scale was missing, or does it introduce its own blind spots?
+- Does the 2-week maintenance-hold protocol from 5♥️ need adjustment for a slower-moving
+  metric, or does it carry over unchanged?
+
 ### [2026-08-03] — AWS Track Pivot: Solutions Architect Associate over Developer Associate
 
 **Context:** A mentor advised pursuing AWS Solutions Architect Associate years before this
