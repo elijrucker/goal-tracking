@@ -63,4 +63,4 @@ Complete a focused algorithms course or resource using Python as the implementat
 
 ## Unlocks
 
-- 9♣️ - LeetCode Practice
+- 9♣️ - Interview Prep & Algorithmic Practice

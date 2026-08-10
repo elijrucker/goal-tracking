@@ -98,9 +98,10 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com) - Official Google resource
 
-### 9♣️ LeetCode Practice
+### 9♣️ Interview Prep & Algorithmic Practice
 
 - [LeetCode](https://leetcode.com) - Algorithm and interview practice platform
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) — Comprehensive CS fundamentals study plan; associated Anki deck (AnkiWeb ID 25173560) imported for daily review
 
 ### 10♣️ API Development Project
 

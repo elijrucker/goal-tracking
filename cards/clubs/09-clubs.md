@@ -1,4 +1,4 @@
-# 9 of Clubs - LeetCode Practice
+# 9 of Clubs - Interview Prep & Algorithmic Practice
 
 ## Card Details
 
@@ -57,6 +57,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-08-10] Renamed card from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" to more accurately describe the goal of the card itself, and to accommodate resources outside of LeetCode (e.g. Coding Interview University).
 - [2026-06-27] Reactivated to In Progress — low-priority, working as bandwidth allows; holds bottom position on On the Board intentionally
 - [2026-05-29] Deferred — current bandwidth consumed by active goals. Reactivate when capacity allows.
 - [2026-05-15] Added subtask [Complete 30 Days of JavaScript Study Plan]; study plan was started prior to deck initialization, completing study plan will reinforce disciplined task and project follow-through habits

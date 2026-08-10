@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-10] — 9♣️ renamed to Interview Prep & Algorithmic Practice; Coding Interview University resource added
+
+### Added
+
+- [RESOURCES] Added Coding Interview University (with associated Anki deck, AnkiWeb ID 25173560) to 9♣️ LeetCode Practice resources.
+
+### Changed
+
+- [09-clubs] Renamed card from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" — the added Coding Interview University resource broadened the card's scope beyond LeetCode specifically. Updated all references: [DECK_OVERVIEW], [PROGRESS], [README], [joker-1] (Subtasks), [06-clubs] and [08-clubs] (Unlocks). Historical CHANGELOG.md entries predating the rename left as-is.
+- [RESOURCES] Renamed section header 9♣️ from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" to match.
+
+---
+
 ## [2026-08-09] — 02-hearts scope narrowed; General Investment Literacy backlog candidate added
 
 ### Completed

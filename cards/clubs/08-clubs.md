@@ -62,4 +62,4 @@ Work through Google's Technical Development Guide - a curated collection of reso
 
 ## Unlocks
 
-- 9♣️ - LeetCode Practice (strengthens interview prep)
+- 9♣️ - Interview Prep & Algorithmic Practice (strengthens interview prep)

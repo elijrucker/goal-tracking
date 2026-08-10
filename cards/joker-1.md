@@ -49,7 +49,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 - [ ] A♦️ - AWS Certified Solutions Architect Associate (progress signal: Jack/King path completion certificates)
 - [ ] Q♣️ - Full-Stack Application
-- [/] 9♣️ - LeetCode Practice (readiness over quota — card's own target date falls past Joker 1's)
+- [/] 9♣️ - Interview Prep & Algorithmic Practice (readiness over quota — card's own target date falls past Joker 1's)
 - [/] 10♥️ - Complete Associate's Degree (visa exception already satisfied via Verisk tenure)
 - [ ] Q♦️ - CS50M
 - [ ] K♣️ - Testing/TDD Milestone

@@ -60,7 +60,7 @@ Applying tools and theory through projects, practice platforms, and real-world d
 | **6**     | Algorithms with Python           | Focused algorithmic practice (requires Python)           |
 | **7**     | Intermediate Web Projects        | 1-2 moderate projects (Weather App, Portfolio, Chat App) |
 | **8**     | Google Tech Dev Guide            | Comprehensive practice resource                          |
-| **9**     | LeetCode Practice                | Interview preparation platform                           |
+| **9**     | Interview Prep & Algorithmic Practice | Interview preparation platform                           |
 | **10**    | API Development Project          | Backend-focused, demonstrates architecture               |
 | **Jack**  | Advanced/Clone Projects          | Complex apps (Netflix/Instagram clones)                  |
 | **Queen** | Full-Stack Application           | Complete frontend + backend + database                   |

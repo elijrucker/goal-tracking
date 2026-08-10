@@ -47,9 +47,9 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/11                |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/8                 |
-| 9♣️  | LeetCode Practice                | In Progress | 0/9                 |
+| 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 0/9                 |
 
-\* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, LeetCode Practice, Associate's
+\* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, Interview Prep & Algorithmic Practice, Associate's
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.
 joker-1's Subtasks tree prunes closed entries after logging, so it doesn't hold cumulative
 progress the way static/linear-curriculum cards do — see "Subtask Tree Retention" in CLAUDE.md.

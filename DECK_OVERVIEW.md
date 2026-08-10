@@ -42,7 +42,7 @@
 | 6♣️ | 🔵 BLUE | Algorithms with Python |
 | 7♣️ | 🔵 BLUE | Intermediate Web Projects |
 | 8♣️ | 🟡 YELLOW | Google Tech Dev Guide |
-| 9♣️ | 🟡 YELLOW | LeetCode Practice |
+| 9♣️ | 🟡 YELLOW | Interview Prep & Algorithmic Practice |
 | 10♣️ | 🟠 ORANGE | API Development Project |
 | J♣️ | 🟠 ORANGE | Advanced/Clone Projects |
 | Q♣️ | 🔴 RED | Full-Stack Application |
