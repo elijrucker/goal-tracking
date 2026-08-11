@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-11] — 02-spades progress
+
+### Changed
+
+- [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 3 5:54:55)
+
+---
+
 ## [2026-08-10] — 9♣️ first LeetCode problem solved (2236. Root Equals Sum of Children); 7♥️ metric recalibration (body fat % via Navy Method); Dynamic-card section-order convention added (CLAUDE.md/CARD_TEMPLATE.md); 9♣️ renamed to Interview Prep & Algorithmic Practice; Coding Interview University resource added
 
 ### Added
