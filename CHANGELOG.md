@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 3 5:54:55)
+- [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 4 6:02:45)
 
 ### Added
 
