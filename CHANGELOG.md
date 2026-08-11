@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-11] — 02-spades progress
+## [2026-08-11] — Duolingo German course completed (REFLECTIONS entry); 02-spades progress
 
 ### Changed
 
 - [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 3 5:54:55)
+
+### Added
+
+- [REFLECTIONS] — new entry added: Duolingo German Course Completed, covering the marketed-C1-vs-actual-B2 ceiling gap (the CEFR's largest single jump), and the "little and often" cadence insight carried forward into Spanish habit design
 
 ---
 

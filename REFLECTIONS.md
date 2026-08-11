@@ -40,6 +40,26 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-11] — Duolingo German Course Completed
+
+**Context:** Completed the Duolingo German course, held as an ongoing
+language-maintenance activity under Joker 1.
+
+**What surprised me:** The course plateaued well short of its marketed C1
+equivalency — real output ceiling was closer to B2. Assessed against the
+CEFR scale, B2→C1 is the largest single jump in the framework, larger than
+any of the increments below it.
+
+**What worked well:** Daily practice cadence was the main value driver —
+grammar reinforcement through repetition, more than vocabulary growth.
+
+**What this unlocks:** Reallocates daily practice time toward Spanish and
+staged C2 prep, and continues to serve as a visible, current signal of
+German competency on LinkedIn.
+
+**Core insight:** Short, consistent daily practice outperforms longer
+infrequent sessions — a pattern to carry directly into Spanish.
+
 ### [2026-08-10] — Scale Weight and BMI Both Fail Under Body Recomposition
 
 **Context:** Following completion of 5♥️, weight plateaued on the scale (~285–291 lb
