@@ -7,7 +7,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 5 / 52
-- **Cards In Progress**: 9
+- **Cards In Progress**: 10
 - **Cards Preparing**: 6
 - **Cards Deferred**: 3
 - **Current Streak**: 5 cards
@@ -18,7 +18,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Suit        | Completed | In Progress | Preparing | Deferred | Not Started | Total  |
 | ----------- | --------- | ----------- | --------- | -------- | ----------- | ------ |
-| ♦️ Diamonds | 2         | 2           | 2         | 0        | 7           | 13     |
+| ♦️ Diamonds | 2         | 3           | 2         | 0        | 6           | 13     |
 | ♣️ Clubs    | 1         | 1           | 3         | 0        | 8           | 13     |
 | ♠️ Spades   | 1         | 2           | 0         | 0        | 10          | 13     |
 | ♥️ Hearts   | 1         | 3           | 0         | 3        | 6           | 13     |
@@ -30,7 +30,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
 | 🟢 Green (Foundational) | 4         | 4           | 12    |
-| 🔵 Blue (Moderate)      | 1         | 1           | 12    |
+| 🔵 Blue (Moderate)      | 1         | 2           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
 | 🔴 Red (Elite)          | 0         | 0           | 12    |
@@ -48,6 +48,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/8                 |
 | 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 0/9                 |
+| 5♦️  | Anki - Python                    | In Progress | 0/4                 |
 
 \* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, Interview Prep & Algorithmic Practice, Associate's
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.

@@ -50,7 +50,7 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 1. Always update the card file itself with the relevant changes (status, subtasks, progress notes, etc.)
 2. Add a dated entry to `CHANGELOG.md` under the current date header (create one if it doesn't exist for today)
-3. When a card's status changes to `Complete`, also update `PROGRESS.md` counts and milestone checkboxes
+3. Review `PROGRESS.md` for staleness after any change that could affect it — status transitions, subtask edits, suit/tier movement — not just transitions to `Complete`. When the status change is to `Complete`, update counts and milestone checkboxes directly. For other changes, flag the specific stale figures (Summary counts, Completion by Suit/Tier tables, On the Board table) and confirm before editing rather than auto-correcting silently
 4. Progress Notes entries should be prefixed with a bracketed date (e.g., `- [2026-02-17] Completed Chapter 3`)
 5. If a card has a subdirectory (e.g., `05-hearts/`), supplementary materials like matrices or trackers live there alongside the card file
 6. For non-standard or non-routine changes — a larger structural/strategic decision, a revised approach, or a cross-cutting realization — prompt whether it warrants a REFLECTIONS.md entry (cross-cutting insight) or a card Progress Notes entry (card-specific but noteworthy) — don't let it be logged only in CHANGELOG.md and left there. Routine updates (status/subtask edits, annotation refreshes, progress logging) don't need this prompt even when several cards are touched in one session.

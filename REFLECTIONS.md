@@ -40,6 +40,22 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-11] — Prerequisite structure: from pyramid to waterfall + Venn diagram
+
+**Context:** Activating 5♦️ (Anki - Python) surfaced substantial content overlap with 3♦️ (Python Crash Course) and 6♣️ (Algorithms with Python) — not the clean sequential dependency originally assumed.
+
+**Core insight:** The original model for chains like 3♦️ → 5♦️ → 6♣️ was an unstated pyramid — each card fully complete before the next begins. Working through the system has revealed a different shape, along two separate dimensions:
+- **Waterfall** (timing): subsequent cards begin before the base card is fully complete, staged rather than strictly gated.
+- **Venn diagram** (content): related cards share substantial core content, but each branches into its own deep dives the others don't cover.
+
+This is the concrete case behind the 2026-07-14 accelerant/prerequisite terminology decision — that decision anticipated the pattern in principle; this is its first realized instance, and the first time the shape itself has been named.
+
+**What this unlocks:** No audit of other chains planned deliberately — this understanding will surface organically as other prerequisite clusters get worked through, consistent with how this one was noticed.
+
+**Delayed reflection (revisit ~2026-08-25):**
+- Did treating 3♦️/5♦️ as parallel rather than sequential change study behavior in practice?
+- Did the waterfall/Venn framing hold up, or did another chain reveal a third shape?
+
 ### [2026-08-11] — Duolingo German Course Completed
 
 **Context:** Completed the Duolingo German course, held as an ongoing

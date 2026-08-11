@@ -5,15 +5,22 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-11] — Duolingo German course completed (REFLECTIONS entry); 02-spades progress
+## [2026-08-11] — CLAUDE.md PROGRESS-review convention added; 05-diamonds status transition (Not Started → In Progress); Prerequisite structure REFLECTIONS entry added; Duolingo German course completed (REFLECTIONS entry); PROGRESS.md sync; 02-spades progress
 
 ### Changed
 
 - [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 4 6:02:45)
+- [05-diamonds] Status changed from Not Started to In Progress (Start Date 2026-08-11).
+- [05-diamonds] Prerequisites — 3♦️ reworded from hard dependency to accelerant language, per the 2026-07-14 standing decision: content overlaps substantially with 5♦️, which will introduce new material independent of 3♦️'s completion.
+- [05-diamonds] — [Progress Notes] added note (2026-08-11; promoted to In Progress, "Python fundamentals" deck rediscovered during phone declutter and loaded into AnkiDroid, 3♦️ reclassified as accelerant)
+- [CLAUDE.md] — [When Updating Cards] item 3 broadened: PROGRESS.md staleness review now required after any change that could affect it (status transitions, subtask edits, suit/tier movement), not just transitions to Complete; Complete transitions still update counts/checkboxes directly, other changes get flagged with the specific stale figures and confirmed before editing rather than auto-corrected silently
+- [PROGRESS.md] Synced to 05-diamonds' status transition: Summary (Cards In Progress 9 → 10), Diamonds suit row (In Progress 2 → 3, Not Started 7 → 6), Blue tier row (In Progress 1 → 2), On the Board table (added 5♦️ row, 0/4)
 
 ### Added
 
 - [REFLECTIONS] — new entry added: Duolingo German Course Completed, covering the marketed-C1-vs-actual-B2 ceiling gap (the CEFR's largest single jump), and the "little and often" cadence insight carried forward into Spanish habit design
+- [05-diamonds] Added "Python fundamentals" AnkiWeb shared deck to Resources (pre-existing deck predating the goal-tracking system; title match inferred via browser history, unconfirmed against live deck content)
+- [REFLECTIONS] — new entry added: Prerequisite structure: from pyramid to waterfall + Venn diagram, the first realized instance of the 2026-07-14 accelerant/prerequisite standing decision, surfaced via content overlap between 05-diamonds, 3♦️, and 6♣️
 
 ---
 

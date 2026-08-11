@@ -12,8 +12,8 @@
 
 ## Status
 
-- **Current Status**: Not Started
-- **Start Date**:
+- **Current Status**: In Progress
+- **Start Date**: 2026-08-11
 - **Target Completion**:
 - **Completion Date**:
 - **Time Invested**:
@@ -32,12 +32,13 @@ Build or source an Anki deck for Python and establish a consistent spaced repeti
 - [AnkiWeb](https://ankiweb.net/shared/decks/python) - Search for shared Python decks
 - Fluent Python by Luciano Ramalho, 2nd Edition (O'Reilly, 2022) (book)
 - [Python for Everybody (py4e.com)](https://www.py4e.com/) - Supplemental Python curriculum resource; timing for inclusion not yet decided
+- [Python fundamentals](https://ankiweb.net/shared/info/1924308445) - Pre-existing shared deck, downloaded prior to goal-tracking system; title match inferred via browser history, unconfirmed against live deck content
 
 ---
 
 ## Prerequisites
 
-- [ ] 3♦️ - Python Crash Course
+- 3♦️ - Python Crash Course (accelerant, not hard gate — content overlaps substantially; 5♦️ will introduce new material independent of 3♦️'s completion)
 
 ---
 
@@ -51,6 +52,8 @@ Build or source an Anki deck for Python and establish a consistent spaced repeti
 ---
 
 ## Progress Notes
+
+- [2026-08-11] Promoted to In Progress. "Python fundamentals" deck rediscovered during phone declutter, loaded into AnkiDroid. Prerequisite on 3♦️ reclassified as accelerant rather than hard gate — deck content expected to mix review with material not yet covered in 3♦️.
 
 ---
 
