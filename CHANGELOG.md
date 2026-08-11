@@ -11,6 +11,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [RESOURCES] Added Coding Interview University (with associated Anki deck, AnkiWeb ID 25173560) to 9♣️ LeetCode Practice resources.
 
+### Completed
+
+- [03-diamonds] — [Ch. 8: Functions] marked complete
+
 ### Changed
 
 - [09-clubs] Renamed card from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" — the added Coding Interview University resource broadened the card's scope beyond LeetCode specifically. Updated all references: [DECK_OVERVIEW], [PROGRESS], [README], [joker-1] (Subtasks), [06-clubs] and [08-clubs] (Unlocks). Historical CHANGELOG.md entries predating the rename left as-is.
@@ -23,6 +27,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [09-clubs] / [joker-1] / [10-hearts] — [Reflection & Lessons Learned] section moved before [Completion Notes] to match the new dynamic-card convention
 - [09-clubs] — [Complete The LeetCode Beginner's Guide] annotation updated (2026-08-10; Beginner's Guide, 1480)
 - [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-10; Ch. 3 5:34:30)
+- [07-hearts] — [Maintain habits established in first milestone] annotation updated (gym session: 2026-08-10, 17:00–18:30)
 
 ---
 
