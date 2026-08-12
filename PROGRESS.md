@@ -48,7 +48,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/8                 |
 | 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 0/9                 |
-| 5♦️  | Anki - Python                    | In Progress | 2/4                 |
+| 5♦️  | Python Reinforcement & Deep Dive | In Progress | 2/5                 |
 
 \* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, Interview Prep & Algorithmic Practice, Associate's
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.

@@ -16,7 +16,7 @@
 | 2♦️ | 🟢 GREEN | Markdown |
 | 3♦️ | 🟢 GREEN | Python Crash Course |
 | 4♦️ | 🟢 GREEN | Foundational C# with Microsoft |
-| 5♦️ | 🔵 BLUE | Anki - Python |
+| 5♦️ | 🔵 BLUE | Python Reinforcement & Deep Dive |
 | 6♦️ | 🔵 BLUE | Docker Terminal/CLI |
 | 7♦️ | 🔵 BLUE | CI/CD Toolchain (Bitbucket, Bamboo, Octopus Deploy) |
 | 8♦️ | 🟡 YELLOW | Anki - C# |

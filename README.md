@@ -30,7 +30,7 @@ Tools and platforms needed for development work, including languages, frameworks
 | **2**     | Markdown                          | Review/remedial - foundation for note-taking system |
 | **3**     | Python Crash Course               | Foundational language, prerequisite for many goals  |
 | **4**     | Foundational C# with Microsoft    | FreeCodeCamp cert - 50% complete                    |
-| **5**     | Anki - Python                     | Long-term retention through spaced repetition       |
+| **5**     | Python Reinforcement & Deep Dive  | Spaced repetition (Anki) plus deep reading (Fluent Python) |
 | **6**     | Docker Terminal/CLI               | Building on existing Docker certifications          |
 | **7**     | CI/CD Toolchain                   | Bitbucket, Bamboo, Octopus Deploy                   |
 | **8**     | Anki - C#                         | C# retention after completing foundational cert     |

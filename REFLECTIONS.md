@@ -52,7 +52,7 @@ The system works. The feeling is just downstream of it.
 
 ### [2026-08-11] — Prerequisite structure: from pyramid to waterfall + Venn diagram
 
-**Context:** Activating 5♦️ (Anki - Python) surfaced substantial content overlap with 3♦️ (Python Crash Course) and 6♣️ (Algorithms with Python) — not the clean sequential dependency originally assumed.
+**Context:** Activating 5♦️ (Python Reinforcement & Deep Dive) surfaced substantial content overlap with 3♦️ (Python Crash Course) and 6♣️ (Algorithms with Python) — not the clean sequential dependency originally assumed.
 
 **Core insight:** The original model for chains like 3♦️ → 5♦️ → 6♣️ was an unstated pyramid — each card fully complete before the next begins. Working through the system has revealed a different shape, along two separate dimensions:
 - **Waterfall** (timing): subsequent cards begin before the base card is fully complete, staged rather than strictly gated.

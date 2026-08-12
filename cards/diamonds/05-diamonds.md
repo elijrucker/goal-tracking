@@ -1,4 +1,4 @@
-# 5 of Diamonds - Anki - Python
+# 5 of Diamonds - Python Reinforcement & Deep Dive
 
 ## Card Details
 
@@ -48,11 +48,13 @@ Build or source an Anki deck for Python and establish a consistent spaced repeti
 - [x] Find or build a Python Anki deck
 - [/] Establish daily review habit
 - [ ] Maintain review streak through subsequent goals
+- [ ] Fluent Python reading — prioritize coverage of: generators and iterators, decorators, context managers, dunder methods, dict/set comprehensions, type hints; scope beyond these topics to be determined dynamically
 
 ---
 
 ## Progress Notes
 
+- [2026-08-12] Fluent Python priority topics identified during 3♦️ Ch. 9 session: generators/iterators (no prior language parallel), decorators (higher-order function equivalent), context managers, dunder methods, comprehensions beyond lists, type hints. Concurrency deferred — prior C#/JS exposure sufficient for now.
 - [2026-08-11] Promoted to In Progress. "Python fundamentals" deck rediscovered during phone declutter, loaded into AnkiDroid. Prerequisite on 3♦️ reclassified as accelerant rather than hard gate — deck content expected to mix review with material not yet covered in 3♦️.
 
 ---

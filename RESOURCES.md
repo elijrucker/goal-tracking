@@ -19,7 +19,7 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 - [FreeCodeCamp - Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) - Official cert course (50% complete)
 
-### 5♦️ Anki - Python
+### 5♦️ Python Reinforcement & Deep Dive
 
 - [Anki](https://apps.ankiweb.net) - Spaced repetition flashcard platform
 - Search AnkiWeb for Python decks

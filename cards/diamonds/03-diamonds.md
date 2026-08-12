@@ -22,7 +22,7 @@
 
 ## Goal Description
 
-Complete Python Crash Course to establish foundational Python knowledge. This is a prerequisite for several subsequent goals including Algorithms with Python (6♣️) and Anki - Python (5♦️). Python is a core language for the CS learning path.
+Complete Python Crash Course to establish foundational Python knowledge. This is a prerequisite for several subsequent goals including Algorithms with Python (6♣️) and Python Reinforcement & Deep Dive (5♦️). Python is a core language for the CS learning path.
 
 ---
 
@@ -87,5 +87,5 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Unlocks
 
-- 5♦️ - Anki - Python
+- 5♦️ - Python Reinforcement & Deep Dive
 - 6♣️ - Algorithms with Python

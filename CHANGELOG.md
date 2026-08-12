@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-12] — 10-hearts introPhilosophy Module 4 due date corrected (08/17 → 08/14); REFLECTIONS entry added: progress/feeling-of-progress lag
+## [2026-08-12] — 05-diamonds renamed to Python Reinforcement & Deep Dive; 10-hearts introPhilosophy Module 4 due date corrected (08/17 → 08/14); REFLECTIONS entry added: progress/feeling-of-progress lag; 05-diamonds Fluent Python priority topics added
 
 ### Added
 
@@ -14,6 +14,18 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [introPhilosophy > Module 4 – Metaphysics / Exam Week] due date corrected from 08/17 to 08/14 across the module and its four dated deliverables (quiz, discussion post, journal entry, comprehensive exam), confirmed directly this morning
+
+### Added
+
+- [05-diamonds] Added subtask: Fluent Python reading, prioritizing generators/iterators, decorators, context managers, dunder methods, dict/set comprehensions, and type hints; scope beyond these topics to be determined dynamically
+
+### Changed
+
+- [05-diamonds] — [Progress Notes] added note (2026-08-12; Fluent Python priority topics identified during 3♦️ Ch. 9 session — generators/iterators, decorators, context managers, dunder methods, comprehensions, type hints; concurrency deferred, prior C#/JS exposure sufficient for now)
+
+### Changed
+
+- [05-diamonds] Renamed card from "Anki - Python" to "Python Reinforcement & Deep Dive" — the added Fluent Python deep-reading component broadened the card's scope beyond Anki specifically, and the card is now understood as a natural extension of 3♦️ Python Crash Course rather than a standalone retention tool. Updated all references: [DECK_OVERVIEW], [PROGRESS], [README] (Notes column also revised to reflect both components), [RESOURCES], [REFLECTIONS], [03-diamonds] (Goal Description, Unlocks). Historical CHANGELOG.md entries predating the rename left as-is.
 
 ---
 
