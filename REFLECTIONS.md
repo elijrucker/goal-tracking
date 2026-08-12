@@ -40,6 +40,16 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-11] — On the Lag Between Progress and the Feeling of Progress
+
+Progress doesn't feel linear in the moment — even when granular metrics confirm it is. The emotional experience of accomplishment tends to arrive at or after completion, not during. Throughout the build, the work feels invisible. The cathedral doesn't look like a cathedral until very late in the construction.
+
+Progress also takes different forms on different days. Some days are active consumption — reading, watching, working through material. Others are integration days — the mind consolidating, connecting, and building on what was already consumed. Integration days produce fewer calendar entries and fewer visible outputs, but the intellectual work is just as real. A day rich in reflections and insights logged may represent as much genuine progress as a day dense with work sessions.
+
+The practical implication for the tracking system: the calendar logs, tier annotations, and codebase commits aren't just accountability tools. During the gap between doing and feeling, they serve as evidence — something concrete to point to when the feeling hasn't caught up with reality yet. But the absence of calendar entries is not the absence of progress.
+
+The system works. The feeling is just downstream of it.
+
 ### [2026-08-11] — Prerequisite structure: from pyramid to waterfall + Venn diagram
 
 **Context:** Activating 5♦️ (Anki - Python) surfaced substantial content overlap with 3♦️ (Python Crash Course) and 6♣️ (Algorithms with Python) — not the clean sequential dependency originally assumed.

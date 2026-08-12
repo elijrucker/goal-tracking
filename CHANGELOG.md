@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-12] — REFLECTIONS entry added: progress/feeling-of-progress lag
+
+### Added
+
+- [REFLECTIONS] — new entry added: On the Lag Between Progress and the Feeling of Progress (dated 2026-08-11), covering the delay between doing work and feeling its accomplishment, the distinction between consumption days and integration days, and calendar/tier/commit logs as evidence during that lag rather than as the progress itself
+
+---
+
 ## [2026-08-11] — CLAUDE.md PROGRESS-review convention added; 05-diamonds status transition (Not Started → In Progress); Prerequisite structure REFLECTIONS entry added; Duolingo German course completed (REFLECTIONS entry); PROGRESS.md sync; 02-spades progress
 
 ### Changed
