@@ -17,7 +17,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-11] — 05-diamonds status transition (Not Started → In Progress); Prerequisite structure REFLECTIONS entry added; Duolingo German course completed (REFLECTIONS entry); 02-spades progress
+## [2026-08-11] — 05-diamonds status transition (Not Started → In Progress); Prerequisite structure REFLECTIONS entry added; Duolingo German course completed (REFLECTIONS entry); 02-spades and 03-diamonds progress
 
 ### Completed
 
@@ -27,6 +27,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 4 6:02:45)
+- [03-diamonds] — [Ch. 9: Classes] subtask marked in progress
 - [05-diamonds] — [Establish daily review habit] subtask marked in progress
 - [05-diamonds] Status changed from Not Started to In Progress (Start Date 2026-08-11).
 - [05-diamonds] Prerequisites — 3♦️ reworded from hard dependency to accelerant language, per the 2026-07-14 standing decision: content overlaps substantially with 5♦️, which will introduce new material independent of 3♦️'s completion.
