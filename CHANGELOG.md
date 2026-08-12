@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-12] — REFLECTIONS entry added: progress/feeling-of-progress lag
+## [2026-08-12] — 10-hearts introPhilosophy Module 4 due date corrected (08/17 → 08/14); REFLECTIONS entry added: progress/feeling-of-progress lag
 
 ### Added
 
 - [REFLECTIONS] — new entry added: On the Lag Between Progress and the Feeling of Progress (dated 2026-08-11), covering the delay between doing work and feeling its accomplishment, the distinction between consumption days and integration days, and calendar/tier/commit logs as evidence during that lag rather than as the progress itself
+
+### Changed
+
+- [10-hearts] — [introPhilosophy > Module 4 – Metaphysics / Exam Week] due date corrected from 08/17 to 08/14 across the module and its four dated deliverables (quiz, discussion post, journal entry, comprehensive exam), confirmed directly this morning
 
 ---
 

@@ -47,14 +47,14 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [x] Module 1 – Introduction to Philosophy
       - [x] Module 2 – Applied Ethics and Ethical Theory
       - [x] Module 3 – Epistemology
-      - [ ] Module 4 – Metaphysics / Exam Week (due 08/17)
+      - [ ] Module 4 – Metaphysics / Exam Week (due 08/14)
         - [ ] Read Nagel, "What is it Like to be a Bat?" (Norton p. 356)
         - [ ] Read Churchland, "Are Mental States Irreducible?" (Norton p. 377)
         - [ ] Read Chalmers, "The Hard Problem of Consciousness" (Norton p. 384)
-        - [ ] Quiz (due 08/17)
-        - [ ] Discussion Post + 2 replies (due 08/17)
-        - [ ] Journal Entry (due 08/17)
-        - [ ] Comprehensive Exam (due 08/17)
+        - [ ] Quiz (due 08/14)
+        - [ ] Discussion Post + 2 replies (due 08/14)
+        - [ ] Journal Entry (due 08/14)
+        - [ ] Comprehensive Exam (due 08/14)
 
 - [/] **Fulfill math elective requirement** (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
   - [/] CLEP Algebra Review:
@@ -118,6 +118,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-08-12] [introPhilosophy > Module 4] Due date corrected: 08/17 → 08/14, confirmed directly this morning. Module deadline and all four dated deliverables (quiz, discussion post, journal entry, comprehensive exam) share the corrected date.
 - [2026-08-04] [Spring 27] advancedJava and cSharp added alongside db_prog, rounding out the Spring 27 course list.
 - [2026-08-04] [db_prog] Deferred Spring 26 remainder confirmed still outstanding — re-added, found via a lean-refactor pass after it turned up referenced in the 2026-05-14 note but missing from the tracked Subtasks tree. Placed under a new Spring 27 block rather than Fall 26, which is already a full 4-course load (advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL) without it; Project 4/wk16 detail dropped from the subtask line as unnecessary granularity for a not-yet-current semester. Target Completion updated (End of 2026 → Spring 2027) to match.
 - [2026-08-03] [introPhilosophy] Of coursework completed so far, Introduction to Philosophy has been the most rewarding and thought-provoking course to date — more so than Introduction to Web Development. Taking it at this point in the academic journey, rather than earlier, allowed it to function as a springboard for drawing connections to computer science (e.g., Socratic questioning, utilitarian frameworks) that wouldn't have landed the same way without prior technical coursework to anchor them. Shares the same undertone as recent notes filed under joker-1 and 3♠️ V2: a cumulative, rather than singular, shift in how software development and the "computer scientist" identity are understood.
