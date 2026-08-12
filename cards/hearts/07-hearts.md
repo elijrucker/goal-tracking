@@ -40,7 +40,7 @@ Second milestone on the 75 lb total weight loss journey - the halfway point. Rea
 
 ## Subtasks
 
-- [/] Maintain habits established in first milestone (gym session: 2026-08-10, 17:00–18:30)
+- [/] Maintain habits established in first milestone (gym session: 2026-08-11, 17:00–18:30)
 - [ ] Adjust dietary/exercise approach if progress stalls
 - [ ] Reach -35 lbs milestone
 - [ ] Reach -40 lbs milestone

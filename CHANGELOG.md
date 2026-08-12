@@ -17,7 +17,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-11] — 05-diamonds status transition (Not Started → In Progress); Prerequisite structure REFLECTIONS entry added; Duolingo German course completed (REFLECTIONS entry); 02-spades and 03-diamonds progress
+## [2026-08-11] — 05-diamonds status transition (Not Started → In Progress); Prerequisite structure REFLECTIONS entry added; Duolingo German course completed (REFLECTIONS entry); 02-spades, 03-diamonds, and 07-hearts progress
 
 ### Completed
 
@@ -27,6 +27,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [02-spades] [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-11; Ch. 4 6:02:45)
+- [07-hearts] — [Maintain habits established in first milestone] annotation updated (gym session: 2026-08-11, 17:00–18:30)
 - [03-diamonds] — [Ch. 9: Classes] subtask marked in progress
 - [05-diamonds] — [Establish daily review habit] subtask marked in progress
 - [05-diamonds] Status changed from Not Started to In Progress (Start Date 2026-08-11).
