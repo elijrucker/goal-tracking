@@ -39,6 +39,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [05-diamonds] Renamed card from "Anki - Python" to "Python Reinforcement & Deep Dive" — the added Fluent Python deep-reading component broadened the card's scope beyond Anki specifically, and the card is now understood as a natural extension of 3♦️ Python Crash Course rather than a standalone retention tool. Updated all references: [DECK_OVERVIEW], [PROGRESS], [README] (Notes column also revised to reflect both components), [RESOURCES], [REFLECTIONS], [03-diamonds] (Goal Description, Unlocks). Historical CHANGELOG.md entries predating the rename left as-is.
+- [03-diamonds] — [Ch. 9: Classes] annotation updated (2026-08-12; Setting a Default Value for an Attribute)
 
 ---
 
