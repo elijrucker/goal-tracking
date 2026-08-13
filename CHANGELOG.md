@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [09-clubs] — [Complete The LeetCode Beginner's Guide] annotation updated (2026-08-13; Beginner's Guide, 1672)
+- [05-diamonds] — [Establish daily review habit] annotation updated (last reviewed: 2026-08-13)
 
 ---
 

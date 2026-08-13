@@ -46,7 +46,7 @@ Build or source an Anki deck for Python and establish a consistent spaced repeti
 
 - [x] Download and set up Anki
 - [x] Find or build a Python Anki deck
-- [/] Establish daily review habit
+- [/] Establish daily review habit (last reviewed: 2026-08-13)
 - [ ] Maintain review streak through subsequent goals
 - [ ] Fluent Python reading — prioritize coverage of: generators and iterators, decorators, context managers, dunder methods, dict/set comprehensions, type hints; scope beyond these topics to be determined dynamically
 
