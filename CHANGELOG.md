@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-13] — 09-clubs second LeetCode problem solved (1480. Running Sum of 1d Array)
+
+### Completed
+
+- [09-clubs] — [Complete The LeetCode Beginner's Guide > 1480. Running Sum of 1d Array] closed (2026-08-13; second accepted solution, guided/tutor session, 100th percentile runtime)
+
+### Changed
+
+- [09-clubs] — [Complete The LeetCode Beginner's Guide] annotation updated (2026-08-13; Beginner's Guide, 1672)
+
+---
+
 ## [2026-08-12] — 05-diamonds renamed to Python Reinforcement & Deep Dive; 10-hearts introPhilosophy Module 4 due date corrected (08/17 → 08/14); REFLECTIONS entry added: progress/feeling-of-progress lag; 05-diamonds Fluent Python priority topics added
 
 ### Added

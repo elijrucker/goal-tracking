@@ -43,8 +43,9 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Subtasks
 
-- [/] Complete The LeetCode Beginner's Guide (2026-08-10; Beginner's Guide, 1480)
+- [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
   - [x] 2236. Root Equals Sum of Children
+  - [x] 1480. Running Sum of 1d Array
 - [ ] Complete 30 Days of JavaScript Study Plan
 - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
 - [ ] Complete Shell-specific problems
@@ -68,6 +69,15 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 ---
 
 ## Reflection & Lessons Learned
+
+### [2026-08-13] — 1480. Running Sum of 1d Array
+
+- **Context:** Second LeetCode problem (1480. Running Sum of 1d Array), guided/tutor session. Accepted, 54/54 testcases, 0ms runtime (100th percentile).
+- **What surprised me:** Assumed going in that I lacked the skill to reason through this independently — a gap between reading about language mechanics in a textbook and solving a problem in real time. Turned out easier than expected once actually working through it.
+- **What worked well:** Slowed down to think through mechanics and execution before writing any code, in contrast to diving in headfirst on the first problem. Bridge from "what has to happen" to "how to type it" was noticeably easier than on 2236.
+- **What this unlocks:** Second problem solved on 09-clubs; process change (reason before typing) already visible session-over-session.
+- **Insight for future similar work:** Pre-problem anxiety ("I probably can't solve this") isn't a reliable signal — it showed up before both problems and was wrong both times. Treat the instinct to slow down and reason first as the actual lesson, not the self-doubt that preceded it.
+- **Delayed reflection (revisit ~2026-08-27):** Did the accumulator pattern transfer to any problem encountered between now and then without needing to re-derive it?
 
 ### [2026-08-10] — 2236. Root Equals Sum of Children
 
