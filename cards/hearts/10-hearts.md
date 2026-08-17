@@ -40,21 +40,10 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
-- [/] **Complete remaining required courses**
-  - [/] Summer 26
+- [x] **Complete remaining required courses**
+  - [x] Summer 26
     - [x] jobSearchPrep
-    - [/] introPhilosophy (06/22–08/14)
-      - [x] Module 1 – Introduction to Philosophy
-      - [x] Module 2 – Applied Ethics and Ethical Theory
-      - [x] Module 3 – Epistemology
-      - [ ] Module 4 – Metaphysics / Exam Week (due 08/14)
-        - [ ] Read Nagel, "What is it Like to be a Bat?" (Norton p. 356)
-        - [ ] Read Churchland, "Are Mental States Irreducible?" (Norton p. 377)
-        - [ ] Read Chalmers, "The Hard Problem of Consciousness" (Norton p. 384)
-        - [ ] Quiz (due 08/14)
-        - [ ] Discussion Post + 2 replies (due 08/14)
-        - [ ] Journal Entry (due 08/14)
-        - [ ] Comprehensive Exam (due 08/14)
+    - [x] introPhilosophy
 
 - [/] **Fulfill math elective requirement** (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
   - [/] CLEP Algebra Review:
@@ -118,6 +107,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-08-14] [introPhilosophy] Course completed — Module 4 (Metaphysics / Exam Week) was the final outstanding module.
 - [2026-08-12] [introPhilosophy > Module 4] Due date corrected: 08/17 → 08/14, confirmed directly this morning. Module deadline and all four dated deliverables (quiz, discussion post, journal entry, comprehensive exam) share the corrected date.
 - [2026-08-04] [Spring 27] advancedJava and cSharp added alongside db_prog, rounding out the Spring 27 course list.
 - [2026-08-04] [db_prog] Deferred Spring 26 remainder confirmed still outstanding — re-added, found via a lean-refactor pass after it turned up referenced in the 2026-05-14 note but missing from the tracked Subtasks tree. Placed under a new Spring 27 block rather than Fall 26, which is already a full 4-course load (advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL) without it; Project 4/wk16 detail dropped from the subtask line as unnecessary granularity for a not-yet-current semester. Target Completion updated (End of 2026 → Spring 2027) to match.

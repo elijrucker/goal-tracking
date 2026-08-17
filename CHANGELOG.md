@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-14] — 10-hearts introPhilosophy course completed
+
+### Completed
+
+- [10-hearts] — [introPhilosophy] course closed (2026-08-14; Module 4 – Metaphysics / Exam Week was the final outstanding module)
+
+### Changed
+
+- [10-hearts] — [introPhilosophy] subtask subtree pruned to a single closed line per dynamic-card convention; [Summer 26] / [Complete remaining required courses] parent checkboxes closed accordingly
+
+---
+
 ## [2026-08-13] — 09-clubs second LeetCode problem solved (1480. Running Sum of 1d Array)
 
 ### Completed
