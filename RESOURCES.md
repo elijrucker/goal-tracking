@@ -258,6 +258,7 @@ Master reference list of all courses, books, platforms, and links associated wit
 ### 10♥️ Complete Associate's Degree
 
 - Current institution - track via academic portal
+- Learning Java, 6th Ed. by Loy, Niemeyer, Leuck (O'Reilly, 2023) (book) - supports javaProgramming (Fall 26)
 
 ### J♥️ Weight Loss: 75 lbs
 

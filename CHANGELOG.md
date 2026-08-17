@@ -5,11 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-17] — 10-hearts Summer 26 block pruned
+## [2026-08-17] — 10-hearts Summer 26 block pruned; Learning Java resource added
 
 ### Changed
 
 - [10-hearts] — [Complete remaining required courses > Summer 26] block pruned (jobSearchPrep, introPhilosophy) per dynamic-card convention, now that both are closed and logged
+
+### Added
+
+- [10-hearts] — [Resources] Learning Java, 6th Ed. by Loy, Niemeyer, Leuck (O'Reilly, 2023) added, supporting javaProgramming (Fall 26)
+- [RESOURCES.md] — 10♥️ Learning Java, 6th Ed. added
 
 ---
 
