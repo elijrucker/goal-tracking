@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-17] — 10-hearts Summer 26 block pruned
+
+### Changed
+
+- [10-hearts] — [Complete remaining required courses > Summer 26] block pruned (jobSearchPrep, introPhilosophy) per dynamic-card convention, now that both are closed and logged
+
+---
+
 ## [2026-08-14] — 10-hearts introPhilosophy course completed
 
 ### Completed

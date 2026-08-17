@@ -40,11 +40,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
-- [x] **Complete remaining required courses**
-  - [x] Summer 26
-    - [x] jobSearchPrep
-    - [x] introPhilosophy
-
 - [/] **Fulfill math elective requirement** (Franklin B.S. CS) — deferred to inter-semester window (08/14–08/31) to minimize competing load with introPhilosophy/technicalReporting
   - [/] CLEP Algebra Review:
     - [/] 'Modern States' free CLEP College Algebra course (2026-08-05; 1.2 review pending)
@@ -107,6 +102,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-08-17] [Complete remaining required courses > Summer 26] Block pruned (jobSearchPrep, introPhilosophy) — both closed and already logged in CHANGELOG.md, per dynamic-card convention.
 - [2026-08-14] [introPhilosophy] Course completed — Module 4 (Metaphysics / Exam Week) was the final outstanding module.
 - [2026-08-12] [introPhilosophy > Module 4] Due date corrected: 08/17 → 08/14, confirmed directly this morning. Module deadline and all four dated deliverables (quiz, discussion post, journal entry, comprehensive exam) share the corrected date.
 - [2026-08-04] [Spring 27] advancedJava and cSharp added alongside db_prog, rounding out the Spring 27 course list.
