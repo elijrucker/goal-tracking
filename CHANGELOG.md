@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-17] — 10-hearts Summer 26 block pruned; Learning Java resource added
+## [2026-08-17] — 10-hearts Summer 26 block pruned; Learning Java and Eloquent JavaScript resources added
 
 ### Changed
 
@@ -15,6 +15,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Resources] Learning Java, 6th Ed. by Loy, Niemeyer, Leuck (O'Reilly, 2023) added, supporting javaProgramming (Fall 26)
 - [RESOURCES.md] — 10♥️ Learning Java, 6th Ed. added
+- [10-hearts] — [Resources] Eloquent JavaScript, 4th Ed. by Marijn Haverbeke added, matching the existing subtask series
+- [RESOURCES.md] — 10♥️ Eloquent JavaScript, 4th Ed. added
 
 ---
 

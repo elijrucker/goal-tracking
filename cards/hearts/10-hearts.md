@@ -30,6 +30,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [MATC-myMadisonCollege] https://cs.madisoncollege.edu/psc/CSPRD92/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL - academic portal, track progress here
 - Learning Java, 6th Ed. by Loy, Niemeyer, Leuck (O'Reilly, 2023) (book) - supports javaProgramming (Fall 26)
+- Eloquent JavaScript, 4th Ed. by Marijn Haverbeke (book) - independent reading, in parallel with Python Crash Course
 
 ---
 
