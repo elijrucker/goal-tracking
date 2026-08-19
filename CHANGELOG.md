@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entry added
+
+### Changed
+
+- [07-hearts] — [Maintain habits established in first milestone] gym session date/time tracking discontinued; habit consistent enough that per-session annotation no longer needed
+
+### Added
+
+- [REFLECTIONS] — "Tracking Overhead vs. Execution: 7♥️ Drops Gym Session Annotation" entry added, closing the loop on the 2026-06-14 prediction that 7♥️ would be the next case for this shift
+
+---
+
 ## [2026-08-18] — 02-spades C/OOP deep dive progress
 
 ### Changed

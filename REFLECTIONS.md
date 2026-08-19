@@ -40,6 +40,12 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-19] — Tracking Overhead vs. Execution: 7♥️ Drops Gym Session Annotation
+
+**Context:** Decided to stop logging individual gym session date/time annotations on 7♥️'s "Maintain habits established in first milestone" subtask.
+
+**Core insight:** Confirms a pattern first noted in the 2026-06-14 changelog (Personal note, using 5♥️ as the model): once a routine is anchored, recording less and doing more becomes the more effective mode. Heavy annotation has value early in habit formation — it builds the habit and provides evidence of consistency — but becomes pure friction once the behavior is reliable enough that the annotation stops carrying new information. 7♥️ was the anticipated next case for this shift, and gym attendance has now reached that threshold. Worth watching for the same signal on other habit-tracking subtasks across the deck as they mature.
+
 ### [2026-08-11] — On the Lag Between Progress and the Feeling of Progress
 
 Progress doesn't feel linear in the moment — even when granular metrics confirm it is. The emotional experience of accomplishment tends to arrive at or after completion, not during. Throughout the build, the work feels invisible. The cathedral doesn't look like a cathedral until very late in the construction.
