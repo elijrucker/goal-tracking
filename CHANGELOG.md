@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entries added; 07-hearts progress; 02-hearts scope narrowed to US ETFs only (Damodaran migrated to 4♥️, European Bogleheads Wiki removed); 02-hearts/4♥️ RESOURCES cleanup; 02-spades C/OOP deep dive progress; 03-diamonds Ch. 9 completed
+## [2026-08-19] — 07-hearts gym tracking discontinued; REFLECTIONS entries added; 02-hearts scope narrowed to US ETFs; 07-hearts, 02-spades, 03-diamonds progress
 
 ### Changed
 
