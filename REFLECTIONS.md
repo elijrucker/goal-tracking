@@ -40,6 +40,14 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-19] — Dual-Brokerage Investment Structure: US for ETFs, Europe for Everything Else
+
+**Context:** Critical-analysis pass on 02-hearts (Index Investing Fundamentals) surfaced a scope question — should the card narrow to ETFs and basics of European investing? Answering it required stating an investment-structure decision that hadn't been logged anywhere yet.
+
+**Core insight:** As a US citizen, PFIC (Passive Foreign Investment Company) tax rules make EU-domiciled ETFs impractical to hold — the reporting and tax treatment is punitive enough that it isn't worth it, even post-relocation. The resulting structure: keep the US brokerage account open permanently as the dedicated ETF vehicle, and open a separate European brokerage account for other investments (individual equities, etc.) once relocated. This isn't a legacy holdover to be cleaned up later — it's the intended long-term shape of the portfolio.
+
+**What this unlocks:** Clarifies scope boundaries across the whole Hearts investing card family, not just 02-hearts. 02-hearts stays ETF/passive-only (US vehicle); fundamental/value-analysis content that doesn't fit that thesis (e.g., Damodaran) migrates to 4♥️ Growth Investing Strategy, which is explicitly the active/individual-equity card. Geographic market cards (3♥️, 6♥️, 8♥️, K♥️) should be read through this same US-ETF/EU-everything-else lens when their own scope gets evaluated.
+
 ### [2026-08-19] — Tracking Overhead vs. Execution: 7♥️ Drops Gym Session Annotation
 
 **Context:** Decided to stop logging individual gym session date/time annotations on 7♥️'s "Maintain habits established in first milestone" subtask.

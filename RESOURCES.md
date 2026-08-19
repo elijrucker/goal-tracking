@@ -193,36 +193,8 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 ### 2♥️ Index Investing Fundamentals
 
-**Primary:**
-
 - The Little Book of Common Sense Investing by John Bogle (book) — foundational index investing philosophy
 - [Bogleheads Forum](https://www.bogleheads.org) - Index investing community
-- [European Bogleheads Wiki](https://www.bogleheads.org/wiki/Investing_from_Europe) - EU-specific guidance
-
-**Fundamental & Value Analysis:**
-
-- [Damodaran - Foundations of Finance](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastfoundationsonline.htm) - NYU Stern, free — ~3-4 hrs
-- [Damodaran - Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/) - NYU Stern, free — selected modules
-
-**Technical Analysis:**
-
-- [IG Academy - Technical Analysis](https://www.ig.com/en/learn-trading/ig-academy) - FCA-regulated, free — ~4-5 hrs
-
-**Options:**
-
-- [Options Industry Council](https://www.optionseducation.org) - OIC, free — income strategy track ~5-10 hrs
-
-**Futures:**
-
-- [CME Institute - Introduction to Futures](https://www.cmegroup.com/education.html) - CME Group, free — ~3-6 hrs
-
-**Forex:**
-
-- [BabyPips - School of Pipsology](https://www.babypips.com/learn/forex) - free — ~6-8 hrs core
-
-**Global Markets Context:**
-
-- [Yale Financial Markets - Robert Shiller](https://www.coursera.org/learn/financial-markets-global) - Coursera, free to audit
 
 ### 3♥️ Global Markets & Economics
 
@@ -233,6 +205,9 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 - One Up On Wall Street by Peter Lynch (book)
 - Common Stocks and Uncommon Profits by Philip Fisher (book)
+- The Little Book That Builds Wealth by Pat Dorsey (supplementary)
+- [Damodaran - Foundations of Finance](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastfoundationsonline.htm) - NYU Stern, free — ~3-4 hrs
+- [Damodaran - Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/) - NYU Stern, free — selected modules
 
 ### 5♥️ Weight Loss: 25 lbs
 

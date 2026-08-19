@@ -5,16 +5,30 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entry added; 07-hearts progress
+## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entries added; 07-hearts progress; 02-hearts scope narrowed to US ETFs only (Damodaran migrated to 4♥️, European Bogleheads Wiki removed); 02-hearts/4♥️ RESOURCES cleanup
 
 ### Changed
 
 - [07-hearts] — [Maintain habits established in first milestone] gym session date/time tracking discontinued; habit consistent enough that per-session annotation no longer needed
 - [07-hearts] — [Adjust dietary/exercise approach if progress stalls] marked in progress; annotation updated (Reviewing 07-hearts metrics, considering milestone measurements; pending Navy Method baseline — see 2026-08-10 note)
+- [02-hearts] — Goal Description reworded: scope is the US ETF vehicle, not a geographic restriction — regional-market Unlocks (6♥️/8♥️/K♥️) confirmed to stay gated behind this card since US-listed ETFs can cover that exposure
+- [02-hearts] — [Progress Notes] added note (2026-08-19; scope narrowed to US ETF investing per dual-brokerage decision; supersedes 2026-08-09 hour estimate)
 
 ### Added
 
 - [REFLECTIONS] — "Tracking Overhead vs. Execution: 7♥️ Drops Gym Session Annotation" entry added, closing the loop on the 2026-06-14 prediction that 7♥️ would be the next case for this shift
+- [REFLECTIONS] — "Dual-Brokerage Investment Structure: US for ETFs, Europe for Everything Else" entry added — PFIC rules keep the US brokerage as the permanent ETF vehicle post-relocation, with a European brokerage for other investments; sets scope boundaries across the Hearts investing card family
+- [04-hearts] — [Resources/Subtasks] Damodaran Foundations of Finance and Investment Philosophies added, migrated from 02-hearts (fits the active/individual-equity thesis of 04-hearts better than 02-hearts' now ETF-only scope)
+- [RESOURCES.md] — 4♥️ Damodaran resources added (migrated from 2♥️)
+- [RESOURCES.md] — 4♥️ The Little Book That Builds Wealth (Dorsey) added — pre-existing orphan, present on the 04-hearts card but missing from RESOURCES.md, caught during the Damodaran migration
+
+### Removed
+
+- [RESOURCES.md] — 2♥️ Technical Analysis, Options, Futures, Forex, and Global Markets Context categories removed — orphaned from the 2026-08-09 card-level scope cut (moved to BACKLOG.md's "General Investment Literacy" candidate then, but never removed from RESOURCES.md, leaving duplicated content)
+- [02-hearts] — [Resources/Subtasks] Damodaran Foundations of Finance and Investment Philosophies removed — migrated to 04-hearts
+- [RESOURCES.md] — 2♥️ Damodaran ("Fundamental & Value Analysis") entries removed, migrated to 4♥️
+- [02-hearts] — [Resources/Subtasks] European Bogleheads Wiki removed entirely (not migrated) — EU-domiciled (UCITS) index-fund guidance that isn't actionable under the PFIC-driven US-ETF-only structure
+- [RESOURCES.md] — 2♥️ European Bogleheads Wiki entry removed to match
 
 ---
 

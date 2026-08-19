@@ -31,6 +31,8 @@ Study growth investing strategy - identifying and analyzing high-growth companie
 - One Up On Wall Street by Peter Lynch (book)
 - Common Stocks and Uncommon Profits by Philip Fisher (book)
 - The Little Book That Builds Wealth by Pat Dorsey (supplementary)
+- [Damodaran - Foundations of Finance](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastfoundationsonline.htm) - NYU Stern, free — ~3-4 hrs
+- [Damodaran - Investment Philosophies](https://pages.stern.nyu.edu/~adamodar/) - NYU Stern, free — selected modules
 
 ---
 
@@ -45,6 +47,8 @@ Study growth investing strategy - identifying and analyzing high-growth companie
 
 - [ ] Read One Up On Wall Street (Lynch)
 - [ ] Read Common Stocks and Uncommon Profits (Fisher)
+- [ ] Complete Damodaran Foundations of Finance (NYU Stern, ~3-4 hrs)
+- [ ] Complete Damodaran Investment Philosophies (selected modules)
 - [ ] Understand key growth metrics (revenue growth, margins, TAM, etc.)
 - [ ] Learn to read and analyze company financials
 - [ ] Apply growth investing lens to current portfolio
