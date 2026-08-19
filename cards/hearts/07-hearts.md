@@ -41,7 +41,7 @@ Second milestone on the 75 lb total weight loss journey - the halfway point. Rea
 ## Subtasks
 
 - [/] Maintain habits established in first milestone
-- [ ] Adjust dietary/exercise approach if progress stalls
+- [/] Adjust dietary/exercise approach if progress stalls (Reviewing 07-hearts metrics, considering milestone measurements; pending Navy Method baseline — see 2026-08-10 note)
 - [ ] Reach -35 lbs milestone
 - [ ] Reach -40 lbs milestone
 - [ ] Reach -50 lbs milestone

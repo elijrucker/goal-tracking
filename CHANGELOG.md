@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entry added
+## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entry added; 07-hearts progress
 
 ### Changed
 
 - [07-hearts] — [Maintain habits established in first milestone] gym session date/time tracking discontinued; habit consistent enough that per-session annotation no longer needed
+- [07-hearts] — [Adjust dietary/exercise approach if progress stalls] marked in progress; annotation updated (Reviewing 07-hearts metrics, considering milestone measurements; pending Navy Method baseline — see 2026-08-10 note)
 
 ### Added
 
