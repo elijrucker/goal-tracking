@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entries added; 07-hearts progress; 02-hearts scope narrowed to US ETFs only (Damodaran migrated to 4♥️, European Bogleheads Wiki removed); 02-hearts/4♥️ RESOURCES cleanup
+## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entries added; 07-hearts progress; 02-hearts scope narrowed to US ETFs only (Damodaran migrated to 4♥️, European Bogleheads Wiki removed); 02-hearts/4♥️ RESOURCES cleanup; 02-spades C/OOP deep dive progress
 
 ### Changed
 
@@ -13,6 +13,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [07-hearts] — [Adjust dietary/exercise approach if progress stalls] marked in progress; annotation updated (Reviewing 07-hearts metrics, considering milestone measurements; pending Navy Method baseline — see 2026-08-10 note)
 - [02-hearts] — Goal Description reworded: scope is the US ETF vehicle, not a geographic restriction — regional-market Unlocks (6♥️/8♥️/K♥️) confirmed to stay gated behind this card since US-listed ETFs can cover that exposure
 - [02-hearts] — [Progress Notes] added note (2026-08-19; scope narrowed to US ETF investing per dual-brokerage decision; supersedes 2026-08-09 hour estimate)
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-19; Ch. 5 lecture)
 
 ### Added
 
