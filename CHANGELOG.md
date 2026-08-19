@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entries added; 07-hearts progress; 02-hearts scope narrowed to US ETFs only (Damodaran migrated to 4♥️, European Bogleheads Wiki removed); 02-hearts/4♥️ RESOURCES cleanup; 02-spades C/OOP deep dive progress
+## [2026-08-19] — 07-hearts gym session tracking discontinued; REFLECTIONS entries added; 07-hearts progress; 02-hearts scope narrowed to US ETFs only (Damodaran migrated to 4♥️, European Bogleheads Wiki removed); 02-hearts/4♥️ RESOURCES cleanup; 02-spades C/OOP deep dive progress; 03-diamonds Ch. 9 completed
 
 ### Changed
 
@@ -30,6 +30,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [RESOURCES.md] — 2♥️ Damodaran ("Fundamental & Value Analysis") entries removed, migrated to 4♥️
 - [02-hearts] — [Resources/Subtasks] European Bogleheads Wiki removed entirely (not migrated) — EU-domiciled (UCITS) index-fund guidance that isn't actionable under the PFIC-driven US-ETF-only structure
 - [RESOURCES.md] — 2♥️ European Bogleheads Wiki entry removed to match
+
+### Completed
+
+- [03-diamonds] — [Ch. 9: Classes] marked complete
 
 ---
 
