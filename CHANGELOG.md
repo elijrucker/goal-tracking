@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-18] — 02-spades C/OOP deep dive progress
+
+### Changed
+
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-18; Ch. 4 Review)
+
+---
+
 ## [2026-08-17] — 10-hearts Summer 26 block pruned; Learning Java and Eloquent JavaScript resources added
 
 ### Changed
