@@ -31,6 +31,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 ## Resources
 
 - [LeetCode](https://leetcode.com) - Algorithm and interview practice platform
+- *Cracking the Coding Interview* by Gayle Laakmann McDowell (book) — core interview prep resource
 
 ---
 
@@ -46,6 +47,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
   - [x] 2236. Root Equals Sum of Children
   - [x] 1480. Running Sum of 1d Array
+- [ ] Read Cracking the Coding Interview
 - [ ] Complete 30 Days of JavaScript Study Plan
 - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
 - [ ] Complete Shell-specific problems
@@ -59,6 +61,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-08-20] Added Cracking the Coding Interview as a resource and subtask, following its addition to RESOURCES.md under this card's section.
 - [2026-08-10] Renamed card from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" to more accurately describe the goal of the card itself, and to accommodate resources outside of LeetCode (e.g. Coding Interview University).
 - [2026-06-27] Reactivated to In Progress — low-priority, working as bandwidth allows; holds bottom position on On the Board intentionally
 - [2026-05-29] Deferred — current bandwidth consumed by active goals. Reactivate when capacity allows.

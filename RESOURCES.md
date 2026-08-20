@@ -102,6 +102,7 @@ Master reference list of all courses, books, platforms, and links associated wit
 
 - [LeetCode](https://leetcode.com) - Algorithm and interview practice platform
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) — Comprehensive CS fundamentals study plan; associated Anki deck (AnkiWeb ID 25173560) imported for daily review
+- *Cracking the Coding Interview* by Gayle Laakmann McDowell (book) — core interview prep resource
 
 ### 10♣️ API Development Project
 

@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-20] — 9-clubs Cracking the Coding Interview resource added
+
+### Added
+
+- [RESOURCES.md] — 9♣️ *Cracking the Coding Interview* by Gayle Laakmann McDowell added as a core interview prep resource
+- [09-clubs] — Cracking the Coding Interview added to Resources and as a subtask (Read Cracking the Coding Interview)
+
+---
+
 ## [2026-08-19] — 07-hearts gym tracking discontinued; REFLECTIONS entries added; 02-hearts scope narrowed to US ETFs; 07-hearts, 02-spades, 03-diamonds progress
 
 ### Changed
