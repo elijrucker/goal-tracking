@@ -52,7 +52,24 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] [Auxiliary] Complete statistics review for DSST Principles of Statistics
   - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
 
-- [ ] **Eloquent JavaScript (4th ed.)** (independent reading, in parallel with Python Crash Course [tracked externally, not in this file]; target completion: start of Fall 2026 semester)
+- [/] **Learning Java, 6th Ed.** (Loy, Niemeyer, Leuck; O'Reilly, 2023) (independent reading; target completion: start of Fall 2026 semester)
+  - [/] Ch. 1 – A Virtual Machine
+  - [ ] Ch. 2 – A First Application
+  - [ ] Ch. 3 – Tools of the Trade
+  - [ ] Ch. 4 – The Java Type System
+  - [ ] Ch. 5 – Objects in Java
+  - [ ] Ch. 6 – Relationships Among Classes
+  - [ ] Ch. 7 – Working with Objects and Classes
+  - [ ] Ch. 8 – Generics
+  - [ ] Ch. 9 – Collections and Maps
+  - [ ] Ch. 10 – Number Math
+  - [ ] Ch. 11 – The Java I/O System
+  - [ ] Ch. 12 – Network Programming
+  - [ ] Ch. 13 – Programming with GUI
+  - [ ] Ch. 14 – Programming Threads
+  - [ ] Ch. 15 – Web Applications and Web Services
+
+- [ ] **Eloquent JavaScript (4th ed.)** (independent reading, to begin after Learning Java; target completion: start of Fall 2026 semester)
   - [ ] Ch. 1 – Values, Types, and Operators
   - [ ] Ch. 2 – Program Structure
   - [ ] Ch. 3 – Functions
@@ -104,6 +121,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-08-20] Reordered Learning Java ahead of Eloquent JavaScript — reading started on Ch. 1; sequencing one text to completion before starting the next promotes task completion over task switching. Series and Ch. 1 marked in progress; Eloquent JavaScript annotation updated to reflect the new sequencing.
+- [2026-08-20] Added Learning Java, 6th Ed. subtask series (Ch. 1-15), placed after Eloquent JavaScript and before the Fall 26 block; book was already listed in Resources supporting javaProgramming (Fall 26).
 - [2026-08-17] [Complete remaining required courses > Summer 26] Block pruned (jobSearchPrep, introPhilosophy) — both closed and already logged in CHANGELOG.md, per dynamic-card convention.
 - [2026-08-14] [introPhilosophy] Course completed — Module 4 (Metaphysics / Exam Week) was the final outstanding module.
 - [2026-08-12] [introPhilosophy > Module 4] Due date corrected: 08/17 → 08/14, confirmed directly this morning. Module deadline and all four dated deliverables (quiz, discussion post, journal entry, comprehensive exam) share the corrected date.
