@@ -53,7 +53,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
 
 - [/] **Learning Java, 6th Ed.** (Loy, Niemeyer, Leuck; O'Reilly, 2023) (independent reading; target completion: start of Fall 2026 semester)
-  - [/] Ch. 1 – A Virtual Machine
+  - [/] Ch. 1 – A Virtual Machine (2026-08-20; Figure 1.1)
   - [ ] Ch. 2 – A First Application
   - [ ] Ch. 3 – Tools of the Trade
   - [ ] Ch. 4 – The Java Type System

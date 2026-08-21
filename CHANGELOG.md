@@ -5,11 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-20] — 9-clubs Cracking the Coding Interview resource added; 10-hearts Learning Java subtask series added
+## [2026-08-20] — 9-clubs Cracking the Coding Interview resource added; 10-hearts Learning Java subtask series added, Learning Java progress; 02-spades C/OOP Deep Dive progress
 
 ### Added
 
-- [RESOURCES.md] — 9♣️ *Cracking the Coding Interview* by Gayle Laakmann McDowell added as a core interview prep resource
+- [RESOURCES.md] — 9♣️ _Cracking the Coding Interview_ by Gayle Laakmann McDowell added as a core interview prep resource
 - [09-clubs] — Cracking the Coding Interview added to Resources and as a subtask (Read Cracking the Coding Interview)
 - [10-hearts] — Learning Java, 6th Ed. subtask series added (Ch. 1-15), placed after Eloquent JavaScript and before the Fall 26 block
 
@@ -17,6 +17,8 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — Learning Java, 6th Ed. subtask series reordered ahead of Eloquent JavaScript — promotes sequential completion over task switching; series and Ch. 1 marked in progress (reading underway)
 - [10-hearts] — [Eloquent JavaScript (4th ed.)] annotation updated (independent reading, to begin after Learning Java; target completion: start of Fall 2026 semester)
+- [10-hearts] — [Learning Java, 6th Ed. < Ch. 1] annotation added (2026-08-20; Figure 1.1)
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-08-20; Ch. 5 reading)
 
 ---
 
