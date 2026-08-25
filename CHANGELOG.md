@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-25] — 9-clubs Data Structures and Algorithms Specialization added
+
+### Added
+
+- [RESOURCES.md] — 9♣️ Data Structures and Algorithms Specialization (Coursera, UC San Diego) added
+- [09-clubs] — Data Structures and Algorithms Specialization added to Resources and as a subtask series (Algorithmic Toolbox, Data Structures, Algorithms on Graphs, Algorithms on Strings, Advanced Algorithms and Complexity, Genome Assembly Programming Challenge), placed ahead of all other subtask series as top priority
+
+---
+
 ## [2026-08-24] — 03-spades-v2 Mythical Man-Month progress
 
 ### Completed
