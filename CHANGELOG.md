@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-24] — 03-spades-v2 Mythical Man-Month progress
+
+### Completed
+
+- [03-spades-v2] — [Ch. 9 — Ten Pounds in a Five-Pound Sack] marked complete
+- [03-spades-v2] — [Ch. 10 — The Documentary Hypothesis] marked complete
+
+### Changed
+
+- [03-spades-v2] — [Ch. 11 — Plan to Throw One Away] marked in progress
+
+---
+
 ## [2026-08-20] — 9-clubs Cracking the Coding Interview resource added; 10-hearts Learning Java subtask series added, Learning Java progress; 02-spades C/OOP Deep Dive progress
 
 ### Added
