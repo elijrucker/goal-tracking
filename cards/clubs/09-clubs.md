@@ -31,7 +31,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 ## Resources
 
 - [LeetCode](https://leetcode.com) - Algorithm and interview practice platform
-- *Cracking the Coding Interview* by Gayle Laakmann McDowell (book) — core interview prep resource
+- _Cracking the Coding Interview_ by Gayle Laakmann McDowell (book) — core interview prep resource
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (Coursera, UC San Diego) — six-course sequence, ~180 hours, ~100 programming challenges
 
 ---
@@ -45,8 +45,8 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Subtasks
 
-- [ ] Complete Data Structures and Algorithms Specialization (Coursera, UC San Diego) — takes priority over all other subtask series below
-  - [ ] Algorithmic Toolbox
+- [/] Complete Data Structures and Algorithms Specialization (Coursera, UC San Diego) — takes priority over all other subtask series below
+  - [/] Algorithmic Toolbox
   - [ ] Data Structures
   - [ ] Algorithms on Graphs
   - [ ] Algorithms on Strings
@@ -69,6 +69,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-08-25] Started Data Structures and Algorithms Specialization — Algorithmic Toolbox marked in progress.
 - [2026-08-25] Added Data Structures and Algorithms Specialization (Coursera, UC San Diego) as a resource and subtask series, placed ahead of all other subtask series as top priority.
 - [2026-08-20] Added Cracking the Coding Interview as a resource and subtask, following its addition to RESOURCES.md under this card's section.
 - [2026-08-10] Renamed card from "LeetCode Practice" to "Interview Prep & Algorithmic Practice" to more accurately describe the goal of the card itself, and to accommodate resources outside of LeetCode (e.g. Coding Interview University).
