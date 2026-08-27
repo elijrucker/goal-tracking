@@ -40,6 +40,14 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-27] — 70/30 Focus Strategy: Concentrating Effort on the High-Leverage Minority
+
+**Context:** A review pass across active goals asked which cards account for the most results relative to effort invested. 9♣️ (Interview Prep & Algorithmic Practice) was flagged as part of the high-leverage ~30%, prompting a cleanup of where its supporting subtask series actually lived.
+
+**Core insight:** Not all active cards carry equal weight toward the outcomes that matter most (here, job-search readiness for Joker 1). Framing this as a 70/30 split — roughly 30% of active effort accounting for most of the results — gives a concrete lens for deciding where skill-building subtasks belong. Joker 1 had accumulated a Claude Academy courses subtask series that duplicated skill-building work more properly owned by 9♣️, blurring Joker 1's role as a logistics/organizational tracker for the job search itself.
+
+**What this unlocks:** Claude Academy courses subtask series (parent + 5 children) moved from Joker 1 to 09-clubs, keeping Joker 1 strictly logistics/organizational (applications, interviews, offer, relocation) and consolidating algorithmic/interview-prep skill-building on 9♣️. Worth applying the same 70/30 lens to Joker 1's other Prerequisite accelerants (A♦️, Q♣️, Q♦️, K♣️, A♣️) if similar subtask duplication surfaces there.
+
 ### [2026-08-19] — Dual-Brokerage Investment Structure: US for ETFs, Europe for Everything Else
 
 **Context:** Critical-analysis pass on 02-hearts (Index Investing Fundamentals) surfaced a scope question — should the card narrow to ETFs and basics of European investing? Answering it required stating an investment-structure decision that hadn't been logged anywhere yet.

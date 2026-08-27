@@ -33,6 +33,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [LeetCode](https://leetcode.com) - Algorithm and interview practice platform
 - _Cracking the Coding Interview_ by Gayle Laakmann McDowell (book) — core interview prep resource
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (Coursera, UC San Diego) — six-course sequence, ~180 hours, ~100 programming challenges
+- [Claude Academy](https://academy.claude.com) — Anthropic's free Claude/API training platform (formerly Anthropic Academy)
 
 ---
 
@@ -55,6 +56,12 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
   - [x] 2236. Root Equals Sum of Children
   - [x] 1480. Running Sum of 1d Array
+- [/] Complete Claude Academy courses (in progress: Building with Claude API, 2026-06-18; configure container API dev environment)
+  - [ ] Introduction to Model Context Protocol
+  - [ ] Model Context Protocol Advanced Topics
+  - [ ] Introduction to Agent Skills
+  - [ ] Introduction to Subagents
+  - [ ] Claude with Amazon Bedrock
 - [ ] Read Cracking the Coding Interview
 - [ ] Complete 30 Days of JavaScript Study Plan
 - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
@@ -69,6 +76,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-08-27] Added Claude Academy courses subtask series (parent + 5 children), moved from Joker 1 to Resources and Subtasks here. Part of a 70/30 focus-strategy review pass; 9♣️ was flagged as part of the high-leverage 30%, and this move keeps Joker 1 strictly logistics/organizational rather than duplicating skill-building subtasks that belong on their own card.
 - [2026-08-25] Started Data Structures and Algorithms Specialization — Algorithmic Toolbox marked in progress.
 - [2026-08-25] Added Data Structures and Algorithms Specialization (Coursera, UC San Diego) as a resource and subtask series, placed ahead of all other subtask series as top priority.
 - [2026-08-20] Added Cracking the Coding Interview as a resource and subtask, following its addition to RESOURCES.md under this card's section.

@@ -66,12 +66,6 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Subtasks - Profile, Portfolio & Credentials
 
-- [/] Complete Anthropic Academy courses (in progress: Building with Claude API, 2026-06-18; configure container API dev environment)
-  - [ ] Introduction to Model Context Protocol
-  - [ ] Model Context Protocol Advanced Topics
-  - [ ] Introduction to Agent Skills
-  - [ ] Introduction to Subagents
-  - [ ] Claude with Amazon Bedrock
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [ ] Java CLI copy tool (`cp` reimplementation) — design details tracked in Claude Project Java/Kotlin
 
@@ -99,6 +93,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-08-27] Removed Claude Academy courses subtask series (parent + 5 children) — moved to 09-clubs. Part of a 70/30 focus-strategy review pass (concentrating effort on the ~30% of active goals accounting for the most results); 9♣️ was flagged as part of that high-leverage 30%, and this move keeps Joker 1 strictly logistics/organizational rather than duplicating skill-building subtasks that belong on their own cards.
 - [2026-08-03] Second pruning pass this session: removed Reading & Writing subtasks (→ BACKLOG), closed "Research Berlin companies" (DoD retroactively satisfied by existing Tier 1-4 lists), removed "Prepare for technical interviews" and "Network with Berlin-based developers" as redundant with 9♣️ and the completed social audit respectively, split "Apply to target companies" into generic Batch 1-4 children (effort tracking, decoupled from private tier groupings — no company data), and resequenced Relocation Logistics as banking-then-housing, both gated on physical arrival.
 - [2026-08-03] Trimmed subtasks this session: Portfolio website (moved to BACKLOG, merged into Personal domain & professional email), Establish Stack Overflow presence (moved to BACKLOG, merged into Mentorship & Technical Teaching), plus pruning of already-closed entries under Complete Anthropic Academy courses and Ensure 3 strong portfolio projects are live and documented. Underlying rationale: narrowing joker-1 to subtasks essential for entry-level job applications; "nice to haves" are relegated to the backlog until more pressing, weightier work is resolved.
 - [2026-08-03] Synthesized two prior reflections — the criteria for legitimately claiming the title "computer scientist," and a fortune cookie's claim that today marks "the beginning of a shift in perception" — into a single outcome: beginning, privately, to think of myself as a computer scientist. Consistent with the conclusion that perceptual shifts are cumulative rather than singular, this is a data point in that accumulation, not its cause.
