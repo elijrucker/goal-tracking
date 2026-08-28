@@ -40,6 +40,38 @@ dedicated card.
 
 ## Entries
 
+### [2026-08-28] — External Signal Reshaping Portfolio Scope: Joker 1 Project 3 Pivot
+
+**Context:** A networking contact — a team lead at a shortlisted Berlin employer — created a
+concrete, external reason to deliver Joker 1's third portfolio project (previously a Java CLI
+`cp` reimplementation) faster and at greater depth. The project was pivoted to a mobile-first
+Java workout tracking app, restructured as a phased build (MVP → AI API/voice dictation → image
+recognition → Docker/Kubernetes infra) with a contemporaneous ADR log and a critical-analysis
+checkpoint gating each phase.
+
+**Core insight:** Portfolio project scope had been set in the abstract — "demonstrate Java
+competency" — without a specific audience in mind. A real point of contact at a real target
+employer changes the shape of that same requirement: it's no longer just about proving language
+syntax, but about producing something that reads as enterprise-level engineering practice to a
+specific kind of reviewer. That's what motivated the phased structure and per-phase critical-
+analysis checkpoints — the deliverable now has to hold up under professional scrutiny at each
+stage, not just at the end.
+
+**What this unlocks:** Ripples across three files in one session — joker-1's subtask tree
+restructured, 10♦️ (Kubernetes) marked as informally advanced by Project 3's infra phase rather
+than the reverse, and the displaced CLI copy tool design preserved in BACKLOG.md rather than
+discarded. Also surfaced a boundary worth naming: Q♦️ (CS50M) was checked as a possible
+cross-reference and rejected — proximity in subject (mobile development) isn't the same as
+actual content overlap (CS50M is React Native/JavaScript-specific). Worth applying the same
+check — does a new project actually advance a related card, or just sit near it — before
+crediting cross-card progress elsewhere in the deck.
+
+**Delayed reflection (revisit once Phase 1 MVP checkpoint is reached):**
+- Did the per-phase critical-analysis checkpoint catch anything a single end-of-project review
+  would have missed?
+- Did having a specific reviewer in mind change decisions made during the build, or did that
+  influence stay theoretical?
+
 ### [2026-08-27] — 70/30 Focus Strategy: Concentrating Effort on the High-Leverage Minority
 
 **Context:** A review pass across active goals asked which cards account for the most results relative to effort invested. 9♣️ (Interview Prep & Algorithmic Practice) was flagged as part of the high-leverage ~30%, prompting a cleanup of where its supporting subtask series actually lived.

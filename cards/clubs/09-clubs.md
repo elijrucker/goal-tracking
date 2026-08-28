@@ -57,7 +57,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
   - [x] 2236. Root Equals Sum of Children
   - [x] 1480. Running Sum of 1d Array
 - [/] Claude Academy
-  - [ ] Building with the Claude API
+  - [/] Building with the Claude API (2026-08-28)
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
   - [ ] Introduction to Agent Skills

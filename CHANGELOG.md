@@ -5,12 +5,29 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-08-28] — 09-clubs progress
+## [2026-08-28] — Joker 1 Project 3 pivot (Java workout tracker); 09-clubs progress
 
 ### Updated
 
 - [09-clubs] — [DSaA < Algorithmic Toolbox] updated annotation (2026-08-28; Programming Assignment One)
 - [09-clubs] — [Claude Academy] subtask series refreshed — parent renamed from "Complete Claude Academy courses" to "Claude Academy" (inline progress annotation dropped); Building with the Claude API promoted from inline annotation text to its own child checkbox
+- [09-clubs] — [Claude Academy < Building with the Claude API] marked in progress, added annotation (2026-08-28)
+
+### Changed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects] Java CLI copy tool subtask replaced with Project 3 — phased mobile-first Java workout tracking app (MVP → AI API/voice dictation → image recognition → Docker/Kubernetes infra), each phase gated by a critical-analysis checkpoint against enterprise-level engineering procedure, plus a contemporaneous ADR log requirement
+
+### Added
+
+- [10-diamonds] — Progress Notes entry added noting informal advancement via Joker 1 Project 3 (Kubernetes migration planned as that project's infra milestone; Project 3 takes precedence)
+- [BACKLOG.md] — Java CLI copy tool (`cp` reimplementation) added under Potential Clubs Cards — displaced from Project 3 by the workout tracker pivot; design retained (`Copyable` interface, polymorphism, dynamic dispatch, Composite)
+
+### Notes
+
+- Pivot prompted by a networking contact (team lead at a shortlisted Berlin employer), creating vested interest in delivering the MVP phase quickly without shortchanging the learning process
+- Q♦️ (CS50M) cross-reference considered and rejected — CS50M is React Native/JavaScript-specific and isn't meaningfully advanced by this project
+- joker-1 moved to Tier 1 (external daily list) given priority; Terminal slot reverts fully to 3♦️ Python Crash Course
+- Timeline open-ended, decoupled from Fall MATC start
 
 ---
 

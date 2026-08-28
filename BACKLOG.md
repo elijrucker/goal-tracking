@@ -37,6 +37,7 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [x] The Psychology of Computer Programming (Gerald Weinberg) — promoted to 6♠️ (2026-08-03), merged with Peopleware
 - [x] The Mythical Man-Month (Fred Brooks) — promoted to 3♠️ V2 (2026-06-22)
 - [ ] Basic REST API tool (breakout project) — second portfolio breakout project, in Kotlin as an introduction to the language. Follows the Java CLI copy tool (Project 3). Scope TBD on activation.
+- [ ] Java CLI copy tool (`cp` reimplementation) — displaced from Project 3 by the workout tracker pivot (2026-08-28). Design retained: `Copyable` interface (`File`/`Directory`), polymorphism, dynamic dispatch, Composite
 - [ ] Code Complete (2nd Ed.) — by Steve McConnell; canonical software construction practices, complements 3♣️ Pragmatic Programmer and 4♣️ Clean Code without duplicating either.
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software — by Gamma, Helm, Johnson & Vlissides ("Gang of Four"); canonical OOP design-pattern vocabulary, no current deck coverage; directly relevant to enterprise Java/C# interview prep.
 - [x] Peopleware (Tom DeMarco & Timothy Lister) — promoted to 6♠️ (2026-08-03), merged with Psychology of Computer Programming

@@ -53,6 +53,8 @@ Develop practical Kubernetes knowledge via the LinkedIn Learning 9-hour path. No
 
 ## Progress Notes
 
+- [2026-08-28] Informally advanced via Joker 1 Project 3 (mobile workout tracker) — Docker → Kubernetes migration planned as that project's infra milestone. Project 3 takes precedence; this card is informed by it, not gating it.
+
 ---
 
 ## Completion Notes
