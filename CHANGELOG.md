@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-08-28] — 09-clubs progress
+
+### Updated
+
+- [09-clubs] — [DSaA < Algorithmic Toolbox] updated annotation (2026-08-28; Programming Assignment One)
+
+---
+
 ## [2026-08-27] — 70/30 review: Claude Academy subtask series moved from Joker 1 to 09-clubs
 
 ### Updated

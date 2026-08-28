@@ -47,7 +47,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 ## Subtasks
 
 - [/] Complete Data Structures and Algorithms Specialization (Coursera, UC San Diego) — takes priority over all other subtask series below
-  - [/] Algorithmic Toolbox
+  - [/] Algorithmic Toolbox (2026-08-28; Programming Assignment 1)
   - [ ] Data Structures
   - [ ] Algorithms on Graphs
   - [ ] Algorithms on Strings
