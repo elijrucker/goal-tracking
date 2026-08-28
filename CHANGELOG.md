@@ -10,6 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Updated
 
 - [09-clubs] — [DSaA < Algorithmic Toolbox] updated annotation (2026-08-28; Programming Assignment One)
+- [09-clubs] — [Claude Academy] subtask series refreshed — parent renamed from "Complete Claude Academy courses" to "Claude Academy" (inline progress annotation dropped); Building with the Claude API promoted from inline annotation text to its own child checkbox
 
 ---
 
