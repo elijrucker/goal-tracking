@@ -51,7 +51,7 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
   - [x] Ch. 8 — Calling the Shot
   - [x] Ch. 9 — Ten Pounds in a Five-Pound Sack
   - [x] Ch. 10 — The Documentary Hypothesis
-  - [/] Ch. 11 — Plan to Throw One Away
+  - [/] Ch. 11 — Plan to Throw One Away (2026-08-27)
   - [ ] Ch. 12 — Sharp Tools
   - [ ] Ch. 13 — The Whole and the Parts
   - [ ] Ch. 14 — Hatching a Catastrophe

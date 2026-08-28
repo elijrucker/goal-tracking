@@ -7,6 +7,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-08-27] — 70/30 review: Claude Academy subtask series moved from Joker 1 to 09-clubs
 
+### Updated
+
+- [03-spades-v2] — [Ch. 11 — Plan to Throw One Away] updated annotation (2026-08-27)
+
 ### Removed
 
 - [joker-1] — Claude Academy courses subtask series (parent + 5 children) removed from Subtasks - Profile, Portfolio & Credentials
@@ -20,7 +24,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - 9♣️ flagged as part of the 30% in a 70/30 focus-strategy review (concentrating effort on the ~30% of active goals accounting for the most results)
 - Claude Academy subtask series moved from Joker 1 to 09-clubs to keep Joker 1 strictly logistics/organizational, consistent with that flag
-- *Cracking the Coding Interview* was **not** moved — it was added directly to 09-clubs on 2026-08-20 and was never present on Joker 1; no change needed there
+- _Cracking the Coding Interview_ was **not** moved — it was added directly to 09-clubs on 2026-08-20 and was never present on Joker 1; no change needed there
 
 ---
 
