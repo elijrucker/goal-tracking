@@ -7,14 +7,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-08-28] — Joker 1 Project 3 pivot (Java workout tracker); 09-clubs progress
 
-### Updated
-
-- [09-clubs] — [DSaA < Algorithmic Toolbox] updated annotation (2026-08-28; Programming Assignment One)
-- [09-clubs] — [Claude Academy] subtask series refreshed — parent renamed from "Complete Claude Academy courses" to "Claude Academy" (inline progress annotation dropped); Building with the Claude API promoted from inline annotation text to its own child checkbox
-- [09-clubs] — [Claude Academy < Building with the Claude API] marked in progress, added annotation (2026-08-28)
-
 ### Changed
 
+- [09-clubs] — [DSaA < Algorithmic Toolbox] annotation updated (2026-08-28; Programming Assignment 1)
+- [09-clubs] — [Claude Academy] subtask series refreshed — parent renamed from "Complete Claude Academy courses" to "Claude Academy" (inline progress annotation dropped); Building with the Claude API promoted from inline annotation text to its own child checkbox
+- [09-clubs] — [Claude Academy < Building with the Claude API] marked in progress, added annotation (2026-08-28)
 - [joker-1] — [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects] Java CLI copy tool subtask replaced with Project 3 — phased mobile-first Java workout tracking app (MVP → AI API/voice dictation → image recognition → Docker/Kubernetes infra), each phase gated by a critical-analysis checkpoint against enterprise-level engineering procedure, plus a contemporaneous ADR log requirement
 
 ### Added
