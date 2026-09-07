@@ -44,24 +44,39 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [ ] **Fall 26**
   - [ ] **advancedJavaScript** (08/31-12/18)
-    - [ ] _Eloquent JavaScript (4th ed.)_ — Marijn Haverbeke (independent reading, outside course context)
-    - [ ] _You Don't Know JS: ES6 & Beyond_ — Kyle Simpson (independent reading, outside course context)
+    - [ ] Deliverables:
+      - [ ] Week 1
+      - [ ] Week 2
+    - [ ] Learning Material:
+      - [ ] _Eloquent JavaScript (4th ed.)_ — Marijn Haverbeke (independent reading, outside course context)
+      - [ ] _You Don't Know JS: ES6 & Beyond_ — Kyle Simpson (independent reading, outside course context)
 
   - [ ] **technicalReporting** (08/31-12/18)
+    - [ ] Deliverables:
+      - [ ] Week 1
+      - [ ] Week 2
 
   - [ ] **javaProgramming** (08/31–12/18)
-    - [ ] Pluralsight Java path (primary track; access via Varusk — employment-contingent; 2026-09-03; Java SE)
-    - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
+    - [ ] Deliverables:
+      - [ ] Week 1
+      - [ ] Week 2
+    - [ ] Learning Material:
+      - [ ] Pluralsight Java path (primary track; access via Varusk — employment-contingent; 2026-09-03; Java SE)
+      - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
   - [ ] **phpWebMySQL** (08/31–12/18)
+    - [ ] Deliverables:
+      - [ ] Week 1
+      - [ ] Week 2
 
-  - [/] **Fulfill math elective requirement** (Franklin B.S. CS) — rolled into Fall 26 (2026-09-07; targeted for completion this semester)
-    - [/] CLEP Algebra Review:
-      - [/] 'Modern States' free CLEP College Algebra course (2026-08-05; 1.2 review pending)
-      - [ ] ALEKS diagnostic to identify specific gaps
-      - [ ] Professor Leonard College Algebra (YouTube) for conceptual depth
-      - [ ] Official CLEP College Algebra practice exam (timed)
-    - [ ] Pass CLEP College Algebra (target score: 50+)
+  - [/] **Fulfill math elective requirement**
+    - [ ] Deliverables:
+      - [ ] Pass CLEP College Algebra (target score: 50+)
+    - [/] Learning Material:
+      - [/] Modern States CLEP College Algebra course (2026-08-05; 1.2 review pending)
+      - [ ] ALEKS diagnostic
+      - [ ] Professor Leonard College Algebra (YouTube)
+      - [ ] CLEP practice exam (timed)
 
 - [ ] **Spring 27**
   - [ ] **db_prog**
@@ -77,11 +92,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
-- [2026-09-07] [Fall 26 > Fulfill math elective requirement] Moved the two DSST Principles of Statistics subtasks (MATH 215) out to A♥️ under a new "Fulfill statistics requirement" series — they satisfy a Franklin B.S. CS requirement, not the Associate's degree this card tracks. This card's math elective series now covers only CLEP College Algebra (MATH 160), which is the piece actually being worked this Fall.
-- [2026-09-07] [Fall 26 > advancedJavaScript > You Don't Know JS: ES6 & Beyond] Chapter checklist (Ch. 1-8) collapsed into the parent subtask line, italicized to match the Eloquent JavaScript/Learning Java auxiliary-reading style rather than bolded like the actual courses. No chapters were in progress (reset on the Summer→Fall 26 relocation), so no current-chapter annotation carried over. Stale "advancedJavaScript course dropped Summer 2026, flagged for retake Fall 2026" clause dropped as clutter — that context lives in Progress Notes already.
-- [2026-09-07] [Fall 26 > Fulfill math elective requirement] Rolled the standalone math elective subtask series into Fall 26 — the CLEP Algebra Review push is now targeted for completion this semester rather than the inter-semester window it was originally deferred to (which has since passed). Fall 26 block spaced out with blank lines between each course/requirement subtree, and each course/requirement title bolded, for legibility now that it holds five items; Spring 27 course titles bolded to match.
-- [2026-09-07] [Fall 26 > advancedJavaScript] Standalone Eloquent JavaScript (4th ed.) subtask series (Ch. 1-22) folded into a child subtask under advancedJavaScript, matching the Java-material fold pattern above. Chapter checklist collapsed — no chapters had been started, so no progress annotation carried over. The "to begin after Learning Java" sequencing note is dropped as no longer applicable now that Learning Java itself is an open-ended auxiliary reference rather than a bounded series with its own completion point.
-- [2026-09-07] [Fall 26 > javaProgramming] Standalone Learning Java, 6th Ed. subtask series (Ch. 1-15) folded into the javaProgramming auxiliary child subtask, matching the book's narrowed auxiliary role (2026-09-03). Chapter checklist collapsed; current chapter and progress data retained as an annotation on the subtask line instead of a full checklist.
+- [2026-09-07] [Fall 26 > Fulfill math elective requirement] Full-session rework: rolled the standalone series into Fall 26 (previously deferred to the now-passed inter-semester window); split into Deliverables (Pass CLEP College Algebra) and Learning Material (Modern States course, ALEKS diagnostic, Professor Leonard videos, practice exam) groups, matching the pattern applied to the four courses below; moved the two DSST Statistics subtasks (MATH 215) out to A♥️ under a new "Fulfill statistics requirement" series, since they satisfy a Franklin B.S. CS requirement rather than the Associate's degree this card tracks; removed the resulting "(Franklin B.S. CS)" tag from the parent line and trimmed remaining verbosity (roll-in annotation, explanatory trailers, "free"/quotes) now that the grouping itself carries that context. Series now covers only CLEP College Algebra (MATH 160), the piece actively being worked this Fall.
+- [2026-09-07] [Fall 26] Course subtasks reworked for the semester: each course split into Deliverables (Week 1/Week 2 placeholders, starting a rolling current/pending window rather than adding the full term upfront as in prior semesters) and Learning Material (existing auxiliary readings/paths) groups; deliverable-level detail will be tracked via annotation on the week line rather than further child subtasks. Block spaced out with blank lines and bolded titles for legibility now that it holds five items (Spring 27 titles bolded to match).
+- [2026-09-07] [Fall 26 > advancedJavaScript, javaProgramming] Standalone auxiliary-reading series folded into their respective courses: Eloquent JavaScript (Ch. 1-22) and You Don't Know JS: ES6 & Beyond (Ch. 1-8, chapters reset on the Summer→Fall 26 relocation) under advancedJavaScript; Learning Java, 6th Ed. (Ch. 1-15) under javaProgramming. Chapter checklists collapsed to single italicized lines, with current progress retained as an annotation only where progress existed (Learning Java, Ch. 1). Stale sequencing/course-status clauses dropped as clutter now that this context lives in Progress Notes.
 - [2026-09-03] [javaProgramming] Pluralsight Java path added as primary learning track via Varusk employer access (employment-contingent). _Learning Java, 6th Ed._ downgraded to auxiliary reference — to be consulted for gap-filling and assignment-specific support only. Pluralsight path assessed as better calibrated to existing experience level compared to MATC course material alone; expected to prepare beyond internship-level Java development. MATC course deliverables remain unchanged.
 - [2026-08-20] Reordered Learning Java ahead of Eloquent JavaScript — reading started on Ch. 1; sequencing one text to completion before starting the next promotes task completion over task switching. Series and Ch. 1 marked in progress; Eloquent JavaScript annotation updated to reflect the new sequencing.
 - [2026-08-20] Added Learning Java, 6th Ed. subtask series (Ch. 1-15), placed after Eloquent JavaScript and before the Fall 26 block; book was already listed in Resources supporting javaProgramming (Fall 26).

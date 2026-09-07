@@ -11,24 +11,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [joker-1] — [Profile, Portfolio & Credentials > Project 3] scope narrowed to MVP only — Phase 2 (AI/voice), Phase 3 (image recognition), and Infra (Docker → Kubernetes) removed from the card
 - [10-diamonds] — [Progress Notes] flagged the 2026-08-28 Docker → Kubernetes informal-advancement note as stale now that the Infra milestone moved to BACKLOG.md
-- [10-hearts] — [Fall 26 > javaProgramming] Learning Java series (Ch. 1-15) folded into a javaProgramming child subtask; chapters collapsed to a single annotation (2026-08-20; Ch. 1, Figure 1.1)
-- [10-hearts] — [Fall 26 > advancedJavaScript] Eloquent JavaScript series (Ch. 1-22) folded into an advancedJavaScript child subtask; chapters collapsed (none started), stale sequencing note dropped
+- [10-hearts] — [Fall 26] Course subtasks reworked for the semester: Learning Java and Eloquent JavaScript/YDKJS folded from standalone series into their courses (javaProgramming, advancedJavaScript) with chapter checklists collapsed to single annotated lines; each course split into Deliverables (Week 1/Week 2 placeholders, a rolling current/pending window rather than the full term upfront as in prior semesters) and Learning Material subgroups; block spaced and titles bolded for legibility (Spring 27 titles bolded to match)
 - [10-hearts] — [Resources] Eloquent JavaScript annotation updated to "supports advancedJavaScript (Fall 26)"
 - [RESOURCES.md] — 10♥️ Eloquent JavaScript annotation updated to match
-- [10-hearts] — [Fall 26] math elective rolled in from its standalone series, now targeted for completion this semester; block spaced with blank lines and bolded titles for legibility (Spring 27 titles bolded to match)
-- [10-hearts] — [Fall 26 > advancedJavaScript > YDKJS] chapters (Ch. 1-8) collapsed into the parent line, italicized like the other auxiliary readings; nested under advancedJavaScript alongside Eloquent JavaScript
-- [10-hearts] — [Fall 26 > Fulfill math elective requirement] DSST Statistics subtasks (MATH 215) removed — a Franklin B.S. CS requirement, not part of the Associate's degree; series now covers only CLEP Algebra (MATH 160)
-- [ace-hearts] — [Status] Not Started → In Progress (Start Date 2026-07-05) — escalated given the work already reflected on the card and 10-hearts' credits rolling directly in. Goal Description/Resources/Prerequisites updated to the confirmed Franklin B.S. CS program; "Research programs" and "Select institution" subtasks closed; "Confirm transfer credits and institution" split so the institution half can close separately
-- [PROGRESS.md] — Summary and Hearts/Red-tier rows updated for A♥️'s status change; Completion by Suit Total row's pre-existing In Progress/Not Started drift corrected
-- [ace-hearts] — now treated as a dynamic card (mirroring 10-hearts): "Research Bachelor's programs" and "Select institution and program" subtasks pruned now that they're closed and logged; "Enroll and confirm credit transfer" annotated with Franklin University, B.S. Computer Science; Reflection & Lessons Learned section added (was missing entirely) and positioned before Completion Notes per the dynamic-card section order
+- [10-hearts] — [Fall 26 > Fulfill math elective requirement] Rolled in from its standalone series; DSST Statistics subtasks (MATH 215) moved out to A♥️ as a Franklin B.S. CS requirement, leaving only CLEP Algebra (MATH 160); split into Deliverables/Learning Material groups matching the courses above; "(Franklin B.S. CS)" tag and remaining verbosity trimmed
+- [ace-hearts] — Brought current and escalated: Status Not Started → In Progress (Start Date 2026-07-05); Goal Description/Resources/Prerequisites updated to the confirmed Franklin B.S. CS program; now treated as a dynamic card mirroring 10-hearts (closed subtasks pruned, Reflection & Lessons Learned section added ahead of Completion Notes); "Enroll and confirm credit transfer" annotated with the confirmed program
 - [CLAUDE.md] — ace-hearts added to both dynamic-card lists (Subtask Tree Retention, Dynamic-card section order); noted that 10-hearts and ace-hearts track credit units/count in PROGRESS.md rather than a subtask fraction
-- [PROGRESS.md] — On the Board entry for A♥️ changed from a subtask fraction to "Pending transfer credit evaluation", to be replaced with a real credit count once Franklin's transfer evaluation confirms one
+- [PROGRESS.md] — Summary, Hearts/Red-tier rows, and On the Board updated for A♥️'s status change (entry reads "Pending transfer credit evaluation" until a real credit count is confirmed); Completion by Suit Total row's pre-existing In Progress/Not Started drift corrected
 
 ### Added
 
 - [BACKLOG.md] — Java workout tracker post-MVP extensions added under Potential Clubs Cards, moved from joker-1 Project 3; 10♦️ note carried over with Infrastructure
 - [ace-hearts] — [Subtasks] new "Fulfill statistics requirement (Franklin B.S. CS)" series added (DSST Statistics review + pass, satisfies MATH 215) — relocated from 10-hearts' math elective series
-- [PROGRESS.md] — A♥️ added to On the Board table
 
 ---
 
