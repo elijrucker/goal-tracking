@@ -38,6 +38,10 @@ A holding area for potential future cards, ideas, and goals that haven't been as
 - [x] The Mythical Man-Month (Fred Brooks) — promoted to 3♠️ V2 (2026-06-22)
 - [ ] Basic REST API tool (breakout project) — second portfolio breakout project, in Kotlin as an introduction to the language. Follows the Java CLI copy tool (below; displaced from Project 3 by the workout tracker pivot, 2026-08-28). Scope TBD on activation.
 - [ ] Java CLI copy tool (`cp` reimplementation) — displaced from Project 3 by the workout tracker pivot (2026-08-28). Design retained: `Copyable` interface (`File`/`Directory`), polymorphism, dynamic dispatch, Composite
+- [ ] Java workout tracker — post-MVP extensions (Project 3, joker-1) — optional phases beyond the MVP required for the portfolio; MVP itself stays on joker-1. Scoped 2026-08-28, moved here 2026-09-07.
+  - [ ] Phase 2: AI API integration + voice dictation mapped to existing form fields, with a critical-analysis checkpoint against enterprise-level engineering procedure
+  - [ ] Phase 3: Image recognition for exercise machine/free weight identification, with a critical-analysis checkpoint against enterprise-level engineering procedure
+  - [ ] Infrastructure: Docker → Kubernetes migration (sequencing TBD relative to phases above), with a critical-analysis checkpoint against enterprise-level engineering procedure. Informally advances 10♦️ (Kubernetes) as a soft introduction if activated.
 - [ ] Code Complete (2nd Ed.) — by Steve McConnell; canonical software construction practices, complements 3♣️ Pragmatic Programmer and 4♣️ Clean Code without duplicating either.
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software — by Gamma, Helm, Johnson & Vlissides ("Gang of Four"); canonical OOP design-pattern vocabulary, no current deck coverage; directly relevant to enterprise Java/C# interview prep.
 - [x] Peopleware (Tom DeMarco & Timothy Lister) — promoted to 6♠️ (2026-08-03), merged with Psychology of Computer Programming

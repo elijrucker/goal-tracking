@@ -5,6 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-07] — Joker 1 Project 3 scope narrowed to MVP
+
+### Changed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] scope narrowed to MVP — the 3-portfolio-project requirement is satisfied by the MVP alone; Phase 2 (AI API/voice dictation), Phase 3 (image recognition), and Infrastructure (Docker → Kubernetes) removed from the card
+
+- [10-diamonds] — [Progress Notes] added note flagging that the Docker → Kubernetes informal-advancement note (2026-08-28) is stale now that the Infra milestone moved to BACKLOG.md — no longer active progress on this card
+
+### Added
+
+- [BACKLOG.md] — Java workout tracker post-MVP extensions (Phase 2, Phase 3, Infrastructure) added under Potential Clubs Cards, moved from joker-1 Project 3; 10♦️ soft-introduction note carried over with the Infrastructure item
+
+---
+
 ## [2026-08-28] — Joker 1 Project 3 pivot (Java workout tracker); 09-clubs progress
 
 ### Changed

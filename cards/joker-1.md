@@ -67,17 +67,10 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 ## Subtasks - Profile, Portfolio & Credentials
 
 - [/] Ensure 3 strong portfolio projects are live and documented
-  - [ ] Project 3 — Mobile-first Java workout tracking app (pivoted 2026-08-28 from Java CLI copy tool). Phased build; proof-of-concept for enterprise-level Java development. Timeline open-ended.
-    - [ ] Phase 1 (MVP): routine building/tracking, exercise logging (sets/reps/weight), session + per-exercise time tracking
-      - [ ] Critical analysis vs. enterprise-level engineering procedure (Phase 1 checkpoint)
-    - [ ] Phase 2: AI API integration + voice dictation mapped to existing form fields
-      - [ ] Critical analysis vs. enterprise-level engineering procedure (Phase 2 checkpoint)
-    - [ ] Phase 3: Image recognition for exercise machine/free weight identification
-      - [ ] Critical analysis vs. enterprise-level engineering procedure (Phase 3 checkpoint)
-    - [ ] Infrastructure: Docker → Kubernetes migration (sequencing TBD relative to phases above)
-      - [ ] Critical analysis vs. enterprise-level engineering procedure (Infra checkpoint)
-    - [ ] Maintain ADR log (docs/decisions/) throughout build — one record per significant decision, committed contemporaneously
-    - Note: Informally advances 10♦️ (Kubernetes) as a soft introduction; Project 3 takes precedence, that card is informed by it rather than the reverse.
+  - [ ] Project 3 — Mobile-first Java workout tracking app (pivoted 2026-08-28 from Java CLI copy tool). Scope narrowed 2026-09-07 to the MVP — the portfolio requirement is satisfied by MVP alone; later phases moved to BACKLOG.md as optional extensions.
+    - [ ] MVP: routine building/tracking, exercise logging (sets/reps/weight), session + per-exercise time tracking
+      - [ ] Critical analysis vs. enterprise-level engineering procedure (MVP checkpoint)
+    - [ ] Maintain ADR log (docs/decisions/) throughout MVP build — one record per significant decision, committed contemporaneously
 
 ## Subtasks - Job Search & Preparation
 
@@ -103,6 +96,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-09-07] [Profile, Portfolio & Credentials > Project 3] Scope narrowed to MVP — the 3-portfolio-project requirement only needs a working MVP, not the full phased build. Phase 2 (AI API/voice dictation), Phase 3 (image recognition), and Infrastructure (Docker → Kubernetes) moved to BACKLOG.md as optional post-MVP extensions; the 10♦️ soft-introduction note moved with the Infra item since that's the phase it applies to.
 - [2026-08-28] [Profile, Portfolio & Credentials > Project 3] Pivoted from Java CLI copy tool to mobile-first Java workout tracking app following a networking contact (team lead at a shortlisted Berlin employer), creating vested interest in delivering the MVP phase quickly without shortchanging the learning process. Phased structure (MVP → AI/voice → image recognition → Kubernetes), ADR log, and per-phase critical-analysis checkpoints adopted to manage the larger scope. Timeline open-ended, decoupled from Fall MATC start. Moved to Tier 1 (external daily list) given priority; Terminal slot reverts fully to 3♦️ Python Crash Course. Q♦️ (CS50M) cross-reference considered and rejected — CS50M is React Native/JavaScript-specific and isn't meaningfully advanced by this project. CLI copy tool design retained in BACKLOG.md.
 - [2026-08-27] Removed Claude Academy courses subtask series (parent + 5 children) — moved to 09-clubs. Part of a 70/30 focus-strategy review pass (concentrating effort on the ~30% of active goals accounting for the most results); 9♣️ was flagged as part of that high-leverage 30%, and this move keeps Joker 1 strictly logistics/organizational rather than duplicating skill-building subtasks that belong on their own cards.
 - [2026-08-03] Second pruning pass this session: removed Reading & Writing subtasks (→ BACKLOG), closed "Research Berlin companies" (DoD retroactively satisfied by existing Tier 1-4 lists), removed "Prepare for technical interviews" and "Network with Berlin-based developers" as redundant with 9♣️ and the completed social audit respectively, split "Apply to target companies" into generic Batch 1-4 children (effort tracking, decoupled from private tier groupings — no company data), and resequenced Relocation Logistics as banking-then-housing, both gated on physical arrival.

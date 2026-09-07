@@ -53,6 +53,7 @@ Develop practical Kubernetes knowledge via the LinkedIn Learning 9-hour path. No
 
 ## Progress Notes
 
+- [2026-09-07] Joker 1 Project 3 scope narrowed to MVP; the Docker → Kubernetes infra milestone referenced below moved to BACKLOG.md as an optional post-MVP extension, not an active part of Project 3. No longer counted as in-progress informal advancement — revisit if that backlog item is activated.
 - [2026-08-28] Informally advanced via Joker 1 Project 3 (mobile workout tracker) — Docker → Kubernetes migration planned as that project's infra milestone. Project 3 takes precedence; this card is informed by it, not gating it.
 
 ---
