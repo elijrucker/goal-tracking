@@ -43,7 +43,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 3♠️  | The Mythical Man-Month (V2)      | In Progress | 10/19               |
 | 3♦️  | Python Crash Course              | In Progress | 9/24                |
 | 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6                 |
-| 10♥️ | Complete Associate's Degree      | In Progress | 49/63 units         |
+| 10♥️ | Complete Associate's Degree      | In Progress | 52/63 units         |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/11                |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/5                 |

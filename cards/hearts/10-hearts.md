@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: In Progress (Units Completed 49/63)
+- **Current Status**: In Progress (Units Completed 52/63)
 - **Start Date**: 2023-09-01
 - **Target Completion**: Spring 2027
 - **Completion Date**:
@@ -92,6 +92,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-09-07] [introPhilosophy] Final grade confirmed: 100%. 3 credits added to the unit count (49/63 → 52/63) — introPhilosophy completed 2026-08-14 but its credits hadn't yet been reflected in the running total.
 - [2026-09-07] [Fall 26 > Fulfill math elective requirement] Full-session rework: rolled the standalone series into Fall 26 (previously deferred to the now-passed inter-semester window); split into Deliverables (Pass CLEP College Algebra) and Learning Material (Modern States course, ALEKS diagnostic, Professor Leonard videos, practice exam) groups, matching the pattern applied to the four courses below; moved the two DSST Statistics subtasks (MATH 215) out to A♥️ under a new "Fulfill statistics requirement" series, since they satisfy a Franklin B.S. CS requirement rather than the Associate's degree this card tracks; removed the resulting "(Franklin B.S. CS)" tag from the parent line and trimmed remaining verbosity (roll-in annotation, explanatory trailers, "free"/quotes) now that the grouping itself carries that context. Series now covers only CLEP College Algebra (MATH 160), the piece actively being worked this Fall.
 - [2026-09-07] [Fall 26] Course subtasks reworked for the semester: each course split into Deliverables (Week 1/Week 2 placeholders, starting a rolling current/pending window rather than adding the full term upfront as in prior semesters) and Learning Material (existing auxiliary readings/paths) groups; deliverable-level detail will be tracked via annotation on the week line rather than further child subtasks. Block spaced out with blank lines and bolded titles for legibility now that it holds five items (Spring 27 titles bolded to match).
 - [2026-09-07] [Fall 26 > advancedJavaScript, javaProgramming] Standalone auxiliary-reading series folded into their respective courses: Eloquent JavaScript (Ch. 1-22) and You Don't Know JS: ES6 & Beyond (Ch. 1-8, chapters reset on the Summer→Fall 26 relocation) under advancedJavaScript; Learning Java, 6th Ed. (Ch. 1-15) under javaProgramming. Chapter checklists collapsed to single italicized lines, with current progress retained as an annotation only where progress existed (Learning Java, Ch. 1). Stale sequencing/course-status clauses dropped as clutter now that this context lives in Progress Notes.
