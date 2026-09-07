@@ -51,7 +51,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
   - [x] Ch. 7: User Input and while Loops
   - [x] Ch. 8: Functions
   - [x] Ch. 9: Classes
-  - [ ] Ch. 10: Files and Exceptions
+  - [/] Ch. 10: Files and Exceptions (2026-09-06; Storing Data)
   - [ ] Ch. 11: Testing Your Code
 
 - [ ] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)

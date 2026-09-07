@@ -24,6 +24,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-09-06; Ch. 5 reading)
+- [03-diamonds] — [Ch. 10: Files and Exceptions] marked in progress, annotation updated (2026-09-06; Storing Data)
 
 ---
 
