@@ -30,7 +30,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [MATC-myMadisonCollege] https://cs.madisoncollege.edu/psc/CSPRD92/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL - academic portal, track progress here
 - Learning Java, 6th Ed. by Loy, Niemeyer, Leuck (O'Reilly, 2023) (book) - supports javaProgramming (Fall 26)
-- Eloquent JavaScript, 4th Ed. by Marijn Haverbeke (book) - independent reading, in parallel with Python Crash Course
+- Eloquent JavaScript, 4th Ed. by Marijn Haverbeke (book) - supports advancedJavaScript (Fall 26)
 
 ---
 
@@ -52,49 +52,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - [ ] [Auxiliary] Complete statistics review for DSST Principles of Statistics
   - [ ] [Auxiliary] Pass DSST Principles of Statistics (satisfies MATH 215)
 
-- [/] **Learning Java, 6th Ed.** (Loy, Niemeyer, Leuck; O'Reilly, 2023) (independent reading; target completion: start of Fall 2026 semester)
-  - [/] Ch. 1 – A Virtual Machine (2026-08-20; Figure 1.1)
-  - [ ] Ch. 2 – A First Application
-  - [ ] Ch. 3 – Tools of the Trade
-  - [ ] Ch. 4 – The Java Type System
-  - [ ] Ch. 5 – Objects in Java
-  - [ ] Ch. 6 – Relationships Among Classes
-  - [ ] Ch. 7 – Working with Objects and Classes
-  - [ ] Ch. 8 – Generics
-  - [ ] Ch. 9 – Collections and Maps
-  - [ ] Ch. 10 – Number Math
-  - [ ] Ch. 11 – The Java I/O System
-  - [ ] Ch. 12 – Network Programming
-  - [ ] Ch. 13 – Programming with GUI
-  - [ ] Ch. 14 – Programming Threads
-  - [ ] Ch. 15 – Web Applications and Web Services
-
-- [ ] **Eloquent JavaScript (4th ed.)** (independent reading, to begin after Learning Java; target completion: start of Fall 2026 semester)
-  - [ ] Ch. 1 – Values, Types, and Operators
-  - [ ] Ch. 2 – Program Structure
-  - [ ] Ch. 3 – Functions
-  - [ ] Ch. 4 – Data Structures: Objects and Arrays
-  - [ ] Ch. 5 – Higher-Order Functions
-  - [ ] Ch. 6 – The Secret Life of Objects
-  - [ ] Ch. 7 – Project: A Robot
-  - [ ] Ch. 8 – Bugs and Errors
-  - [ ] Ch. 9 – Regular Expressions
-  - [ ] Ch. 10 – Modules
-  - [ ] Ch. 11 – Asynchronous Programming
-  - [ ] Ch. 12 – Project: A Programming Language
-  - [ ] Ch. 13 – JavaScript and the Browser
-  - [ ] Ch. 14 – The Document Object Model
-  - [ ] Ch. 15 – Handling Events
-  - [ ] Ch. 16 – Project: A Platform Game
-  - [ ] Ch. 17 – Drawing on Canvas
-  - [ ] Ch. 18 – HTTP and Forms
-  - [ ] Ch. 19 – Project: A Pixel Art Editor
-  - [ ] Ch. 20 – Node.js
-  - [ ] Ch. 21 – Project: Skill-Sharing Website
-  - [ ] Ch. 22 – JavaScript and Performance
-
 - [ ] **Fall 26**
   - [ ] advancedJavaScript (08/31-12/18)
+    - [ ] *Eloquent JavaScript (4th ed.)* — Marijn Haverbeke (independent reading, outside course context)
   - [ ] You Don't Know JS: ES6 & Beyond (independent reading, outside course context; advancedJavaScript course dropped Summer 2026, flagged for retake Fall 2026)
     - [ ] Ch. 1 – ES? Now & Future
     - [ ] Ch. 2 – Syntax
@@ -106,6 +66,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Ch. 8 – Beyond ES6
   - [ ] technicalReporting (08/31-12/18)
   - [ ] javaProgramming (08/31–12/18)
+    - [ ] Pluralsight Java path (primary track; access via Varusk — employment-contingent; 2026-09-03; Java SE)
+    - [/] *Learning Java, 6th Ed.* — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
   - [ ] phpWebMySQL (08/31–12/18)
 
 - [ ] **Spring 27**
@@ -121,6 +83,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-09-07] [Fall 26 > advancedJavaScript] Standalone Eloquent JavaScript (4th ed.) subtask series (Ch. 1-22) folded into a child subtask under advancedJavaScript, matching the Java-material fold pattern above. Chapter checklist collapsed — no chapters had been started, so no progress annotation carried over. The "to begin after Learning Java" sequencing note is dropped as no longer applicable now that Learning Java itself is an open-ended auxiliary reference rather than a bounded series with its own completion point.
+- [2026-09-07] [Fall 26 > javaProgramming] Standalone Learning Java, 6th Ed. subtask series (Ch. 1-15) folded into the javaProgramming auxiliary child subtask, matching the book's narrowed auxiliary role (2026-09-03). Chapter checklist collapsed; current chapter and progress data retained as an annotation on the subtask line instead of a full checklist.
+- [2026-09-03] [javaProgramming] Pluralsight Java path added as primary learning track via Varusk employer access (employment-contingent). *Learning Java, 6th Ed.* downgraded to auxiliary reference — to be consulted for gap-filling and assignment-specific support only. Pluralsight path assessed as better calibrated to existing experience level compared to MATC course material alone; expected to prepare beyond internship-level Java development. MATC course deliverables remain unchanged.
 - [2026-08-20] Reordered Learning Java ahead of Eloquent JavaScript — reading started on Ch. 1; sequencing one text to completion before starting the next promotes task completion over task switching. Series and Ch. 1 marked in progress; Eloquent JavaScript annotation updated to reflect the new sequencing.
 - [2026-08-20] Added Learning Java, 6th Ed. subtask series (Ch. 1-15), placed after Eloquent JavaScript and before the Fall 26 block; book was already listed in Resources supporting javaProgramming (Fall 26).
 - [2026-08-17] [Complete remaining required courses > Summer 26] Block pruned (jobSearchPrep, introPhilosophy) — both closed and already logged in CHANGELOG.md, per dynamic-card convention.

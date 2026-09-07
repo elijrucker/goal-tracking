@@ -5,13 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-07] — Joker 1 Project 3 scope narrowed to MVP
+## [2026-09-07] — Joker 1 Project 3 scope narrowed to MVP; 10-hearts Learning Java and Eloquent JavaScript folded into Fall 26 courses
 
 ### Changed
 
-- [joker-1] — [Profile, Portfolio & Credentials > Project 3] scope narrowed to MVP — the 3-portfolio-project requirement is satisfied by the MVP alone; Phase 2 (AI API/voice dictation), Phase 3 (image recognition), and Infrastructure (Docker → Kubernetes) removed from the card
-
-- [10-diamonds] — [Progress Notes] added note flagging that the Docker → Kubernetes informal-advancement note (2026-08-28) is stale now that the Infra milestone moved to BACKLOG.md — no longer active progress on this card
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] scope narrowed to MVP only — Phase 2 (AI/voice), Phase 3 (image recognition), and Infra (Docker → Kubernetes) removed from the card
+- [10-diamonds] — [Progress Notes] flagged the 2026-08-28 Docker → Kubernetes informal-advancement note as stale now that the Infra milestone moved to BACKLOG.md
+- [10-hearts] — [Fall 26 > javaProgramming] Learning Java, 6th Ed. subtask series (Ch. 1-15) folded into a javaProgramming child subtask; chapter checklist collapsed to a single annotation (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
+- [10-hearts] — [Fall 26 > advancedJavaScript] Eloquent JavaScript (4th ed.) subtask series (Ch. 1-22) folded into an advancedJavaScript child subtask; chapter checklist collapsed (no chapters started), stale "after Learning Java" sequencing note dropped
+- [10-hearts] — [Resources] Eloquent JavaScript annotation updated to "supports advancedJavaScript (Fall 26)", replacing the stale "in parallel with Python Crash Course" note
+- [RESOURCES.md] — 10♥️ Eloquent JavaScript annotation updated to match
 
 ### Added
 
@@ -25,6 +28,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-09-06; Ch. 5 reading)
 - [03-diamonds] — [Ch. 10: Files and Exceptions] marked in progress, annotation updated (2026-09-06; Storing Data)
+
+---
+
+## [2026-09-03] — 10-hearts javaProgramming Pluralsight path added
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming] expanded into a subtask block: Pluralsight Java path added as primary track (access via Varusk, employment-contingent); *Learning Java, 6th Ed.* downgraded to auxiliary reference for gap-filling and assignment support only
 
 ---
 
