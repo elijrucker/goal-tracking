@@ -49,7 +49,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/5                 |
 | 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 2/26                |
 | 5♦️  | Python Reinforcement & Deep Dive | In Progress | 2/5                 |
-| A♥️  | Complete Bachelor's Degree       | In Progress | 2/11                |
+| A♥️  | Complete Bachelor's Degree       | In Progress | Pending transfer credit evaluation |
 
 \* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, Interview Prep & Algorithmic Practice, Associate's
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.

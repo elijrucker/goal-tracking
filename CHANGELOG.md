@@ -19,12 +19,16 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > advancedJavaScript > YDKJS] chapters (Ch. 1-8) collapsed into the parent line, italicized like the other auxiliary readings; nested under advancedJavaScript alongside Eloquent JavaScript
 - [10-hearts] — [Fall 26 > Fulfill math elective requirement] DSST Statistics subtasks (MATH 215) removed — a Franklin B.S. CS requirement, not part of the Associate's degree; series now covers only CLEP Algebra (MATH 160)
 - [ace-hearts] — [Status] Not Started → In Progress (Start Date 2026-07-05) — escalated given the work already reflected on the card and 10-hearts' credits rolling directly in. Goal Description/Resources/Prerequisites updated to the confirmed Franklin B.S. CS program; "Research programs" and "Select institution" subtasks closed; "Confirm transfer credits and institution" split so the institution half can close separately
-- [PROGRESS.md] — Summary and Hearts/Red-tier rows updated for A♥️'s status change; A♥️ added to On the Board (2/11); Completion by Suit Total row's pre-existing In Progress/Not Started drift corrected
+- [PROGRESS.md] — Summary and Hearts/Red-tier rows updated for A♥️'s status change; Completion by Suit Total row's pre-existing In Progress/Not Started drift corrected
+- [ace-hearts] — now treated as a dynamic card (mirroring 10-hearts): "Research Bachelor's programs" and "Select institution and program" subtasks pruned now that they're closed and logged; "Enroll and confirm credit transfer" annotated with Franklin University, B.S. Computer Science; Reflection & Lessons Learned section added (was missing entirely) and positioned before Completion Notes per the dynamic-card section order
+- [CLAUDE.md] — ace-hearts added to both dynamic-card lists (Subtask Tree Retention, Dynamic-card section order); noted that 10-hearts and ace-hearts track credit units/count in PROGRESS.md rather than a subtask fraction
+- [PROGRESS.md] — On the Board entry for A♥️ changed from a subtask fraction to "Pending transfer credit evaluation", to be replaced with a real credit count once Franklin's transfer evaluation confirms one
 
 ### Added
 
 - [BACKLOG.md] — Java workout tracker post-MVP extensions added under Potential Clubs Cards, moved from joker-1 Project 3; 10♦️ note carried over with Infrastructure
 - [ace-hearts] — [Subtasks] new "Fulfill statistics requirement (Franklin B.S. CS)" series added (DSST Statistics review + pass, satisfies MATH 215) — relocated from 10-hearts' math elective series
+- [PROGRESS.md] — A♥️ added to On the Board table
 
 ---
 
