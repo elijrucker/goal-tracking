@@ -19,6 +19,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-06] — 02-spades C/OOP deep dive annotation updated
+
+### Changed
+
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-09-06; Ch. 5 reading)
+
+---
+
 ## [2026-08-28] — Joker 1 Project 3 pivot (Java workout tracker); 09-clubs progress
 
 ### Changed
