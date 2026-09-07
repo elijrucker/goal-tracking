@@ -7,7 +7,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 ## Summary
 
 - **Cards Completed**: 5 / 52
-- **Cards In Progress**: 10
+- **Cards In Progress**: 11
 - **Cards Preparing**: 6
 - **Cards Deferred**: 3
 - **Current Streak**: 5 cards
@@ -21,9 +21,9 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ♦️ Diamonds | 2         | 3           | 2         | 0        | 6           | 13     |
 | ♣️ Clubs    | 1         | 1           | 3         | 0        | 8           | 13     |
 | ♠️ Spades   | 1         | 2           | 0         | 0        | 10          | 13     |
-| ♥️ Hearts   | 1         | 3           | 0         | 3        | 6           | 13     |
+| ♥️ Hearts   | 1         | 4           | 0         | 3        | 5           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **5**     | **9**       | **6**     | **3**    | **31**      | **54** |
+| **Total**   | **5**     | **11**      | **6**     | **3**    | **29**      | **54** |
 
 ### Completion by Color Tier
 
@@ -33,7 +33,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 🔵 Blue (Moderate)      | 1         | 2           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
-| 🔴 Red (Elite)          | 0         | 0           | 12    |
+| 🔴 Red (Elite)          | 0         | 1           | 12    |
 
 ### On the Board
 
@@ -49,6 +49,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/5                 |
 | 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 2/26                |
 | 5♦️  | Python Reinforcement & Deep Dive | In Progress | 2/5                 |
+| A♥️  | Complete Bachelor's Degree       | In Progress | 2/11                |
 
 \* 🃏1 tracks Prerequisite completion (AWS Cert, Full-Stack App, Interview Prep & Algorithmic Practice, Associate's
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.
