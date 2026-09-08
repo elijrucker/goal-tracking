@@ -51,7 +51,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
   - [x] Ch. 7: User Input and while Loops
   - [x] Ch. 8: Functions
   - [x] Ch. 9: Classes
-  - [/] Ch. 10: Files and Exceptions (2026-09-06; Storing Data)
+  - [x] Ch. 10: Files and Exceptions
   - [ ] Ch. 11: Testing Your Code
 
 - [ ] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)
@@ -73,6 +73,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Progress Notes
 
+- [2026-09-07] [Ch. 10: Files and Exceptions] Chapter closed.
 - [2026-08-05] Flashcard review approach revised — holding all flashcards until Part 1 complete and circling back for consolidation.
 - [2026-07-26] Restructured Part 1 subtasks: reading now runs Ch. 1–11 straight through, with Try It Yourself exercises grouped separately to circle back to afterward. Prompted by recognizing most of Part 1's content is review of concepts already covered via MATC (10♥️) or CS50x (2♠️), so a reading-first pass is lower-friction than alternating chapter-by-chapter.
 - [2026-06-09] Habit anchoring experiment in progress: post-gym unpacking as trigger for Python reading sessions. Gym cadence 5+x/week — sufficient to support Part 1 target of June 30.

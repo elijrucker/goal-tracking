@@ -18,12 +18,16 @@ Format: [YYYY-MM-DD] — Description of change
 - [ace-hearts] — Brought current and escalated: Status Not Started → In Progress (Start Date 2026-07-05); Goal Description/Resources/Prerequisites updated to the confirmed Franklin B.S. CS program; now treated as a dynamic card mirroring 10-hearts (closed subtasks pruned, Reflection & Lessons Learned section added ahead of Completion Notes); "Enroll and confirm credit transfer" annotated with the confirmed program
 - [CLAUDE.md] — ace-hearts added to both dynamic-card lists (Subtask Tree Retention, Dynamic-card section order); noted that 10-hearts and ace-hearts track credit units/count in PROGRESS.md rather than a subtask fraction
 - [PROGRESS.md] — Summary, Hearts/Red-tier rows, and On the Board updated for A♥️'s status change (entry reads "Pending transfer credit evaluation" until a real credit count is confirmed); Completion by Suit Total row's pre-existing In Progress/Not Started drift corrected
-- [10-hearts] — introPhilosophy final grade confirmed (100%); unit count updated 49/63 → 52/63 on the card and in PROGRESS.md's On the Board table
+- [10-hearts] — introPhilosophy final grade confirmed (100%); unit count updated on the card and in PROGRESS.md's On the Board table
 
 ### Added
 
 - [BACKLOG.md] — Java workout tracker post-MVP extensions added under Potential Clubs Cards, moved from joker-1 Project 3; 10♦️ note carried over with Infrastructure
 - [ace-hearts] — [Subtasks] new "Fulfill statistics requirement (Franklin B.S. CS)" series added (DSST Statistics review + pass, satisfies MATH 215) — relocated from 10-hearts' math elective series
+
+### Completed
+
+- [03-diamonds] — [Ch. 10: Files and Exceptions] closed
 
 ---
 
