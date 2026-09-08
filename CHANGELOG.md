@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Pluralsight Java path] marked in progress; annotation updated (2026-09-07; Java SE), trimmed of the "primary track; access via Varusk — employment-contingent" descriptor now that context is already established elsewhere on the card
+- [10-hearts] — [Fall 26 > javaProgramming > Pluralsight Java path] marked in progress; annotation updated (2026-09-08; Java SE: Variables, Data Types, and Math Operators), trimmed of the "primary track; access via Varusk — employment-contingent" descriptor now that context is already established elsewhere on the card
 
 ---
 
@@ -53,7 +53,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming] expanded into a subtask block: Pluralsight Java path added as primary track (access via Varusk, employment-contingent); *Learning Java, 6th Ed.* downgraded to auxiliary reference for gap-filling and assignment support only
+- [10-hearts] — [Fall 26 > javaProgramming] expanded into a subtask block: Pluralsight Java path added as primary track (access via Varusk, employment-contingent); _Learning Java, 6th Ed._ downgraded to auxiliary reference for gap-filling and assignment support only
 
 ---
 
