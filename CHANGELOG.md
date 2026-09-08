@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-08] — 10-hearts Pluralsight Java path progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Pluralsight Java path] marked in progress; annotation updated (2026-09-07; Java SE), trimmed of the "primary track; access via Varusk — employment-contingent" descriptor now that context is already established elsewhere on the card
+
+---
+
 ## [2026-09-07] — Joker 1 Project 3 scope narrowed to MVP; 10-hearts Fall 26 subtasks consolidated; A♥️ Franklin confirmation caught up
 
 ### Changed

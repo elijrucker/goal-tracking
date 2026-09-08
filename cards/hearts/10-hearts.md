@@ -61,7 +61,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
       - [ ] Week 1
       - [ ] Week 2
     - [ ] Learning Material:
-      - [ ] Pluralsight Java path (primary track; access via Varusk — employment-contingent; 2026-09-03; Java SE)
+      - [/] Pluralsight Java path (2026-09-07; Java SE)
       - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
   - [ ] **phpWebMySQL** (08/31–12/18)
