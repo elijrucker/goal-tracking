@@ -19,6 +19,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [CLAUDE.md] — ace-hearts added to both dynamic-card lists (Subtask Tree Retention, Dynamic-card section order); noted that 10-hearts and ace-hearts track credit units/count in PROGRESS.md rather than a subtask fraction
 - [PROGRESS.md] — Summary, Hearts/Red-tier rows, and On the Board updated for A♥️'s status change (entry reads "Pending transfer credit evaluation" until a real credit count is confirmed); Completion by Suit Total row's pre-existing In Progress/Not Started drift corrected
 - [10-hearts] — introPhilosophy final grade confirmed (100%); unit count updated on the card and in PROGRESS.md's On the Board table
+- [02-spades] — [Extra-curricular: Dr. Chuck C/OOP deep dive] annotation updated (2026-09-07; Ch. 6 lecture)
 
 ### Added
 

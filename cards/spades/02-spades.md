@@ -77,7 +77,7 @@ Completion requires 70%+ on all problem sets, labs, and the final project — tr
   - [ ] Tutor Session (CS50.ai)
   - [ ] Inheritance
   - [ ] Speller
-- [/] Extra-curricular: Dr. Chuck C/OOP deep dive (2026-09-06; Ch. 5 reading)
+- [/] Extra-curricular: Dr. Chuck C/OOP deep dive (2026-09-07; Ch. 6 lecture)
 - [/] Week 6: Python
   - [x] Lecture
   - [ ] Tutor Session (CS50.ai)
