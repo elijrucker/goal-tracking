@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-09] — 10-hearts javaProgramming and technicalReporting progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming] marked in progress; [Deliverables > Week 1] marked in progress, annotation updated (Labs/Assignments, Week 1 Checkpoint)
+- [10-hearts] — [Fall 26 > technicalReporting] marked in progress; [Deliverables > Week 1] marked in progress, annotation added (Week 1 assignments)
+
+---
+
 ## [2026-09-08] — 10-hearts Pluralsight Java path progress
 
 ### Changed
