@@ -42,46 +42,52 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
-- [ ] **Fall 26**
-  - [ ] **advancedJavaScript** (08/31-12/18)
-    - [ ] Deliverables:
-      - [ ] Week 1
-      - [ ] Week 2
-    - [ ] Learning Material:
-      - [ ] _Eloquent JavaScript (4th ed.)_ — Marijn Haverbeke (independent reading, outside course context)
-      - [ ] _You Don't Know JS: ES6 & Beyond_ — Kyle Simpson (independent reading, outside course context)
+**Fall 26** (current focus: complete Week 2 material across all courses, then establish a plan of action for Fulfill math elective requirement)
 
-  - [/] **technicalReporting** (08/31-12/18)
-    - [ ] Deliverables:
-      - [/] Week 1 (Practice Essay)
-      - [ ] Week 2
+- [ ] **advancedJavaScript** (08/31-12/18)
+  - [ ] Deliverables:
+    - [ ] Week 1
+    - [ ] Week 2
+  - [ ] Learning Material:
+    - [ ] _Eloquent JavaScript (4th ed.)_ — Marijn Haverbeke (independent reading, outside course context)
+    - [ ] _You Don't Know JS: ES6 & Beyond_ — Kyle Simpson (independent reading, outside course context)
 
-  - [/] **javaProgramming** (08/31–12/18)
-    - [ ] Deliverables:
-      - [/] Week 1 (Labs/Assignments, Week 1 Checkpoint)
-      - [ ] Week 2
-    - [ ] Learning Material:
-      - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
-      - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
+- [/] **technicalReporting** (08/31-12/18)
+  - [ ] Deliverables:
+    - [/] Week 1 (Practice Essay)
+    - [ ] Week 2
 
-  - [ ] **phpWebMySQL** (08/31–12/18)
-    - [ ] Deliverables:
-      - [ ] Week 1
-      - [ ] Week 2
+- [/] **javaProgramming** (08/31–12/18)
+  - [ ] Deliverables:
+    - [/] Week 1 (Labs/Assignments, Week 1 Checkpoint)
+    - [ ] Week 2
+  - [ ] Learning Material:
+    - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
+    - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
-  - [/] **Fulfill math elective requirement**
-    - [ ] Deliverables:
-      - [ ] Pass CLEP College Algebra (target score: 50+)
-    - [/] Learning Material:
-      - [/] Modern States CLEP College Algebra course (2026-08-05; 1.2 review pending)
-      - [ ] ALEKS diagnostic
-      - [ ] Professor Leonard College Algebra (YouTube)
-      - [ ] CLEP practice exam (timed)
+- [ ] **phpWebMySQL** (08/31–12/18)
+  - [ ] Deliverables:
+    - [ ] Week 1
+    - [ ] Week 2
 
-- [ ] **Spring 27**
-  - [ ] **db_prog**
-  - [ ] **advancedJava**
-  - [ ] **cSharp**
+- [/] **Fulfill math elective requirement**
+  - [ ] Deliverables:
+    - [ ] Pass CLEP College Algebra (target score: 50+)
+  - [/] Learning Material:
+    - [/] Modern States CLEP College Algebra course (2026-08-05; 1.2 review pending)
+    - [ ] ALEKS diagnostic
+    - [ ] Professor Leonard College Algebra (YouTube)
+    - [ ] CLEP practice exam (timed)
+
+---
+
+**Spring 27**
+
+- [ ] **db_prog**
+- [ ] **advancedJava**
+- [ ] **cSharp**
+
+---
 
 - [/] Maintain satisfactory GPA
 - [ ] Apply for graduation
@@ -92,6 +98,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-09-10] [Fall 26, Spring 27] Semester labels converted from checkbox list items to plain bold headers, with courses dedented to sit directly under them (previously nested one level deeper under the semester checkbox). A semester isn't itself a completable task, so a checkbox on it was semantically off; the change also gives Fall 26 and Spring 27 a harder visual break (bold header + horizontal rule) instead of relying on blank-line spacing alone.
 - [2026-09-07] [introPhilosophy] Final grade confirmed: 100%. 3 credits added to the unit count (49/63 → 52/63) — introPhilosophy completed 2026-08-14 but its credits hadn't yet been reflected in the running total.
 - [2026-09-07] [Fall 26 > Fulfill math elective requirement] Full-session rework: rolled the standalone series into Fall 26 (previously deferred to the now-passed inter-semester window); split into Deliverables (Pass CLEP College Algebra) and Learning Material (Modern States course, ALEKS diagnostic, Professor Leonard videos, practice exam) groups, matching the pattern applied to the four courses below; moved the two DSST Statistics subtasks (MATH 215) out to A♥️ under a new "Fulfill statistics requirement" series, since they satisfy a Franklin B.S. CS requirement rather than the Associate's degree this card tracks; removed the resulting "(Franklin B.S. CS)" tag from the parent line and trimmed remaining verbosity (roll-in annotation, explanatory trailers, "free"/quotes) now that the grouping itself carries that context. Series now covers only CLEP College Algebra (MATH 160), the piece actively being worked this Fall.
 - [2026-09-07] [Fall 26] Course subtasks reworked for the semester: each course split into Deliverables (Week 1/Week 2 placeholders, starting a rolling current/pending window rather than adding the full term upfront as in prior semesters) and Learning Material (existing auxiliary readings/paths) groups; deliverable-level detail will be tracked via annotation on the week line rather than further child subtasks. Block spaced out with blank lines and bolded titles for legibility now that it holds five items (Spring 27 titles bolded to match).

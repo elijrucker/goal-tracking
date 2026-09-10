@@ -5,11 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-10] — 10-hearts technicalReporting annotation updated
+## [2026-09-10] — 10-hearts Fall 26/Spring 27 restructured; technicalReporting annotation updated; Fall 26 current-focus annotation added
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 1] annotation updated (Practice Essay)
+- [10-hearts] — [Fall 26] annotation added (current focus: complete Week 2 material across all courses, then establish a plan of action for Fulfill math elective requirement)
+- [10-hearts] — [Fall 26, Spring 27] Semester labels converted from checkbox list items to bold headers, courses dedented one level, horizontal rule added between the two semester blocks for a harder visual separation
 
 ---
 
