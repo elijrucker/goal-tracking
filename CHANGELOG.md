@@ -17,6 +17,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 1] marked complete
 
+### Notes
+
+- [10-hearts] — [Fall 26] Delayed-sweep pruning policy adopted for Deliverables rows — see Progress Notes for rationale
+
 ---
 
 ## [2026-09-09] — 10-hearts javaProgramming and technicalReporting progress
