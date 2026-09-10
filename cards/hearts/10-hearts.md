@@ -54,7 +54,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - [ ] Deliverables:
-    - [/] Week 1 (Practice Essay)
+    - [x] Week 1
     - [ ] Week 2
 
 - [/] **javaProgramming** (08/31–12/18)
