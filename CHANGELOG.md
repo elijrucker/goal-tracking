@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-10] — 10-hearts technicalReporting annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 1] annotation updated (Practice Essay)
+
+---
+
 ## [2026-09-09] — 10-hearts javaProgramming and technicalReporting progress
 
 ### Changed
