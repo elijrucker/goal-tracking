@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-11] — 10-hearts phpWebMySQL Week 1 progress
+## [2026-09-11] — 10-hearts phpWebMySQL Week 1 completed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > phpWebMySQL] marked in progress; [Deliverables > Week 1] marked in progress, annotation updated (Intro Videos, Lab 1)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 1] marked complete
 
 ---
 
