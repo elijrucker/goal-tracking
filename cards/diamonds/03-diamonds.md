@@ -52,7 +52,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
   - [x] Ch. 8: Functions
   - [x] Ch. 9: Classes
   - [x] Ch. 10: Files and Exceptions
-  - [ ] Ch. 11: Testing Your Code
+  - [/] Ch. 11: Testing Your Code (2026-09-10)
 
 - [ ] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)
   - [/] Try It Yourself Ch. 1–3 (2026-06-15; Container environment configured, and exercise-ready)

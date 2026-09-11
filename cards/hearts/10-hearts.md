@@ -65,9 +65,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
     - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
-- [ ] **phpWebMySQL** (08/31–12/18)
+- [/] **phpWebMySQL** (08/31–12/18)
   - [ ] Deliverables:
-    - [ ] Week 1
+    - [/] Week 1 (Confirm NetLab Access, Message Instructor)
     - [ ] Week 2
 
 - [/] **Fulfill math elective requirement**

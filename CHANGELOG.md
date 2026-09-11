@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-11] — 10-hearts phpWebMySQL Week 1 progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > phpWebMySQL] marked in progress; [Deliverables > Week 1] marked in progress, annotation added (Confirm NetLab Access, Message Instructor)
+
+---
+
 ## [2026-09-10] — 10-hearts technicalReporting Week 1 completed; Fall 26/Spring 27 restructured; annotations updated
 
 ### Changed
@@ -12,6 +20,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 1] annotation updated (Practice Essay)
 - [10-hearts] — [Fall 26] annotation added (current focus: complete Week 2 material across all courses, then establish a plan of action for Fulfill math elective requirement)
 - [10-hearts] — [Fall 26, Spring 27] Semester labels converted from checkbox list items to bold headers, courses dedented one level, horizontal rule added between the two semester blocks for a harder visual separation
+- [03-diamonds] — [Ch. 11: Testing Your Code] marked in progress, annotation added (2026-09-10)
 
 ### Completed
 
