@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > phpWebMySQL] marked in progress; [Deliverables > Week 1] marked in progress, annotation added (Confirm NetLab Access, Message Instructor)
+- [10-hearts] — [Fall 26 > phpWebMySQL] marked in progress; [Deliverables > Week 1] marked in progress, annotation updated (Intro Videos, Lab 1)
 
 ---
 

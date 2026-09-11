@@ -67,7 +67,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - [ ] Deliverables:
-    - [/] Week 1 (Confirm NetLab Access, Message Instructor)
+    - [/] Week 1 (Intro Videos, Lab 1)
     - [ ] Week 2
 
 - [/] **Fulfill math elective requirement**
