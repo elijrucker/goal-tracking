@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - [ ] Deliverables:
-    - [/] Week 1 (Labs/Assignments, Week 1 Checkpoint)
+    - [/] Week 1 (Labs (2, 3, 4), Week 1 Checkpoint)
     - [ ] Week 2
   - [ ] Learning Material:
     - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)

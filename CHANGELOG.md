@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-12] — 03-diamonds Part 1: Basics closed; Cumulative review started
+## [2026-09-12] — 03-diamonds Part 1: Basics closed; Cumulative review started; 10-hearts javaProgramming annotation updated
 
 ### Completed
 
@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [03-diamonds] — [Part 1: Cumulative review] marked in progress
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 1] annotation updated (Labs (2, 3, 4), Week 1 Checkpoint)
 
 ---
 
