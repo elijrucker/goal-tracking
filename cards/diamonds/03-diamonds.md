@@ -41,7 +41,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Subtasks
 
-- [ ] **Part 1: Basics** (Ch. 1–11 reading; Flashcard Set 1: Concepts & Vocabulary reviewed 2026-06-08)
+- [x] **Part 1: Basics** (Ch. 1–11 reading; Flashcard Set 1: Concepts & Vocabulary reviewed 2026-06-08)
   - [x] Ch. 1: Getting Started
   - [x] Ch. 2: Variables and Simple Data Types
   - [x] Ch. 3: Introducing Lists
@@ -52,9 +52,9 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
   - [x] Ch. 8: Functions
   - [x] Ch. 9: Classes
   - [x] Ch. 10: Files and Exceptions
-  - [/] Ch. 11: Testing Your Code (2026-09-10)
+  - [x] Ch. 11: Testing Your Code
 
-- [ ] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)
+- [/] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)
   - [/] Try It Yourself Ch. 1–3 (2026-06-15; Container environment configured, and exercise-ready)
   - [ ] Try It Yourself Ch. 4–6
   - [ ] Try It Yourself Ch. 7–9

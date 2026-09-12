@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-12] — 03-diamonds Part 1: Basics closed; Cumulative review started
+
+### Completed
+
+- [03-diamonds] — [Part 1: Basics > Ch. 11: Testing Your Code] marked complete
+- [03-diamonds] — [Part 1: Basics] marked complete — all chapters (Ch. 1–11) closed
+
+### Changed
+
+- [03-diamonds] — [Part 1: Cumulative review] marked in progress
+
+---
+
 ## [2026-09-11] — 10-hearts phpWebMySQL Week 1 completed
 
 ### Changed
