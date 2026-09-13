@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-13] — 10-hearts javaProgramming Lab 2 progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 1] annotation updated (Labs (3, 4), Week 1 Checkpoint)
+
+---
+
 ## [2026-09-12] — 03-diamonds Part 1: Basics closed; Cumulative review started; 10-hearts javaProgramming annotation updated
 
 ### Completed
