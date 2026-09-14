@@ -5,15 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-14] — 10-hearts javaProgramming Week 2 completed
+## [2026-09-14] — 10-hearts javaProgramming Week 2 completed; Deliverables/Learning Material checkboxes dropped
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] annotation updated (Mod1Asign1, Week 2 Checkpoint)
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels — a rolling-week container can't cleanly reach [x], same fix applied to the Fall 26/Spring 27 semester labels on 2026-09-10
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] marked complete
+
+### Added
+
+- [10-hearts] — [Fall 26] Week 3 Deliverables subtask added to all four courses (advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL)
 
 ---
 

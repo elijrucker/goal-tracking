@@ -45,30 +45,34 @@ Complete the Associate's degree currently in progress. Expected completion withi
 **Fall 26** (current focus: complete Week 2 material across all courses, then establish a plan of action for Fulfill math elective requirement)
 
 - [ ] **advancedJavaScript** (08/31-12/18)
-  - [ ] Deliverables:
+  - **Deliverables:**
     - [ ] Week 1
     - [ ] Week 2
-  - [ ] Learning Material:
+    - [ ] Week 3
+  - **Learning Material:**
     - [ ] _Eloquent JavaScript (4th ed.)_ — Marijn Haverbeke (independent reading, outside course context)
     - [ ] _You Don't Know JS: ES6 & Beyond_ — Kyle Simpson (independent reading, outside course context)
 
 - [/] **technicalReporting** (08/31-12/18)
-  - [ ] Deliverables:
+  - **Deliverables:**
     - [x] Week 1
     - [ ] Week 2
+    - [ ] Week 3
 
 - [/] **javaProgramming** (08/31–12/18)
-  - [ ] Deliverables:
+  - **Deliverables:**
     - [x] Week 1
     - [x] Week 2
-  - [ ] Learning Material:
+    - [ ] Week 3
+  - **Learning Material:**
     - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
     - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
-  - [ ] Deliverables:
+  - **Deliverables:**
     - [x] Week 1
     - [ ] Week 2
+    - [ ] Week 3
 
 - [/] **Fulfill math elective requirement**
   - [ ] Deliverables:
@@ -98,6 +102,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-09-14] [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] "Deliverables:" (and "Learning Material:" where present) converted from checkbox list items to plain bold labels, matching the Fall 26/Spring 27 fix from 2026-09-10. Under the rolling-week model, Deliverables keeps growing a new Week N row each time one closes out, so its checkbox could never cleanly reach [x] mid-semester without misrepresenting the group as stuck at [ ] — same semantic mismatch as the semester-label checkboxes.
 - [2026-09-10] [Fall 26] Delayed-sweep pruning policy adopted for Deliverables: a given week's row (e.g. Week 1) stays present in the tree across all four Fall 26 courses, even once individually marked complete, until every course has that same week closed — only then is the row pruned across the board, per the dynamic-card convention. Keeps the four courses' Deliverables rows visually aligned week-to-week rather than drifting out of sync as courses close weeks at different times.
 - [2026-09-10] [Fall 26, Spring 27] Semester labels converted from checkbox list items to plain bold headers, with courses dedented to sit directly under them (previously nested one level deeper under the semester checkbox). A semester isn't itself a completable task, so a checkbox on it was semantically off; the change also gives Fall 26 and Spring 27 a harder visual break (bold header + horizontal rule) instead of relying on blank-line spacing alone.
 - [2026-09-07] [introPhilosophy] Final grade confirmed: 100%. 3 credits added to the unit count (49/63 → 52/63) — introPhilosophy completed 2026-08-14 but its credits hadn't yet been reflected in the running total.
