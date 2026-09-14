@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-14] — 10-hearts javaProgramming Week 2 completed; Deliverables/Learning Material checkboxes dropped
+## [2026-09-14] — 10-hearts javaProgramming and phpWebMySQL Week 2 completed; Deliverables/Learning Material checkboxes dropped
 
 ### Changed
 
@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] marked complete
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 2] marked complete
 
 ### Added
 
