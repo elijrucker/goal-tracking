@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-14] — 10-hearts javaProgramming Week 2 Lab 5 progress
+## [2026-09-14] — 10-hearts javaProgramming Week 2 completed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] annotation updated (Mod1Asign1, Week 2 Checkpoint)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] marked complete
 
 ---
 

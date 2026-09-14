@@ -60,7 +60,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **javaProgramming** (08/31–12/18)
   - [ ] Deliverables:
     - [x] Week 1
-    - [/] Week 2 (Mod1Asign1, Week 2 Checkpoint)
+    - [x] Week 2
   - [ ] Learning Material:
     - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
     - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
