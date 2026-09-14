@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-14] — 10-hearts javaProgramming and phpWebMySQL Week 2 completed; Deliverables/Learning Material checkboxes dropped
+## [2026-09-14] — 10-hearts javaProgramming and phpWebMySQL Week 2 completed; Deliverables/Learning Material checkboxes dropped; Learning Material entries trimmed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] annotation updated (Mod1Asign1, Week 2 Checkpoint)
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels — a rolling-week container can't cleanly reach [x], same fix applied to the Fall 26/Spring 27 semester labels on 2026-09-10
+- [10-hearts] — [Fall 26 > advancedJavaScript, javaProgramming > Learning Material] entries trimmed of author/publisher/edition detail already covered in Resources, and of the redundant "outside course context" clause; Learning Java's "gap-filling and assignment support only" trailer shortened to "(auxiliary)"
 
 ### Completed
 

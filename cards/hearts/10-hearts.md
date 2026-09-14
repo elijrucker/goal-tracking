@@ -50,8 +50,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 2
     - [ ] Week 3
   - **Learning Material:**
-    - [ ] _Eloquent JavaScript (4th ed.)_ — Marijn Haverbeke (independent reading, outside course context)
-    - [ ] _You Don't Know JS: ES6 & Beyond_ — Kyle Simpson (independent reading, outside course context)
+    - [ ] _Eloquent JavaScript_ (independent reading)
+    - [ ] _You Don't Know JS: ES6 & Beyond_ (independent reading)
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
@@ -66,7 +66,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 3
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
-    - [/] _Learning Java, 6th Ed._ — Loy, Niemeyer, Leuck; O'Reilly, 2023 (auxiliary; gap-filling and assignment support only) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
+    - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
