@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] annotation updated (Labs (6), Mod1Asign1, Week 2 Checkpoint)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 2] annotation updated (Mod1Asign1, Week 2 Checkpoint)
 
 ---
 
