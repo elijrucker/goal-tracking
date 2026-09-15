@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-15] — 10-hearts advancedJavaScript Week 1 in progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 1] marked in progress, annotation updated (Quiz 1, Lab 1)
+
+---
+
 ## [2026-09-14] — 10-hearts javaProgramming and phpWebMySQL Week 2 completed; Deliverables/Learning Material checkboxes dropped; Learning Material entries trimmed
 
 ### Changed
