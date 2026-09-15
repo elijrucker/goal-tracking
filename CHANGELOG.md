@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-15] — 10-hearts advancedJavaScript Week 1 in progress
+## [2026-09-15] — 10-hearts advancedJavaScript Week 1 completed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 1] marked in progress, annotation updated (Lab 1)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 1] marked complete
 
 ---
 
