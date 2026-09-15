@@ -61,7 +61,9 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 **Annotation update entries** — Use the format `- [card] — [subtask] annotation updated (current annotation)`. The parenthetical reflects the annotation's current state after the update, not a before/after diff. Example: `- [joker-1] — [Optimize Github profile] annotation updated (pinned repositories, repository descriptions)`.
 
-**Subsection order** — Within a single entry, `###` subsections (`Added`/`Changed`/`Completed`/`Removed`/`Notes`/`Process`) are ordered chronologically by when the changes occurred during the session — earliest change at the top, most recent at the bottom — not by a fixed Added→Changed→Completed sequence. This mirrors the entry-header convention at the file level: entries themselves run reverse-chronological (newest date first), but the content within a single entry runs chronological (oldest action first).
+**Subsection order** — Within a single entry, `###` subsections (`Added`/`Changed`/`Completed`/`Removed`/`Notes`/`Process`) are ordered chronologically by when that type of change first occurred during the session — earliest first, most recent last — not by a fixed Added→Changed→Completed sequence. This mirrors the entry-header convention at the file level: entries themselves run reverse-chronological (newest date first), but the content within a single entry runs chronological (oldest action first).
+
+**[2026-09-15] Same-type subsections merge, don't repeat** — If a subsection type (e.g. `Changed`) recurs more than once during a session, merge all of that type's bullets into a single subsection rather than repeating the `###` header at each occurrence. Place the merged subsection at the position of its first occurrence. Older entries in this file predate this decision and still show repeated same-type headers in strict chronological order — that pattern is no longer followed going forward.
 
 ## System Principles
 
