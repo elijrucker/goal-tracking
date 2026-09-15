@@ -15,6 +15,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 1] marked complete
 
+### Removed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 1] rows pruned — all four courses closed Week 1, triggering the delayed-sweep pruning policy
+
 ---
 
 ## [2026-09-14] — 10-hearts javaProgramming and phpWebMySQL Week 2 completed; Deliverables/Learning Material checkboxes dropped; Learning Material entries trimmed
