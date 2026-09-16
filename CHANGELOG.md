@@ -5,6 +5,24 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-16] — joker-1 Project 3 MVP revised to web-based; architecture reference added (instructor feedback)
+
+### Added
+
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] Architecture reference line added to the MVP-scoped Project 3 entry, sourced from MATC javaProgramming instructor feedback: staged progression (basic backend → DB connection → full enterprise stack)
+- [BACKLOG.md] — Mobile frontend entry added under Java workout tracker post-MVP extensions, carrying a note on Spring 27's standalone honors project as a likely activation trigger and the open Flutter-vs-Kotlin framework choice
+
+### Notes
+
+- Logged as architecture/tooling reference only, not a timeline gate — Project 3 timeline remains open-ended
+- Fits naturally with the 2026-09-07 scope narrowing to MVP-only (backend-first sequencing already matches the instructor's staged model)
+
+### Changed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] MVP interface revised from mobile-first to web-based, removing the mobile framework decision from the MVP's critical path; original mobile-first framing now applies to the deferred mobile frontend (BACKLOG.md), not the portfolio-satisfying MVP
+
+---
+
 ## [2026-09-15] — 10-hearts advancedJavaScript Week 1 completed
 
 ### Changed
