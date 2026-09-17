@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 2] marked in progress, annotation added (Quiz, Lab02)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 2] marked in progress, annotation updated (Lab02)
 
 ---
 
