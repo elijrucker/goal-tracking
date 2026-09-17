@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-17] — 10-hearts advancedJavaScript Week 2 in progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 2] marked in progress, annotation added (Quiz, Lab02)
+
+---
+
 ## [2026-09-16] — joker-1 Project 3 MVP revised to web-based; architecture reference added (instructor feedback)
 
 ### Added

@@ -46,7 +46,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [ ] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [ ] Week 2
+    - [/] Week 2 (Quiz, Lab02)
     - [ ] Week 3
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
