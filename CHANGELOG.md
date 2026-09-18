@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-18] — 10-hearts technicalReporting Week 2 completed
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 2] marked complete
+
+---
+
 ## [2026-09-17] — 10-hearts advancedJavaScript Week 2 in progress
 
 ### Changed
