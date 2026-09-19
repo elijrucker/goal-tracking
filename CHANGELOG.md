@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-19] — BACKLOG.md joker-1 candidate portfolio project added; breakout projects reorganized by time investment
+
+### Added
+
+- [BACKLOG.md] — Full-Stack Deployment, Security & Automation Pipeline entry added under Potential Clubs Cards, sourced from freeCodeCamp's "How to Deploy, Secure, and Automate Full-Stack Web Apps"; candidate joker-1 breakout project distinct in focus (deployment/security/DevOps) from the existing Java and Kotlin breakout candidates
+
+### Changed
+
+- [BACKLOG.md] — The four joker-1 breakout-project candidates (Java CLI copy tool, Basic REST API tool, React Native mobile app, Full-Stack Deployment/Security/Automation Pipeline) grouped together under Potential Clubs Cards and reordered ascending by time investment; each annotated with its estimate where known (React Native ~4-hour course, Deployment Pipeline ~11-hour course) or flagged as not yet estimable (Basic REST API tool, scope TBD)
+
+---
+
 ## [2026-09-18] — 10-hearts technicalReporting Week 2 completed
 
 ### Completed
