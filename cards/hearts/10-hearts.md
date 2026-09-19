@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [x] Week 2
     - [ ] Week 3
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-09-08; Java SE: Variables, Data Types, and Math Operators)
+    - [/] Pluralsight Java path (2026-09-18; Java SE: Operator Precedence)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
