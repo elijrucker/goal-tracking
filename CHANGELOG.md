@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-21] — 10-hearts advancedJavaScript Week 2 completed
+## [2026-09-21] — 10-hearts advancedJavaScript Week 2 completed; Week 2 rows pruned across all four courses; Week 4 added
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 2] marked complete
+
+### Removed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 2] rows pruned — all four courses closed Week 2, triggering the delayed-sweep pruning policy; Fall 26 focus line updated from Week 2 to Week 3
+
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] Week 4 Deliverables subtask added to all four courses, restoring the rolling current/next window after the Week 2 prune
 
 ---
 
