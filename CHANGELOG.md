@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-21] — 10-hearts advancedJavaScript Week 2 completed; Week 2 rows pruned across all four courses; Week 4 added
+## [2026-09-21] — 10-hearts advancedJavaScript Week 2 and phpWebMySQL Week 3 completed; Week 2 rows pruned across all four courses; Week 4 added
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 2] marked complete
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 3] marked complete
 
 ### Removed
 
