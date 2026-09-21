@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-21] — 10-hearts advancedJavaScript Week 2 and phpWebMySQL Week 3 completed; Week 2 rows pruned across all four courses; Week 4 added
+## [2026-09-21] — 10-hearts advancedJavaScript Week 2 and phpWebMySQL Week 3 completed; Week 2 rows pruned across all four courses; Week 4 added; javaProgramming Pluralsight annotation updated
 
 ### Completed
 
@@ -19,6 +19,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] Week 4 Deliverables subtask added to all four courses, restoring the rolling current/next window after the Week 2 prune
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-21; Java SE: Conditional Logic and Block Statements)
 
 ---
 
