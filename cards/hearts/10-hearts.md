@@ -46,7 +46,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [ ] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [/] Week 2 (Lab02)
+    - [x] Week 2
     - [ ] Week 3
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [x] Week 2
     - [ ] Week 3
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-09-18; Java SE: Operator Precedence)
+    - [/] Pluralsight Java path (2026-09-20; Java SE: Conditional Logic and Block Statements)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)

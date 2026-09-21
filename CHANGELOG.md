@@ -5,6 +5,22 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-21] — 10-hearts advancedJavaScript Week 2 completed
+
+### Completed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 2] marked complete
+
+---
+
+## [2026-09-20] — 10-hearts javaProgramming Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-20; Java SE: Conditional Logic and Block Statements)
+
+---
+
 ## [2026-09-19] — BACKLOG.md joker-1 candidate portfolio project added; breakout projects reorganized by time investment
 
 ### Added
