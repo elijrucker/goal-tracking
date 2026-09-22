@@ -78,10 +78,12 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 **Execution**
 
 - [/] Apply to target companies in Berlin
-  - [/] Batch 1
-  - [ ] Batch 2
-  - [ ] Batch 3
-  - [ ] Batch 4
+  - [/] Last application submitted (2026-09-22)
+  - [/] Last worked on an application (2026-09-22)
+  - [ ] Interview practice drills (2x/week) — week of 2026-09-22
+    - [ ] Drill 1 (Tuesday mornings)
+    - [ ] Drill 2 (Thursday mornings)
+  - [/] Writing exercises — daily (2026-09-22)
 - [ ] Pass technical interviews
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process
@@ -97,6 +99,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-09-22] [Job Search & Preparation > Execution > Apply to target companies in Berlin] First application sent out today. Subtask series reworked from batch-based tracking (Batch 1-4, effort-count quotas) to activity-based tracking, ordered by importance: last application submitted, last worked on an application, interview practice drills, writing exercises (daily) — shifts the signal from cumulative volume to recency/cadence of ongoing application activity now that submissions have started. Interview practice drills (2x/week) given a rolling weekly checklist (Drill 1/Drill 2, mirroring 10-hearts' Week-N pattern) rather than a single last-touched date, since a single date doesn't surface whether both weekly sessions are actually happening.
 - [2026-09-16] [Profile, Portfolio & Credentials > Project 3] MVP interface revised from mobile-first to web-based — a web UI lets the MVP ship without a mobile framework decision on the critical path, and lines up with the staged architecture progression noted below (basic backend now, fuller stack later). Mobile frontend moved to BACKLOG.md as a deferred enhancement, not a blocker for the portfolio requirement; Spring 27's potential standalone honors project identified as a likely activation trigger, with the Flutter-vs-Kotlin framework choice left open until then (see BACKLOG.md note).
 - [2026-09-16] [Profile, Portfolio & Credentials > Project 3] Architecture reference added to the now MVP-only scope: MATC javaProgramming instructor feedback on staged technical progression (basic backend now → DB connection at Advanced Java level → full enterprise stack — Maven, Hibernate, unit tests, AWS/Cognito — at Enterprise Java level). Logged as tooling/architecture guidance only, consistent with Project 3's timeline remaining open-ended and the 2026-09-07 scope narrowing to MVP.
 - [2026-09-07] [Profile, Portfolio & Credentials > Project 3] Scope narrowed to MVP — the 3-portfolio-project requirement only needs a working MVP, not the full phased build. Phase 2 (AI API/voice dictation), Phase 3 (image recognition), and Infrastructure (Docker → Kubernetes) moved to BACKLOG.md as optional post-MVP extensions; the 10♦️ soft-introduction note moved with the Infra item since that's the phase it applies to.
