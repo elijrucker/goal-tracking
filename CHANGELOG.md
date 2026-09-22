@@ -9,9 +9,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked in progress, annotation added (Lab7, Lab8, Lab9, Mod1Assign2, Week3Checkpoint, Project1)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked in progress, annotation updated (Lab7, Lab8, Lab9, Mod1Asgn2, Wk3Check, Project1)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-22; Java SE: Understanding Methods)
 - [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin] subtask series reworked from batch-based tracking (Batch 1-4) to activity-based tracking, ordered by importance: last application submitted, last worked on an application, interview practice drills, writing exercises (daily) — first application submitted today. Interview practice drills (2x/week) given a rolling weekly checklist (Drill 1 — Tuesday mornings, Drill 2 — Thursday mornings, week of 2026-09-22) instead of a single last-touched date
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation added (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
 
 ---
 

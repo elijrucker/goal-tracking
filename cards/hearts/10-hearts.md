@@ -59,8 +59,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 3 (Lab7, Lab8, Lab9, Mod1Assign2, Week3Checkpoint, Project1)
-    - [ ] Week 4
+    - [/] Week 3 (Lab7, Lab8, Lab9, Mod1Asgn2, Wk3Check, Project1)
+    - [ ] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-09-22; Java SE: Understanding Methods)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
