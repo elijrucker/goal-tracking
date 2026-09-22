@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-22] — joker-1 application tracking restructured; first application submitted; 10-hearts javaProgramming Week 3 in progress; Pluralsight annotation updated
+## [2026-09-22] — joker-1 application tracking restructured; first application submitted; 10-hearts technicalReporting Week 3 completed; javaProgramming Week 3 in progress; Pluralsight annotation updated
 
 ### Changed
 
@@ -15,6 +15,12 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation added (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 3] annotation added (Quiz3, Lab03)
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 4] annotation added (Quiz4, Lab04, Project1)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 4] annotation added (Lab)
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 4] annotation added (Instructions Case Study, Instructional Report Topic, Topic Ideas Response, Define Your Audience)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 3] marked complete — no material due this week; Module 3 due dates begin Week 4
 
 ---
 

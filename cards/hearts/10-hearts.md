@@ -54,8 +54,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [ ] Week 3
-    - [ ] Week 4
+    - [x] Week 3
+    - [ ] Week 4 (Instructions Case Study, Instructional Report Topic, Topic Ideas Response, Define Your Audience)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
@@ -68,7 +68,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
     - [x] Week 3
-    - [ ] Week 4
+    - [ ] Week 4 (Lab)
 
 - [/] **Fulfill math elective requirement**
   - [ ] Deliverables:
