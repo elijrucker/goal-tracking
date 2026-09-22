@@ -22,7 +22,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-21; Java SE: Conditional Logic and Block Statements)
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-21; Java SE: Looping and Arrays)
 
 ---
 
