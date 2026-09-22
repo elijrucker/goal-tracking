@@ -5,10 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-22] — joker-1 application tracking restructured; first application submitted; 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-22] — joker-1 application tracking restructured; first application submitted; 10-hearts javaProgramming Week 3 in progress; Pluralsight annotation updated
 
 ### Changed
 
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked in progress, annotation added (Lab7, Lab8, Lab9, Mod1Assign2, Week3Checkpoint, Project1)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-22; Java SE: Understanding Methods)
 - [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin] subtask series reworked from batch-based tracking (Batch 1-4) to activity-based tracking, ordered by importance: last application submitted, last worked on an application, interview practice drills, writing exercises (daily) — first application submitted today. Interview practice drills (2x/week) given a rolling weekly checklist (Drill 1 — Tuesday mornings, Drill 2 — Thursday mornings, week of 2026-09-22) instead of a single last-touched date
 
