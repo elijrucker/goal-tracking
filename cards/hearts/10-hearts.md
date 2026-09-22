@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 3
     - [ ] Week 4
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-09-21; Java SE: Looping and Arrays)
+    - [/] Pluralsight Java path (2026-09-22; Java SE: Understanding Methods)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
