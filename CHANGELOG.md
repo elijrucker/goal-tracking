@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-23] — joker-1 target completion revised; employer shortlist live; card cleanup; 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-23] — joker-1 target completion revised; employer shortlist live; card cleanup; 10-hearts javaProgramming Pluralsight and Week 3 annotations updated
 
 ### Changed
 
@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Profile, Portfolio & Credentials > Project 3] subtask text streamlined to current scope (web-based MVP); pivot/scope/interface history left to the 2026-08-28, 2026-09-07 and 2026-09-16 Progress Notes
 - [joker-1] — [Profile, Portfolio & Credentials > Project 3 > Architecture reference] converted from an unchecked subtask to a condensed plain-text reference note under Project 3 — guidance, not a completable task
 - [joker-1] — Progress Notes formatting normalized: blank lines between the 2026-06-20 through 2026-06-25 entries removed, and the 2026-06-25 entry's indented continuation lines folded into a single bullet; previously undated Duolingo German note given an approximate date (2026-08-10) and moved into reverse-chronological position
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] annotation updated (Lab9, Mod1Asgn2, Wk3Check, Project1)
 
 ### Added
 
