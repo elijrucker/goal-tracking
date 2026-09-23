@@ -5,11 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-23] — 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-23] — joker-1 target completion revised; employer shortlist live; card cleanup; 10-hearts javaProgramming Pluralsight annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-23; Java SE: Working With Strings)
+- [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin > Last worked on an application] annotation updated (2026-09-23) — employer shortlist now live and actively managed
+- [joker-1] — Target Completion revised from 2026-09-01 (passed) to 2027-03-31 (before end of Q1 2027) — first application sent several months later than planned, shifting the offer timeline back accordingly; Progress Notes entry added
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] subtask text streamlined to current scope (web-based MVP); pivot/scope/interface history left to the 2026-08-28, 2026-09-07 and 2026-09-16 Progress Notes
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3 > Architecture reference] converted from an unchecked subtask to a condensed plain-text reference note under Project 3 — guidance, not a completable task
+- [joker-1] — Progress Notes formatting normalized: blank lines between the 2026-06-20 through 2026-06-25 entries removed, and the 2026-06-25 entry's indented continuation lines folded into a single bullet; previously undated Duolingo German note given an approximate date (2026-08-10) and moved into reverse-chronological position
+
+### Added
+
+- [REFLECTIONS.md] — The Delayed First Application: Gating Language, Then the Weight of Change — two sequential causes behind joker-1's delayed first application (accelerants read as prerequisites; uncertainty at the start of a larger, wanted change), prompting the Q1 2027 target revision
 
 ---
 

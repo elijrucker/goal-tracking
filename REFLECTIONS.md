@@ -40,6 +40,38 @@ dedicated card.
 
 ## Entries
 
+### [2026-09-23] — The Delayed First Application: Gating Language, Then the Weight of Change
+
+**Context:** Joker 1's Target Completion was revised from 2026-09-01 to before the end of Q1
+2027 (2027-03-31). The first application wasn't sent until 2026-09-22, several months later
+than the original target assumed, and the offer timeline shifts back by roughly that delay.
+
+**Core insight:** The delay had two causes, one after the other. First, for several months,
+the accelerant list on Joker 1 read as a set of prerequisites, either literally through the
+card's wording or at least mentally, as a sense that applying had to wait until more cards were
+done. This is the pattern the 2026-07-14 prerequisite/accelerant terminology decision was
+written to correct, and this is its most costly instance so far. Second, once that framing no
+longer held things back, what remained was uncertainty: sending the first application, and
+sending applications at all, marks the start of a much larger life change. That is daunting
+even when the change is one I want.
+
+**What surprised me:** Wanting the outcome didn't make the first step easier. The first
+application carried the weight of the whole relocation, not just the effort of one application.
+
+**What this unlocks:** The first application went out on 2026-09-22. The apply subtask series
+now tracks recency of activity rather than batch quotas, and a live, actively managed employer
+shortlist makes ongoing applications the default rather than a threshold to cross.
+
+**Insight for future similar work:** When a goal I want keeps not starting, check for two
+things separately: whether it's framed as gated behind other work, and whether the first step
+stands for a larger change than the step itself. Fixing the first doesn't resolve the second.
+
+**Delayed reflection (revisit ~2026-10-07):**
+- Did the daunting feeling ease after the first few applications, or does it come back at
+  each new stage (interviews, offer, visa)?
+- Are other cards being held back by the same combination of gating framing and the size of
+  the change they lead to?
+
 ### [2026-08-28] — External Signal Reshaping Portfolio Scope: Joker 1 Project 3 Pivot
 
 **Context:** A networking contact — a team lead at a shortlisted Berlin employer — created a
