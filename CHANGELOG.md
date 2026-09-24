@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-24] — 10-hearts javaProgramming Week 3 annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] annotation updated (Wk3Check, Project1)
+
+---
+
 ## [2026-09-23] — joker-1 target completion revised; employer shortlist live; card cleanup; 10-hearts javaProgramming Pluralsight and Week 3 annotations updated
 
 ### Changed
