@@ -80,11 +80,11 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 - [/] Apply to target companies in Berlin
   - [/] Last application submitted (2026-09-22)
-  - [/] Last worked on an application (2026-09-23)
+  - [/] Last worked on an application (2026-09-25)
   - [ ] Interview practice drills (2x/week) — week of 2026-09-22
     - [ ] Drill 1 (Tuesday mornings)
     - [ ] Drill 2 (Thursday mornings)
-  - [/] Writing exercises — daily (2026-09-22)
+  - [/] German Writing Practice — daily (2026-09-25)
 - [ ] Pass technical interviews
 - [ ] Receive and negotiate job offer
 - [ ] Accept offer and begin visa process
@@ -100,6 +100,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-09-25] [Job Search & Preparation > Execution > Apply to target companies in Berlin] "Writing exercises — daily" relabeled to "German Writing Practice — daily" — the subtask was always tracking German writing practice, not application writing; the generic label was ambiguous alongside the job-search-specific items around it. Tracking structure unchanged (single last-touched date, matching the other daily-cadence items in this group).
 - [2026-09-23] Target Completion revised from 2026-09-01 to 2027-03-31 (before end of Q1 2027). The original target assumed applications would start several months earlier than they did — the first application wasn't sent until 2026-09-22 — so the whole offer timeline shifts back by roughly that delay. Causes of the delay reflected on in REFLECTIONS.md (2026-09-23).
 - [2026-09-23] [Job Search & Preparation > Execution > Apply to target companies in Berlin] Employer shortlist now live and actively managed — the job search moves from one-off research lists to a maintained, working pipeline of target employers feeding ongoing applications. Milestone of sorts: a day after the first submission, the application process has standing infrastructure behind it rather than depending on ad hoc lead-finding. (Employer-specific detail tracked privately.)
 - [2026-09-22] [Job Search & Preparation > Execution > Apply to target companies in Berlin] First application sent out today. Subtask series reworked from batch-based tracking (Batch 1-4, effort-count quotas) to activity-based tracking, ordered by importance: last application submitted, last worked on an application, interview practice drills, writing exercises (daily) — shifts the signal from cumulative volume to recency/cadence of ongoing application activity now that submissions have started. Interview practice drills (2x/week) given a rolling weekly checklist (Drill 1/Drill 2, mirroring 10-hearts' Week-N pattern) rather than a single last-touched date, since a single date doesn't surface whether both weekly sessions are actually happening.

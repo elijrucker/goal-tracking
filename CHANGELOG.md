@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-25] — joker-1 daily writing subtask relabeled to German Writing Practice
+
+### Changed
+
+- [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin] "Writing exercises — daily" relabeled to "German Writing Practice — daily", annotation updated (2026-09-25)
+- [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin > Last worked on an application] annotation updated (2026-09-25)
+
+---
+
 ## [2026-09-24] — 10-hearts javaProgramming Week 3 annotation updated
 
 ### Changed
