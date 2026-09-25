@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 3 (Project1)
     - [ ] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-09-23; Java SE: Working With Strings)
+    - [/] Pluralsight Java path (2026-09-25; Java SE: Understanding Classes and Objects)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)

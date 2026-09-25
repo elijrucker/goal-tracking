@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-25] — joker-1 daily writing subtask relabeled to German Writing Practice
+## [2026-09-25] — joker-1 daily writing subtask relabeled to German Writing Practice; 10-hearts javaProgramming Pluralsight annotation updated
 
 ### Changed
 
 - [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin] "Writing exercises — daily" relabeled to "German Writing Practice — daily", annotation updated (2026-09-25)
 - [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin > Last worked on an application] annotation updated (2026-09-25)
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-25; Java SE: Understanding Classes and Objects)
 
 ---
 
