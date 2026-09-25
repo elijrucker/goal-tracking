@@ -12,6 +12,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin] "Writing exercises — daily" relabeled to "German Writing Practice — daily", annotation updated (2026-09-25)
 - [joker-1] — [Job Search & Preparation > Execution > Apply to target companies in Berlin > Last worked on an application] annotation updated (2026-09-25)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-25; Java SE: Understanding Classes and Objects)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] annotation updated (Project1 Code Review)
 
 ---
 
