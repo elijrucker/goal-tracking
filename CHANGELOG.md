@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-26] — 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-26] — 10-hearts javaProgramming Week 3 marked in progress; Pluralsight annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-26; Java SE: Implementing Class Constructors and Initializers)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked in progress
 
 ---
 
