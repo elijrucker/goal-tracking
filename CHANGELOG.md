@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-26] — 10-hearts javaProgramming Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-26; Java SE: Implementing Class Constructors and Initializers)
+
+---
+
 ## [2026-09-25] — joker-1 daily writing subtask relabeled to German Writing Practice; 10-hearts javaProgramming Pluralsight annotation updated
 
 ### Changed
