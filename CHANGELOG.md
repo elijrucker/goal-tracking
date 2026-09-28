@@ -12,7 +12,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-28; Java SE: Using Static Members)
 - [PROGRESS] — On the Board count synced for 3♠️ V2 to match the Ch. 11 completion (2026-09-27)
 - [09-clubs] — [Claude Academy > Building with the Claude API] reset to not started (had gone stale); [Claude Academy > Introduction to Subagents] moved ahead of it in the series, marked in progress then completed same day (2026-09-28)
-- [PROGRESS] — On the Board count synced for 9♣️ to match the Introduction to Subagents completion
+- [PROGRESS] — On the Board count synced for 9♣️ to match the Introduction to Subagents completion and subsequent pruning
 
 ### Completed
 
@@ -29,6 +29,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [REFLECTIONS.md] — Plan to Throw One Away, Applied to the System's Own Card Files — version control's technical/psychological sunk-cost split, with this repo's own card redrafts as a live instance
 - [REFLECTIONS.md] — AI Bounds Coding Time, Not Project Time: An Amdahl's Law Read on Chapter 8 (backdated 2026-08-10) — AI collapses the coding slice of a project, not the remaining five sixths (design, testing, integration, documentation, communication)
 - [REFLECTIONS.md] — Scope Bounded by the Container, Documentation Bound to Inception (backdated 2026-08-25) — MVP/POC as the actual definition of done, and documentation starting at inception, with the goal tracking system as a live instance of the latter
+
+### Removed
+
+- [09-clubs] — [Claude Academy > Introduction to Subagents] pruned from the subtask tree now that its completion is logged above (dynamic card)
 
 ---
 
