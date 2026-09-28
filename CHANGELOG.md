@@ -5,12 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-28] — 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; Pluralsight annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-28; Java SE: Using Static Members)
 - [PROGRESS] — On the Board count synced for 3♠️ V2 to match the Ch. 11 completion (2026-09-27)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked complete
 
 ---
 
