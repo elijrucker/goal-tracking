@@ -47,7 +47,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/11                |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/5                 |
-| 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 2/26                |
+| 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 3/26                |
 | 5♦️  | Python Reinforcement & Deep Dive | In Progress | 2/5                 |
 | A♥️  | Complete Bachelor's Degree       | In Progress | Pending transfer credit evaluation |
 

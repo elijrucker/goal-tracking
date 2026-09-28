@@ -11,11 +11,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-28; Java SE: Using Static Members)
 - [PROGRESS] — On the Board count synced for 3♠️ V2 to match the Ch. 11 completion (2026-09-27)
-- [09-clubs] — [Claude Academy > Building with the Claude API] reset to not started (had gone stale); [Claude Academy > Introduction to Subagents] marked in progress and moved ahead of it in the series (2026-09-28)
+- [09-clubs] — [Claude Academy > Building with the Claude API] reset to not started (had gone stale); [Claude Academy > Introduction to Subagents] moved ahead of it in the series, marked in progress then completed same day (2026-09-28)
+- [PROGRESS] — On the Board count synced for 9♣️ to match the Introduction to Subagents completion
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked complete
+- [09-clubs] — [Claude Academy > Introduction to Subagents] marked complete
 
 ### Notes
 

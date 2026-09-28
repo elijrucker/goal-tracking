@@ -56,8 +56,8 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
   - [x] 2236. Root Equals Sum of Children
   - [x] 1480. Running Sum of 1d Array
-- [/] Claude Academy
-  - [/] Introduction to Subagents (2026-09-28)
+- [/] Claude Academy (2026-09-28)
+  - [x] Introduction to Subagents
   - [ ] Building with the Claude API
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
