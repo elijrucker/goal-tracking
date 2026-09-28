@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 Ch. 11 progress note and reflections entry added; Pluralsight annotation updated
+## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 progress notes and reflections entries backfilled; Pluralsight annotation updated
 
 ### Changed
 
@@ -19,10 +19,13 @@ Format: [YYYY-MM-DD] — Description of change
 ### Notes
 
 - [03-spades-v2] — Chapter 11 progress note added
+- [03-spades-v2] — Chapter 8 and Chapters 9–10 progress notes backfilled (2026-08-10, 2026-08-25)
 
 ### Added
 
 - [REFLECTIONS.md] — Plan to Throw One Away, Applied to the System's Own Card Files — version control's technical/psychological sunk-cost split, with this repo's own card redrafts as a live instance
+- [REFLECTIONS.md] — AI Bounds Coding Time, Not Project Time: An Amdahl's Law Read on Chapter 8 (backdated 2026-08-10) — AI collapses the coding slice of a project, not the remaining five sixths (design, testing, integration, documentation, communication)
+- [REFLECTIONS.md] — Scope Bounded by the Container, Documentation Bound to Inception (backdated 2026-08-25) — MVP/POC as the actual definition of done, and documentation starting at inception, with the goal tracking system as a live instance of the latter
 
 ---
 

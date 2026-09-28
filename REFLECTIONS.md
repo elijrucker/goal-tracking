@@ -138,6 +138,30 @@ crediting cross-card progress elsewhere in the deck.
 
 **What this unlocks:** Claude Academy courses subtask series (parent + 5 children) moved from Joker 1 to 09-clubs, keeping Joker 1 strictly logistics/organizational (applications, interviews, offer, relocation) and consolidating algorithmic/interview-prep skill-building on 9♣️. Worth applying the same 70/30 lens to Joker 1's other Prerequisite accelerants (A♦️, Q♣️, Q♦️, K♣️, A♣️) if similar subtask duplication surfaces there.
 
+### [2026-08-25] — Scope Bounded by the Container, Documentation Bound to Inception
+
+**Context:** Chapters 9–10 of *The Mythical Man-Month* (03-spades-v2) — Ten Pounds in a Five-Pound
+Sack and The Documentary Hypothesis — reviewed together. Both surfaced points beyond the card's
+own scope.
+
+**Core insight:** Two related disciplines, both about defining boundaries before work expands to
+fill them. Scope must be constrained to the container it's actually built for — exceeding it
+produces a broken product, not a fuller one — which reframes MVP/POC not as a reduced version of
+the real thing but as the actual definition of done, with everything past it treated as a
+separate deliverable. Documentation follows the same logic in time rather than size: it has to
+begin at project inception, because the cost of deferring it compounds as the early architectural
+decisions it would have captured become opaque. The goal tracking system is a live instance of
+the second point — its own meta-rules and documentation arrived reactively, not proactively, and
+the threshold that made that visible was crossing from externally-defined goals (certifications,
+courses, where "done" is already defined) into self-authored goals, where definition of done and
+milestones have to be constructed from scratch.
+
+**What this unlocks:** Applied directly to the Java app POC planned for vacation (joker-1 Project
+3) — MVP/POC is the definition of done; everything past it is an enhancement, not a missing
+piece. Also names a category worth watching across the deck: any card without an externally-
+defined finish line needs its scope and documentation habits designed on purpose, not assumed to
+emerge from the work itself.
+
 ### [2026-08-19] — Dual-Brokerage Investment Structure: US for ETFs, Europe for Everything Else
 
 **Context:** Critical-analysis pass on 02-hearts (Index Investing Fundamentals) surfaced a scope question — should the card narrow to ETFs and basics of European investing? Answering it required stating an investment-structure decision that hadn't been logged anywhere yet.
@@ -197,6 +221,31 @@ German competency on LinkedIn.
 
 **Core insight:** Short, consistent daily practice outperforms longer
 infrequent sessions — a pattern to carry directly into Spanish.
+
+### [2026-08-10] — AI Bounds Coding Time, Not Project Time: An Amdahl's Law Read on Chapter 8
+
+**Context:** Chapter 8 of *The Mythical Man-Month* (03-spades-v2) — Calling the Shot — reviewed.
+Brooks' estimation breakdown (coding is roughly one sixth of total project time; the rest is
+design, testing, integration, documentation, and communication) prompted checking the ratio
+against AI-assisted development.
+
+**Core insight:** AI-assisted coding tools dramatically increase output — lines of code, speed of
+a given coding task — without proportionally increasing productivity, because output and
+productivity are not the same variable. Reading Brooks' one-sixth estimate through Amdahl's Law
+makes the ceiling explicit: if coding is one sixth of a project and AI makes that slice
+instantaneous, the maximum possible speedup on the whole project is still bounded by the
+remaining five sixths — design, testing, integration, documentation, and communication, none of
+which AI collapses to zero. AI reduces accidental complexity (the friction of producing code);
+essential complexity — the actual problem being solved, and the human coordination around it —
+remains human-paced by definition. Brooks' own account of why projects run over estimate
+reinforces this from the other side: overruns partly come from estimates assuming near-100%
+productive time, when actual focused project time runs closer to 50% once meetings,
+administration, and interruptions are counted.
+
+**What this unlocks:** A standing check for evaluating any AI-tooling claim across the deck
+(cards touching AI-assisted development, e.g. joker-1's Project 3, 9♣️): does the tool speed up
+the coding slice specifically, or does it change the shape of the other five sixths too? Most
+tooling claims implicitly assume the former; the ceiling only moves if the latter is true.
 
 ### [2026-08-10] — Scale Weight and BMI Both Fail Under Body Recomposition
 
