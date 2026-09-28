@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; Pluralsight annotation updated
+## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 Ch. 11 progress note and reflections entry added; Pluralsight annotation updated
 
 ### Changed
 
@@ -15,6 +15,14 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked complete
+
+### Notes
+
+- [03-spades-v2] — Chapter 11 progress note added
+
+### Added
+
+- [REFLECTIONS.md] — Plan to Throw One Away, Applied to the System's Own Card Files — version control's technical/psychological sunk-cost split, with this repo's own card redrafts as a live instance
 
 ---
 

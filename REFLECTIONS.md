@@ -40,6 +40,32 @@ dedicated card.
 
 ## Entries
 
+### [2026-09-28] — Plan to Throw One Away, Applied to the System's Own Card Files
+
+**Context:** Chapter 11 of *The Mythical Man-Month* (03-spades-v2) argues that the first attempt
+at any nontrivial system should be planned as disposable, since it will be thrown away regardless
+of whether that was planned for. Working the concept against this repo's own history surfaced a
+point beyond the card's own scope.
+
+**Core insight:** Version control changes what "throwing one away" costs, but not the underlying
+discipline. Git removes the *technical* cost of starting over — nothing is destroyed, everything
+is recoverable — but it doesn't remove the *psychological* sunk-cost barrier that makes it easier
+to keep patching a flawed structure than to replace it. The discipline Brooks describes isn't
+about whether version control exists; it's about recognizing when incremental patching has
+crossed into diminishing returns on a design that's fundamentally wrong. This repo's own card
+files are a live instance of that: several have needed a full-section redraft once accumulated
+content made them visually unmanageable, rather than a purely incremental edit holding up.
+
+**What this unlocks:** A standing check going forward — when a card file, or a system-level file
+like PROGRESS.md or CHANGELOG.md, is being incrementally patched and the patches feel like
+they're fighting the existing structure rather than extending it, that's the signal to redraft
+the section rather than continue patching it — the same signal Brooks describes for a first
+system.
+
+**Delayed reflection (revisit next time a card file needs a structural redraft):**
+- Did recognizing the sunk-cost pattern in advance make the redraft decision easier, or did it
+  still take an accumulation of friction before it happened?
+
 ### [2026-09-23] — The Delayed First Application: Gating Language, Then the Weight of Change
 
 **Context:** Joker 1's Target Completion was revised from 2026-09-01 to before the end of Q1
