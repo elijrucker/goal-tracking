@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-27] — 03-spades-v2 Ch. 11 completed
+
+### Completed
+
+- [03-spades-v2] — [Ch. 11 — Plan to Throw One Away] marked complete, annotation updated (2026-09-27)
+
+---
+
 ## [2026-09-26] — 10-hearts javaProgramming Week 3 marked in progress; Pluralsight annotation updated
 
 ### Changed
