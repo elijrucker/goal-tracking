@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 progress notes and reflections entries backfilled; Pluralsight annotation updated
+## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 progress notes and reflections entries backfilled; 09-clubs Claude Academy series reset; Pluralsight annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-28; Java SE: Using Static Members)
 - [PROGRESS] — On the Board count synced for 3♠️ V2 to match the Ch. 11 completion (2026-09-27)
+- [09-clubs] — [Claude Academy > Building with the Claude API] reset to not started (had gone stale); [Claude Academy > Introduction to Subagents] marked in progress and moved ahead of it in the series (2026-09-28)
 
 ### Completed
 
