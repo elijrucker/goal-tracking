@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-28] — 10-hearts javaProgramming Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-28; Java SE: Using Static Members)
+
+---
+
 ## [2026-09-27] — 03-spades-v2 Ch. 11 completed
 
 ### Completed
