@@ -23,6 +23,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [03-spades-v2] — Chapter 11 progress note added
 - [03-spades-v2] — Chapter 8 and Chapters 9–10 progress notes backfilled (2026-08-10, 2026-08-25)
+- [09-clubs] — Progress Notes entry added: reviewed whether the raw subtask fraction still fits now that Claude Academy prunes within an otherwise bounded card; decided to keep the raw fraction as-is, since each completion cycle nudges it closer to 1 rather than leaving it flat
 
 ### Added
 
