@@ -29,6 +29,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Added
 
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 5 placeholder added across all four courses, rolling the window forward one week
 - [REFLECTIONS.md] — Plan to Throw One Away, Applied to the System's Own Card Files — version control's technical/psychological sunk-cost split, with this repo's own card redrafts as a live instance
 - [REFLECTIONS.md] — AI Bounds Coding Time, Not Project Time: An Amdahl's Law Read on Chapter 8 (backdated 2026-08-10) — AI collapses the coding slice of a project, not the remaining five sixths (design, testing, integration, documentation, communication)
 - [REFLECTIONS.md] — Scope Bounded by the Container, Documentation Bound to Inception (backdated 2026-08-25) — MVP/POC as the actual definition of done, and documentation starting at inception, with the goal tracking system as a live instance of the latter
