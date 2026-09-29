@@ -47,8 +47,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [ ] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
     - [/] Week 3 (Quiz3, Lab03)
-    - [ ] Week 4 (Quiz4, Lab04, Project1)
-    - [ ] Week 5
+    - [ ] Week 4 (Quiz4, Lab04)
+    - [ ] Week 5 (Quiz5, Lab05, Project1)
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
     - [ ] _You Don't Know JS: ES6 & Beyond_ (independent reading)
@@ -57,13 +57,13 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [x] Week 3
     - [/] Week 4 (Topic Ideas Response, Define Your Audience)
-    - [ ] Week 5
+    - [ ] Week 5 (Post Draft, Respond to Drafts, Post Demonstration)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [x] Week 3
     - [ ] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
-    - [ ] Week 5
+    - [ ] Week 5 (Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-09-29; Java SE: A Closer Look at Methods)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
@@ -72,7 +72,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [x] Week 3
     - [x] Week 4
-    - [ ] Week 5
+    - [ ] Week 5 (Lab5, Project1)
 
 - [/] **Fulfill math elective requirement**
   - [ ] Deliverables:

@@ -5,10 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-29] — Pluralsight annotation updated
+## [2026-09-29] — 10-hearts Week 5 deliverable annotations added; Pluralsight annotation updated
 
 ### Changed
 
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 5] annotations added (advancedJavaScript: Quiz5, Lab05, Project1; technicalReporting: Post Draft, Respond to Drafts, Post Demonstration; javaProgramming: Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check; phpWebMySQL: Lab5, Project1); advancedJavaScript Week 4 annotation corrected to drop Project1, moved to Week 5
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-29; Java SE: A Closer Look at Methods)
 
 ---
