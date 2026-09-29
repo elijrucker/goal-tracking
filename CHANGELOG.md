@@ -18,6 +18,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 3] marked complete
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 4] marked complete
 - [09-clubs] — [Claude Academy > Introduction to Subagents] marked complete
 
 ### Notes
