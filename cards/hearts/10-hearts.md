@@ -65,7 +65,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
     - [ ] Week 5 (Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check)
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-09-29; Java SE: A Closer Look at Methods)
+    - [/] Pluralsight Java path (2026-09-30; Java SE: Working with Wrapper Classes, Enums, and Records)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)

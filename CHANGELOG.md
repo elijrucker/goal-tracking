@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-09-30] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-30; Java SE: Working with Wrapper Classes, Enums, and Records)
+
+---
+
 ## [2026-09-29] — 10-hearts Week 5 deliverable annotations added; Pluralsight annotation updated
 
 ### Changed
