@@ -67,7 +67,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 ## Subtasks - Profile, Portfolio & Credentials
 
 - [/] Ensure 3 strong portfolio projects are live and documented
-  - [/] Project 3 — Java workout tracking app (JavaFX GUI). Active planning/execution tracked in project repo, not here. Last touched: 2026-09-30 — Sprint 0 (scaffolding) in progress.
+  - [/] Project 3 — Java workout tracking app (JavaFX GUI) (2026-09-30; Sprint 0 (scaffolding))
 
 ## Subtasks - Job Search & Preparation
 
