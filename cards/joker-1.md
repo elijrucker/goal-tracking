@@ -67,12 +67,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 ## Subtasks - Profile, Portfolio & Credentials
 
 - [/] Ensure 3 strong portfolio projects are live and documented
-  - [ ] Project 3 — Java workout tracking app, web-based MVP (post-MVP extensions in BACKLOG.md)
-    - [ ] MVP: routine building/tracking, exercise logging (sets/reps/weight), session + per-exercise time tracking
-      - [ ] Critical analysis vs. enterprise-level engineering procedure (MVP checkpoint)
-    - [ ] Maintain ADR log (docs/decisions/) throughout MVP build — one record per significant decision, committed contemporaneously
-
-    _Architecture reference (MATC javaProgramming instructor, 2026-08-28) — staged progression, not a timeline gate: backend now → DB connection (Advanced Java) → Maven, Hibernate, unit tests, AWS/Cognito, API produce/consume (Enterprise Java). Early adoption of later stages endorsed, not required._
+  - [/] Project 3 — Java workout tracking app (JavaFX GUI). Active planning/execution tracked in project repo, not here. Last touched: 2026-09-30 — Sprint 0 (scaffolding) in progress.
 
 ## Subtasks - Job Search & Preparation
 
@@ -100,6 +95,9 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-09-30] [Profile, Portfolio & Credentials > Project 3] Scope detail moved out of joker-1.md entirely: sprint breakdown, ADR log, and architecture notes now live in Project 3's own repository (created as part of Sprint 0), which is deliberately treated as a portfolio piece for planning/process, not just code. Future updates to this entry will be terse — a last-touched date and current/next task only, matching the deck's low-touch convention for repo-delegated projects.
+- [2026-09-30] [Profile, Portfolio & Credentials > Project 3] GUI framework decided: JavaFX over Swing, prioritizing future-proofing (active maintenance, modern practice) over Swing's zero-setup convenience.
+- [2026-09-30] [Profile, Portfolio & Credentials > Project 3] Further simplified to fast-track application progress: single-language stack (Java only), JavaFX desktop GUI replaces the deferred Flutter mobile frontend as the concrete frontend requirement. Workout tracker domain retained. Mobile frontend (Flutter/Kotlin, undecided) remains in BACKLOG.md, tied to the potential Spring 27 honors project.
 - [2026-09-25] [Job Search & Preparation > Execution > Apply to target companies in Berlin] "Writing exercises — daily" relabeled to "German Writing Practice — daily" — the subtask was always tracking German writing practice, not application writing; the generic label was ambiguous alongside the job-search-specific items around it. Tracking structure unchanged (single last-touched date, matching the other daily-cadence items in this group).
 - [2026-09-23] Target Completion revised from 2026-09-01 to 2027-03-31 (before end of Q1 2027). The original target assumed applications would start several months earlier than they did — the first application wasn't sent until 2026-09-22 — so the whole offer timeline shifts back by roughly that delay. Causes of the delay reflected on in REFLECTIONS.md (2026-09-23).
 - [2026-09-23] [Job Search & Preparation > Execution > Apply to target companies in Berlin] Employer shortlist now live and actively managed — the job search moves from one-off research lists to a maintained, working pipeline of target employers feeding ongoing applications. Milestone of sorts: a day after the first submission, the application process has standing infrastructure behind it rather than depending on ad hoc lead-finding. (Employer-specific detail tracked privately.)

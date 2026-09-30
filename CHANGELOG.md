@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-30] — Pluralsight annotation updated
+## [2026-09-30] — joker-1 Project 3 simplified, GUI decided, detail relocated to project repo; Pluralsight annotation updated
 
 ### Changed
 
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] Collapsed to a terse, low-touch entry (last-touched date + current/next task only); full sprint breakdown, ADR log, and architecture notes moved to the project's own repository
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] GUI framework decided: JavaFX (over Swing)
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] MVP simplified to a single-language (Java-only) stack, replacing the deferred Flutter mobile frontend requirement with a JavaFX desktop GUI
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] marked in progress (Sprint 0 scaffolding underway)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-30; Java SE: Working with Wrapper Classes, Enums, and Records)
+
+### Notes
+
+- Project 3's own repository planning documentation (ROADMAP.md, ADR log) is itself treated as a portfolio artifact — demonstrates planning process, not just finished code
 
 ---
 
