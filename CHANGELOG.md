@@ -5,15 +5,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-01] — 10-hearts advancedJavaScript Week 3 completed, marked in progress
+## [2026-10-01] — 10-hearts advancedJavaScript Week 3 completed, marked in progress; Week 3 pruned across Fall 26
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript] retroactively marked in progress — status should have flipped from not-started earlier in the semester once coursework began; corrected now as an oversight fix, not a status change effective today
+- [10-hearts] — [Fall 26] stale "current focus" annotation removed from the semester header — was a mental aide only, not load-bearing content
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 3] marked complete
+
+### Removed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 3] pruned from the subtask tree now that all four courses have closed Week 3, per the delayed-sweep pruning policy
 
 ---
 

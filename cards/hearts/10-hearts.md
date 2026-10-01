@@ -42,11 +42,10 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Subtasks
 
-**Fall 26** (current focus: complete Week 3 material across all courses, then establish a plan of action for Fulfill math elective requirement)
+**Fall 26**
 
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 3
     - [ ] Week 4 (Quiz4, Lab04)
     - [ ] Week 5 (Quiz5, Lab05, Project1)
   - **Learning Material:**
@@ -55,13 +54,11 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 3
     - [/] Week 4 (Topic Ideas Response, Define Your Audience)
     - [ ] Week 5 (Post Draft, Respond to Drafts, Post Demonstration)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 3
     - [ ] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
     - [ ] Week 5 (Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check)
   - **Learning Material:**
@@ -70,7 +67,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 3
     - [x] Week 4
     - [ ] Week 5 (Lab5, Project1)
 
