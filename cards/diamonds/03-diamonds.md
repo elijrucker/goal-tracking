@@ -55,7 +55,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
   - [x] Ch. 11: Testing Your Code
 
 - [/] **Part 1: Cumulative review** (all material introduced in Part 1; flashcard review held until this point)
-  - [/] Try It Yourself Ch. 1–3 (2026-06-15; Container environment configured, and exercise-ready)
+  - [/] Try It Yourself Ch. 1–3 (2026-09-30; Ex. 1-3)
   - [ ] Try It Yourself Ch. 4–6
   - [ ] Try It Yourself Ch. 7–9
   - [ ] Try It Yourself Ch. 10

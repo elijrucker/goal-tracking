@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [joker-1] — [Profile, Portfolio & Credentials > Project 3] MVP simplified to a single-language (Java-only) stack, replacing the deferred Flutter mobile frontend requirement with a JavaFX desktop GUI
 - [joker-1] — [Profile, Portfolio & Credentials > Project 3] marked in progress (Sprint 0 scaffolding underway)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-09-30; Java SE: Working with Wrapper Classes, Enums, and Records)
+- [03-diamonds] — [Part 1: Cumulative review > Try It Yourself Ch. 1–3] annotation updated (2026-09-30; Ex. 1-3)
 
 ### Notes
 
