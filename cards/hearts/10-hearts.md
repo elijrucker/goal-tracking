@@ -54,8 +54,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [/] Week 4 (Topic Ideas Response, Define Your Audience)
-    - [ ] Week 5 (Post Draft, Respond to Drafts, Post Demonstration)
+    - [x] Week 4 (Emailed instructor regarding 3.3/3.4, and missing grades for 2.5, and 3.2)
+    - [ ] Week 5 (Post Draft(3.6/3.7), Respond to Drafts (3.8), Post Demonstration (3.9/3.10))
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**

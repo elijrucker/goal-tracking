@@ -11,10 +11,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > advancedJavaScript] retroactively marked in progress — status should have flipped from not-started earlier in the semester once coursework began; corrected now as an oversight fix, not a status change effective today
 - [10-hearts] — [Fall 26] stale "current focus" annotation removed from the semester header — was a mental aide only, not load-bearing content
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 5] annotation updated (Post Draft (3.6/3.7), Respond to Drafts (3.8), Post Demonstration (3.9/3.10))
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 3] marked complete
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 4] marked complete (annotation: emailed instructor regarding 3.3/3.4, and missing grades for 2.5 and 3.2)
 
 ### Removed
 
