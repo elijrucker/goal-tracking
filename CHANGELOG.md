@@ -16,7 +16,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 3] marked complete
-- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 4] marked complete (annotation: emailed instructor regarding 3.3/3.4, and missing grades for 2.5 and 3.2)
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 4] marked complete; open-issue annotation (emailed instructor regarding 3.3/3.4, and missing grades for 2.5 and 3.2) later removed same day after the instructor responded
 
 ### Removed
 
