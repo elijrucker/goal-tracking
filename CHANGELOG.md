@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-01] — 10-hearts advancedJavaScript Week 3 completed, marked in progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript] retroactively marked in progress — status should have flipped from not-started earlier in the semester once coursework began; corrected now as an oversight fix, not a status change effective today
+
+### Completed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 3] marked complete
+
+---
+
 ## [2026-09-30] — joker-1 Project 3 simplified, GUI decided, detail relocated to project repo; Pluralsight annotation updated
 
 ### Changed

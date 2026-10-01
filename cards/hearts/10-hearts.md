@@ -44,9 +44,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 **Fall 26** (current focus: complete Week 3 material across all courses, then establish a plan of action for Fulfill math elective requirement)
 
-- [ ] **advancedJavaScript** (08/31-12/18)
+- [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [/] Week 3 (Lab03)
+    - [x] Week 3
     - [ ] Week 4 (Quiz4, Lab04)
     - [ ] Week 5 (Quiz5, Lab05, Project1)
   - **Learning Material:**
