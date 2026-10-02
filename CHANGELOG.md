@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-02] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-02; Java SE: Introducing Annotations)
+
+---
+
 ## [2026-10-01] — 10-hearts advancedJavaScript Week 3 completed, marked in progress; Week 3 pruned across Fall 26
 
 ### Changed
