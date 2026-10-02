@@ -10,6 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Java SE course completed; annotation updated to next course in the path (2026-10-02; Debugging Java)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 5] marked in progress; Project1 completed and dropped from the annotation (Lab5 remaining)
 
 ---
 
