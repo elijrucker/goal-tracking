@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [ ] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
+    - [/] Week 4 (Mod2Lab1, Mod2Lab2, Mod2Asgn1, Wk4Check)
     - [ ] Week 5 (Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-09-30; Java SE: Working with Wrapper Classes, Enums, and Records)
