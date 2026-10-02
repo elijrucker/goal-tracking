@@ -13,6 +13,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26] stale "current focus" annotation removed from the semester header — was a mental aide only, not load-bearing content
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 5] marked in progress, annotation updated (Respond to Drafts (3.8), Post Demonstration (3.9/3.10)) — Post Draft (3.6/3.7) dropped from the annotation
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] marked in progress
+- [03-diamonds] — [Part 1: Cumulative review > Try It Yourself Ch. 1–3] annotation updated (2026-10-01; Ex. 2-3)
 
 ### Completed
 
