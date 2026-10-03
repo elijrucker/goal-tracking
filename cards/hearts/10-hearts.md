@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 4 (Wk4Check)
+    - [x] Week 4
     - [ ] Week 5 (Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-02; Debugging Java)

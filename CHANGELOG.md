@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-03] — javaProgramming Week 4 annotation updated
+## [2026-10-03] — javaProgramming Week 4 completed
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation updated — Mod2Lab1, Mod2Lab2, and Mod2Asgn1 completed and dropped (Wk4Check remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation updated over the session as items closed — Mod2Lab1, Mod2Lab2, and Mod2Asgn1 completed and dropped (Wk4Check remaining)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] marked complete; Wk4Check closed out the last remaining item, annotation removed
 
 ---
 
