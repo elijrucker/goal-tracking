@@ -11,6 +11,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation updated over the session as items closed — Mod2Lab1, Mod2Lab2, and Mod2Asgn1 completed and dropped (Wk4Check remaining)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-02; Debugging Java, Module 3 Avoiding Common Mistakes)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 4] marked in progress
 
 ### Completed
 
