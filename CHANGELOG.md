@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation updated — Mod2Lab1 completed and dropped (Mod2Lab2, Mod2Asgn1, Wk4Check remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation updated — Mod2Lab1 and Mod2Lab2 completed and dropped (Mod2Asgn1, Wk4Check remaining)
 
 ---
 
