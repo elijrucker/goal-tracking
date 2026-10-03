@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-03] — javaProgramming Week 4 annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 4] annotation updated — Mod2Lab1 completed and dropped (Mod2Lab2, Mod2Asgn1, Wk4Check remaining)
+
+---
+
 ## [2026-10-02] — Pluralsight annotation updated
 
 ### Changed
