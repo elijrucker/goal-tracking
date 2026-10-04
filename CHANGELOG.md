@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-04] — advancedJavaScript Week 4 annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 4] annotation updated — Quiz4 completed and dropped (Lab04 remaining)
+
+---
+
 ## [2026-10-03] — javaProgramming Week 4 completed
 
 ### Changed
