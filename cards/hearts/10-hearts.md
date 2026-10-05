@@ -46,20 +46,17 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 4
-    - [ ] Week 5 (Quiz5, Lab05, Project1)
+    - [/] Week 5 (Quiz5, Lab05)
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
     - [ ] _You Don't Know JS: ES6 & Beyond_ (independent reading)
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 4
     - [/] Week 5 (Respond to Drafts (3.8), Post Demonstration (3.9/3.10))
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 4
     - [ ] Week 5 (Mod2Lab3, Mod2Lab4, Mod2Lab5, Assign2, Wk5Check)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-02; Debugging Java, Module 3 Avoiding Common Mistakes)
@@ -67,7 +64,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 4
     - [/] Week 5 (Lab5)
 
 - [/] **Fulfill math elective requirement**
