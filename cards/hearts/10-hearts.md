@@ -67,7 +67,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 5 (Lab5)
+    - [x] Week 5
     - [ ] Week 6
 
 - [/] **Fulfill math elective requirement**

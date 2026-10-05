@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-05] — Pluralsight annotation updated
+## [2026-10-05] — Pluralsight annotation updated; phpWebMySQL Week 5 completed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-05: Debugging Java; Find the Problem, Fix the Problem)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 5] marked complete; Lab5 closed out the last remaining item, annotation removed
 
 ---
 
