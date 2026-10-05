@@ -5,7 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-04] — advancedJavaScript Week 4 completed; Week 4 pruned across Fall 26
+## [2026-10-04] — advancedJavaScript Week 4 completed; Week 4 pruned across Fall 26; Week 6 placeholder added
+
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 6 placeholder added across all four courses, rolling the window forward one week
 
 ### Changed
 
