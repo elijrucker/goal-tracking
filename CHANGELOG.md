@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-04] — advancedJavaScript Week 4 annotation updated
+## [2026-10-04] — advancedJavaScript Week 4 completed
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 4] annotation updated — Quiz4 completed and dropped (Lab04 remaining)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 4] annotation updated over the session as items closed — Quiz4 completed and dropped (Lab04 remaining)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 4] marked complete; Lab04 closed out the last remaining item, annotation removed
 
 ---
 
