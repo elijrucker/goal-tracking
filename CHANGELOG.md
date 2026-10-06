@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-06] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-06: Debugging Java; What Else Can Go Wrong?)
+
+---
+
 ## [2026-10-05] — Pluralsight annotation updated; phpWebMySQL Week 5 completed
 
 ### Changed
