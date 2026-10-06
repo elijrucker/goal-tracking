@@ -10,6 +10,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-06: Debugging Java; Increasing Productivity with an IDE)
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 5] annotation updated — Respond to Drafts (3.8) completed and dropped (Post Demonstration (3.9/3.10) remaining)
 
 ---
 
