@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-06: Debugging Java; What Else Can Go Wrong?)
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-06: Debugging Java; Increasing Productivity with an IDE)
 
 ---
 
