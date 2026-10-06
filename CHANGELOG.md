@@ -18,6 +18,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-05: Debugging Java; Find the Problem, Fix the Problem)
+- [03-diamonds] — [Part 1: Cumulative review > Try It Yourself Ch. 1–3] annotation updated (2026-10-05; Ch. 3 exercises)
 
 ### Completed
 
