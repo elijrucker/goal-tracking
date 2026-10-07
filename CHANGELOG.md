@@ -11,7 +11,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-06: Debugging Java; Increasing Productivity with an IDE)
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 5] annotation updated — Respond to Drafts (3.8) completed and dropped (Post Demonstration (3.9/3.10) remaining)
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 5] marked in progress; annotation updated — Mod2Lab3 completed and dropped (Mod2Lab4, Mod2Lab5, Assign2, Wk5Check remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 5] marked in progress; annotation updated — Mod2Lab3 and Mod2Lab4 completed and dropped (Mod2Lab5, Assign2, Wk5Check remaining)
 
 ---
 
