@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-07] — javaProgramming Week 5 annotation updated
+## [2026-10-07] — javaProgramming Week 5 completed
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 5] annotation updated — Lab5Part2 and Assign2 completed and dropped (Wk5Check remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 5] annotation updated over the session as items closed — Lab5Part2 and Assign2 completed and dropped (Wk5Check remaining)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 5] marked complete; Wk5Check closed out the last remaining item, annotation removed
 
 ---
 
