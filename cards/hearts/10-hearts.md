@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [x] Week 5
     - [ ] Week 6
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-10-06: Debugging Java; Increasing Productivity with an IDE)
+    - [/] Pluralsight Java path (2026-10-08: Object-oriented Programming in Java, Approaching Object-oriented Programming)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
