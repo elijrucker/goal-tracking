@@ -55,7 +55,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
     - [x] Week 5
-    - [ ] Week 6 (3.11 (Demo Response), 3.12 (Final Draft Submission))
+    - [/] Week 6 (3.12 (Final Draft Submission))
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
