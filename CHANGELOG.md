@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-09] — technicalReporting Week 5 completed
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 5] marked complete; 3.10 closed out the last remaining item, annotation removed
+
+---
+
 ## [2026-10-08] — Pluralsight annotation updated; technicalReporting Week 5 annotation updated
 
 ### Changed
