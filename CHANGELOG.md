@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-09] — technicalReporting Week 5 completed
+## [2026-10-09] — technicalReporting Week 5 completed; Week 6 deliverable annotations added
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 5] annotation relabeled — Quiz5 renamed to Quiz05 for consistency with the Week 6 numbering scheme (Quiz06, Lab06)
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 5] marked complete; 3.10 closed out the last remaining item, annotation removed
+
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 6] annotations added (advancedJavaScript: Quiz06, Lab06; technicalReporting: 3.11 (Demo Response), 3.12 (Final Draft Submission); javaProgramming: Mod2Lab6, Mod2Assignment3, Project2; phpWebMySQL: Wk06 Lab)
 
 ---
 
