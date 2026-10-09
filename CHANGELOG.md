@@ -11,6 +11,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 5] annotation relabeled — Quiz5 renamed to Quiz05 for consistency with the Week 6 numbering scheme (Quiz06, Lab06)
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 6] marked in progress; annotation updated — 3.11 (Demo Response) completed and dropped (3.12 (Final Draft Submission) remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 6] annotation updated (Mod2Lab6, Mod2Assignment3, Wk6 Quiz, Project2)
 
 ### Completed
 
