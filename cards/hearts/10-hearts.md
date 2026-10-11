@@ -46,7 +46,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 5
     - [ ] Week 6 (Quiz06, Lab06)
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
@@ -54,12 +53,10 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 5
     - [/] Week 6 (3.12 (Final Draft Submission))
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 5
     - [ ] Week 6 (Mod2Lab6, Mod2Assignment3, Wk6 Quiz, Project2)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-08: Object-oriented Programming in Java, Working with Objects)
@@ -67,7 +64,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 5
     - [ ] Week 6 (Wk06 Lab)
 
 - [/] **Fulfill math elective requirement**

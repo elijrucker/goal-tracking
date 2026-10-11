@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-11] — advancedJavaScript Week 5 completed
+## [2026-10-11] — advancedJavaScript Week 5 completed; Week 5 pruned across Fall 26
 
 ### Changed
 
@@ -14,6 +14,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 5] marked complete; Lab05 closed out the last remaining item, annotation removed
+
+### Removed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 5] pruned from the subtask tree now that all four courses have closed Week 5, per the delayed-sweep pruning policy
 
 ---
 
