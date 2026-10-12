@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; Pluralsight annotation updated
+## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; javaProgramming Week 6 in progress; Pluralsight annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-12: Object-oriented Programming in Java, Defining Your Own Classes)
 - [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] marked in progress, annotation added (2026-10-12; The 4D Framework)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 6] marked in progress
 
 ### Added
 
