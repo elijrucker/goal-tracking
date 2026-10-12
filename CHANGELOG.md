@@ -12,6 +12,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-12: Object-oriented Programming in Java, Defining Your Own Classes)
 - [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] marked in progress, annotation added (2026-10-12; The 4D Framework)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 6] marked in progress; annotation updated — Mod2Lab6 completed and dropped (Mod2Assignment3, Wk6 Quiz, Project2 remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 6] annotation updated — Mod2Assignment3 completed and dropped (Wk6 Quiz, Project2 remaining)
 
 ### Added
 
