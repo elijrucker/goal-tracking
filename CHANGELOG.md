@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-12] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-12: Object-oriented Programming in Java, Defining Your Own Classes)
+
+---
+
 ## [2026-10-11] — advancedJavaScript Week 5 completed; Week 5 pruned across Fall 26; advancedJavaScript Week 6 in progress
 
 ### Changed

@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [ ] Week 6 (Mod2Lab6, Mod2Assignment3, Wk6 Quiz, Project2)
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-10-08: Object-oriented Programming in Java, Working with Objects)
+    - [/] Pluralsight Java path (2026-10-12: Object-oriented Programming in Java, Defining Your Own Classes)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
