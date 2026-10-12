@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; javaProgramming Week 6 in progress; Pluralsight annotation updated
+## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; javaProgramming Week 6 in progress; Pluralsight annotation updated; Week 7 placeholder added
 
 ### Changed
 
@@ -18,6 +18,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [09-clubs] — [Claude Academy] "AI Fluency: Framework and foundations" added as a child checkbox (parent-level annotation dropped)
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 7 placeholder added across all four courses, rolling the window forward one week
 
 ---
 
