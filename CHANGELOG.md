@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-13] — javaProgramming Week 6 completed
+
+### Completed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 6] marked complete; Project2 closed out the last remaining item, annotation removed
+
+---
+
 ## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; javaProgramming Week 6 in progress; Pluralsight annotation updated; Week 7 placeholder added
 
 ### Changed

@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 6 (Project2)
+    - [x] Week 6
     - [ ] Week 7
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-12: Object-oriented Programming in Java, Defining Your Own Classes)
