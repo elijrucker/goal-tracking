@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-13] — javaProgramming Week 6 completed; Pluralsight annotation updated
+## [2026-10-13] — javaProgramming Week 6 completed; Pluralsight annotation updated; Week 7 annotation added
 
 ### Completed
 
@@ -14,6 +14,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-13: Object-oriented Programming in Java, Hiding Information)
+
+### Added
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation added (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, Wk7Checkpoint)
 
 ---
 

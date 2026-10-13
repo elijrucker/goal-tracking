@@ -60,7 +60,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [x] Week 6
-    - [ ] Week 7
+    - [ ] Week 7 (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, Wk7Checkpoint)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-13: Object-oriented Programming in Java, Hiding Information)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
