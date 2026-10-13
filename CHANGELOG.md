@@ -17,7 +17,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Added
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation added (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, Wk7Checkpoint)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation added (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
 
 ---
 
