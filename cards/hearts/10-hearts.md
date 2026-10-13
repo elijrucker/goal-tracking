@@ -47,7 +47,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
     - [/] Week 6 (Quiz06, Lab06)
-    - [ ] Week 7
+    - [ ] Week 7 (Project2 Setup)
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
     - [ ] _You Don't Know JS: ES6 & Beyond_ (independent reading)
@@ -55,7 +55,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
     - [/] Week 6 (3.12 (Final Draft Submission))
-    - [ ] Week 7
+    - [ ] Week 7 (4.1, 4.2, 4.3)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
@@ -68,7 +68,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
     - [ ] Week 6 (Wk06 Lab)
-    - [ ] Week 7
+    - [ ] Week 7 (Wk07 Lab, Midterm Exam(due 10/21))
 
 - [/] **Fulfill math elective requirement**
   - [ ] Deliverables:

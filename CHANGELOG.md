@@ -17,7 +17,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Added
 
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation added (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 7] annotations added (advancedJavaScript: Project2 Setup; technicalReporting: 4.1, 4.2, 4.3; javaProgramming: Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint; phpWebMySQL: Wk07 Lab, Midterm Exam (due 10/21))
 
 ---
 
