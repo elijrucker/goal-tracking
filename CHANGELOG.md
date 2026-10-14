@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-14] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-14: Object-oriented Programming in Java, Designing with Abstraction and Encapsulation)
+
+---
+
 ## [2026-10-13] — javaProgramming Week 6 completed; Pluralsight annotation updated; Week 7 annotation added
 
 ### Completed
