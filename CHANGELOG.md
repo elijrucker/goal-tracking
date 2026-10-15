@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-15] — Pluralsight annotation updated
+## [2026-10-15] — technicalReporting Week 6 completed; Pluralsight annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-15: Object-oriented Programming in Java, Inheriting from Another Class)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 6] marked complete; 3.12 (Final Draft Submission) closed out the last remaining item, annotation removed
 
 ---
 
