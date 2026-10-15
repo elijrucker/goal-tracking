@@ -33,6 +33,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 - [LeetCode](https://leetcode.com) - Algorithm and interview practice platform
 - _Cracking the Coding Interview_ by Gayle Laakmann McDowell (book) — core interview prep resource
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) (Coursera, UC San Diego) — six-course sequence, ~180 hours, ~100 programming challenges
+- [Ace Your Next Coding Interview by Learning Algorithms](https://cogniterra.org/course/24/syllabus) (Cogniterra) — interactive companion book to the Data Structures and Algorithms Specialization; purchased
 - [Claude Academy](https://academy.claude.com) — Anthropic's free Claude/API training platform (formerly Anthropic Academy)
 
 ---
@@ -53,6 +54,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
   - [ ] Algorithms on Strings
   - [ ] Advanced Algorithms and Complexity
   - [ ] Genome Assembly Programming Challenge
+  - [ ] _Ace Your Next Coding Interview by Learning Algorithms_ (Cogniterra, auxiliary)
 - [/] Claude Academy
   - [/] AI Fluency: Framework and foundations (2026-10-12; The 4D Framework)
   - [ ] Building with the Claude API
@@ -76,6 +78,7 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 
 ## Progress Notes
 
+- [2026-10-15] Added _Ace Your Next Coding Interview by Learning Algorithms_ (Cogniterra) as a resource and auxiliary subtask, nested as a sibling under the Coursera specialization's module list — purchased as a companion to the Data Structures and Algorithms Specialization, tracked in parallel to its own modules rather than mirrored module-for-module, matching the Learning Java, 6th Ed./Pluralsight auxiliary pattern on 10-hearts.
 - [2026-10-15] Grouped all LeetCode-specific subtasks (Complete The LeetCode Beginner's Guide, Complete LeetCode 75, Complete Shell-specific problems, Solve 50/30/10 Easy/Medium/Hard problems, Review and internalize all solutions, Explore company-tagged problems) under a new parent subtask [LeetCode], moved to the bottom of the list below the Coursera specialization and Claude Academy — a deprioritization, not a drop; LeetCode stays part of the goal but those two series take priority for now. Pruned the two already-closed Beginner's Guide children (2236, 1480) in the same pass, since both are already logged closed in CHANGELOG. This gives the card a second grouped/prunable series alongside Claude Academy (see 2026-09-28 below) — worth revisiting the raw subtask-fraction signal on PROGRESS.md's On the Board table sooner than the "Claude Academy dominance" trigger noted there, since two dynamic series compounding may erode the fraction's usefulness faster than one alone would.
 - [2026-09-28] Reviewed whether the raw subtask fraction on PROGRESS.md's On the Board table still fits, now that the Claude Academy series (absorbed from Joker 1) prunes closed entries within an otherwise bounded card (Coursera specialization, LeetCode Beginner's Guide, and the other fixed subtasks). Unlike joker-1/10-hearts/ace-hearts, this card is a hybrid — only one series is dynamic. Each Claude Academy completion cycle (mark complete, log in CHANGELOG, prune) nets a denominator decrease while the numerator returns to its prior baseline, so the fraction actually trends closer to 1 with each completion rather than sitting flat — it just won't land on a clean N/N the way a fully bounded card's does, and new courses added to the series later would pull it back down. Decided to keep the raw fraction as-is rather than exclude Claude Academy or switch to an alternate signal — the trend is still informative, and the noise from one small sub-series doesn't outweigh the simplicity of a single tracked number. Revisit if Claude Academy grows to dominate the card's subtask count.
 - [2026-08-27] Added Claude Academy courses subtask series (parent + 5 children), moved from Joker 1 to Resources and Subtasks here. Part of a 70/30 focus-strategy review pass; 9♣️ was flagged as part of the high-leverage 30%, and this move keeps Joker 1 strictly logistics/organizational rather than duplicating skill-building subtasks that belong on their own card.
