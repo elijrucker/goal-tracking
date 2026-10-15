@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-15] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-15: Object-oriented Programming in Java, Inheriting from Another Class)
+
+---
+
 ## [2026-10-14] — Pluralsight annotation updated
 
 ### Changed

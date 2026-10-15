@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [x] Week 6
     - [ ] Week 7 (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-10-14: Object-oriented Programming in Java, Designing with Abstraction and Encapsulation)
+    - [/] Pluralsight Java path (2026-10-15: Object-oriented Programming in Java, Inheriting from Another Class)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
