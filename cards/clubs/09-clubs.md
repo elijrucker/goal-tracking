@@ -47,15 +47,12 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
 ## Subtasks
 
 - [/] Complete Data Structures and Algorithms Specialization (Coursera, UC San Diego) — takes priority over all other subtask series below
-  - [/] Algorithmic Toolbox (2026-08-28; Programming Assignment 1)
+  - [/] Algorithmic Toolbox (2026-10-15; finish Welcome section)
   - [ ] Data Structures
   - [ ] Algorithms on Graphs
   - [ ] Algorithms on Strings
   - [ ] Advanced Algorithms and Complexity
   - [ ] Genome Assembly Programming Challenge
-- [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
-  - [x] 2236. Root Equals Sum of Children
-  - [x] 1480. Running Sum of 1d Array
 - [/] Claude Academy
   - [/] AI Fluency: Framework and foundations (2026-10-12; The 4D Framework)
   - [ ] Building with the Claude API
@@ -65,18 +62,21 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
   - [ ] Claude with Amazon Bedrock
 - [ ] Read Cracking the Coding Interview
 - [ ] Complete 30 Days of JavaScript Study Plan
-- [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
-- [ ] Complete Shell-specific problems
-- [ ] Solve 50 Easy problems (Consider mix of Database, Algorithms, and Concurrency problems)
-- [ ] Solve 30 Medium problems (Consider mix of Database, Algorithms, and Concurrency problems)
-- [ ] Solve 10 Hard problems
-- [ ] Review and internalize all solutions — prioritize understanding over output
-- [ ] Explore company-tagged problems for exposure to real-world problem patterns
+- [/] LeetCode
+  - [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
+  - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
+  - [ ] Complete Shell-specific problems
+  - [ ] Solve 50 Easy problems (Consider mix of Database, Algorithms, and Concurrency problems)
+  - [ ] Solve 30 Medium problems (Consider mix of Database, Algorithms, and Concurrency problems)
+  - [ ] Solve 10 Hard problems
+  - [ ] Review and internalize all solutions — prioritize understanding over output
+  - [ ] Explore company-tagged problems for exposure to real-world problem patterns
 
 ---
 
 ## Progress Notes
 
+- [2026-10-15] Grouped all LeetCode-specific subtasks (Complete The LeetCode Beginner's Guide, Complete LeetCode 75, Complete Shell-specific problems, Solve 50/30/10 Easy/Medium/Hard problems, Review and internalize all solutions, Explore company-tagged problems) under a new parent subtask [LeetCode], moved to the bottom of the list below the Coursera specialization and Claude Academy — a deprioritization, not a drop; LeetCode stays part of the goal but those two series take priority for now. Pruned the two already-closed Beginner's Guide children (2236, 1480) in the same pass, since both are already logged closed in CHANGELOG. This gives the card a second grouped/prunable series alongside Claude Academy (see 2026-09-28 below) — worth revisiting the raw subtask-fraction signal on PROGRESS.md's On the Board table sooner than the "Claude Academy dominance" trigger noted there, since two dynamic series compounding may erode the fraction's usefulness faster than one alone would.
 - [2026-09-28] Reviewed whether the raw subtask fraction on PROGRESS.md's On the Board table still fits, now that the Claude Academy series (absorbed from Joker 1) prunes closed entries within an otherwise bounded card (Coursera specialization, LeetCode Beginner's Guide, and the other fixed subtasks). Unlike joker-1/10-hearts/ace-hearts, this card is a hybrid — only one series is dynamic. Each Claude Academy completion cycle (mark complete, log in CHANGELOG, prune) nets a denominator decrease while the numerator returns to its prior baseline, so the fraction actually trends closer to 1 with each completion rather than sitting flat — it just won't land on a clean N/N the way a fully bounded card's does, and new courses added to the series later would pull it back down. Decided to keep the raw fraction as-is rather than exclude Claude Academy or switch to an alternate signal — the trend is still informative, and the noise from one small sub-series doesn't outweigh the simplicity of a single tracked number. Revisit if Claude Academy grows to dominate the card's subtask count.
 - [2026-08-27] Added Claude Academy courses subtask series (parent + 5 children), moved from Joker 1 to Resources and Subtasks here. Part of a 70/30 focus-strategy review pass; 9♣️ was flagged as part of the high-leverage 30%, and this move keeps Joker 1 strictly logistics/organizational rather than duplicating skill-building subtasks that belong on their own card.
 - [2026-08-25] Started Data Structures and Algorithms Specialization — Algorithmic Toolbox marked in progress.

@@ -5,12 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-15] — technicalReporting Week 6 completed; Pluralsight annotation updated; advancedJavaScript Week 6 annotation updated
+## [2026-10-15] — technicalReporting Week 6 completed; 09-clubs LeetCode subtasks regrouped; Pluralsight annotation updated; advancedJavaScript Week 6 annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-15: Object-oriented Programming in Java, Inheriting from Another Class)
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6] annotation updated — Quiz06 completed and dropped (Lab06 remaining)
+- [09-clubs] — [Complete Data Structures and Algorithms Specialization > Algorithmic Toolbox] annotation updated (2026-10-15; finish Welcome section)
+- [09-clubs] — [Subtasks] LeetCode-specific entries (Complete The LeetCode Beginner's Guide, Complete LeetCode 75, Complete Shell-specific problems, Solve 50/30/10 Easy/Medium/Hard problems, Review and internalize all solutions, Explore company-tagged problems) grouped under new parent subtask [LeetCode] and moved to the bottom of the list, deprioritized relative to the Coursera specialization and Claude Academy
+- [09-clubs] — [Complete The LeetCode Beginner's Guide > 2236. Root Equals Sum of Children, 1480. Running Sum of 1d Array] pruned from the tree — both already logged closed (2026-08-10, 2026-08-13)
+- [PROGRESS] — On the Board count synced for 9♣️ to match the LeetCode subtask regroup and pruning
 
 ### Completed
 
