@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; Pluralsight annotation updated
+## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; Pluralsight annotation updated; Claude Academy annotation updated
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
+- [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] annotation updated (2026-10-19; A closer look at Delegation)
 
 ### Notes
 
