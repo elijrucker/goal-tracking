@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-18] — 03-spades-v2 Ch. 12 marked in progress
+
+### Changed
+
+- [03-spades-v2] — [Ch. 12 — Sharp Tools] marked in progress, annotation added (2026-10-18)
+
+---
+
 ## [2026-10-15] — technicalReporting Week 6 completed; 09-clubs LeetCode subtasks regrouped; 09-clubs Cogniterra resource added; Pluralsight annotation updated; advancedJavaScript Week 6 annotation updated
 
 ### Changed
