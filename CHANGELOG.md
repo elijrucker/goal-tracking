@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-19] — Pluralsight annotation updated
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
+
+---
+
 ## [2026-10-18] — 03-spades-v2 Ch. 12 marked in progress
 
 ### Changed
