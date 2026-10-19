@@ -13,6 +13,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-17] — 03-diamonds Try It Yourself annotation updated
+
+### Changed
+
+- [03-diamonds] — [Part 1: Cumulative review > Try It Yourself Ch. 1–3] annotation updated (2026-10-17; Ch. 3 exercises)
+
+---
+
 ## [2026-10-15] — technicalReporting Week 6 completed; 09-clubs LeetCode subtasks regrouped; 09-clubs Cogniterra resource added; Pluralsight annotation updated; advancedJavaScript Week 6 annotation updated
 
 ### Changed
