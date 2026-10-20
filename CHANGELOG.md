@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-20] — technicalReporting Week 7 in progress
+## [2026-10-20] — technicalReporting Week 7 in progress; Week 6 pruned (one-time override)
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 7] marked in progress; annotation updated — 4.1, 4.2 completed and dropped (4.3 remaining)
+
+### Removed
+
+- [10-hearts] — [Fall 26 > technicalReporting, javaProgramming > Deliverables > Week 6] pruned from the subtask tree — one-time override of the delayed-sweep pruning policy (2026-09-10), ahead of all four courses closing Week 6, to reduce clutter now that Weeks 6, 7, and 8 are simultaneously in play. advancedJavaScript (in progress) and phpWebMySQL (not started) Week 6 rows left in place, pending their own completion.
 
 ---
 

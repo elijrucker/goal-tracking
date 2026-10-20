@@ -55,13 +55,11 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 6
     - [/] Week 7 (4.3)
     - [ ] Week 8
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [x] Week 6
     - [ ] Week 7 (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
     - [ ] Week 8
   - **Learning Material:**
@@ -102,6 +100,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-10-20] [Fall 26] One-time override of the 2026-09-10 delayed-sweep pruning policy: pruned technicalReporting and javaProgramming Week 6 rows ahead of advancedJavaScript and phpWebMySQL closing the same week, to reduce clutter now that Weeks 6, 7, and 8 are simultaneously in play across the four courses. Standing policy unchanged — this does not establish per-course pruning as the new default; revisit only if the override recurs.
 - [2026-09-14] [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] "Deliverables:" (and "Learning Material:" where present) converted from checkbox list items to plain bold labels, matching the Fall 26/Spring 27 fix from 2026-09-10. Under the rolling-week model, Deliverables keeps growing a new Week N row each time one closes out, so its checkbox could never cleanly reach [x] mid-semester without misrepresenting the group as stuck at [ ] — same semantic mismatch as the semester-label checkboxes.
 - [2026-09-10] [Fall 26] Delayed-sweep pruning policy adopted for Deliverables: a given week's row (e.g. Week 1) stays present in the tree across all four Fall 26 courses, even once individually marked complete, until every course has that same week closed — only then is the row pruned across the board, per the dynamic-card convention. Keeps the four courses' Deliverables rows visually aligned week-to-week rather than drifting out of sync as courses close weeks at different times.
 - [2026-09-10] [Fall 26, Spring 27] Semester labels converted from checkbox list items to plain bold headers, with courses dedented to sit directly under them (previously nested one level deeper under the semester checkbox). A semester isn't itself a completable task, so a checkbox on it was semantically off; the change also gives Fall 26 and Spring 27 a harder visual break (bold header + horizontal rule) instead of relying on blank-line spacing alone.
