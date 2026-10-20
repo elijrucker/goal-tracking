@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-20] — technicalReporting Week 7 in progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 7] marked in progress; annotation updated — 4.1, 4.2 completed and dropped (4.3 remaining)
+
+---
+
 ## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; phpWebMySQL Week 7 in progress; Pluralsight annotation updated; Claude Academy annotation updated; Week 8 placeholder added
 
 ### Changed
