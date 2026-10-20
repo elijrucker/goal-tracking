@@ -68,7 +68,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
     - [ ] Week 6 (Wk06 Lab)
-    - [ ] Week 7 (Wk07 Lab, Midterm Exam(due 10/21))
+    - [/] Week 7 (Wk07 Lab)
 
 - [/] **Fulfill math elective requirement**
   - [ ] Deliverables:
