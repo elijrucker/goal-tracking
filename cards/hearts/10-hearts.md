@@ -48,6 +48,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [/] Week 6 (Lab06)
     - [ ] Week 7 (Project2 Setup)
+    - [ ] Week 8
   - **Learning Material:**
     - [ ] _Eloquent JavaScript_ (independent reading)
     - [ ] _You Don't Know JS: ES6 & Beyond_ (independent reading)
@@ -56,11 +57,13 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [x] Week 6
     - [ ] Week 7 (4.1, 4.2, 4.3)
+    - [ ] Week 8
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [x] Week 6
     - [ ] Week 7 (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
+    - [ ] Week 8
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
     - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
@@ -69,6 +72,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [ ] Week 6 (Wk06 Lab)
     - [/] Week 7 (Wk07 Lab)
+    - [ ] Week 8
 
 - [/] **Fulfill math elective requirement**
   - [ ] Deliverables:

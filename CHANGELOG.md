@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; phpWebMySQL Week 7 in progress; Pluralsight annotation updated; Claude Academy annotation updated
+## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; phpWebMySQL Week 7 in progress; Pluralsight annotation updated; Claude Academy annotation updated; Week 8 placeholder added
 
 ### Changed
 
@@ -16,6 +16,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Notes
 
 - [03-spades-v2] — Chapter 11 delayed review note added; supplementary takeaways appended to 2026-09-28 entry
+
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 8 placeholder added across all four courses, rolling the window forward one week
 
 ---
 
