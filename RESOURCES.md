@@ -239,6 +239,7 @@ Master reference list of all courses, books, platforms, and links associated wit
 - Current institution - track via academic portal
 - Learning Java, 6th Ed. by Loy, Niemeyer, Leuck (O'Reilly, 2023) (book) - supports javaProgramming (Fall 26)
 - Eloquent JavaScript, 4th Ed. by Marijn Haverbeke (book) - supports advancedJavaScript (Fall 26)
+- You Don't Know JS: ES6 & Beyond by Kyle Simpson (book) - supports advancedJavaScript (Fall 26)
 
 ### J♥️ Weight Loss: 75 lbs
 

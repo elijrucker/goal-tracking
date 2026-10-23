@@ -5,11 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-23] — 10-hearts Week 8 deliverable annotations added
+## [2026-10-23] — 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 8] annotations added (advancedJavaScript: Midterm Exam, Project2; technicalReporting: 4.4, 4.5; javaProgramming: Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7; phpWebMySQL: tentative, not yet confirmed)
+
+### Removed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Learning Material] _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ subtasks removed (and the group header), unused all semester — downgraded to as-needed reference material; course deliverables remain the tracked work
+
+### Added
+
+- [RESOURCES] Added You Don't Know JS: ES6 & Beyond by Kyle Simpson to 10-hearts resources, supporting advancedJavaScript (Fall 26).
 
 ---
 
