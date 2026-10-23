@@ -54,7 +54,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [/] Week 7 (4.3)
+    - [x] Week 7
     - [ ] Week 8 (4.4, 4.5)
     - [ ] Week 9
 

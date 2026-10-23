@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-23] — 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped; math elective relocated to Spring 27; Spring 27 registration annotated; Week 9 placeholder added
+## [2026-10-23] — technicalReporting Week 7 completed; 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped; math elective relocated to Spring 27; Spring 27 registration annotated; Week 9 placeholder added
 
 ### Changed
 
@@ -25,6 +25,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [RESOURCES] Added You Don't Know JS: ES6 & Beyond by Kyle Simpson to 10-hearts resources, supporting advancedJavaScript (Fall 26).
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 9 placeholder added across all four courses, rolling the window forward one week; javaProgramming Week 9 annotated (Challenge) — a third challenge is required for a perfect course grade, with insufficient time to complete one by Week 8
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 7] marked complete; 4.3 closed out the last remaining item, annotation removed
 
 ---
 
