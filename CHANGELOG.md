@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-23] — technicalReporting Week 7 completed; 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped; math elective relocated to Spring 27; Spring 27 registration annotated; Week 9 placeholder added
+## [2026-10-23] — technicalReporting Week 7 completed; delayed-sweep pruning policy superseded, Week 7 pruned; 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped; math elective relocated to Spring 27; Spring 27 registration annotated; Week 9 placeholder added
 
 ### Changed
 
@@ -15,11 +15,13 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Spring 27 > db_prog, advancedJava] annotation added (registered)
 - [10-hearts] — [Spring 27 > cSharp] annotation added (blocked; in-person only, no remote option — revisit course offerings 2026-12-01)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] annotation updated — Live Code Review scheduled for Project2 (2026-10-26, 16:30)
+- [10-hearts] — [Fall 26] Delayed-sweep pruning policy (2026-09-10) superseded with a per-course immediate pruning protocol: a course's Week N row is pruned as soon as it's marked complete, logged in CHANGELOG.md, and committed, independent of the other three courses' pacing
 
 ### Removed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Learning Material] _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ subtasks removed (and the group header), unused all semester — downgraded to as-needed reference material; course deliverables remain the tracked work
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material] _Learning Java, 6th Ed._ (auxiliary) subtask removed, unused all semester — downgraded to as-needed reference material; Pluralsight Java path remains the active tracked item
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 7] pruned from the subtask tree — complete, logged, and committed, per the new immediate per-course pruning protocol
 
 ### Added
 

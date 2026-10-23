@@ -54,7 +54,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
-    - [x] Week 7
     - [ ] Week 8 (4.4, 4.5)
     - [ ] Week 9
 
@@ -101,6 +100,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-10-23] [Fall 26] Delayed-sweep pruning policy (2026-09-10) superseded: the four courses have diverged enough in pacing that waiting for all four to close the same week before pruning any of them no longer serves its original purpose (keeping the Deliverables rows visually aligned). New protocol: a course's Week N row is pruned as soon as it is marked complete, logged in CHANGELOG.md, and committed — per-course, independent of the other three courses' pacing. This is the standing policy going forward, not a one-off override like 2026-10-20's.
 - [2026-10-23] [Fulfill math elective requirement] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels, bringing this card in line with the 2026-09-14 fix applied to the four Fall 26 courses at the time (this card wasn't included in that pass).
 - [2026-10-23] Relocated "Fulfill math elective requirement" from Fall 26 to Spring 27, full subtask tree and in-progress status intact — current Fall 26 course load is heavier than the projected Spring 27 load, and the math elective isn't gating any of the four active Fall 26 courses. Progress to date (Modern States course in progress, 1.2 review pending) carries over unchanged.
 - [2026-10-23] [javaProgramming] Removed _Learning Java, 6th Ed._ (auxiliary) from the Learning Material subtask group — unused all semester despite being tracked as in-progress reading. Downgraded to as-needed reference material; Pluralsight Java path remains the active tracked Learning Material item for javaProgramming. Book stays listed in Resources as a supporting reference.
