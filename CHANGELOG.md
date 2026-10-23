@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-23] — 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added
+## [2026-10-23] — 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped
 
 ### Changed
 
@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Learning Material] _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ subtasks removed (and the group header), unused all semester — downgraded to as-needed reference material; course deliverables remain the tracked work
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material] _Learning Java, 6th Ed._ (auxiliary) subtask removed, unused all semester — downgraded to as-needed reference material; Pluralsight Java path remains the active tracked item
 
 ### Added
 

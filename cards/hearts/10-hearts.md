@@ -62,7 +62,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 8 (Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
-    - [/] _Learning Java, 6th Ed._ (auxiliary) (2026-08-20; Ch. 1 – A Virtual Machine, Figure 1.1)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
@@ -98,6 +97,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-10-23] [javaProgramming] Removed _Learning Java, 6th Ed._ (auxiliary) from the Learning Material subtask group — unused all semester despite being tracked as in-progress reading. Downgraded to as-needed reference material; Pluralsight Java path remains the active tracked Learning Material item for javaProgramming. Book stays listed in Resources as a supporting reference.
 - [2026-10-23] [advancedJavaScript] Removed _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ from the Learning Material subtask group (and the now-empty group header itself) — neither was touched across the full semester despite being tracked as in-progress reading. Downgraded from goal-tracked subtasks to as-needed reference material; course deliverables remain the active tracked work for advancedJavaScript. Eloquent JavaScript stays listed in Resources as a supporting reference; both books remain available to consult, just no longer carrying a completion expectation.
 - [2026-10-20] [Fall 26] One-time override of the 2026-09-10 delayed-sweep pruning policy: pruned technicalReporting and javaProgramming Week 6 rows ahead of advancedJavaScript and phpWebMySQL closing the same week, to reduce clutter now that Weeks 6, 7, and 8 are simultaneously in play across the four courses. Standing policy unchanged — this does not establish per-course pruning as the new default; revisit only if the override recurs.
 - [2026-09-14] [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] "Deliverables:" (and "Learning Material:" where present) converted from checkbox list items to plain bold labels, matching the Fall 26/Spring 27 fix from 2026-09-10. Under the rolling-week model, Deliverables keeps growing a new Week N row each time one closes out, so its checkbox could never cleanly reach [x] mid-semester without misrepresenting the group as stuck at [ ] — same semantic mismatch as the semester-label checkboxes.
