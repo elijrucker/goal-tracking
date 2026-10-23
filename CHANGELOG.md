@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-23] — technicalReporting Week 7 completed; delayed-sweep pruning policy superseded, Week 7 pruned; 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped; math elective relocated to Spring 27; Spring 27 registration annotated; Week 9 placeholder added
+## [2026-10-23] — technicalReporting Week 7 completed and pruned; pruning policy superseded; advancedJavaScript/javaProgramming Learning Material dropped; math elective relocated to Spring 27; Week 8/9 annotations added; Spring 27 registration annotated; You Don't Know JS resource added
 
 ### Changed
 
