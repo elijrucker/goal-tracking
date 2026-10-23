@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-23] — 10-hearts Week 8 deliverable annotations added
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 8] annotations added (advancedJavaScript: Midterm Exam, Project2; technicalReporting: 4.4, 4.5; javaProgramming: Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7; phpWebMySQL: tentative, not yet confirmed)
+
+---
+
 ## [2026-10-22] — 03-spades-v2 Ch. 13 in progress
 
 ### Changed
