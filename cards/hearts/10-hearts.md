@@ -73,9 +73,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 **Spring 27**
 
-- [ ] **db_prog**
-- [ ] **advancedJava**
-- [ ] **cSharp**
+- [ ] **db_prog** (registered)
+- [ ] **advancedJava** (registered)
+- [ ] **cSharp** (blocked; in-person only, no remote option — revisit course offerings 2026-12-01)
 
 - [/] **Fulfill math elective requirement**
   - **Deliverables:**
