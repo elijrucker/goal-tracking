@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-22] — 03-spades-v2 Ch. 13 in progress
+
+### Changed
+
+- [03-spades-v2] — [Ch. 13 — The Whole and the Parts] marked in progress, annotation added (2026-10-22)
+
+---
+
 ## [2026-10-21] — 03-spades-v2 Ch. 12 completed
 
 ### Completed
