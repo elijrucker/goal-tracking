@@ -50,16 +50,19 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 6 (Lab06)
     - [ ] Week 7 (Project2 Setup)
     - [ ] Week 8 (Midterm Exam, Project2)
+    - [ ] Week 9
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
     - [/] Week 7 (4.3)
     - [ ] Week 8 (4.4, 4.5)
+    - [ ] Week 9
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [ ] Week 7 (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
     - [ ] Week 8 (Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7)
+    - [ ] Week 9 (Challenge)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
 
@@ -68,6 +71,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 6 (Wk06 Lab)
     - [/] Week 7 (Wk07 Lab)
     - [ ] Week 8 (?)
+    - [ ] Week 9
 
 ---
 
