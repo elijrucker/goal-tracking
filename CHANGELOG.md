@@ -5,11 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-23] — 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped
+## [2026-10-23] — 10-hearts Week 8 deliverable annotations added; advancedJavaScript Learning Material dropped; You Don't Know JS resource added; javaProgramming Learning Java dropped; math elective relocated to Spring 27
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 8] annotations added (advancedJavaScript: Midterm Exam, Project2; technicalReporting: 4.4, 4.5; javaProgramming: Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7; phpWebMySQL: tentative, not yet confirmed)
+- [10-hearts] — [Fulfill math elective requirement] relocated from Fall 26 to Spring 27, full subtask tree and in-progress status retained — Fall 26 course load heavier than projected Spring 27 load
+- [10-hearts] — [Fulfill math elective requirement] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels, matching the 2026-09-14 fix applied to the four Fall 26 courses
 
 ### Removed
 

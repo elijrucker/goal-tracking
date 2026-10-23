@@ -69,15 +69,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 7 (Wk07 Lab)
     - [ ] Week 8 (?)
 
-- [/] **Fulfill math elective requirement**
-  - [ ] Deliverables:
-    - [ ] Pass CLEP College Algebra (target score: 50+)
-  - [/] Learning Material:
-    - [/] Modern States CLEP College Algebra course (2026-08-05; 1.2 review pending)
-    - [ ] ALEKS diagnostic
-    - [ ] Professor Leonard College Algebra (YouTube)
-    - [ ] CLEP practice exam (timed)
-
 ---
 
 **Spring 27**
@@ -85,6 +76,15 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [ ] **db_prog**
 - [ ] **advancedJava**
 - [ ] **cSharp**
+
+- [/] **Fulfill math elective requirement**
+  - **Deliverables:**
+    - [ ] Pass CLEP College Algebra (target score: 50+)
+  - **Learning Material:**
+    - [/] Modern States CLEP College Algebra course (2026-08-05; 1.2 review pending)
+    - [ ] ALEKS diagnostic
+    - [ ] Professor Leonard College Algebra (YouTube)
+    - [ ] CLEP practice exam (timed)
 
 ---
 
@@ -97,6 +97,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-10-23] [Fulfill math elective requirement] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels, bringing this card in line with the 2026-09-14 fix applied to the four Fall 26 courses at the time (this card wasn't included in that pass).
+- [2026-10-23] Relocated "Fulfill math elective requirement" from Fall 26 to Spring 27, full subtask tree and in-progress status intact — current Fall 26 course load is heavier than the projected Spring 27 load, and the math elective isn't gating any of the four active Fall 26 courses. Progress to date (Modern States course in progress, 1.2 review pending) carries over unchanged.
 - [2026-10-23] [javaProgramming] Removed _Learning Java, 6th Ed._ (auxiliary) from the Learning Material subtask group — unused all semester despite being tracked as in-progress reading. Downgraded to as-needed reference material; Pluralsight Java path remains the active tracked Learning Material item for javaProgramming. Book stays listed in Resources as a supporting reference.
 - [2026-10-23] [advancedJavaScript] Removed _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ from the Learning Material subtask group (and the now-empty group header itself) — neither was touched across the full semester despite being tracked as in-progress reading. Downgraded from goal-tracked subtasks to as-needed reference material; course deliverables remain the active tracked work for advancedJavaScript. Eloquent JavaScript stays listed in Resources as a supporting reference; both books remain available to consult, just no longer carrying a completion expectation.
 - [2026-10-20] [Fall 26] One-time override of the 2026-09-10 delayed-sweep pruning policy: pruned technicalReporting and javaProgramming Week 6 rows ahead of advancedJavaScript and phpWebMySQL closing the same week, to reduce clutter now that Weeks 6, 7, and 8 are simultaneously in play across the four courses. Standing policy unchanged — this does not establish per-course pruning as the new default; revisit only if the override recurs.
