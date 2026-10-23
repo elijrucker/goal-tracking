@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fulfill math elective requirement] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels, matching the 2026-09-14 fix applied to the four Fall 26 courses
 - [10-hearts] — [Spring 27 > db_prog, advancedJava] annotation added (registered)
 - [10-hearts] — [Spring 27 > cSharp] annotation added (blocked; in-person only, no remote option — revisit course offerings 2026-12-01)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] annotation updated — Live Code Review scheduled for Project2 (2026-10-26, 16:30)
 
 ### Removed
 

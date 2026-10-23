@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Deliverables:**
     - [ ] Week 7 (Mod3Lab1, Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint)
     - [ ] Week 8 (Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7)
-    - [ ] Week 9 (Challenge)
+    - [ ] Week 9 (Challenge; Live Code Review, Project2 (2026-10-26, 16:30))
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
 
