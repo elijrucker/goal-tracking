@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-21] — 03-spades-v2 Ch. 12 completed
+
+### Completed
+
+- [03-spades-v2] — [Ch. 12 — Sharp Tools] marked complete
+- [PROGRESS] — On the Board count synced for 3♠️ V2 to match the Ch. 12 completion
+
+---
+
 ## [2026-10-20] — technicalReporting Week 7 in progress; Week 6 pruned (one-time override)
 
 ### Changed

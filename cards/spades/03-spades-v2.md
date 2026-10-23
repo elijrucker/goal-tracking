@@ -52,7 +52,7 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
   - [x] Ch. 9 — Ten Pounds in a Five-Pound Sack
   - [x] Ch. 10 — The Documentary Hypothesis
   - [x] Ch. 11 — Plan to Throw One Away
-  - [/] Ch. 12 — Sharp Tools (2026-10-18)
+  - [x] Ch. 12 — Sharp Tools
   - [ ] Ch. 13 — The Whole and the Parts
   - [ ] Ch. 14 — Hatching a Catastrophe
   - [ ] Ch. 15 — The Other Face
