@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-24] — javaProgramming Week 7 in progress
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] marked in progress; annotation updated — Mod3Lab1 completed and dropped (Mod3Lab2, Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint remaining)
+
+---
+
 ## [2026-10-23] — technicalReporting Week 7 completed and pruned; pruning policy superseded; advancedJavaScript/javaProgramming Learning Material dropped; math elective relocated to Spring 27; Week 8/9 annotations added; Spring 27 registration annotated; You Don't Know JS resource added
 
 ### Changed
