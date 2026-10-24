@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-24] — javaProgramming Week 7 in progress
+## [2026-10-24] — javaProgramming Week 7 completed; in progress
 
 ### Changed
 
@@ -13,6 +13,11 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation updated — Mod3Lab2 completed and dropped (Mod3Lab3, Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint remaining)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation updated — Mod3Lab3 completed and dropped (Mod3Lab4, Mod3Lab5, MidtermReview Checkpoint remaining)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation updated — Mod3Lab4 completed and dropped (Mod3Lab5, MidtermReview Checkpoint remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] annotation updated — Mod3Lab5 completed and dropped; MidtermReview Checkpoint dropped (doesn't count toward final grade, time better spent elsewhere)
+
+### Completed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 7] marked complete
 
 ---
 
