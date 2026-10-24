@@ -18,23 +18,22 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables > Week 8] annotations added (advancedJavaScript: Midterm Exam, Project2; technicalReporting: 4.4, 4.5; javaProgramming: Timed Checkpoint, Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7; phpWebMySQL: tentative, not yet confirmed)
-- [10-hearts] — [Fulfill math elective requirement] relocated from Fall 26 to Spring 27, full subtask tree and in-progress status retained — Fall 26 course load heavier than projected Spring 27 load
-- [10-hearts] — [Fulfill math elective requirement] "Deliverables:" and "Learning Material:" converted from checkbox list items to plain bold labels, matching the 2026-09-14 fix applied to the four Fall 26 courses
+- [10-hearts] — [Fulfill math elective requirement] relocated from Fall 26 to Spring 27 — lighter projected course load; "Deliverables:"/"Learning Material:" also converted to plain bold labels, matching the 2026-09-14 fix
 - [10-hearts] — [Spring 27 > db_prog, advancedJava] annotation added (registered)
 - [10-hearts] — [Spring 27 > cSharp] annotation added (blocked; in-person only, no remote option — revisit course offerings 2026-12-01)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] annotation updated — Live Code Review scheduled for Project2 (2026-10-26, 16:30)
-- [10-hearts] — [Fall 26] Delayed-sweep pruning policy (2026-09-10) superseded with a per-course immediate pruning protocol: a course's Week N row is pruned as soon as it's marked complete, logged in CHANGELOG.md, and committed, independent of the other three courses' pacing
+- [10-hearts] — [Fall 26] Delayed-sweep pruning policy (2026-09-10) superseded — a course's Week N row now prunes as soon as it's complete, logged, and committed, per-course rather than waiting on the other three
 
 ### Removed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Learning Material] _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ subtasks removed (and the group header), unused all semester — downgraded to as-needed reference material; course deliverables remain the tracked work
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material] _Learning Java, 6th Ed._ (auxiliary) subtask removed, unused all semester — downgraded to as-needed reference material; Pluralsight Java path remains the active tracked item
-- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 7] pruned from the subtask tree — complete, logged, and committed, per the new immediate per-course pruning protocol
+- [10-hearts] — [Fall 26 > advancedJavaScript > Learning Material] _Eloquent JavaScript_ and _You Don't Know JS: ES6 & Beyond_ subtasks (and group header) removed — unused all semester, downgraded to as-needed reference
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material] _Learning Java, 6th Ed._ (auxiliary) removed — unused all semester, downgraded to as-needed reference
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 7] pruned — complete and logged, per the new per-course pruning protocol
 
 ### Added
 
-- [RESOURCES] Added You Don't Know JS: ES6 & Beyond by Kyle Simpson to 10-hearts resources, supporting advancedJavaScript (Fall 26).
-- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 9 placeholder added across all four courses, rolling the window forward one week; javaProgramming Week 9 annotated (Challenge) — a third challenge is required for a perfect course grade, with insufficient time to complete one by Week 8
+- [RESOURCES] Added You Don't Know JS: ES6 & Beyond by Kyle Simpson to 10-hearts resources, supporting advancedJavaScript (Fall 26)
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 9 placeholder added across all four courses; javaProgramming's annotated (Challenge) — a third challenge is needed for a perfect grade, no time for one by Week 8
 
 ### Completed
 
