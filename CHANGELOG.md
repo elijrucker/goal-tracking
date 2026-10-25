@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-25] — advancedJavaScript Week 6 completed and pruned; Week 7 completed
+## [2026-10-25] — advancedJavaScript Week 6, 7 completed and pruned
 
 ### Completed
 
@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6] pruned — complete and logged, per the per-course pruning protocol
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 7] pruned — complete and logged, per the per-course pruning protocol
 
 ### Changed
 
