@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-25] — advancedJavaScript Week 6 completed
+
+### Completed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6] marked complete; Lab06 closed out the last remaining item, annotation removed
+
+---
+
 ## [2026-10-24] — javaProgramming Week 7 completed and pruned; in progress
 
 ### Changed
