@@ -37,6 +37,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Process
 
 - [PROGRESS] — Status transitions synced: Summary In Progress 11→9, Deferred 3→5; Diamonds In Progress 3→2, Deferred 0→1; Spades In Progress 2→1, Deferred 0→1; Green tier In Progress 4→2 (no Deferred column on that table, per 6♥️/Q♥️/K♥️ precedent); 2♠️ and 3♦️ removed from On the Board (Deferred cards aren't listed there, per 06-hearts/queen-hearts/king-hearts precedent)
+- [PROGRESS] — Pre-existing drift corrected: Spades row Not Started 10→11, Total 13→14 (and grand Total 54→55) to account for 03-spades-v2 coexisting with the completed 03-spades (V1) file under the 2026-06-22 vacancy-gated V2 promotion workflow, which was never reconciled into these totals; Green tier Total 12→13 for the same reason; 3♠️ V2's On the Board fraction corrected 12/19 → 12/20, bringing it in line with how every other card on that table counts its own wrapping parent subtask line
 
 ---
 

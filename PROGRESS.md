@@ -20,16 +20,16 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | ----------- | --------- | ----------- | --------- | -------- | ----------- | ------ |
 | ♦️ Diamonds | 2         | 2           | 2         | 1        | 6           | 13     |
 | ♣️ Clubs    | 1         | 1           | 3         | 0        | 8           | 13     |
-| ♠️ Spades   | 1         | 1           | 0         | 1        | 10          | 13     |
+| ♠️ Spades   | 1         | 1           | 0         | 1        | 11          | 14     |
 | ♥️ Hearts   | 1         | 4           | 0         | 3        | 5           | 13     |
 | 🃏 Jokers   | 0         | 1           | 1         | 0        | 0           | 2      |
-| **Total**   | **5**     | **9**       | **6**     | **5**    | **29**      | **54** |
+| **Total**   | **5**     | **9**       | **6**     | **5**    | **30**      | **55** |
 
 ### Completion by Color Tier
 
 | Tier                    | Completed | In Progress | Total |
 | ----------------------- | --------- | ----------- | ----- |
-| 🟢 Green (Foundational) | 4         | 2           | 12    |
+| 🟢 Green (Foundational) | 4         | 2           | 13    |
 | 🔵 Blue (Moderate)      | 1         | 2           | 12    |
 | 🟡 Yellow (Substantial) | 0         | 1           | 8     |
 | 🟠 Orange (Advanced)    | 0         | 2           | 8     |
@@ -39,7 +39,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 
 | Card | Goal                             | Status      | Subtask Progress    |
 | ---- | -------------------------------- | ----------- | ------------------- |
-| 3♠️  | The Mythical Man-Month (V2)      | In Progress | 12/19               |
+| 3♠️  | The Mythical Man-Month (V2)      | In Progress | 12/20               |
 | 7♥️  | Weight Loss: 50 lbs              | In Progress | 0/6                 |
 | 10♥️ | Complete Associate's Degree      | In Progress | 52/63 units         |
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/11                |
