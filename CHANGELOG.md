@@ -22,6 +22,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 7] marked in progress
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] marked in progress; annotation updated — Timed Checkpoint completed and dropped (Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7 remaining)
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] marked in progress
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] annotation updated — Midterm Exam completed and dropped (Project2 remaining)
 
 ---
 
