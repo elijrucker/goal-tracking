@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-26] — advancedJavaScript Week 8 completed
+## [2026-10-26] — advancedJavaScript Week 8 completed and pruned
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] marked complete; Project2 closed out the last remaining item, annotation removed
+
+### Removed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] pruned — complete and logged, per the per-course pruning protocol
 
 ---
 
