@@ -47,17 +47,17 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [ ] Week 9
+    - [ ] Week 9 (...)
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
     - [ ] Week 8 (4.4, 4.5)
-    - [ ] Week 9
+    - [ ] Week 9 (...)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [/] Week 8 (Project3(High Level Design, Class ID), Mod3Lab7)
-    - [ ] Week 9 (Challenge; Live Code Review, Project2 (2026-10-26, 16:30))
+    - [/] Week 9 (Challenge...)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-10-26: Object-oriented Programming in Java, Talking to Interfaces)
 
@@ -66,7 +66,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 6 (Wk06 Lab)
     - [/] Week 7 (Wk07 Lab)
     - [ ] Week 8 (?)
-    - [ ] Week 9
+    - [ ] Week 9 (Project2)
 
 ---
 

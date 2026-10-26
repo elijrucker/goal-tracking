@@ -25,6 +25,9 @@ Format: [YYYY-MM-DD] — Description of change
 - [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] annotation updated (2026-10-26; A closer look at Discernment)
 - [09-clubs] — [Complete 30 Days of JavaScript Study Plan] moved under the [LeetCode] parent subtask group — left out of place as a standalone item during the 2026-10-15 grouping pass
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] annotation updated — Mod3Lab6 completed and dropped (Project3(High Level Design, Class ID), Mod3Lab7 remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] marked in progress; annotation updated — Live Code Review (Project2) completed and dropped (Challenge remaining)
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting > Deliverables > Week 9] annotation updated (...) — deliverables known to exist but not yet confirmed
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 9] annotation updated (Project2)
 
 ### Notes
 
