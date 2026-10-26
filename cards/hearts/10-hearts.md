@@ -47,7 +47,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [ ] Week 8 (Midterm Exam, Project2)
+    - [/] Week 8 (Midterm Exam, Project2)
     - [ ] Week 9
 
 - [/] **technicalReporting** (08/31-12/18)
