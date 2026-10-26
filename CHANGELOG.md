@@ -22,6 +22,8 @@ Format: [YYYY-MM-DD] — Description of change
 - [09-clubs] — [Complete Data Structures and Algorithms Specialization] annotation updated — "takes priority over all other subtask series below" replaced with "queued; starts alongside the Pluralsight Java path once the first portfolio project is live; light pace (a couple of sessions a week) during the semester, ramping up over winter break"
 - [02-spades] / [03-diamonds] — [Reflection & Lessons Learned] section restored (was missing between Completion Notes and Unlocks), matching the 2026-08-10 09-clubs precedent — CARD_TEMPLATE prompts added with empty answers, no content written
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-26: Object-oriented Programming in Java, Talking to Interfaces)
+- [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] annotation updated (2026-10-26; A closer look at Discernment)
+- [09-clubs] — [Complete 30 Days of JavaScript Study Plan] moved under the [LeetCode] parent subtask group — left out of place as a standalone item during the 2026-10-15 grouping pass
 
 ### Notes
 

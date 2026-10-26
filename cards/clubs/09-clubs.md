@@ -56,16 +56,16 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
   - [ ] Genome Assembly Programming Challenge
   - [ ] _Ace Your Next Coding Interview by Learning Algorithms_ (Cogniterra, auxiliary)
 - [/] Claude Academy
-  - [/] AI Fluency: Framework and foundations (2026-10-19; A closer look at Delegation)
+  - [/] AI Fluency: Framework and foundations (2026-10-26; A closer look at Discernment)
   - [ ] Building with the Claude API
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
   - [ ] Introduction to Agent Skills
   - [ ] Claude with Amazon Bedrock
 - [ ] Read Cracking the Coding Interview
-- [ ] Complete 30 Days of JavaScript Study Plan
 - [/] LeetCode
   - [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
+  - [ ] Complete 30 Days of JavaScript Study Plan
   - [ ] Complete LeetCode 75 sequentially in collaborative/lab mode (theory-focused, no time pressure)
   - [ ] Complete Shell-specific problems
   - [ ] Solve 50 Easy problems (Consider mix of Database, Algorithms, and Concurrency problems)
