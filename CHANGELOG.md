@@ -9,20 +9,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Completed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6] marked complete; Lab06 closed out the last remaining item, annotation removed
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 7] marked complete; Project2 Setup closed out the last remaining item, annotation removed
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6, 7] marked complete — Lab06 and Project2 Setup closed out the last remaining items, annotations removed
 
 ### Removed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6] pruned — complete and logged, per the per-course pruning protocol
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 7] pruned — complete and logged, per the per-course pruning protocol
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 6, 7] pruned — complete and logged, per the per-course pruning protocol
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 7] marked in progress
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] marked in progress; annotation updated — Timed Checkpoint completed and dropped (Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7 remaining)
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] marked in progress
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] annotation updated — Midterm Exam completed and dropped (Project2 remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] marked in progress; Timed Checkpoint completed and dropped (Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7 remaining)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] marked in progress; Midterm Exam completed and dropped (Project2 remaining)
 
 ---
 
