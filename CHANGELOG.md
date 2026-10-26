@@ -24,6 +24,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-26: Object-oriented Programming in Java, Talking to Interfaces)
 - [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] annotation updated (2026-10-26; A closer look at Discernment)
 - [09-clubs] — [Complete 30 Days of JavaScript Study Plan] moved under the [LeetCode] parent subtask group — left out of place as a standalone item during the 2026-10-15 grouping pass
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] annotation updated — Mod3Lab6 completed and dropped (Project3(High Level Design, Class ID), Mod3Lab7 remaining)
 
 ### Notes
 
