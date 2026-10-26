@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 8 (Project3(High Level Design, Class ID), Mod3Lab6, Mod3Lab7)
     - [ ] Week 9 (Challenge; Live Code Review, Project2 (2026-10-26, 16:30))
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-10-19: Object-oriented Programming in Java, Understanding Polymorphism)
+    - [/] Pluralsight Java path (2026-10-26: Object-oriented Programming in Java, Talking to Interfaces)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
