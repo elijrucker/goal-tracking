@@ -12,7 +12,7 @@
 
 ## Status
 
-- **Current Status**: In Progress
+- **Current Status**: Deferred
 - **Start Date**: 2026-05-29
 - **Target Completion**: 2026-07-01
 - **Completion Date**:
@@ -73,6 +73,7 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 
 ## Progress Notes
 
+- [2026-10-26] Deferred to prioritize the Pluralsight Java path and getting a first portfolio project live. Resume at the Try It Yourself review, Ch. 3 exercises. Intended to resume after the first portfolio project is live and the Java/DSA cadence is stable (sequencing preference, not a gate).
 - [2026-09-07] [Ch. 10: Files and Exceptions] Chapter closed.
 - [2026-08-05] Flashcard review approach revised — holding all flashcards until Part 1 complete and circling back for consolidation.
 - [2026-07-26] Restructured Part 1 subtasks: reading now runs Ch. 1–11 straight through, with Try It Yourself exercises grouped separately to circle back to afterward. Prompted by recognizing most of Part 1's content is review of concepts already covered via MATC (10♥️) or CS50x (2♠️), so a reading-first pass is lower-friction than alternating chapter-by-chapter.
@@ -83,6 +84,17 @@ Complete Python Crash Course to establish foundational Python knowledge. This is
 ---
 
 ## Completion Notes
+
+---
+
+## Reflection & Lessons Learned
+
+- **What surprised you?**
+- **What would you do differently?**
+- **One thing that worked well:**
+- **One thing harder than expected:**
+- **Patterns noticed (if applicable):**
+- **Insights for similar future work:**
 
 ---
 

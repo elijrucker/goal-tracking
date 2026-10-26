@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-26] — advancedJavaScript Week 8 completed and pruned
+## [2026-10-26] — advancedJavaScript Week 8 completed and pruned; Status Transitions; Self-Study Rebalance (Java path primary, UCSD DSA queued)
 
 ### Completed
 
@@ -14,6 +14,29 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 8] pruned — complete and logged, per the per-course pruning protocol
+
+### Changed
+
+- [02-spades] — transitioned: In Progress → Deferred (sequencing preference, not a gate — prioritizing the Pluralsight Java path and a first live portfolio project)
+- [03-diamonds] — transitioned: In Progress → Deferred (same sequencing preference)
+- [09-clubs] — [Complete Data Structures and Algorithms Specialization] annotation updated — "takes priority over all other subtask series below" replaced with "queued; starts alongside the Pluralsight Java path once the first portfolio project is live; light pace (a couple of sessions a week) during the semester, ramping up over winter break"
+- [02-spades] / [03-diamonds] — [Reflection & Lessons Learned] section restored (was missing between Completion Notes and Unlocks), matching the 2026-08-10 09-clubs precedent — CARD_TEMPLATE prompts added with empty answers, no content written
+
+### Notes
+
+- [02-spades] — [Progress Notes] added note (2026-10-26; deferred to prioritize the Pluralsight Java path and a first live portfolio project; resume point Dr. Chuck C, Ch. 6 Structures)
+- [03-diamonds] — [Progress Notes] added note (2026-10-26; deferred for the same reason; resume point Try It Yourself review, Ch. 3 exercises)
+- [03-spades-v2] — [Progress Notes] added note (2026-10-26; background pace confirmed — light reading, 15-20 min a few times a week, currently Ch. 13)
+- [09-clubs] — [Progress Notes] added note (2026-10-26; DSA series queued status supersedes the 2026-08-25 top-priority placement — Java path portfolio projects now the higher-leverage near-term goal for entry-level applications)
+- [10-hearts] — [Progress Notes] added note (2026-10-26; Pluralsight Java path confirmed as primary self-study track until first portfolio project is live; retention habit noted)
+
+### Added
+
+- [joker-1] — [Ensure 3 strong portfolio projects are live and documented] added subtask (first Pluralsight Java path project live as a portfolio project; project TBD)
+
+### Process
+
+- [PROGRESS] — Status transitions synced: Summary In Progress 11→9, Deferred 3→5; Diamonds In Progress 3→2, Deferred 0→1; Spades In Progress 2→1, Deferred 0→1; Green tier In Progress 4→2 (no Deferred column on that table, per 6♥️/Q♥️/K♥️ precedent); 2♠️ and 3♦️ removed from On the Board (Deferred cards aren't listed there, per 06-hearts/queen-hearts/king-hearts precedent)
 
 ---
 
