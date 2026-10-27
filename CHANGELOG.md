@@ -5,12 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-27] — Pluralsight course Object-oriented Programming in Java, Talking to Interfaces module complete; Designing with Inheritance and Polymorphism module complete
+## [2026-10-27] — Pluralsight course Object-oriented Programming in Java complete; Maven Fundamentals started
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-27: Object-oriented Programming in Java, Designing with Inheritance and Polymorphism)
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-27: Object-oriented Programming in Java, Using the _static_ keyword)
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Object-oriented Programming in Java course completed (Talking to Interfaces, Designing with Inheritance and Polymorphism, Using the _static_ keyword modules closed out over the day); annotation updated to next course in the path (2026-10-27: Maven Fundamentals)
 
 ---
 
