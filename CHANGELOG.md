@@ -13,7 +13,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-26] — advancedJavaScript Week 8 completed and pruned; Status Transitions; Self-Study Rebalance (Java path primary, UCSD DSA queued)
+## [2026-10-26] — advancedJavaScript Week 8 completed and pruned; Status Transitions; Self-Study Rebalance (Java path primary, UCSD DSA queued); Pluralsight course Object-oriented Programming in Java, Understanding Polymorphism module complete
 
 ### Completed
 
@@ -142,7 +142,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; phpWebMySQL Week 7 in progress; Pluralsight annotation updated; Claude Academy annotation updated; Week 8 placeholder added
+## [2026-10-19] — 03-spades-v2 Chapter 11 delayed review note added; phpWebMySQL Week 7 in progress; Pluralsight course Object-oriented Programming in Java, Inheriting from Another Class module complete; Claude Academy annotation updated; Week 8 placeholder added
 
 ### Changed
 
@@ -176,7 +176,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-15] — technicalReporting Week 6 completed; 09-clubs LeetCode subtasks regrouped; 09-clubs Cogniterra resource added; Pluralsight annotation updated; advancedJavaScript Week 6 annotation updated
+## [2026-10-15] — technicalReporting Week 6 completed; 09-clubs LeetCode subtasks regrouped; 09-clubs Cogniterra resource added; Pluralsight course Object-oriented Programming in Java, Designing with Abstraction and Encapsulation module complete; advancedJavaScript Week 6 annotation updated
 
 ### Changed
 
@@ -198,7 +198,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-14] — Pluralsight annotation updated
+## [2026-10-14] — Pluralsight course Object-oriented Programming in Java, Hiding Information module complete
 
 ### Changed
 
@@ -206,7 +206,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-13] — javaProgramming Week 6 completed; Pluralsight annotation updated; Week 7 annotation added
+## [2026-10-13] — javaProgramming Week 6 completed; Pluralsight course Object-oriented Programming in Java, Defining Your Own Classes module complete; Week 7 annotation added
 
 ### Completed
 
@@ -222,7 +222,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; javaProgramming Week 6 in progress; Pluralsight annotation updated; Week 7 placeholder added
+## [2026-10-12] — 09-clubs Claude Academy AI Fluency course added; javaProgramming Week 6 in progress; Pluralsight course Object-oriented Programming in Java, Working with Objects module complete; Week 7 placeholder added
 
 ### Changed
 
@@ -274,7 +274,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-08] — Pluralsight annotation updated; technicalReporting Week 5 annotation updated
+## [2026-10-08] — Pluralsight course Debugging Java, Increasing Productivity with an IDE module complete (Debugging Java course complete); technicalReporting Week 5 annotation updated
 
 ### Changed
 
@@ -295,7 +295,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-06] — Pluralsight annotation updated
+## [2026-10-06] — Pluralsight course Debugging Java, Find the Problem, Fix the Problem module complete
 
 ### Changed
 
@@ -305,7 +305,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-05] — Pluralsight annotation updated; phpWebMySQL Week 5 completed
+## [2026-10-05] — Pluralsight course Debugging Java, Module 3 Avoiding Common Mistakes module complete; phpWebMySQL Week 5 completed
 
 ### Changed
 
@@ -339,7 +339,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-03] — javaProgramming Week 4 completed
+## [2026-10-03] — javaProgramming Week 4 completed; Pluralsight course Debugging Java, Module 3 Avoiding Common Mistakes module started
 
 ### Changed
 
@@ -353,7 +353,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-02] — Pluralsight annotation updated
+## [2026-10-02] — Pluralsight course Java SE, Working with Wrapper Classes, Enums, and Records module complete (Java SE course complete)
 
 ### Changed
 
@@ -383,7 +383,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-30] — joker-1 Project 3 simplified, GUI decided, detail relocated to project repo; Pluralsight annotation updated
+## [2026-09-30] — joker-1 Project 3 simplified, GUI decided, detail relocated to project repo; Pluralsight course Java SE, A Closer Look at Methods module complete
 
 ### Changed
 
@@ -400,7 +400,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-29] — 10-hearts Week 5 deliverable annotations added; Pluralsight annotation updated
+## [2026-09-29] — 10-hearts Week 5 deliverable annotations added; Pluralsight course Java SE, Using Static Members module complete
 
 ### Changed
 
@@ -411,7 +411,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 progress notes and reflections entries backfilled; 09-clubs Claude Academy series reset; Pluralsight annotation updated
+## [2026-09-28] — 10-hearts javaProgramming Week 3 completed; 03-spades-v2 progress notes and reflections entries backfilled; 09-clubs Claude Academy series reset; Pluralsight course Java SE, Implementing Class Constructors and Initializers module complete
 
 ### Changed
 
@@ -454,7 +454,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-26] — 10-hearts javaProgramming Week 3 marked in progress; Pluralsight annotation updated
+## [2026-09-26] — 10-hearts javaProgramming Week 3 marked in progress; Pluralsight course Java SE, Understanding Classes and Objects module complete
 
 ### Changed
 
@@ -463,7 +463,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-25] — joker-1 daily writing subtask relabeled to German Writing Practice; 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-25] — joker-1 daily writing subtask relabeled to German Writing Practice; Pluralsight course Java SE, Working With Strings module complete
 
 ### Changed
 
@@ -482,7 +482,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-23] — joker-1 target completion revised; employer shortlist live; card cleanup; 10-hearts javaProgramming Pluralsight and Week 3 annotations updated
+## [2026-09-23] — joker-1 target completion revised; employer shortlist live; card cleanup; 10-hearts javaProgramming Week 3 annotation updated; Pluralsight course Java SE, Understanding Methods module complete
 
 ### Changed
 
@@ -500,7 +500,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-22] — joker-1 application tracking restructured; first application submitted; 10-hearts technicalReporting Week 3 completed; javaProgramming Week 3 in progress; Pluralsight annotation updated
+## [2026-09-22] — joker-1 application tracking restructured; first application submitted; 10-hearts technicalReporting Week 3 completed; javaProgramming Week 3 in progress; Pluralsight course Java SE, Looping and Arrays module complete
 
 ### Changed
 
@@ -519,7 +519,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-21] — 10-hearts advancedJavaScript Week 2 and phpWebMySQL Week 3 completed; Week 2 rows pruned across all four courses; Week 4 added; javaProgramming Pluralsight annotation updated
+## [2026-09-21] — 10-hearts advancedJavaScript Week 2 and phpWebMySQL Week 3 completed; Week 2 rows pruned across all four courses; Week 4 added; Pluralsight course Java SE, Conditional Logic and Block Statements module complete
 
 ### Completed
 
@@ -540,7 +540,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-20] — 10-hearts javaProgramming Pluralsight annotation updated
+## [2026-09-20] — Pluralsight course Java SE, Operator Precedence module complete
 
 ### Changed
 
@@ -560,7 +560,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-18] — 10-hearts technicalReporting Week 2 completed; javaProgramming Pluralsight annotation updated
+## [2026-09-18] — 10-hearts technicalReporting Week 2 completed; Pluralsight course Java SE, Variables, Data Types, and Math Operators module complete
 
 ### Completed
 
@@ -700,7 +700,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-09-08] — 10-hearts Pluralsight Java path progress
+## [2026-09-08] — Pluralsight course Java SE, Variables, Data Types, and Math Operators module started
 
 ### Changed
 
