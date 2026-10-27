@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-27] — Pluralsight course Object-oriented Programming in Java, Talking to Interfaces module complete
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-27: Object-oriented Programming in Java, Designing with Inheritance and Polymorphism)
+
+---
+
 ## [2026-10-26] — advancedJavaScript Week 8 completed and pruned; Status Transitions; Self-Study Rebalance (Java path primary, UCSD DSA queued)
 
 ### Completed
