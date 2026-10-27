@@ -17,25 +17,20 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [02-spades] — transitioned: In Progress → Deferred (sequencing preference, not a gate — prioritizing the Pluralsight Java path and a first live portfolio project)
-- [03-diamonds] — transitioned: In Progress → Deferred (same sequencing preference)
-- [09-clubs] — [Complete Data Structures and Algorithms Specialization] annotation updated — "takes priority over all other subtask series below" replaced with "queued; starts alongside the Pluralsight Java path once the first portfolio project is live; light pace (a couple of sessions a week) during the semester, ramping up over winter break"
+- [02-spades] / [03-diamonds] — transitioned: In Progress → Deferred (sequencing preference, not a gate — prioritizing the Pluralsight Java path and a first live portfolio project)
 - [02-spades] / [03-diamonds] — [Reflection & Lessons Learned] section restored (was missing between Completion Notes and Unlocks), matching the 2026-08-10 09-clubs precedent — CARD_TEMPLATE prompts added with empty answers, no content written
+- [09-clubs] — [Complete Data Structures and Algorithms Specialization] annotation updated (queued, pending first portfolio project — previously "takes priority"); [Claude Academy > AI Fluency: Framework and foundations] annotation updated (2026-10-26; A closer look at Discernment); [Complete 30 Days of JavaScript Study Plan] moved under the [LeetCode] parent — left out of place since the 2026-10-15 grouping pass
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-26: Object-oriented Programming in Java, Talking to Interfaces)
-- [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] annotation updated (2026-10-26; A closer look at Discernment)
-- [09-clubs] — [Complete 30 Days of JavaScript Study Plan] moved under the [LeetCode] parent subtask group — left out of place as a standalone item during the 2026-10-15 grouping pass
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] annotation updated — Mod3Lab6 completed and dropped (Project3(High Level Design, Class ID), Mod3Lab7 remaining)
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] marked in progress; annotation updated — Live Code Review (Project2) completed and dropped (Challenge remaining)
-- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting > Deliverables > Week 9] annotation updated (...) — deliverables known to exist but not yet confirmed
-- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 9] annotation updated (Project2)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables] Week 8 annotation updated — Mod3Lab6 completed and dropped (Project3(High Level Design, Class ID), Mod3Lab7 remaining); Week 9 marked in progress — Live Code Review (Project2) completed and dropped (Challenge remaining)
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, phpWebMySQL > Deliverables > Week 9] annotations updated (advancedJavaScript/technicalReporting: deliverables known to exist but not yet confirmed; phpWebMySQL: Project2)
 
 ### Notes
 
-- [02-spades] — [Progress Notes] added note (2026-10-26; deferred to prioritize the Pluralsight Java path and a first live portfolio project; resume point Dr. Chuck C, Ch. 6 Structures)
-- [03-diamonds] — [Progress Notes] added note (2026-10-26; deferred for the same reason; resume point Try It Yourself review, Ch. 3 exercises)
-- [03-spades-v2] — [Progress Notes] added note (2026-10-26; background pace confirmed — light reading, 15-20 min a few times a week, currently Ch. 13)
-- [09-clubs] — [Progress Notes] added note (2026-10-26; DSA series queued status supersedes the 2026-08-25 top-priority placement — Java path portfolio projects now the higher-leverage near-term goal for entry-level applications)
-- [10-hearts] — [Progress Notes] added note (2026-10-26; Pluralsight Java path confirmed as primary self-study track until first portfolio project is live; retention habit noted)
+- [02-spades] — [Progress Notes] added (2026-10-26; deferred to prioritize the Pluralsight Java path and a first live portfolio project; resume point Dr. Chuck C, Ch. 6 Structures)
+- [03-diamonds] — [Progress Notes] added (2026-10-26; deferred for the same reason; resume point Try It Yourself review, Ch. 3 exercises)
+- [03-spades-v2] — [Progress Notes] added (2026-10-26; background pace confirmed — light reading, 15-20 min a few times a week, currently Ch. 13)
+- [09-clubs] — [Progress Notes] added (2026-10-26; DSA queued status supersedes the 2026-08-25 top-priority placement — Java path portfolio projects now the higher-leverage near-term goal for entry-level applications)
+- [10-hearts] — [Progress Notes] added (2026-10-26; Pluralsight Java path confirmed as primary self-study track until first portfolio project is live; retention habit noted)
 
 ### Added
 
