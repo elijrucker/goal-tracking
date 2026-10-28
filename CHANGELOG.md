@@ -5,12 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-28] — Remote dev environment milestone logged for Maven Fundamentals
+## [2026-10-28] — Remote dev environment milestone logged for Maven Fundamentals; javaProgramming Week 8 Mod3Lab7 completed
 
 ### Notes
 
 - [10-hearts] — [Progress Notes] added (2026-10-28; remote dev environment working end to end for the Maven Fundamentals `hello` quickstart project — VS Code Remote-SSH, Docker, dev container, JUnit 5 migration, private GitHub repo)
 - [REFLECTIONS.md] — Remote Dev Container Workflow Validated End-to-End — the devcontainer setup proven on this exercise is reusable for future Java project work (joker-1 Project 3, future 09♣️ breakout projects)
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables] Week 8 annotation updated — Mod3Lab7 completed and dropped (Project3(High Level Design, Class ID) remaining)
 
 ---
 
