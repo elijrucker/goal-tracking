@@ -40,6 +40,14 @@ dedicated card.
 
 ## Entries
 
+### [2026-10-28] — Remote Dev Container Workflow Validated End-to-End
+
+**Context:** Working through the Pluralsight Java path's Maven Fundamentals course (10♥️ javaProgramming Learning Material), got a remote dev environment working end to end for the `hello` quickstart project: VS Code Remote-SSH → Docker Engine on the server → dev container (Ubuntu base, JDK 25 and Maven via dev container features, GitHub CLI), with a named Maven cache volume and a working Maven Wrapper build.
+
+**Core insight:** The setup itself — not just the Maven course content — is now a proven, reusable pattern rather than a one-off fix for a single exercise project. Getting it working required real debugging (JUnit 3.8.1 → JUnit 5 migration, compiler release config), so the capability has already paid for the time spent on it once.
+
+**What this unlocks:** Future Java-based project work that currently has no settled dev environment plan — joker-1's Project 3 (JavaFX workout tracker) and any future 09♣️ breakout/applied projects — can adopt this same devcontainer pattern instead of re-deriving environment setup from scratch.
+
 ### [2026-09-28] — Plan to Throw One Away, Applied to the System's Own Card Files
 
 **Context:** Chapter 11 of *The Mythical Man-Month* (03-spades-v2) argues that the first attempt

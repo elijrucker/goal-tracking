@@ -5,6 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-28] — Remote dev environment milestone logged for Maven Fundamentals
+
+### Notes
+
+- [10-hearts] — [Progress Notes] added (2026-10-28; remote dev environment working end to end for the Maven Fundamentals `hello` quickstart project — VS Code Remote-SSH, Docker, dev container, JUnit 5 migration, private GitHub repo)
+- [REFLECTIONS.md] — Remote Dev Container Workflow Validated End-to-End — the devcontainer setup proven on this exercise is reusable for future Java project work (joker-1 Project 3, future 09♣️ breakout projects)
+
+---
+
 ## [2026-10-27] — Pluralsight course Object-oriented Programming in Java complete; Maven Fundamentals started
 
 ### Changed
