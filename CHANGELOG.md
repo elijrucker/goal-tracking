@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-28] — Remote dev environment milestone logged for Maven Fundamentals; javaProgramming Week 8 Mod3Lab7 completed
+## [2026-10-28] — Remote dev environment milestone logged for Maven Fundamentals; javaProgramming Week 8 Mod3Lab7 completed; phpWebMySQL Week 6 started
 
 ### Notes
 
@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables] Week 8 annotation updated — Mod3Lab7 completed and dropped (Project3(High Level Design, Class ID) remaining)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 6] marked in progress
 
 ---
 
