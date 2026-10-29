@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-29] — joker-1 Project 3 last-touched date refreshed
+
+### Changed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Project 3] Last-touched annotation refreshed to 2026-10-29; still Sprint 0 (scaffolding), weekend target Oct 31–Nov 2
+
+---
+
 ## [2026-10-28] — Remote dev environment milestone logged for Maven Fundamentals; javaProgramming Week 8 Mod3Lab7 completed; phpWebMySQL Week 6 started
 
 ### Notes

@@ -67,7 +67,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 ## Subtasks - Profile, Portfolio & Credentials
 
 - [/] Ensure 3 strong portfolio projects are live and documented
-  - [/] Project 3 — Java workout tracking app (JavaFX GUI) (2026-09-30; Sprint 0 (scaffolding))
+  - [/] Project 3 — Java workout tracking app (JavaFX GUI) (2026-10-29; Sprint 0 (scaffolding), weekend target Oct 31–Nov 2)
   - [ ] First Pluralsight Java path project live as a portfolio project (lightly refactored from the path's project) — deployed or runnable by a stranger; README explaining what it does and how to run it; basic tests
 
 ## Subtasks - Job Search & Preparation
