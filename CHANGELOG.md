@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-10-30] — Pluralsight course Maven Fundamentals, Introduction to Maven module complete
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-30: Maven Fundamentals, Maven Structure)
+
+---
+
 ## [2026-10-29] — joker-1 Project 3 last-touched date refreshed
 
 ### Changed

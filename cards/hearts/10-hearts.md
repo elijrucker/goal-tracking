@@ -59,7 +59,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 8 (Project3(High Level Design, Class ID))
     - [/] Week 9 (Challenge...)
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-10-27: Maven Fundamentals, Introduction to Maven)
+    - [/] Pluralsight Java path (2026-10-30: Maven Fundamentals, Maven Structure)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
