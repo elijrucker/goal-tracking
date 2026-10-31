@@ -5,11 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-10-30] — Pluralsight course Maven Fundamentals, Introduction to Maven module complete
+## [2026-10-30] — Pluralsight course Maven Fundamentals, Introduction to Maven module complete; phpWebMySQL Week 9 Project2 completed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-10-30: Maven Fundamentals, Maven Structure)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 9] marked in progress; Project2 completed and dropped (Wk09 Lab remaining)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 8] row removed — confirmed no lab exists for Week 8; its only deliverable, the Midterm Exam, was already tracked and completed under Week 7
 
 ---
 
