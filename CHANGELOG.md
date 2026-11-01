@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-01] — technicalReporting Week 8 pruned (one-time override)
+
+### Removed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 8] pruned ahead of javaProgramming closing the same week — one-time override of the delayed-sweep pruning policy (2026-09-10), matching the 2026-10-20 precedent
+
+---
+
 ## [2026-10-30] — Pluralsight course Maven Fundamentals, Introduction to Maven module complete; phpWebMySQL Week 9 Project2 completed; technicalReporting Week 8 completed
 
 ### Changed
