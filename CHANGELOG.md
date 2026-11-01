@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-01] — technicalReporting Week 8 pruned (one-time override); Week 9 annotations confirmed across advancedJavaScript, technicalReporting, javaProgramming
+## [2026-11-01] — technicalReporting Week 8 pruned (one-time override); Week 9 annotations confirmed across advancedJavaScript, technicalReporting, javaProgramming; technicalReporting Week 9 4.6 (1 of 2) completed
 
 ### Removed
 
@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming > Deliverables > Week 9] placeholder annotations confirmed (advancedJavaScript: Quiz7, Lab7; technicalReporting: 4.6, 4.7; javaProgramming: Challenge, Mod3Lab8, Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 9] marked in progress; 4.6 annotation updated (1 of 2 responses completed; 4.7 remaining)
 
 ---
 
