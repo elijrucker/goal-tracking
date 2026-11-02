@@ -58,7 +58,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 8 (Project3(High Level Design, Class ID))
     - [/] Week 9 (Challenge, Mod3Lab8, Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-10-30: Maven Fundamentals, Maven Structure)
+    - [/] Pluralsight Java path (2026-11-02: Maven Fundamentals, Maven Dependencies)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**

@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-02] — Pluralsight course Maven Fundamentals, Maven Structure module complete
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-11-02: Maven Fundamentals, Maven Dependencies)
+
+---
+
 ## [2026-11-01] — technicalReporting Week 8 pruned (one-time override); Week 9 annotations confirmed across advancedJavaScript, technicalReporting, javaProgramming; technicalReporting Week 9 4.6 completed
 
 ### Removed
