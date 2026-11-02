@@ -48,15 +48,18 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
     - [ ] Week 9 (Quiz7, Lab7)
+    - [ ] Week 10 (...)
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
     - [/] Week 9 (4.7)
+    - [ ] Week 10 (...)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [/] Week 8 (Project3(High Level Design, Class ID))
     - [/] Week 9 (Challenge, Mod3Lab8, Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
+    - [ ] Week 10 (...)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-11-02: Maven Fundamentals, Maven Dependencies)
 
@@ -65,6 +68,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 6 (Wk06 Lab)
     - [/] Week 7 (Wk07 Lab)
     - [/] Week 9 (Wk09 Lab)
+    - [ ] Week 10 (...)
 
 ---
 
