@@ -5,11 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-03] — joker-1 Pluralsight portfolio project swapped for technical-writing-portfolio
+## [2026-11-03] — joker-1 Pluralsight portfolio project swapped for technical-writing-portfolio; technical-writing-portfolio started
 
 ### Changed
 
-- [joker-1] — [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects are live and documented] "First Pluralsight Java path project live as a portfolio project" subtask replaced with "technical-writing-portfolio" (portfolio site of technical writing samples) — Pluralsight Java path projects deemphasized in favor of personal projects
+- [joker-1] — [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects are live and documented] "First Pluralsight Java path project live as a portfolio project" subtask replaced with "technical-writing-portfolio" (a GitHub repo of technical writing samples) — Pluralsight Java path projects deemphasized in favor of personal projects
+- [joker-1] — [Profile, Portfolio & Credentials > technical-writing-portfolio] marked in progress; tracker annotation added (2026-11-03; refactor working guide working draft)
+- [joker-1] — [Profile, Portfolio & Credentials > technical-writing-portfolio] subtask line trimmed to match Project 3's terse, repo-delegated format — acceptance-criteria detail (viewable by a stranger; README) dropped from the line itself since it's already on record in the 2026-11-03 Progress Note
 
 ---
 

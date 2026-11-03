@@ -42,7 +42,7 @@ dedicated card.
 
 ### [2026-11-03] — Portfolio Credit Favors Original Work Over Refactored Exercises
 
-**Context:** Joker 1's 3-portfolio-project requirement included "First Pluralsight Java path project live as a portfolio project" — a lightly-refactored version of a Pluralsight exercise project. Replaced with "technical-writing-portfolio," a from-scratch site of original technical writing samples.
+**Context:** Joker 1's 3-portfolio-project requirement included "First Pluralsight Java path project live as a portfolio project" — a lightly-refactored version of a Pluralsight exercise project. Replaced with "technical-writing-portfolio," a from-scratch GitHub repo of original technical writing samples.
 
 **Core insight:** A refactored course exercise demonstrates competence with the material, but a reviewer can tell it started as someone else's project scaffold — it doesn't showcase independent design decisions the way a project built from a blank slate does. Project 3 (the JavaFX workout tracker) and this new writing portfolio both start from nothing; the Pluralsight slot didn't.
 
