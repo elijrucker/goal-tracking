@@ -2019,7 +2019,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fulfill math elective requirement > Pull Franklin ↔ Madison College articulation agreement and confirm math course mappings] closed
 - [10-hearts] — [Fulfill math elective requirement > Confirm with Franklin advising whether CLEP College Algebra satisfies MATH 160] closed
 - [joker-1] — [Complete Anthropic Academy Courses > Claude Code in Action] closed
-- [joker-1] — [Research visa requirements] closed; EU Blue Card confirmed, IT specialist exception applies, Verisk tenure satisfies 3-year bar, C1 German exceeds B1 threshold for 21-month accelerated permanent residency
+- [joker-1] — [Research visa requirements] closed; EU Blue Card confirmed, IT specialist exception applies, current employer tenure satisfies 3-year bar, C1 German exceeds B1 threshold for 21-month accelerated permanent residency
 
 ### Changed
 
