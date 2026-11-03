@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-03] — joker-1 Pluralsight portfolio project swapped for technical-writing-portfolio
+
+### Changed
+
+- [joker-1] — [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects are live and documented] "First Pluralsight Java path project live as a portfolio project" subtask replaced with "technical-writing-portfolio" (portfolio site of technical writing samples) — Pluralsight Java path projects deemphasized in favor of personal projects
+
+---
+
 ## [2026-11-02] — Pluralsight course Maven Fundamentals, Maven Structure, Maven Dependencies, and Maven Repositories modules complete; Week 10 placeholder added across all four Fall 26 courses
 
 ### Changed

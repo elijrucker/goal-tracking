@@ -68,7 +68,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [/] Project 3 — Java workout tracking app (JavaFX GUI) (2026-10-29; Sprint 0 (scaffolding), weekend target Oct 31–Nov 2)
-  - [ ] First Pluralsight Java path project live as a portfolio project (lightly refactored from the path's project) — deployed or runnable by a stranger; README explaining what it does and how to run it; basic tests
+  - [ ] technical-writing-portfolio — portfolio site of technical writing samples, live and documented — deployed and viewable by a stranger; README explaining the collection and how it's organized
 
 ## Subtasks - Job Search & Preparation
 
@@ -96,6 +96,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 ## Progress Notes
 
+- [2026-11-03] [Profile, Portfolio & Credentials > Ensure 3 strong portfolio projects are live and documented] "First Pluralsight Java path project live as a portfolio project" subtask replaced with "technical-writing-portfolio" (portfolio site of technical writing samples, deployed and viewable by a stranger, with a README explaining the collection). Pluralsight Java path projects deemphasized in favor of personal projects — a Pluralsight-path project is a lightly-refactored exercise, not an original showcase of independent work the way Project 3 and this new portfolio are. See REFLECTIONS.md (2026-11-03) for the broader portfolio-strategy rationale.
 - [2026-09-30] [Profile, Portfolio & Credentials > Project 3] Scope detail moved out of joker-1.md entirely: sprint breakdown, ADR log, and architecture notes now live in Project 3's own repository (created as part of Sprint 0), which is deliberately treated as a portfolio piece for planning/process, not just code. Future updates to this entry will be terse — a last-touched date and current/next task only, matching the deck's low-touch convention for repo-delegated projects.
 - [2026-09-30] [Profile, Portfolio & Credentials > Project 3] GUI framework decided: JavaFX over Swing, prioritizing future-proofing (active maintenance, modern practice) over Swing's zero-setup convenience.
 - [2026-09-30] [Profile, Portfolio & Credentials > Project 3] Further simplified to fast-track application progress: single-language stack (Java only), JavaFX desktop GUI replaces the deferred Flutter mobile frontend as the concrete frontend requirement. Workout tracker domain retained. Mobile frontend (Flutter/Kotlin, undecided) remains in BACKLOG.md, tied to the potential Spring 27 honors project.

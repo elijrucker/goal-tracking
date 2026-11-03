@@ -40,6 +40,14 @@ dedicated card.
 
 ## Entries
 
+### [2026-11-03] — Portfolio Credit Favors Original Work Over Refactored Exercises
+
+**Context:** Joker 1's 3-portfolio-project requirement included "First Pluralsight Java path project live as a portfolio project" — a lightly-refactored version of a Pluralsight exercise project. Replaced with "technical-writing-portfolio," a from-scratch site of original technical writing samples.
+
+**Core insight:** A refactored course exercise demonstrates competence with the material, but a reviewer can tell it started as someone else's project scaffold — it doesn't showcase independent design decisions the way a project built from a blank slate does. Project 3 (the JavaFX workout tracker) and this new writing portfolio both start from nothing; the Pluralsight slot didn't.
+
+**What this unlocks:** General criterion for future portfolio-slot decisions, not just this one swap — when a portfolio subtask's substance is "take X and lightly modify it," treat that as a weaker credential than an original build, and prefer swapping it for self-directed work when one exists. Pluralsight itself is unaffected as a learning track (10♥️ javaProgramming); this is specifically about what counts as portfolio-grade evidence.
+
 ### [2026-10-28] — Remote Dev Container Workflow Validated End-to-End
 
 **Context:** Working through the Pluralsight Java path's Maven Fundamentals course (10♥️ javaProgramming Learning Material), got a remote dev environment working end to end for the `hello` quickstart project: VS Code Remote-SSH → Docker Engine on the server → dev container (Ubuntu base, JDK 25 and Maven via dev container features, GitHub CLI), with a named Maven cache volume and a working Maven Wrapper build.
