@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-04] — Pluralsight course Maven Fundamentals, Using Plugins module complete
+## [2026-11-04] — Pluralsight course Maven Fundamentals, Using Plugins and IDE Integration modules complete
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-11-04: Maven Fundamentals, IDE Integration)
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] IDE Integration module completed; annotation updated (2026-11-04: Maven Fundamentals, Using a BOM file)
 
 ---
 
