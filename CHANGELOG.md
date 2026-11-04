@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-04] — Pluralsight course Maven Fundamentals, Using Plugins module complete
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-11-04: Maven Fundamentals, IDE Integration)
+
+---
+
 ## [2026-11-03] — joker-1 Pluralsight portfolio project swapped for technical-writing-portfolio; technical-writing-portfolio started
 
 ### Changed
