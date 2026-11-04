@@ -5,13 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-04] — Pluralsight course Maven Fundamentals, Using Plugins, IDE Integration, and Using a BOM file modules complete (Maven Fundamentals course complete)
+## [2026-11-04] — Pluralsight course Maven Fundamentals complete
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] annotation updated (2026-11-04: Maven Fundamentals, IDE Integration)
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] IDE Integration module completed; annotation updated (2026-11-04: Maven Fundamentals, Using a BOM file)
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Using a BOM file module completed, closing out Maven Fundamentals; annotation updated to the pending code lab (2026-11-04: First POM to a Maven Reactor) — the last component of the Java path's "Entry-Level" section; completing it unlocks the "Practitioner" section
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Maven Fundamentals course completed (Using Plugins, IDE Integration, Using a BOM file modules closed out over the day); annotation updated to the pending code lab (2026-11-04: First POM to a Maven Reactor) — the last component of the Java path's "Entry-Level" section; completing it unlocks the "Practitioner" section
 
 ---
 
