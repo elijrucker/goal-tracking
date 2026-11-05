@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-05] — javaProgramming Week 8 Project3 High Level Design completed
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] Project3 annotation updated — High Level Design completed and dropped (Class ID remaining)
+
+---
+
 ## [2026-11-04] — Pluralsight course Maven Fundamentals complete; technical-writing-portfolio GitHub guide progress
 
 ### Changed
