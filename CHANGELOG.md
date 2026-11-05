@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-05] — javaProgramming Week 8 completed and pruned; Spring 27 cSharp swapped for advPHPandMySQLWeb
+## [2026-11-05] — javaProgramming Week 8 completed and pruned; Spring 27 cSharp swapped for advPHPandMySQLWeb; Claude Academy AI Fluency: Framework and foundations completed
 
 ### Changed
 
@@ -16,6 +16,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] pruned — complete and logged, per the delayed-sweep pruning policy (advancedJavaScript, technicalReporting, and phpWebMySQL had no open Week 8 row remaining)
+
+### Completed
+
+- [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] marked complete, annotation removed
 
 ---
 
