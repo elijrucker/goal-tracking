@@ -56,7 +56,6 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
   - [ ] Genome Assembly Programming Challenge
   - [ ] _Ace Your Next Coding Interview by Learning Algorithms_ (Cogniterra, auxiliary)
 - [/] Claude Academy
-  - [x] AI Fluency: Framework and foundations
   - [ ] Building with the Claude API
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics

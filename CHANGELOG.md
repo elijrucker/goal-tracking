@@ -16,6 +16,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] pruned — complete and logged, per the delayed-sweep pruning policy (advancedJavaScript, technicalReporting, and phpWebMySQL had no open Week 8 row remaining)
+- [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] pruned — complete and logged, per the dynamic-card convention
 
 ### Completed
 
