@@ -45,7 +45,7 @@ A running record of completed cards, milestones, and reflections. Updated each t
 | J♦️  | AWS Skill Builder Learning Plan  | In Progress | 1/11                |
 | 🃏1  | Software Developer Job in Berlin | In Progress | 0/7 Prerequisites\* |
 | 2♥️  | Index Investing Fundamentals     | In Progress | 0/5                 |
-| 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 0/26                |
+| 9♣️  | Interview Prep & Algorithmic Practice | In Progress | 0/11\*              |
 | 5♦️  | Python Reinforcement & Deep Dive | In Progress | 2/5                 |
 | A♥️  | Complete Bachelor's Degree       | In Progress | Pending transfer credit evaluation |
 
@@ -53,6 +53,11 @@ A running record of completed cards, milestones, and reflections. Updated each t
 Degree, CS50M, Testing/TDD Milestone, Open Source Contribution) instead of a subtask fraction.
 joker-1's Subtasks tree prunes closed entries after logging, so it doesn't hold cumulative
 progress the way static/linear-curriculum cards do — see "Subtask Tree Retention" in CLAUDE.md.
+
+\* 9♣️ counts Claude Academy and LeetCode as single parent-level tasks (not their individual children) in this
+fraction — both groups prune closed children after logging (per "Subtask Tree Retention" in CLAUDE.md), so
+counting children directly would cycle rather than accumulate as the series progresses. Each flips to complete
+only once its own series is fully done.
 
 ---
 

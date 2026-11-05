@@ -5,13 +5,16 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-05] — javaProgramming Week 8 completed and pruned; Spring 27 cSharp swapped for advPHPandMySQLWeb; Claude Academy AI Fluency: Framework and foundations completed
+## [2026-11-05] — javaProgramming Week 8 completed and pruned; Spring 27 cSharp swapped for advPHPandMySQLWeb; Claude Academy AI Fluency: Framework and foundations completed; 09-clubs subtask-fraction tracking revised
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] Project3 annotation updated — High Level Design completed and dropped (Class ID remaining)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] marked complete; Project3 Class ID closed out the last remaining item, annotation removed
 - [10-hearts] — [Spring 27] cSharp (blocked; in-person only) replaced with advPHPandMySQLWeb, registered — satisfies the same requirement as cSharp
+- [PROGRESS.md] — [On the Board > 9♣️] Subtask Progress changed from 0/26 to 0/11\* — Claude Academy and LeetCode now count as single parent-level tasks rather than their individual children, since both prune closed children after logging; footnote added explaining the change
+- [09-clubs] — [Progress Notes] added (2026-11-05; rationale for the PROGRESS.md tracking revision above, superseding the 2026-09-28 "revisit if Claude Academy grows to dominate" trigger)
+- [CLAUDE.md] — [Subtask Tree Retention] 09-clubs' alternate PROGRESS.md tracking method added alongside joker-1's, 10-hearts', and ace-hearts' existing notes
 
 ### Removed
 
