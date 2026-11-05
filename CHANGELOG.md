@@ -17,6 +17,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] pruned — complete and logged, per the delayed-sweep pruning policy (advancedJavaScript, technicalReporting, and phpWebMySQL had no open Week 8 row remaining)
 - [09-clubs] — [Claude Academy > AI Fluency: Framework and foundations] pruned — complete and logged, per the dynamic-card convention
+- [09-clubs] — [Claude Academy > Claude with Amazon Bedrock] removed — deferred to BACKLOG.md; platform-specific course, not a prerequisite for the rest of the series, activation deferred until AWS/Bedrock is actually needed
 
 ### Completed
 

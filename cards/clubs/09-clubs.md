@@ -60,7 +60,6 @@ Interview readiness is a byproduct of deep understanding, not the primary driver
   - [ ] Introduction to Model Context Protocol
   - [ ] Model Context Protocol Advanced Topics
   - [ ] Introduction to Agent Skills
-  - [ ] Claude with Amazon Bedrock
 - [ ] Read Cracking the Coding Interview
 - [/] LeetCode
   - [/] Complete The LeetCode Beginner's Guide (2026-08-13; Beginner's Guide, 1672)
