@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-05] — javaProgramming Week 8 Project3 High Level Design completed
+## [2026-11-05] — javaProgramming Week 8 completed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] Project3 annotation updated — High Level Design completed and dropped (Class ID remaining)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] marked complete; Project3 Class ID closed out the last remaining item, annotation removed
 
 ---
 
