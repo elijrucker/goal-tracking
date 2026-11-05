@@ -5,12 +5,13 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-05] — javaProgramming Week 8 completed and pruned
+## [2026-11-05] — javaProgramming Week 8 completed and pruned; Spring 27 cSharp swapped for advPHPandMySQLWeb
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] Project3 annotation updated — High Level Design completed and dropped (Class ID remaining)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 8] marked complete; Project3 Class ID closed out the last remaining item, annotation removed
+- [10-hearts] — [Spring 27] cSharp (blocked; in-person only) replaced with advPHPandMySQLWeb, registered — satisfies the same requirement as cSharp
 
 ### Removed
 

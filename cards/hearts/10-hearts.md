@@ -75,7 +75,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [ ] **db_prog** (registered)
 - [ ] **advancedJava** (registered)
-- [ ] **cSharp** (blocked; in-person only, no remote option — revisit course offerings 2026-12-01)
+- [ ] **advPHPandMySQLWeb** (registered)
 
 - [/] **Fulfill math elective requirement**
   - **Deliverables:**
