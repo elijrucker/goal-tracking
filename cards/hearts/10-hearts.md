@@ -60,7 +60,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 9 (Challenge, Mod3Lab8, Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
     - [ ] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-11-04: First POM to a Maven Reactor)
+    - [/] Pluralsight Java path (2026-11-06: What's New in Java 24)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**

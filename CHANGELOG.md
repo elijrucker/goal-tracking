@@ -5,10 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-06] — advancedJavaScript Week 9 in progress; Week 10 annotations added across all four Fall 26 courses
+## [2026-11-06] — javaProgramming Pluralsight Java path Entry-Level section complete; advancedJavaScript Week 9 in progress; Week 10 annotations added across all four Fall 26 courses
 
 ### Changed
 
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "First POM to a Maven Reactor" code lab completed, closing out the Java path's "Entry-Level" section; annotation updated to the new pending course, "What's New in Java 24" — the start of the "Practitioner" section
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 9] marked in progress (Quiz7, Lab7)
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 10] annotation added (Quiz8, Lab8)
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 10] annotation added (5.1, 5.2)
