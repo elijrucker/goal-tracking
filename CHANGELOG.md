@@ -5,6 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-06] — advancedJavaScript Week 9 in progress; Week 10 annotations added across all four Fall 26 courses
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 9] marked in progress (Quiz7, Lab7)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 10] annotation added (Quiz8, Lab8)
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 10] annotation added (5.1, 5.2)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 10] annotation added (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 10] annotation added (Wk10 Lab)
+
+---
+
 ## [2026-11-05] — javaProgramming Week 8 completed and pruned; Spring 27 cSharp swapped for advPHPandMySQLWeb; Claude Academy AI Fluency: Framework and foundations completed; 09-clubs subtask-fraction tracking revised
 
 ### Changed

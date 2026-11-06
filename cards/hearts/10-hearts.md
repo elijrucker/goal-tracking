@@ -47,18 +47,18 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **advancedJavaScript** (08/31-12/18)
   - **Deliverables:**
-    - [ ] Week 9 (Quiz7, Lab7)
-    - [ ] Week 10 (...)
+    - [/] Week 9 (Quiz7, Lab7)
+    - [ ] Week 10 (Quiz8, Lab8)
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
     - [/] Week 9 (4.7)
-    - [ ] Week 10 (...)
+    - [ ] Week 10 (5.1, 5.2)
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
     - [/] Week 9 (Challenge, Mod3Lab8, Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
-    - [ ] Week 10 (...)
+    - [ ] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-11-04: First POM to a Maven Reactor)
 
@@ -67,7 +67,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 6 (Wk06 Lab)
     - [/] Week 7 (Wk07 Lab)
     - [/] Week 9 (Wk09 Lab)
-    - [ ] Week 10 (...)
+    - [ ] Week 10 (Wk10 Lab)
 
 ---
 
