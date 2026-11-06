@@ -68,7 +68,7 @@ _These are accelerants, not gates: the core goal (job offer) is achievable witho
 
 - [/] Ensure 3 strong portfolio projects are live and documented
   - [/] Project 3 — Java workout tracking app (JavaFX GUI) (2026-10-29; Sprint 0 (scaffolding), weekend target Oct 31–Nov 2)
-  - [/] technical-writing-portfolio — technical writing samples portfolio repo (2026-11-04; refactor guide; pull section)
+  - [/] technical-writing-portfolio — technical writing samples portfolio repo (2026-11-06; refactor guide; troubleshooting)
 
 ## Subtasks - Job Search & Preparation
 

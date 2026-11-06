@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 10] annotation added (5.1, 5.2)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 10] annotation added (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
 - [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 10] annotation added (Wk10 Lab)
+- [joker-1] — [Profile, Portfolio & Credentials > technical-writing-portfolio] GitHub guide's pull command section refactor completed; tracker annotation updated to the next pending section, troubleshooting (2026-11-06; refactor guide; troubleshooting)
 
 ---
 
