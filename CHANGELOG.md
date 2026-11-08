@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-08] — technicalReporting Week 9 pruned
+
+### Removed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 9] pruned — complete and logged, per the per-course delayed-sweep pruning policy
+
+---
+
 ## [2026-11-06] — javaProgramming Pluralsight Java path Entry-Level section complete; technicalReporting Week 9 completed; advancedJavaScript Week 9 in progress; Week 10 annotations added across all four Fall 26 courses
 
 ### Changed
