@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-09] — javaProgramming Pluralsight Java path "What's New in Java 24" first module complete
+## [2026-11-09] — javaProgramming Pluralsight Java path "What's New in Java 24" Modules 1-2 complete
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "What's New in Java 24" first module completed; annotation updated to the next pending module, Stream Gatherers
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Module 2 (Stream Gatherers) completed; annotation updated to the next pending module, Performance & Security Improvements
 
 ---
 
@@ -66,6 +67,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Maven Fundamentals course completed (Using Plugins, IDE Integration, Using a BOM file modules closed out over the day); annotation updated to the pending code lab (2026-11-04: First POM to a Maven Reactor) — the last component of the Java path's "Entry-Level" section; completing it unlocks the "Practitioner" section
 - [joker-1] — [Profile, Portfolio & Credentials > technical-writing-portfolio] tracker annotation updated (2026-11-04; refactor guide; pull section) — GitHub guide revisions elected to be completed in segments rather than in one pass as initially planned
+
 
 ---
 
