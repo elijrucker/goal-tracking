@@ -5,12 +5,11 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-09] — javaProgramming Pluralsight Java path "What's New in Java 24" Modules 1-2 complete
+## [2026-11-09] — javaProgramming Pluralsight course "What's New in Java 24" complete
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "What's New in Java 24" first module completed; annotation updated to the next pending module, Stream Gatherers
-- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Module 2 (Stream Gatherers) completed; annotation updated to the next pending module, Performance & Security Improvements
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "What's New in Java 24" course completed (Stream Gatherers, Performance & Security Improvements modules closed out over the day); annotation updated to the next pending item, the code lab "Guided: Searching and Sorting in a Java Book Catalog App"
 
 ---
 
