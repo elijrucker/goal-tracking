@@ -58,7 +58,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 9 (Mod3Lab8, Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
+    - [/] Week 9 (Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code))
     - [ ] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
     - [ ] Week 11 (Challenge ...)
   - **Learning Material:**

@@ -12,6 +12,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "What's New in Java 24" course completed (Stream Gatherers, Performance & Security Improvements modules closed out over the day); annotation updated to the next pending item, the code lab "Guided: Searching and Sorting in a Java Book Catalog App"
 - [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 9] Quiz7 completed and dropped from the annotation (Lab7 remaining)
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9, Week 11] Challenge deliverable moved from Week 9 to Week 11 — Project3 deliverables in Week 9 and Week 10 take priority
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] Mod3Lab8 completed and dropped from the annotation (Mod3Lab9, Wk9 Checkpoint, Project3(Pseudocode/prep code) remaining)
 
 ### Added
 
