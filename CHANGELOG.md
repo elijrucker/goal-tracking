@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-09] — javaProgramming Pluralsight Java path "What's New in Java 24" first module complete
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "What's New in Java 24" first module completed; annotation updated to the next pending module, Stream Gatherers
+
+---
+
 ## [2026-11-08] — technicalReporting Week 9 pruned
 
 ### Removed
