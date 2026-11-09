@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-09] — javaProgramming Pluralsight course "What's New in Java 24" complete; Week 11 placeholders added across all four Fall 26 courses
+## [2026-11-09] — javaProgramming Pluralsight course "What's New in Java 24" complete; advancedJavaScript Week 9 Quiz7 completed; Week 11 placeholders added across all four Fall 26 courses
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] "What's New in Java 24" course completed (Stream Gatherers, Performance & Security Improvements modules closed out over the day); annotation updated to the next pending item, the code lab "Guided: Searching and Sorting in a Java Book Catalog App"
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 9] Quiz7 completed and dropped from the annotation (Lab7 remaining)
 
 ### Added
 
