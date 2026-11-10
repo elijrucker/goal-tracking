@@ -62,7 +62,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [ ] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
     - [ ] Week 11 (Challenge ...)
   - **Learning Material:**
-    - [/] Pluralsight Java path (2026-11-09: Code Lab, Guided: Searching and Sorting in a Java Book Catalog App)
+    - [/] Pluralsight Java path (2026-11-10: Code Lab, Guided: Searching and Sorting in a Java Book Catalog App)
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**

@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-10] — javaProgramming Pluralsight Java path annotation refreshed
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Started the code lab "Guided: Searching and Sorting in a Java Book Catalog App"; annotation date refreshed — outstanding javaProgramming and advancedJavaScript deliverables take priority before going further in depth
+
+---
+
 ## [2026-11-09] — javaProgramming Pluralsight course "What's New in Java 24" complete; advancedJavaScript Week 9 Quiz7 completed; Week 11 placeholders added across all four Fall 26 courses
 
 ### Changed
