@@ -5,11 +5,12 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-10] — javaProgramming Pluralsight Java path annotation refreshed
+## [2026-11-10] — javaProgramming Week 9 Wk9 Checkpoint completed; Pluralsight Java path annotation refreshed
 
 ### Changed
 
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Started the code lab "Guided: Searching and Sorting in a Java Book Catalog App"; annotation date refreshed — outstanding javaProgramming and advancedJavaScript deliverables take priority before going further in depth
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] Wk9 Checkpoint completed and dropped from the annotation (Project3(Pseudocode/prep code) remaining)
 
 ---
 
