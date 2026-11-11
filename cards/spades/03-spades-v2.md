@@ -53,9 +53,9 @@ Read The Mythical Man-Month: Essays on Software Engineering by Fred Brooks (20th
   - [x] Ch. 10 — The Documentary Hypothesis
   - [x] Ch. 11 — Plan to Throw One Away
   - [x] Ch. 12 — Sharp Tools
-  - [/] Ch. 13 — The Whole and the Parts (2026-11-05; p.149)
-  - [ ] Ch. 14 — Hatching a Catastrophe
-  - [ ] Ch. 15 — The Other Face
+  - [x] Ch. 13 — The Whole and the Parts
+  - [x] Ch. 14 — Hatching a Catastrophe
+  - [/] Ch. 15 — The Other Face (2026-11-10; p.165)
   - [ ] Ch. 16 — No Silver Bullet — Essence and Accidents of Software Engineering
   - [ ] Ch. 17 — "No Silver Bullet" Refired
   - [ ] Ch. 18 — Propositions of The Mythical Man-Month: True or False?

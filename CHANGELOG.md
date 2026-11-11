@@ -5,12 +5,18 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-10] — javaProgramming Week 9 Wk9 Checkpoint completed; Pluralsight Java path annotation refreshed
+## [2026-11-10] — 03-spades-v2 Ch. 13 and 14 completed, Ch. 15 started; javaProgramming Week 9 Wk9 Checkpoint completed; Pluralsight Java path annotation refreshed
 
 ### Changed
 
+- [03-spades-v2] — [Ch. 15 — The Other Face] marked in progress, annotation added (2026-11-10; p.165)
 - [10-hearts] — [Fall 26 > javaProgramming > Learning Material > Pluralsight Java path] Started the code lab "Guided: Searching and Sorting in a Java Book Catalog App"; annotation date refreshed — outstanding javaProgramming and advancedJavaScript deliverables take priority before going further in depth
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] Wk9 Checkpoint completed and dropped from the annotation (Project3(Pseudocode/prep code) remaining)
+
+### Completed
+
+- [03-spades-v2] — [Ch. 13 — The Whole and the Parts] marked complete
+- [03-spades-v2] — [Ch. 14 — Hatching a Catastrophe] marked complete
 
 ---
 
