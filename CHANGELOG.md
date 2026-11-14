@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-14] — javaProgramming Week 9 Project3 pseudocode completed
+
+### Changed
+
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 9] Project3(Pseudocode/prep code) completed and dropped from the annotation; new requirement added, Lab09 (refactor to use ArrayList)
+
+---
+
 ## [2026-11-10] — 03-spades-v2 Ch. 13 and 14 completed, Ch. 15 started; javaProgramming Week 9 Wk9 Checkpoint completed; Pluralsight Java path annotation refreshed
 
 ### Changed
