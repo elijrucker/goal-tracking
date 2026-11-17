@@ -9,16 +9,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 11] annotation added (Quiz9, Lab9)
-- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 11] annotation added (5.3)
-- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 11] annotation added (Mod4Lab4, Mod4Assignment1, Week11 Checkpoint; Challenge retained)
-- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 11] annotation added (Wk11 Lab)
-- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 10] marked in progress
-- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 10] 5.1 reading completed and dropped from the annotation (5.2 remaining)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] annotation added (Quiz9, Lab9)
+- [10-hearts] — [Fall 26 > technicalReporting > Week 11] annotation added (5.3)
+- [10-hearts] — [Fall 26 > javaProgramming > Week 11] annotation added (Mod4Lab4, Mod4Assignment1, Week11 Checkpoint; Challenge retained)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Week 11] annotation added (Wk11 Lab)
+- [10-hearts] — [Fall 26 > technicalReporting > Week 10] marked in progress
 
 ### Added
 
-- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 12 placeholder added to all four courses
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] Week 12 placeholder added to all four courses
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Week 10] marked complete — 5.1 reading closed out first, 5.2 closed out the last remaining item; annotation removed
 
 ---
 
