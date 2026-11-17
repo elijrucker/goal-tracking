@@ -23,6 +23,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 10] marked complete — 5.1 reading closed out first, 5.2 closed out the last remaining item; annotation removed
 
+### Removed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Week 10] pruned — complete and logged, per the per-course delayed-sweep pruning policy
+
 ---
 
 ## [2026-11-14] — javaProgramming Week 9 Project3 pseudocode completed
