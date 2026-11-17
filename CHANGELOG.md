@@ -5,6 +5,17 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-17] — Week 11 annotations added across all four Fall 26 courses
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Deliverables > Week 11] annotation added (Quiz9, Lab9)
+- [10-hearts] — [Fall 26 > technicalReporting > Deliverables > Week 11] annotation added (5.3)
+- [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 11] annotation added (Mod4Lab4, Mod4Assignment1, Week11 Checkpoint; Challenge retained)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 11] annotation added (Wk11 Lab)
+
+---
+
 ## [2026-11-14] — javaProgramming Week 9 Project3 pseudocode completed
 
 ### Changed
