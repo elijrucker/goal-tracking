@@ -14,6 +14,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Deliverables > Week 11] annotation added (Mod4Lab4, Mod4Assignment1, Week11 Checkpoint; Challenge retained)
 - [10-hearts] — [Fall 26 > phpWebMySQL > Deliverables > Week 11] annotation added (Wk11 Lab)
 
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL > Deliverables] Week 12 placeholder added to all four courses
+
 ---
 
 ## [2026-11-14] — javaProgramming Week 9 Project3 pseudocode completed
