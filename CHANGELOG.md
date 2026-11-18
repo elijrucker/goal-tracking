@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-18] — technicalReporting Week 11 completed
+## [2026-11-18] — technicalReporting Week 11 completed and pruned
 
 ### Completed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 11] marked complete; 5.3 closed out the last remaining item, annotation removed
+
+### Removed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Week 11] pruned — complete and logged, per the per-course delayed-sweep pruning policy
 
 ---
 
