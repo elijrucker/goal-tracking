@@ -50,7 +50,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 9 (Lab7)
     - [ ] Week 10 (Quiz8, Lab8)
     - [ ] Week 11 (Quiz9, Lab9)
-    - [ ] Week 12 (...)
+    - [ ] Week 12 (Project3 (due 2026-11-29))
 
 - [/] **technicalReporting** (08/31-12/18)
   - **Deliverables:**
@@ -72,7 +72,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 9 (Wk09 Lab)
     - [ ] Week 10 (Wk10 Lab)
     - [ ] Week 11 (Wk11 Lab)
-    - [ ] Week 12 (Project3)
+    - [ ] Week 12 (Project3 (due 2026-11-20))
 
 
 ---
