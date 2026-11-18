@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-18] — technicalReporting Week 11 completed
+
+### Completed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Week 11] marked complete; 5.3 closed out the last remaining item, annotation removed
+
+---
+
 ## [2026-11-17] — Week 11 annotations added across all four Fall 26 courses
 
 ### Changed
