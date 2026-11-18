@@ -18,6 +18,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Changed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] annotation added (5.4, 5.5)
+- [10-hearts] — [Fall 26 > phpWebMySQL > Week 12] annotation added (Project3)
 
 ---
 

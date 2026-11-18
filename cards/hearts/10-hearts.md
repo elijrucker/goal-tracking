@@ -72,7 +72,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
     - [/] Week 9 (Wk09 Lab)
     - [ ] Week 10 (Wk10 Lab)
     - [ ] Week 11 (Wk11 Lab)
-    - [ ] Week 12 (...)
+    - [ ] Week 12 (Project3)
 
 
 ---
