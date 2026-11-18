@@ -20,6 +20,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] annotation added (5.4, 5.5)
 - [10-hearts] — [Fall 26 > phpWebMySQL > Week 12] annotation added (Project3 (due 2026-11-20))
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 12] annotation added (Project3 (due 2026-11-29)) — resolves a scheduling discrepancy between the course email (Quiz9/Lab9 due this week) and Brightspace (Quiz9/Lab9 listed under Week 11); Week 11's annotation kept as-is per Brightspace, deliverables split across Week 11/12 for consistent personal pacing
+- [10-hearts] — [Fall 26 > javaProgramming > Week 12] annotation added (Mod4Lab5, Mod4Lab6, Mod4Lab7, Mod4Assignment2, Week12 Checkpoint)
 
 ---
 
