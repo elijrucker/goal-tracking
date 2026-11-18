@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-18] — technicalReporting Week 11 completed and pruned; javaProgramming Week 9 completed; Week 12 annotated across courses; advancedJavaScript Week 11/12 scheduling discrepancy resolved
+## [2026-11-18] — technicalReporting Week 11 completed and pruned; javaProgramming Week 9 completed and pruned; Week 12 annotated across courses; advancedJavaScript Week 11/12 scheduling discrepancy resolved
 
 ### Completed
 
@@ -15,6 +15,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 11] pruned — complete and logged, per the per-course delayed-sweep pruning policy
+- [10-hearts] — [Fall 26 > javaProgramming > Week 9] pruned — complete and logged, per the per-course delayed-sweep pruning policy
 
 ### Changed
 
