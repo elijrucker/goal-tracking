@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-19] — advancedJavaScript Week 9 completed and pruned
+## [2026-11-19] — advancedJavaScript Week 9 completed and pruned; phpWebMySQL grading structure clarified
 
 ### Completed
 
@@ -14,6 +14,11 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 9] pruned — complete and logged, per the per-course delayed-sweep pruning policy
+- [10-hearts] — [Fall 26 > phpWebMySQL > Week 6, Week 7, Week 9] rows removed — labs already completed during a prior attempt of the course; practice-only, no review needed to submit Project3 (Weeks 10-11 review retained ahead of Project3)
+
+### Added
+
+- [10-hearts] — [Progress Notes] added (2026-11-19; phpWebMySQL Week 6-11 labs are practice-only/ungraded, Project3 in Week 12 is the only outstanding graded deliverable)
 
 ---
 

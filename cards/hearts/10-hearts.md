@@ -65,9 +65,6 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **phpWebMySQL** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 6 (Wk06 Lab)
-    - [/] Week 7 (Wk07 Lab)
-    - [/] Week 9 (Wk09 Lab)
     - [ ] Week 10 (Wk10 Lab)
     - [ ] Week 11 (Wk11 Lab)
     - [ ] Week 12 (Project3 (due 2026-11-20))
@@ -101,6 +98,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 ## Progress Notes
 
+- [2026-11-19] [phpWebMySQL] Clarified grading structure: the labs referenced in Week 6-11 annotations are practice-only, not graded or otherwise for credit. Project3, referenced in Week 12, is the only deliverable currently outstanding against a grade for the course.
 - [2026-10-28] [javaProgramming > Pluralsight Java path > Maven Fundamentals] Milestone: remote dev environment working end to end for the `hello` quickstart project (maven-fundamentals/hello). VS Code Remote-SSH → Docker Engine on the server → dev container (Ubuntu base, JDK 25 and Maven via dev container features, GitHub CLI), with a named volume (m2-cache) for the Maven cache; Maven Wrapper committed, `./mvnw test` passes. Fixes along the way: replaced the archetype's JUnit 3.8.1 with JUnit 5 (junit-jupiter 5.11.3), set `maven.compiler.release`, rewrote AppTest for JUnit 5. Private GitHub repo created and pushed; SETUP.md documents the full procedure. See REFLECTIONS.md (2026-10-28) for the reusable-workflow takeaway.
 - [2026-10-26] Pluralsight Java path confirmed as the primary self-study track until the first portfolio project is live; its projects are expected to be lightly refactored into portfolio projects. Mostly done during work downtime. Retention habit: 5-minute recap from memory after each module, revisit a week later.
 - [2026-10-23] [Fall 26] Delayed-sweep pruning policy (2026-09-10) superseded: the four courses have diverged enough in pacing that waiting for all four to close the same week before pruning any of them no longer serves its original purpose (keeping the Deliverables rows visually aligned). New protocol: a course's Week N row is pruned as soon as it is marked complete, logged in CHANGELOG.md, and committed — per-course, independent of the other three courses' pacing. This is the standing policy going forward, not a one-off override like 2026-10-20's.
