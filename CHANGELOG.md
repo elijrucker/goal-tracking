@@ -11,6 +11,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] marked in progress; 5.4 completed and dropped from the annotation (5.5 remaining)
 - [10-hearts] — [Fall 26 > phpWebMySQL > Week 12] Wk12 Lab deliverable confirmed and added to the annotation (Wk12 Lab, Project3)
+- [10-hearts] — [Fall 26 > technicalReporting > Week 13] annotation updated (5.6)
 
 ### Completed
 
