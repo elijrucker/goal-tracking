@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-22] — technicalReporting Week 12 5.4 completed
+
+### Changed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Week 12] marked in progress; 5.4 completed and dropped from the annotation (5.5 remaining)
+
+---
+
 ## [2026-11-19] — advancedJavaScript Week 9 completed and pruned; phpWebMySQL grading structure clarified; Project3 started
 
 ### Changed
