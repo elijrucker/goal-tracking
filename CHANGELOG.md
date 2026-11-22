@@ -16,6 +16,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] marked complete; 5.5 completed, closing out the week, annotation removed
 
+### Removed
+
+- [10-hearts] — [Fall 26 > technicalReporting > Week 12] pruned — complete and logged, per the per-course delayed-sweep pruning policy
+
 ### Added
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] Week 13 placeholder added to all four courses
