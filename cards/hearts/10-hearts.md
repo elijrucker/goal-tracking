@@ -58,9 +58,9 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 - [/] **javaProgramming** (08/31–12/18)
   - **Deliverables:**
-    - [/] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint, Project3(Due 11/9))
-    - [ ] Week 11 (Challenge, Mod4Lab4, Mod4Assignment1, Week11 Checkpoint)
-    - [ ] Week 12 (Mod4Lab5, Mod4Lab6, Mod4Lab7, Mod4Assignment2, Week12 Checkpoint)
+    - [/] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint)
+    - [/] Week 11 (Challenge, Mod4Lab4, Mod4Assignment1, Week11 Checkpoint, Project3)
+    - [/] Week 12 (Mod4Lab5, Mod4Lab6, Mod4Lab7, Mod4Assignment2, Week12 Checkpoint)
     - [ ] Week 13 (...)
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-11-10: Code Lab, Guided: Searching and Sorting in a Java Book Catalog App)
