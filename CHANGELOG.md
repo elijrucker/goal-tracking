@@ -12,8 +12,7 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] marked in progress; 5.4 completed and dropped from the annotation (5.5 remaining)
 - [10-hearts] — [Fall 26 > phpWebMySQL > Week 12] Wk12 Lab deliverable confirmed and added to the annotation (Wk12 Lab, Project3)
 - [10-hearts] — [Fall 26 > technicalReporting > Week 13] annotation updated (5.6)
-- [10-hearts] — [Fall 26 > javaProgramming > Week 10] marked in progress
-- [10-hearts] — [Fall 26 > javaProgramming > Week 10] annotation updated — Project3 deliverable moved to Week 11 per confirmed course calendar (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint)
+- [10-hearts] — [Fall 26 > javaProgramming > Week 10] marked in progress; annotation updated — Project3 moved to Week 11 per confirmed course calendar (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint)
 - [10-hearts] — [Fall 26 > javaProgramming > Week 11] marked in progress; annotation updated to add Project3 (Challenge, Mod4Lab4, Mod4Assignment1, Week11 Checkpoint, Project3)
 - [10-hearts] — [Fall 26 > javaProgramming > Week 12] marked in progress
 
