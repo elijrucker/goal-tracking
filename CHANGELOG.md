@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-24] — javaProgramming Weeks 10-13 due dates added
+
+### Added
+
+- [10-hearts] — [Fall 26 > javaProgramming > Week 10, Week 11, Week 12, Week 13] due dates added to the annotations (2026-11-27, 2026-11-30, 2026-12-03, 2026-12-08) per instructor request
+
+---
+
 ## [2026-11-23] — javaProgramming Week 11 Project3 progress
 
 ### Notes
