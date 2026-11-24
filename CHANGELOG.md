@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-23] — javaProgramming Week 11 Project3 progress
+
+### Notes
+
+- [10-hearts] — [Fall 26 > javaProgramming > Week 11] Coded the Client, ClientList, ClientListTestDrive, and InputHelper classes for Project3; implemented instructor feedback; no status or annotation change
+
+---
+
 ## [2026-11-22] — technicalReporting Week 12 completed; phpWebMySQL Week 12 Wk12 Lab deliverable confirmed
 
 ### Changed
