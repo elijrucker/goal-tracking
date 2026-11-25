@@ -11,6 +11,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] course header date ranges converted from MM/DD to ISO format for consistency with the rest of the file (2026-08-31–2026-12-18)
 
+### Notes
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] Read the articles "Promises" and "Project 3 Overview"; viewed the first of two "JS Object Oriented Programming" videos; no status or annotation change
+
 ---
 
 ## [2026-11-24] — javaProgramming Project3 completed; Weeks 10-13 due dates added
