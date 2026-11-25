@@ -18,6 +18,10 @@ Format: [YYYY-MM-DD] — Description of change
 
 - [10-hearts] — [Fall 26 > javaProgramming > Week 11] Project3 completed and dropped from the annotation
 
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] marked in progress
+
 ---
 
 ## [2026-11-23] — javaProgramming Week 11 Project3 progress
