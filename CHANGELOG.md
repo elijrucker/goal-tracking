@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-25] — Fall 26 course header dates standardized to ISO format
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] course header date ranges converted from MM/DD to ISO format for consistency with the rest of the file (2026-08-31–2026-12-18)
+
+---
+
 ## [2026-11-24] — javaProgramming Project3 completed; Weeks 10-13 due dates added
 
 ### Added

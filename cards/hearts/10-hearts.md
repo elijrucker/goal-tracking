@@ -45,18 +45,18 @@ Complete the Associate's degree currently in progress. Expected completion withi
 
 **Fall 26**
 
-- [/] **advancedJavaScript** (08/31-12/18)
+- [/] **advancedJavaScript** (2026-08-31–2026-12-18)
   - **Deliverables:**
     - [/] Week 10 (Quiz8, Lab8)
     - [ ] Week 11 (Quiz9, Lab9)
     - [ ] Week 12 (Quiz10, Lab10, Project3 (due 2026-11-29))
     - [ ] Week 13 (Lab11)
 
-- [/] **technicalReporting** (08/31-12/18)
+- [/] **technicalReporting** (2026-08-31–2026-12-18)
   - **Deliverables:**
     - [ ] Week 13 (5.6)
 
-- [/] **javaProgramming** (08/31–12/18)
+- [/] **javaProgramming** (2026-08-31–2026-12-18)
   - **Deliverables:**
     - [/] Week 10 (Mod4Lab1, Mod4Lab2, Mod4Lab3, Wk10 Checkpoint)(due 2026-11-27)
     - [/] Week 11 (Challenge, Mod4Lab4, Mod4Assignment1, Week11 Checkpoint)(due 2026-11-30)
@@ -65,7 +65,7 @@ Complete the Associate's degree currently in progress. Expected completion withi
   - **Learning Material:**
     - [/] Pluralsight Java path (2026-11-10: Code Lab, Guided: Searching and Sorting in a Java Book Catalog App)
 
-- [/] **phpWebMySQL** (08/31–12/18)
+- [/] **phpWebMySQL** (2026-08-31–2026-12-18)
   - **Deliverables:**
     - [ ] Week 10 (Wk10 Lab)
     - [ ] Week 11 (Wk11 Lab)
