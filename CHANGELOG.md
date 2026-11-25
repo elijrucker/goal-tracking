@@ -20,7 +20,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Changed
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] marked in progress
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] marked in progress (read the article "Object Oriented Programming in JS")
 
 ---
 
