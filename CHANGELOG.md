@@ -18,8 +18,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [10-hearts] — [Fall 26 > javaProgramming > Week 10, Week 11, Week 12, Week 13] due dates added to the annotations (2026-11-27, 2026-11-30, 2026-12-03, 2026-12-08) per instructor request
-- [10-hearts] — [Fall 26 > javaProgramming > Week 12] Challenge and Project3 Live Code Review added to the annotation
-- [10-hearts] — [Fall 26 > advancedJavaScript > Week 12] Quiz10 and Lab10 added to the annotation
+- [10-hearts] — [Fall 26 > javaProgramming, advancedJavaScript > Week 12] additional deliverables added to the annotations (Challenge, Project3 Live Code Review; Quiz10, Lab10)
 - [10-hearts] — [Fall 26 > advancedJavaScript, javaProgramming, phpWebMySQL > Week 13] known deliverables added to the annotations (Lab11; Mod5Lab1, Mod5Lab2, Mod5Assignment2 Week13 Checkpoint, Project4; Wk13 Lab)
 
 ### Completed
