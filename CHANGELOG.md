@@ -5,7 +5,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-27] — advancedJavaScript Week 10 Quiz8 completed
+## [2026-11-27] — advancedJavaScript Week 10 Quiz8 and Week 11 Quiz9 completed
 
 ### Notes
 
@@ -14,6 +14,7 @@ Format: [YYYY-MM-DD] — Description of change
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] Quiz8 completed and dropped from the annotation (Lab8 remaining)
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Quiz9 completed and dropped from the annotation (Lab9 remaining)
 
 ---
 
