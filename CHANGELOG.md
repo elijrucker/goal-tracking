@@ -5,11 +5,15 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
-## [2026-11-27] — advancedJavaScript Week 11 reading progress
+## [2026-11-27] — advancedJavaScript Week 10 Quiz8 completed
 
 ### Notes
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Read the articles "Using Postman within VS Code" and "JS Async & Await" and reviewed the Project3 specifications, completing the read section for the week; no status or annotation change
+
+### Completed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] Quiz8 completed and dropped from the annotation (Lab8 remaining)
 
 ---
 
