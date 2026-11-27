@@ -48,8 +48,8 @@ Complete the Associate's degree currently in progress. Expected completion withi
 - [/] **advancedJavaScript** (2026-08-31–2026-12-18)
   - **Deliverables:**
     - [/] Week 10 (Lab8)
-    - [/] Week 11 (Lab9)
-    - [ ] Week 12 (Quiz10, Lab10, Project3 (due 2026-11-29))
+    - [/] Week 11 (Lab9, Project3 (due 2026-11-29))
+    - [ ] Week 12 (Quiz10, Lab10)
     - [ ] Week 13 (Lab11)
 
 - [/] **technicalReporting** (2026-08-31–2026-12-18)

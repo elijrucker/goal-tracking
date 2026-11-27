@@ -16,6 +16,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] Quiz8 completed and dropped from the annotation (Lab8 remaining)
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Quiz9 completed and dropped from the annotation (Lab9 remaining)
 
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11, Week 12] Project3 moved from Week 12 to Week 11 — correctly belongs to Week 11 per the course calendar (Week 11: Lab9, Project3 (due 2026-11-29); Week 12: Quiz10, Lab10)
+
 ---
 
 ## [2026-11-26] — advancedJavaScript Week 11 marked in progress
