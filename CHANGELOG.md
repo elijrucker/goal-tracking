@@ -9,7 +9,7 @@ Format: [YYYY-MM-DD] — Description of change
 
 ### Notes
 
-- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Read the article "Using Postman within VS Code"; no status or annotation change
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Read the articles "Using Postman within VS Code" and "JS Async & Await" and reviewed the Project3 specifications, completing the read section for the week; no status or annotation change
 
 ---
 
