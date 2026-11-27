@@ -5,6 +5,14 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-27] — advancedJavaScript Week 11 reading progress
+
+### Notes
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Read the article "Using Postman within VS Code"; no status or annotation change
+
+---
+
 ## [2026-11-26] — advancedJavaScript Week 11 marked in progress
 
 ### Notes
