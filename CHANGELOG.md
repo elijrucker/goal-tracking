@@ -5,6 +5,19 @@ Format: [YYYY-MM-DD] — Description of change
 
 ---
 
+## [2026-11-26] — advancedJavaScript Week 11 marked in progress
+
+### Notes
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 10] Viewed the video "Intro to JS Promises"; no status or annotation change
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] Read the article "JS Fetch"; no annotation change
+
+### Changed
+
+- [10-hearts] — [Fall 26 > advancedJavaScript > Week 11] marked in progress
+
+---
+
 ## [2026-11-25] — Fall 26 course header dates standardized to ISO format
 
 ### Changed
