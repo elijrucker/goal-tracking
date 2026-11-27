@@ -65,6 +65,8 @@ Every card has these sections in order: **Card Details → Status → Goal Descr
 
 **[2026-09-15] Same-type subsections merge, don't repeat** — If a subsection type (e.g. `Changed`) recurs more than once during a session, merge all of that type's bullets into a single subsection rather than repeating the `###` header at each occurrence. Place the merged subsection at the position of its first occurrence. Older entries in this file predate this decision and still show repeated same-type headers in strict chronological order — that pattern is no longer followed going forward.
 
+**[2026-11-27] Individual deliverable completions logged under `### Completed`** — When an individual deliverable within a week's annotation (e.g. a quiz or lab) is completed and dropped from the annotation, log it under `### Completed`, not `### Changed` — even though the week subtask itself remains in progress and only the annotation's content is edited. Reserve `### Changed` for status transitions and annotation updates that aren't themselves a completion (e.g. a week being marked in progress, a due date being added). `### Completed` is for the completion event itself, regardless of whether it closes out the parent subtask.
+
 ## System Principles
 
 Cross-cutting rules of thumb for evaluating scope and structure, distinct from the dated, event-motivated calls in Standing Decisions below.
