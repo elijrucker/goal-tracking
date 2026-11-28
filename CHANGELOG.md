@@ -84,6 +84,10 @@ Format: [YYYY-MM-DD] — Description of change
 - [10-hearts] — [Fall 26 > javaProgramming > Week 11] marked in progress; annotation updated to add Project3 (Challenge, Mod4Lab4, Mod4Assignment1, Week11 Checkpoint, Project3)
 - [10-hearts] — [Fall 26 > javaProgramming > Week 12] marked in progress
 
+### Added
+
+- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] Week 13 placeholder added to all four courses
+
 ### Completed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] marked complete; 5.5 completed, closing out the week, annotation removed
@@ -91,10 +95,6 @@ Format: [YYYY-MM-DD] — Description of change
 ### Removed
 
 - [10-hearts] — [Fall 26 > technicalReporting > Week 12] pruned — complete and logged, per the per-course delayed-sweep pruning policy
-
-### Added
-
-- [10-hearts] — [Fall 26 > advancedJavaScript, technicalReporting, javaProgramming, phpWebMySQL] Week 13 placeholder added to all four courses
 
 ---
 
@@ -116,10 +116,6 @@ Format: [YYYY-MM-DD] — Description of change
 
 ## [2026-11-19] — advancedJavaScript Week 9 completed and pruned; phpWebMySQL grading structure clarified; Project3 started
 
-### Changed
-
-- [10-hearts] — [Fall 26 > phpWebMySQL > Week 12] marked in progress; Project3 started
-
 ### Completed
 
 - [10-hearts] — [Fall 26 > advancedJavaScript > Week 9] marked complete; Lab07 submitted, closing out the last remaining item, annotation removed
@@ -132,6 +128,10 @@ Format: [YYYY-MM-DD] — Description of change
 ### Added
 
 - [10-hearts] — [Progress Notes] added (2026-11-19; phpWebMySQL Week 6-11 labs are practice-only/ungraded, Project3 in Week 12 is the only outstanding graded deliverable)
+
+### Changed
+
+- [10-hearts] — [Fall 26 > phpWebMySQL > Week 12] marked in progress; Project3 started
 
 ---
 
